@@ -1,0 +1,88 @@
+---
+layout: default
+---
+
+    {%for post in page.posts limit:5 %}
+
+    <article class="post type-post status-publish format-image has-post-thumbnail sticky hentry category-demo-2 tag-featured post_format-post-format-image">
+        <div class="post-title box">
+            <h1 class="entry-title">
+                <a href="{{post.url}}" title="{{post.title}}">{{post.title}}</a>
+            </h1>
+            <div class="post-meta">
+                <ul>
+                    <li>
+                        <time class="entry-date updated" datetime="{{post.date|date:'%m-%d-%Y' }}">{{post.date | date_to_string }}</time>
+                    </li>
+                    <li class="divider">/</li>
+                    <li>
+                        <a title= {{post.category}} href=""> {{post.category}}</a>
+                    </li>
+                    <li class="divider">/</li>
+                    <li>
+                        <a href="{{post.url}}#disqus_thread"></a>
+                    </li>
+                </ul>
+            </div>
+            <div class="post-format-badge post-format-image">
+                <i class="icon-pin"></i>
+            </div>
+        </div>
+        <div class="entry-image" style="">
+            <a rel="bookmark" title="{{post.title}}"href="{{post.url}}">
+                <img class="attachment-gallery-large wp-post-image" width="870" height="400" data-id="453" alt="post-image" src="{{post.featured_image}}">
+            </a>
+        </div>
+        <div class="entry-container">
+            <div class="entry-content">
+                    {{post.excerpt | truncatewords:200}}
+                <br>
+                <a class="moretag" href="{{post.url}}">Continue reading...</a>
+                <footer class="entry-meta clearfix">
+                    <ul>
+                        {% for tag in post.tags%}
+                        <li>
+                            <a rel="tag" href="{{post.url}}">{{tag}}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                    <div class="share-story-container">    
+                        <h4 class="muted pull-left">Share story</h4>
+                        <ul class="share-story">
+                            <li>
+                                <a class="tips" data-title="Facebook" href="{{site.social.facebook_url}}">
+                                    <i class="icon-facebook-1"></i>
+                                    </a>
+                            </li>
+                             <li>
+                                <a class="tips" data-title="GooglePlus" href="{{site.social.gplus_url}}">
+                                    <i class="icon-gplus-1"></i>
+                                    </a>
+                            </li>
+                            <li>
+                                <a class="tips" data-title="Twitter" href="{{site.social.twitter_url}}">
+                                    <i class="icon-twitter-1"></i>
+                                    </a>
+                            </li>
+                            <li>
+                                <a class="tips" data-title="Pinterest" href="{{site.social.pinterest_url}}">
+                                    <i class="icon-pinterest-1"></i>
+                                    </a>
+                            </li>
+                            <li>
+                                <a class="tips" data-title="Linkedin" href="{{site.social.linkedin_url}}">
+                                    <i class="icon-linkedin-1"></i>
+                                    </a>
+                            </li>
+                            <li>
+                                <a class="tips" title="">
+                                    <i class="icon-mail-1"></i>
+                                    </a>
+                            </li>    
+                        </ul>   
+                    </div>
+                </footer>
+            </div>
+        </div>    
+    </article>
+    {%endfor%}

@@ -1,0 +1,256 @@
+---
+layout: post
+title: 'Python 100 Program Challenge: The ''Real'' Name Generator'
+date: 2015-02-08 19:25:23.000000000 -05:00
+type: post
+published: true
+status: publish
+categories:
+- Computer Science
+- Python 100 Program Challenge
+tags:
+- "/r/programming"
+- 4chan
+- 4chan challenge
+- 4chan program
+- coding
+- creating a simple name generator
+- Programming
+- reddit
+meta:
+  _wpcom_is_markdown: '1'
+  _edit_last: '9'
+  _format_quote_source_name: ''
+  _format_quote_source_url: ''
+  _format_link_url: ''
+  _format_audio_embed: ''
+  _format_video_embed: ''
+  bluth_post_layout: right_side
+  bluth_post_right_sidebar: sidebar_right
+  bluth_post_left_sidebar: sidebar_left
+  bluth_facebook_status: ''
+  bluth_twitter_status: ''
+  bluth_google_status: ''
+  tumblr_post_id: '110462713214'
+  _publicize_twitter_user: "@liquid_think"
+  _wpas_done_all: '1'
+  _thumbnail_id: '1085'
+  _syntaxhighlighter_encoded: '1'
+  wpb_post_views_count: '119'
+  _wpas_skip_8831582: '1'
+  _wpas_skip_8831586: '1'
+  dsq_thread_id: '3497353583'
+author:
+  login: insidious
+  email: insidious@liquidthink.net
+  display_name: insidious
+  first_name: Andrew
+  last_name: Plaza
+---
+<p>Hello Coders!</p>
+<p>As kindly pointed out by /u/AngularBeginner on reddit, the first Python 100 Program challenge did not really "Generate Names". Therefore, in order to satisfy the whims of AngularBeginner (and have full satisfaction of completing the challenge, hopefully), I wrote another program which generated names. Or so I think (Will update with what /u/AngularBeginner thinks).</p>
+<p>Sorry about the delay, January was a busy time with school I'm going to try and update this challenge weekly/bi-weekly from now on.</p>
+<h3><strong>Part 1: The Concept:</strong></h3>
+<p>If you saw the first <a title="Python 100 Program Challenge (Program 1): Building a Simple Name Generator" href="http://liquidthink.net/python-100-program-challenge-program-1-building-simple-name-generator/">Name Generator </a>then you probably already know the basic concept behind this project. This time, however, we won't simply be choosing a name from a lits of already known names. Rather, we will be creating a new name based on other names, therfore 'generating' a totally unique name. AngularBeginners problem was that the first program didn't actually generate a name, which was absolutely true.</p>
+<p>This program will simply ask the user how many names they would like to generate, and then generate that many names based from U.S Census Data (130,000 names). These names from the census data is syllabalized, and these syllables put together, at random, in order to generate a totally new name.</p>
+<p>So, for example, take 4 names.</p>
+<p>Andrew</p>
+<p>Bogdan</p>
+<p>Conrad</p>
+<p>Zielinski</p>
+<p>Syllabalize Them:</p>
+<p>An-drew</p>
+<p>Bog-dan</p>
+<p>Con-rad</p>
+<p>Zie-lin-ski</p>
+<p>The first syllables (An, Bog, Con, Zie) will always be placed at the beginning of a word, whilst ending syllabled (ew, dan,rad,ski) will always be placed at the end. middle syllables can be placed wherever.</p>
+<p>So a possible random name can be:</p>
+<p>Boglinski</p>
+<p>So basically, the program will:</p>
+<ul>
+<li>Take U.S Census data and syllablize it</li>
+<li>Begin Constructing a Name
+<ul>
+<li>Choose a Random Start Syllable</li>
+<li>Choose random middle syllables</li>
+<li>choose a random end syllable</li>
+</ul>
+</li>
+<li>return all the syllables concatenated together</li>
+</ul>
+<h3><strong>Part 2 The Pseudocode:</strong></h3>
+<p>Things we will need for this program:<br />
+csv library</p>
+<p>random library</p>
+<p>pyHyphen</p>
+<p>Define "SyllabalizeNames" Function that receives a "nameList":</p>
+<p style="padding-left: 30px;">iterate over nameList</p>
+<p style="padding-left: 30px;">syllablize each name with Pyhyphen</p>
+<p style="padding-left: 30px;">put names in a temp list</p>
+<p style="padding-left: 30px;">return tempList.</p>
+<p>Define "ParseNames" Function that receives a "nameFile"</p>
+<p style="padding-left: 30px;">Open CSV file containing names</p>
+<p style="padding-left: 30px;">iterate over each CSV row, appending the contents to a "name" list</p>
+<p style="padding-left: 30px;">Close the CSV file!!!</p>
+<p style="padding-left: 30px;">return name list, passing it through "syllabalizeNames", so that it returns a syllabalized version of the list</p>
+<p style="padding-left: 30px;">Define a "Sample" function that will choose a random index from a list of names:</p>
+<p style="padding-left: 30px;">choose a random index from 0 to the index of the last item in the list using the "random" python library</p>
+<p>Define a "ChooseItem" that accepts a list and "place" integer</p>
+<p style="padding-left: 30px;">ChooseItem will choose a random syllable from the list using our sample method, depending on what place we need</p>
+<p style="padding-left: 30px;">If the place is one, then return the first syllable from the random item chosen in the passed list</p>
+<p style="padding-left: 30px;">if the place is three, get a random item and check if it has exactly 3 items in it</p>
+<p style="padding-left: 60px;">If it does, return the third item</p>
+<p>Define a "GenName" Function, that accepts a list</p>
+<p style="padding-left: 30px;">The first part of the name will use the results of passing the namelist through "ChooseItem" with "1" as the place</p>
+<p style="padding-left: 30px;">SecondPart= ChooseName(list, 3)</p>
+<p style="padding-left: 30px;">return firstpart + secondpart</p>
+<p>Define a "PromptUser" Function</p>
+<p style="padding-left: 30px;">prompt a user on how many names they would like to generate</p>
+<p style="padding-left: 30px;">If they don't enter a number</p>
+<p style="padding-left: 60px;">Prompt them to enter a number</p>
+<p style="padding-left: 30px;">Create a counter @ 0</p>
+<p style="padding-left: 30px;">while the counter &lt; NumberOfNames the user would like to generate</p>
+<p style="padding-left: 60px;">print another name</p>
+<p style="padding-left: 60px;">add one to the counter</p>
+<p>names = parseNames(the name file)</p>
+<p>print a welcome message</p>
+<p>promptUser()</p>
+<p>print Here Are Your Names:</p>
+<p>&nbsp;</p>
+<p>Done~~!</p>
+<h3><strong> Part 3: The Code</strong></h3>
+<p>&nbsp;</p>
+<p>First we have to install pyHyphen so we can split names up into syllables. The instructions are in teh comments of the code, but i'll add on to it here.</p>
+<p>Numerous guides already exist on installing pip on the internets, so I recommend just googling it.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>[py]</p>
+<p>#REQUIRES a Name Database. In this case, nameDB.csv :)<br />
+#REQUIRES pyhyphen<br />
+#To Install pyhyphen:<br />
+#first install &quot;pip&quot; the python package manager<br />
+#then &quot;sudo pip install pyhyphen&quot;<br />
+#and you are good to go<br />
+#Written in Python 3<br />
+[/py]</p>
+<p>&nbsp;</p>
+<p>Import the required packages</p>
+<p>[py]<br />
+import csv<br />
+import random<br />
+from hyphen import Hyphenator&lt;/strong&gt;</p>
+<p>from hyphen.dictools import *&lt;/strong&gt;</p>
+<p>[/py]</p>
+<p>&nbsp;</p>
+<p>Time for the first function!<br />
+pyHyphen does most of the work here for us. All we have to do is call on it to put the syllabalized names in a list. The function accepts "nameList"<strong>, </strong>which is the list that will be "syllabalized". Then in the function we create the list that will hold the syllabalizd names. But we have to check if pyHyphen has the language we want, and if it doesn't install it.  The variable "en_US" points to the US English language in pyHyphen.</p>
+<p>After we get pyHyphen all sorted out, all that's left to do is iterate over all the items in the namelist, and append a syllabalized version of what is in "nameList" to our temporary list, "tempList", which is then returned.<strong><br />
+</strong></p>
+<p>[py]<br />
+#Split all the names in the list into syllables using pyhyphen<br />
+def syllabizeNames(nameList):<br />
+ tempList = []<br />
+ for lang in ['en_US']:<br />
+   if not is_installed(lang): install(lang)<br />
+ en_US = Hyphenator('en_US')<br />
+ for item in nameList:<br />
+   tempList.append(en_US.syllables(item))<br />
+ return tempList<br />
+[/py]</p>
+<p>&nbsp;</p>
+<p>The next method parses the "CSV" file containing all our names and puts them into another tempList which is returned.<br />
+In order to parse the CSV file, set the file to a variable, and then start a series of "try" "finally" blocks, in case the file reader chances across an empty row. Again, we append every row to a list in python.</p>
+<p>We have to remember to close the file. If you don't, it will cause all kinds of crazy things to occur with your program, and now one wants that ;).</p>
+<p>Then the function returns the names from the CSV, but passing it through "SyllabalizeNames" first.</p>
+<p>[py]<br />
+#Parse the names from the csv file and put them into a list<br />
+def parseNames(nameFile):<br />
+   tempList = []<br />
+   csv_f = open(nameFile)<br />
+   try:<br />
+     reader = csv.reader(csv_f)<br />
+     for row in reader:<br />
+        tempList.append(row[0])<br />
+   finally:<br />
+     csv_f.close()<br />
+   return syllabizeNames(tempList)<br />
+[/py]</p>
+<p>&nbsp;</p>
+<p>Now comes the sample method. This is easy, just use the Python "random" library to select a random integer from the range of 0 to the length of our list.</p>
+<p>&nbsp;</p>
+<p>[py]<br />
+#sample a random index from given list of items<br />
+def sample(items):<br />
+  randomIndex = random.randrange(len(items))<br />
+  return items[randomIndex]<br />
+[/py]</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The chooseItem function. This is again surrounded in try-except . Sometimes the program will come across an empty object in the list. Since I'm too lazy to filter these out in the CSV file, or write a function for it (it's very rare), this will just put a placeholder in the place of that name and continue on with the program.</p>
+<p>&nbsp;</p>
+<p>[py]<br />
+#Choose an item and return it. If the method chances upon an empty item,<br />
+#It skips over it and continues&lt;/strong&gt;</p>
+<p>def chooseItem(list, place):<br />
+ #just a local variable<br />
+   thirdIndex = sample(list)<br />
+   try:<br />
+     if place == 1:<br />
+       return sample(list)[0]<br />
+     elif place == 3:<br />
+       while len(thirdIndex) != 3:<br />
+         thirdIndex = sample(list)<br />
+       return thirdIndex[2]<br />
+   except IndexError:<br />
+     print(&quot;Whoops! Looks like we came across an empty name object. :(&quot;)<br />
+[/py]</p>
+<p>&nbsp;</p>
+<p>Another easy function. Using output from "chooseItem" we craft the first and second parts of the name. If the ChooseItem function, however, came across an empty name we get a "TypeError" (since python can't concatenate something empty with a string, or vice-versa). So we surround it in try-except, and the program will print "null" if this occurs. This will always occur when "chooseItem" comes across an empty item.<strong><br />
+</strong></p>
+<p>&nbsp;</p>
+<p>[py]<br />
+&lt;/strong&gt;</p>
+<p>&lt;strong&gt;#generate a name using &quot;Choose Item&quot;. Try to concatenate them, if not,<br />
+#it will spit out null<br />
+def genName(list):<br />
+   firstPart = chooseItem(list, 1)<br />
+   secondPart = chooseItem(list, 3)<br />
+   try:<br />
+    return firstPart + secondPart<br />
+   except TypeError:<br />
+     print(&quot;null&quot;)<br />
+[/py]</p>
+<p>&nbsp;</p>
+<p>This function asks a user for input using Pythons "input()". Keep in mind that this is Python 3 specific. Using "input()" in anything but Python 3 may yield unwieldy results. If using Python 2, raw_input() is what you want.</p>
+<p>We use try-except blocks again, to make sure the user is entering a number. If the user does not, the program prompts them to enter a number and runs the function again.</p>
+<p>&nbsp;</p>
+<p>[py]<br />
+#Prompt the user for input.<br />
+ #if they dont enter a number tell em'<br />
+def promptUser():<br />
+   numOfNames = input(&quot;How Many Names Would You Like to Generate?&quot;)<br />
+   count = 0<br />
+   try:<br />
+     numOfNames = int(numOfNames)<br />
+     while count &lt; numOfNames:<br />
+       print(genName(names))<br />
+     count += 1<br />
+   except ValueError:<br />
+     print(&quot;Please Enter a Number&quot;)<br />
+     promptUser()<br />
+[/py]</p>
+<p>Then we put it all together! "names" holds our parsed and syllabalized list.Then we print a welcome message, prompt the user, and the names are printed! Done!</p>
+<p>[py]<br />
+#parse the names, syllabalizing them<br />
+names = parseNames('nameDB.csv')&lt;/strong&gt;&lt;/h3&gt;<br />
+#Viola!<br />
+print(&quot;Welcome to the Random Name Generator by Liquid Think!&quot;)<br />
+promptUser()<br />
+print(&quot;Here are Your Name(s)!:&quot;)</p>
+<p>[/py]</p>
+<p>Part 4: Conclusion</p>
+<p>That was a nice re-do! Here is the <a href="https://github.com/InsidiousMind/100-Program-Challenge-Python-/tree/master/Name%20Generator">link to the Github Repo where this program is held.  </a>This program is "nameGen2.py" and the database is "nameDB.csv".</p>
+<p>That's it for this challenge. Onto a "Heads or Tails" program!</p>
+<p>Happy Coding!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

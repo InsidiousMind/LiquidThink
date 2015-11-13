@@ -1,0 +1,28 @@
+- title: "Hacking"
+  href: "/hacking/hacking.html"
+  subcategories:
+    - subtitle: "Decentralization"
+      subhref: "/category/decentralization/index.html"
+    - subtitle: "Darknet"
+      subhref: "/category/darknet/index.html"
+#    - subtitle: "Learning topic 3"
+#      subhref: "/learn3/"
+
+- title: "Computer Science"
+  href: "/category/computer-science/index.html"
+
+- title: "Society"
+  href: "/category/society/index.html"
+
+- title: "High Existence"
+  href: "/category/high-existence/index.html"
+  subcategories:  
+    - subtitle: "Mindfulness"
+      subhref: "/category/mindfulness/index.html"
+
+- title: "Reviews"
+  href: "/category/reviews/index.html"
+
+- title: "Miscellaneous"
+  href: "/category/miscellaneous/index.html"
+
