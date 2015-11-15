@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+<div id="main_columns" class="columns">
 
-    {%for post in page.posts limit:5 %}
+    {%for post in page.posts %}
 
     <article class="post type-post status-publish format-image has-post-thumbnail sticky hentry category-demo-2 tag-featured post_format-post-format-image">
         <div class="post-title box">
@@ -28,11 +29,13 @@ layout: default
                 <i class="icon-pin"></i>
             </div>
         </div>
+        {% if post.featured_image %}
         <div class="entry-image" style="">
             <a rel="bookmark" title="{{post.title}}"href="{{post.url}}">
                 <img class="attachment-gallery-large wp-post-image" width="870" height="400" data-id="453" alt="post-image" src="{{post.featured_image}}">
             </a>
         </div>
+        {%endif%}
         <div class="entry-container">
             <div class="entry-content">
                     {{post.excerpt | truncatewords:200}}
@@ -40,11 +43,11 @@ layout: default
                 <a class="moretag" href="{{post.url}}">Continue reading...</a>
                 <footer class="entry-meta clearfix">
                     <ul>
-                        {% for tag in post.tags%}
                         <li>
+                            {% for tag in post.tags %}
                             <a rel="tag" href="{{post.url}}">{{tag}}</a>
+                            {% endfor %}
                         </li>
-                        {% endfor %}
                     </ul>
                     <div class="share-story-container">    
                         <h4 class="muted pull-left">Share story</h4>
@@ -86,3 +89,5 @@ layout: default
         </div>    
     </article>
     {%endfor%}
+</div>
+

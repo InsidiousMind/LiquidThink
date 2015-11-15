@@ -114,11 +114,6 @@
         }
 </script>
 
-    <div class="bl_background">
-        <div id="stripe"></div>
-            <!--placeholder background -->
-            <img src="http://blu.fullstackehf.netdna-cdn.com/themes/bliss/wp-content/uploads/sites/3/2014/01/bg1.jpg">
-    </div>
     <div id="page" class="site">
         {% include header.html %} 
         <div id="main" class="container">
@@ -127,27 +122,7 @@
                     <div class="row-fluid">
                         <div id="above-blog" class="widget-area"></div>
                     </div>
-                    <div id="main_columns" class="columns">
                         {{content}}
-                    </div>
-                    <div class="pagination">
-                        {% if paginator.previous_page %}
-                            <a href="{{paginator.previous_page_path}}">
-                                <i class="icon-left-open-1"></i>
-                                Previous Page
-                            </a>
-                            <a class="inactive box" href="{{paginator.previous_page_path}}">{{paginator.previous_page}}</a>
-                        {% endif %}
-                        <span class="current box">{{paginator.page}}</span>
-                        
-                        {% if paginator.next_page %}
-                        <a class="inactive box" href="{{paginator.next_page_path}}">{{paginator.next_page}}</a>
-                        <a href="{{paginator.next_page}}">
-                            Next Page
-                            <i class="icon-right-open-1"></i>
-                        </a>
-                        {% endif %}
-                    </div>
                 </div>
                 {%include sidebar.html %}
             </div>

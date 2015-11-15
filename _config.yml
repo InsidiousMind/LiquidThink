@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://liquid-think.netlify.com/" # the base hostname & protocol for your site
+url: "http://localhost:4000/" # the base hostname & protocol for your site
 cdnurl: "http://liquid-think.netlify.com/"
 permalink: /:title
 author_bio: > # this means to ignore newlines until "owner_name:"
@@ -30,6 +30,7 @@ social:
  
 # Build settings
 markdown: redcarpet
+highlighter: pygments
 paginate: 5
 paginate_path: "/page:num/"
 jekyll-archives:
@@ -51,5 +52,6 @@ gems:
     - jekyll-feed
     - redcarpet
     - sass
-    - jekyll-archives
+    - jekyll-archives      
     - jekyll-paginate
+    - jekyll-gist
