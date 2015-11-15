@@ -43,6 +43,7 @@ body.nomargin .widget-area{
 h1,h2,h3,h4{
   font-family: 'Merriweather',serif;
   font-weight: 400;
+  color:#ffffff;
 }
 a:focus{
   outline: none;
@@ -470,7 +471,7 @@ aside.widget-area {
   margin: 0!important;
 }
 .box{
-  background: none repeat scroll 0 0 #FFFFFF;
+  background: none repeat scroll 0 0 #141a1e;
   -moz-border-radius: 2px 2px 2px 2px;
   -webkit-border-radius: 2px 2px 2px 2px;
   border-radius: 2px 2px 2px 2px;
@@ -839,9 +840,10 @@ select, input[type="text"], input[type="password"], input[type="datetime"], inpu
     margin-right: 10px;
     padding: 5px 13px;
   display:inline-block;
+  color:#ffffff;
 }
 .pagination > a {
-  background: none repeat scroll 0 0 #FFFFFF;
+  background: none repeat scroll 0 0 #141a1e;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
@@ -850,6 +852,7 @@ select, input[type="text"], input[type="password"], input[type="datetime"], inpu
   -moz-transition: all .1s ease-in-out;
   -o-transition: all .1s ease-in-out;
   transition: all .1s ease-in-out;
+  color:#2C672D;
 }
 .pagination > a:hover {
   -webkit-transform: scale(1.1);
@@ -1057,7 +1060,7 @@ footer.entry-meta ul{
   margin:0;
 }
 footer.entry-meta ul a{
-  color: rgba(0,0,0,0.3);
+    color:#ffffff;
 }
 footer.entry-meta .up_arrow:after, footer.entry-meta .up_arrow:before {
   border-color: transparent transparent #FCFCFC ;
@@ -1487,6 +1490,7 @@ footer.entry-meta h4 a{
 }
 .entry-content {
   padding: 35px 50px;
+  background: #141a1e none repeat scroll 0 0;
 }
 .entry-content iframe {
     max-width: 100%;
@@ -1768,6 +1772,7 @@ article.format-standard .entry-content{
   line-height: 50px;
   font-size: 20px;
   height: 50px;
+  color:#ffffff;
 }
 .bl-author-footer{
   display: block;
@@ -2293,6 +2298,7 @@ article.comment .reply a{
 }
 .bl_author .bl_author_bio > h3{
   margin-top: 0;
+  color:#ffffff;
 }
 #footer-body .bl_author .bl_author_bio{
   padding-left: 0;
