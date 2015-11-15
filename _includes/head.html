@@ -9,28 +9,35 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     
-    <!-- Javscript scripts to load in the header-->
-    <script async src="{{site.url}}/assets/js/jquery-1.11.3.js" type="text/javascript"></script>
-    <script async src="{{site.url}}/assets/js/jquery-migrate-1.2.1.js" type="text/javascript"></script>
-    <!-- CSS -->
+   <!-- CSS -->
     <link id="syntax-css" media="all" type="text/css" href="{{site.url}}assets/css/syntax.css" rel="stylesheet">
-    <link id="bluthcodes-style-css" media="all" type="text/css" href="{{site.url}}/assets/plugins/bluthcodes/style.css" rel="stylesheet">
-    <link id="bluth-bootstrap-css" media="all" type="text/css" href="{{site.url}}/assets/css/bootstrap.min.css" rel="stylesheet">
+    <!--<link id="bluth-style-css" media="all" type="text/css" href="{{site.url}}assets/css/style.css" rel="stylesheet" >-->
+    <link id="bluthcodes-style-css" media="all" type="text/css" href="{{site.url}}assets/plugins/bluthcodes/style.css" rel="stylesheet">
+    <link id="bluth-bootstrap-css" media="all" type="text/css" href="{{site.url}}assets/css/bootstrap.min.css" rel="stylesheet">
+    <!--<link id="bluth-style-css" media="all" type="text/css" href="{{site.url}}assets/css/style.css" rel="stylesheet">-->
     <link id="liquid-theme-css" media="all" type="text/css" href="{{site.url}}assets/css/liquid-theme.css" rel="stylesheet">
-    <link id="bluth-responsive-css" media="all" type="text/css" href="{{site.url}}/assets/css/style-responsive.css" rel="stylesheet">
-    <link id="bluth-fontello-css" media="all" type="text/css" href="{{site.url}}/assets/css/fontello.css" rel="stylesheet">
-    <link id="bluth-nivo-css" media="all" type="text/css" href="{{site.url}}/assets/css/nivo-slider.css" rel="stylesheet">
-    <link id="bluth-magnific-css" media="all" type="text/css" href="{{site.url}}/assets/css/magnific-popup.css" rel="stylesheet">
-    <link id="bluth-snippet-css" media="all" type="text/css" href="{{site.url}}/assets/css/jquery.snippet.min.css">
-    <link id="bluth-googlefonts-css" media="all" type="text/css" href="{{site.url}}/assets/css/google-fonts.css" rel="stylesheet">
+    <link id="bluth-responsive-css" media="all" type="text/css" href="{{site.url}}assets/css/style-responsive.css" rel="stylesheet">
+    <link id="bluth-fontello-css" media="all" type="text/css" href="{{site.url}}assets/css/fontello.css" rel="stylesheet">
+    <link id="bluth-nivo-css" media="all" type="text/css" href="{{site.url}}assets/css/nivo-slider.css" rel="stylesheet">
+    <link id="bluth-magnific-css" media="all" type="text/css" href="{{site.url}}assets/css/magnific-popup.css" rel="stylesheet">
+    <link id="bluth-snippet-css" media="all" type="text/css" href="{{site.url}}assets/css/jquery.snippet.min.css">
+    <link id="bluth-googlefonts-css" media="all" type="text/css" href="{{site.url}}assets/css/google-fonts.css" rel="stylesheet">
+   
+    <!-- JAVASCRIPT -->
+    <script src="{{site.url}}assets/js/jquery-1.11.3.js" type="text/javascript"></script>
+    <script src="{{site.url}}assets/js/jquery-migrate-1.2.1.js" type="text/javascript"></script>
+
+
     <!-- inline CSS -->
 
     <style type="text/css">
     h1,h2,h3,h4,h5{font-family:"Merriweather",serif}.widget_calendar table>caption{font-family:"Merriweather",serif}body{font-family:"Lato",Helvetica,sans-serif}.navbar .nav>li>a{font-family:"Lato",Helvetica,sans-serif}.brand-text h1, .mini-text
     h1{font-family:"Merriweather",Helvetica,sans-serif} 
     </style>
+   
     <!-- IMPORTANT CUSTOM THEME COLORS -->
-<style type="text/css">
+
+    <style type="text/css">
 .box,
 .entry-container {
     box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05);
@@ -304,8 +311,6 @@ article.format-status p a:focus span:before,
 }
 
 </style>
-
-
 
 
 
