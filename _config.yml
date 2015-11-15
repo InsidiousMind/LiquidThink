@@ -29,13 +29,10 @@ social:
     - gplus_url:
  
 #Featured Posts
-featured_posts:
-    - /welcome-to-jekyll
-    - /technology-effect-mental-health
-    - /the-ultimate-guide-to-keeping-your-information-from-the-nsa-and-other-prying-eyes
-    - /legal-quandaries-google-glass
-    - /hacking-power-social-engineering
-    - /matrix-theory
+post_title: Welcome To Jekyll!
+post_url: welcome-to-jekyll
+post_img: uploads/2015/11/12/internetisntprivate.jpg
+
 # Build settings
 markdown: redcarpet
 highlighter: pygments

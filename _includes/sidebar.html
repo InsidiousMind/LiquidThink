@@ -1,24 +1,31 @@
 <aside id="side-bar" class="span4 widget-area">
-    <div id="bl_featured_post-2" class="box bl_featured_post">
+    <!--    <div id="bl_featured_post-2" class="box bl_featured_post">
         <h3 class="widget-head">Featured Posts</h3>
-        <div class="swiper container swiper-container-featured">
+        <div class="swiper-container swiper-container-featured">
             <a class="arrow-left" href="#"></a>
             <a class="arrow-right"href="#"></a>
             <div class="swiper-pagination"></div>
-            <div class="swiper-wrapper" style="width: 4440px; transform: translate3d(-740px,0px,0px); transition-duration: 0.3s; height:250px;">
-                {% for post in site.featured_posts %}
+            <div class="swiper-wrapper" style="width: 4440px; transform: translate3d(0px,0px,0px); transition-duration: 0.3s; height:250px;">
+                <div class="swiper-slide swiper-slide-large swiper-slide-visible swiper-slide-active" style="width:370px; height: 250px;" xmlns="http://www.w3.org/1999/xhtml">
+                    <a href="{{site.url}}{{site.post_url}}" style="background-image: url('{{site.url}}{{site.post_img}}'); height:250px;" >
+                        <h3 class="post-title" style="font-size: 27.3333px; margin-top: -66px; opacity:1;">{{site.post_title}}</h3>
+                    </a>
+                </div>
+                {% for post in site.data.featured %}
                     <div class="swiper-slide swiper-slide-large" style="width: 370px; height: 250px;">
-                        <a href="{{site.url}}{{post.featured}}" style="background-image: url("{{site.url}}{{post.featured}}"); height: 250px;">
+                        <a href="{{site.url}}{{post.url}}" style="background-image: url('{{site.url}}{{post.img}}'); height: 250px;">
                             <h3 class="post-title" style="font-size: 27.3333px; margin-top:-66px; opacity: 1;">{{post.title}}</h3>
                         </a> 
                     </div>
                 {%endfor%}
             </div>    
         </div>
-    </div>
+        </div> 
+                FEATURED POST WIDGET TO BE WORKED ON IN THE FUTURE-->
+        
     <!-- put any widgets you may want here -->
     <div id="bl_author-2" class="box bl_author">
-        <h3 class="widget-head">{{site.owner_name}}</h3>
+        <!--<h3 class="widget-head">{{site.owner_name}}</h3> this only if i want it-->
         <img src="{{site.cdnurl}}/uploads/branding/GeometricMountains.gif">
         <div class="widget-body">
             <div class="bl_author_img">
@@ -31,5 +38,21 @@
                 </p>
             </div>
         </div>
+    </div>
+    <div id="bl_newsletter-2" class="box bl_newsletter">
+        <h3 class="widget-head"> Sign up to our newsletter!</h3>
+        <div class="widget-body">
+            <p>Enter your email adress below to subscribe to our newsletter for updates on new articles and content!</p>
+            <div class="input-append">
+                <input class="bl_newsletter_email" type="text" placeholder="Email Address">
+                <button class="btn btn-success bluth green" type="button" data-list="ceda0165aa">Subscribe!</button>
+            </div>
+        </div>
+        <script type="text/javascript">
+            window.locale = {
+            "no_email_provided": 'No email provided!', 
+            "thank_you_for_subscribing": 'Thank you for subscribing!', 
+        };
+        </script>
     </div>
 </aside>
