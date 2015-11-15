@@ -18,7 +18,7 @@ layout: default
                     </li>
                     <li class="divider">/</li>
                     <li>
-                        <a title= {{post.category}} href=""> {{post.category}}</a>
+                        <a title= {{post.category}} href="">{%for category in post.categories%} {{category}} {%endfor%}</a>
                     </li>
                     <li class="divider">/</li>
                     <li>
@@ -30,10 +30,10 @@ layout: default
                 <i class="icon-pin"></i>
             </div>
         </div>
-        {% if post.featured_image %}
-        <div class="entry-image" style="">
+        {% if post.featured %}
+        <div class="entry-image" style="max-height:none;">
             <a rel="bookmark" title="{{post.title}}"href="{{post.url}}">
-                <img class="attachment-gallery-large wp-post-image" width="870" height="400" data-id="453" alt="post-image" src="{{post.featured_image}}">
+                <img class="attachment-large wp-post-image" width="500" height="400"  alt="{{post.title}}" src="{{site.url}}{{post.featured}}">
             </a>
         </div>
         {%endif%}

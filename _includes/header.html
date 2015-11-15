@@ -90,6 +90,26 @@
                       {% endfor %}
                         </ul>
                     </div>
+                    <div class="menu-menu-1-container">
+                        <div id="mobile-menu" class="pull-right visible-tablet visible-phone mobile-menu">
+                            <form style="margin-top: 15px; margin-bottom: 5px;">
+                                <select onchange="if (this.value) window.location.href=this.value" style="max-width:150px;">
+                                    <option>--- Menu ---</option>
+                                    <option value="{{site.url}}">Home</option>
+                                    {% for nav in site.data.nav %}
+                                        {% if nav.subcategories != null %}
+                                            <option value="{{site.url}}{{nav.href}}">{{nav.title}}</option>
+                                             {% for subcategory in nav.subcategories %}
+                                                <option value="{{site.url}}{{subcategory.subhref}}"> - {{subcategory.subtitle}}</option>
+                                             {%endfor%}
+                                        {%else%}
+                                            <option value="{{site.url}}{{nav.href}}">{{nav.title}}</option>
+                                        {%endif%}
+                                    {%endfor%}
+                                </select>
+                            </form>
+                        </div>    
+                    </div>
                 </div>
                 <div class="nav-line" style="left: 0px; width: 169px;"></div>
             </div>

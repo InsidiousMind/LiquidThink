@@ -1,4 +1,21 @@
 <aside id="side-bar" class="span4 widget-area">
+    <div id="bl_featured_post-2" class="box bl_featured_post">
+        <h3 class="widget-head">Featured Posts</h3>
+        <div class="swiper container swiper-container-featured">
+            <a class="arrow-left" href="#"></a>
+            <a class="arrow-right"href="#"></a>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-wrapper" style="width: 4440px; transform: translate3d(-740px,0px,0px); transition-duration: 0.3s; height:250px;">
+                {% for post in site.featured_posts %}
+                    <div class="swiper-slide swiper-slide-large" style="width: 370px; height: 250px;">
+                        <a href="{{site.url}}{{post.featured}}" style="background-image: url("{{site.url}}{{post.featured}}"); height: 250px;">
+                            <h3 class="post-title" style="font-size: 27.3333px; margin-top:-66px; opacity: 1;">{{post.title}}</h3>
+                        </a> 
+                    </div>
+                {%endfor%}
+            </div>    
+        </div>
+    </div>
     <!-- put any widgets you may want here -->
     <div id="bl_author-2" class="box bl_author">
         <h3 class="widget-head">{{site.owner_name}}</h3>

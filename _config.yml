@@ -28,6 +28,14 @@ social:
     - facebook_url: facebook.com/liquidthinknet/
     - gplus_url:
  
+#Featured Posts
+featured_posts:
+    - /welcome-to-jekyll
+    - /technology-effect-mental-health
+    - /the-ultimate-guide-to-keeping-your-information-from-the-nsa-and-other-prying-eyes
+    - /legal-quandaries-google-glass
+    - /hacking-power-social-engineering
+    - /matrix-theory
 # Build settings
 markdown: redcarpet
 highlighter: pygments

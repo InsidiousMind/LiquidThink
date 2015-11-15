@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-11-11 19:50:45 -0500
 author: insidious
-featured_image: /uploads/2015/11/12/internetisntprivate.jpg
+featured: /uploads/2015/11/12/internetisntprivate.jpg
 imagealt: internetisntprivate
 category: jekyll
 categories: jekyll update
