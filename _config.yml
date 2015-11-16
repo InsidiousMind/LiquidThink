@@ -9,10 +9,7 @@
 title: Liquid Think
 tagline: "Weekly Rantings of a Lunatic"
 email: insidious@liquidthink.net
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Weekly Rantings of a Nerdy Lunatic 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://liquid-think.netlify.com/" # the base hostname & protocol for your site
 cdnurl: "http://liquid-think.netlify.com/"
@@ -28,11 +25,6 @@ social:
     - facebook_url: facebook.com/liquidthinknet/
     - gplus_url:
  
-#Featured Posts
-post_title: Welcome To Jekyll!
-post_url: welcome-to-jekyll
-post_img: uploads/2015/11/12/internetisntprivate.jpg
-
 # Build settings
 markdown: redcarpet
 highlighter: pygments

@@ -120,9 +120,8 @@
             <div id="primary" class="row single_column">
                 <div id="content" class="margin span10 offset1" role="main">
                     {{content}}   
+                    {% include disqus_post.html %}
                 </div>
-                <!--    <div id="disqus_thread"></div>-->
-                <!-- put disqus script here --> 
             </div>
         </div>
         {% include footer.html %}

@@ -6,11 +6,6 @@
             <a class="arrow-right"href="#"></a>
             <div class="swiper-pagination"></div>
             <div class="swiper-wrapper" style="width: 4440px; transform: translate3d(0px,0px,0px); transition-duration: 0.3s; height:250px;">
-                <div class="swiper-slide swiper-slide-large swiper-slide-visible swiper-slide-active" style="width:370px; height: 250px;" xmlns="http://www.w3.org/1999/xhtml">
-                    <a href="{{site.url}}{{site.post_url}}" style="background-image: url('{{site.url}}{{site.post_img}}'); height:250px;" >
-                        <h3 class="post-title" style="font-size: 27.3333px; margin-top: -66px; opacity:1;">{{site.post_title}}</h3>
-                    </a>
-                </div>
                 {% for post in site.data.featured %}
                     <div class="swiper-slide swiper-slide-large" style="width: 370px; height: 250px;">
                         <a href="{{site.url}}{{post.url}}" style="background-image: url('{{site.url}}{{post.img}}'); height: 250px;">

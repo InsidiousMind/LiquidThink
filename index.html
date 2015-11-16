@@ -24,6 +24,10 @@ layout: default
                     <li>
                         <a href="{{post.url}}#disqus_thread"></a>
                     </li>
+                    <li class="divider">/</li>
+                    <li>   
+                        <a title="Read Time" href="{{post.url}}">{% include read_time.html %} Read </a>
+                    </li>
                 </ul>
             </div>
             <div class="post-format-badge post-format-image">
@@ -52,38 +56,7 @@ layout: default
                     </ul>
                     <div class="share-story-container">    
                         <h4 class="muted pull-left">Share story</h4>
-                        <ul class="share-story">
-                            <li>
-                                <a class="tips" data-title="Facebook" href="{{site.social.facebook_url}}">
-                                    <i class="icon-facebook-1"></i>
-                                    </a>
-                            </li>
-                             <li>
-                                <a class="tips" data-title="GooglePlus" href="{{site.social.gplus_url}}">
-                                    <i class="icon-gplus-1"></i>
-                                    </a>
-                            </li>
-                            <li>
-                                <a class="tips" data-title="Twitter" href="{{site.social.twitter_url}}">
-                                    <i class="icon-twitter-1"></i>
-                                    </a>
-                            </li>
-                            <li>
-                                <a class="tips" data-title="Pinterest" href="{{site.social.pinterest_url}}">
-                                    <i class="icon-pinterest-1"></i>
-                                    </a>
-                            </li>
-                            <li>
-                                <a class="tips" data-title="Linkedin" href="{{site.social.linkedin_url}}">
-                                    <i class="icon-linkedin-1"></i>
-                                    </a>
-                            </li>
-                            <li>
-                                <a class="tips" title="">
-                                    <i class="icon-mail-1"></i>
-                                    </a>
-                            </li>    
-                        </ul>   
+                        <div class='shareaholic-canvas' data-app='share_buttons' data-app-id='21576388'></div> 
                     </div>
                 </footer>
             </div>
