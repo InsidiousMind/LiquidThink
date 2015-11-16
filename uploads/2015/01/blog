@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<title>Blog - WP Light House</title>
+			
+	
+	<link rel="pingback" href="http://www.wplighthouse.com/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="http://www.wplighthouse.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noodp,noydir"/>
+<link rel="canonical" href="http://www.wplighthouse.com/blog/" />
+<link rel="next" href="http://www.wplighthouse.com/blog/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Blog - WP Light House" />
+<meta property="og:description" content="We have been using Host Excellence since 2007 and we ha &hellip;" />
+<meta property="og:url" content="http://www.wplighthouse.com/blog/" />
+<meta property="og:site_name" content="WP Light House" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="We have been using Host Excellence since 2007 and we ha [&hellip;]"/>
+<meta name="twitter:title" content="Blog - WP Light House"/>
+<meta name="twitter:site" content="@wplighthouse"/>
+<meta name="twitter:domain" content="WP Light House"/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="WP Light House &raquo; Feed" href="http://www.wplighthouse.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WP Light House &raquo; Comments Feed" href="http://www.wplighthouse.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.wplighthouse.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.5"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Divi v.2.3.2" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.wplighthouse.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ts_fab_css-css'  href='http://www.wplighthouse.com/wp-content/plugins/fancier-author-box/css/ts-fab.min.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='et_monarch-open-sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='et_monarch-css-css'  href='http://www.wplighthouse.com/wp-content/plugins/monarch/css/style.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tve_default-css'  href='http://www.wplighthouse.com/wp-content/plugins/thrive-visual-editor/editor/css/thrive_default.css?ver=1.95' type='text/css' media='all' />
+<link rel='stylesheet' id='tve_colors-css'  href='http://www.wplighthouse.com/wp-content/plugins/thrive-visual-editor/editor/css/thrive_colors.css?ver=1.95' type='text/css' media='all' />
+<link rel='stylesheet' id='tve_style_family_tve_flt-css'  href='http://www.wplighthouse.com/wp-content/plugins/thrive-visual-editor/editor/css/thrive_flat.css?ver=1.95' type='text/css' media='all' />
+<link rel='stylesheet' id='tve_leads_forms-css'  href='http://www.wplighthouse.com/wp-content/plugins/thrive-leads/editor-layouts/css/frontend.css?ver=1.30' type='text/css' media='all' />
+<link rel='stylesheet' id='tve-leads-font-9062833c9baa57b288ba47a7993dc1c0-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C600%2C700&#038;ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='tve-leads-two_set-css'  href='http://www.wplighthouse.com/wp-content/plugins/thrive-leads/editor-templates/_form_css/two_set.css?ver=1.30' type='text/css' media='all' />
+<link rel='stylesheet' id='tt-public-css-main-css'  href='http://www.wplighthouse.com/wp-content/plugins/tweetthis/assets/css/public-main.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='tt-public-css-theme-css'  href='http://www.wplighthouse.com/wp-content/plugins/tweetthis/assets/css/themes/light.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='http://www.wplighthouse.com/wp-content/themes/Divi/style.css?ver=2.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-css-css'  href='http://www.wplighthouse.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='http://www.wplighthouse.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52858470-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-content/plugins/thrive-visual-editor/editor/js/compat.min.js?ver=1.95'></script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-content/plugins/fancier-author-box/js/ts-fab.min.js?ver=1.4'></script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-content/plugins/tweetthis/assets/js/tweet-this-box.js?ver=4.2.5'></script>
+<meta name="generator" content="WordPress 4.2.5" />
+<style type="text/css" id="et-social-custom-css">
+				 
+			</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />	<style>
+		a { color: #2EA3F2; }
+
+		body { color: #4f4f4f; }
+
+		.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content { background-color: #2EA3F2; }
+
+		#main-header, #main-header .nav li ul, .et-search-form, #main-header .et_mobile_menu { background-color: #ffffff; }
+
+		#top-header, #et-secondary-nav li ul { background-color: #2EA3F2; }
+
+		.woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: #2EA3F2 !important; }
+
+		#et_search_icon:hover, .mobile_menu_bar:before, .footer-widget h4, .et-social-icon a:hover, .comment-reply-link, .form-submit input, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover { color: #2EA3F2 !important; }
+
+		.woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .et_pb_contact_submit, .et_password_protected_form .et_submit_button, .et_pb_bg_layout_light .et_pb_newsletter_button, .nav-single a, .posted_in a { color: #2EA3F2 !important; }
+
+		.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote { border-color: #2EA3F2; }
+
+		#main-footer { background-color: #1e73be; }
+
+		#top-menu a { color: #666666; }
+
+		#top-menu li.current-menu-ancestor > a, #top-menu li.current-menu-item > a, .bottom-nav li.current-menu-item > a { color: #2EA3F2; }
+
+		</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #1e73be; }
+</style>
+<style type="text/css" id="et-custom-css">
+.et_pb_pricing_2 .et_pb_pricing_table {width: 50% !important;}
+</style></head>
+<body class="blog custom-background et_monarch et_fixed_nav et_boxed_layout et_header_style_centered et_right_sidebar unknown">
+	<div id="page-container">
+
+	
+		<header id="main-header" class="et_nav_text_color_dark">
+			<div class="container clearfix">
+							<a href="http://www.wplighthouse.com/">
+					<img src="http://www.wplighthouse.com/wp-content/uploads/2014/06/lighthouse2-300x46.png" alt="WP Light House" id="logo" />
+				</a>
+
+				<div id="et-top-navigation">
+					<nav id="top-menu-nav">
+					<ul id="top-menu" class="nav"><li id="menu-item-543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-543"><a href="http://www.wplighthouse.com/about-us/">About us</a></li>
+<li id="menu-item-542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542"><a href="http://www.wplighthouse.com/services/">Our Services</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-48 current_page_item current_page_parent menu-item-53"><a href="http://www.wplighthouse.com/blog/">Blog</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="http://www.wplighthouse.com/contact-us/">Contact Us</a></li>
+</ul>					</nav>
+
+					
+					
+					<div id="et_mobile_nav_menu">
+			<a href="#" class="mobile_nav closed">
+				<span class="select_page">Select Page</span>
+				<span class="mobile_menu_bar"></span>
+			</a>
+		</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+		</header> <!-- #main-header -->
+
+		<div id="et-main-area">
+<div id="main-content">
+	<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+		
+					<article id="post-645" class="et_pb_post post-645 post type-post status-publish format-standard hentry category-blogging">
+
+				
+															<h2><a href="http://www.wplighthouse.com/how-to-start-a-subscription-with-host-excellence/">How to start a subscription with Host Excellence (with Promo Code)</a></h2>
+					
+					<p class="post-meta"> by <a href="http://www.wplighthouse.com/author/jeffreyromano/" title="Posts by Jeffrey Romano" rel="author">Jeffrey Romano</a> | Jun 12, 2015 | <a href="http://www.wplighthouse.com/category/blogging/" rel="category tag">Blogging</a></p>We have been using Host Excellence since 2007 and we have always had a good experience using their services. As a result we suggest Host Excellence to our clients. In addition, we can apply our experience with Host Excellence in helping clients to set up their hosted...				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-568" class="et_pb_post post-568 post type-post status-publish format-standard hentry category-online-marketing-for-bloggers">
+
+				
+															<h2><a href="http://www.wplighthouse.com/the-must-have-list-building-plugin-for-bloggers-on-a-budget-time-sensitive-offer/">The Must Have List Building Plugin for Bloggers on a Budget</a></h2>
+					
+					<p class="post-meta"> by <a href="http://www.wplighthouse.com/author/jeffreyromano/" title="Posts by Jeffrey Romano" rel="author">Jeffrey Romano</a> | Feb 18, 2015 | <a href="http://www.wplighthouse.com/category/online-marketing-for-bloggers/" rel="category tag">Online-Marketing for Bloggers</a></p>&nbsp; I&#8217;m not going to beat around the bush.  Do you want to have lots of email subscribers? Do you want to have those fancy effective email opt-in boxes that all pro bloggers have? Do you want to have the features that allow you to practice the latest list...				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-549" class="et_pb_post post-549 post type-post status-publish format-standard hentry category-wp-lighthouse-news">
+
+				
+															<h2><a href="http://www.wplighthouse.com/marketing-giveaway-6500-prizes-get-days-left/">Marketing Giveaway With $6500 in Prizes! Get in. Only a few days left!</a></h2>
+					
+					<p class="post-meta"> by <a href="http://www.wplighthouse.com/author/jeffreyromano/" title="Posts by Jeffrey Romano" rel="author">Jeffrey Romano</a> | Jan 28, 2015 | <a href="http://www.wplighthouse.com/category/wp-lighthouse-news/" rel="category tag">WP Lighthouse News</a></p>Are you feeling lucky? Because today is your lucky day! This Is Your Opportunity To Win $6500 in Prizes If you want to go straight to the giveaway page, click here. For more information, continue reading &#8230; Enticing Marketing (a collaboration between MadLemmings...				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-486" class="et_pb_post post-486 post type-post status-publish format-standard hentry category-blogging">
+
+				
+															<h2><a href="http://www.wplighthouse.com/top-blogs-about-blogging-roundup/">34 Top Blogs About Blogging in 2015 [BONUS Inside]</a></h2>
+					
+					<p class="post-meta"> by <a href="http://www.wplighthouse.com/author/jeffreyromano/" title="Posts by Jeffrey Romano" rel="author">Jeffrey Romano</a> | Jan 26, 2015 | <a href="http://www.wplighthouse.com/category/blogging/" rel="category tag">Blogging</a></p>Do you ever wonder if you&#8217;re missing out on any blogging secrets? Do you ever feel your lack of blogging knowledge is holding you back? In a previous post, I showed how one blogger ended up getting 30,000 visitors/month in his first year. Seeing that, you might...				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-455" class="et_pb_post post-455 post type-post status-publish format-standard hentry category-online-marketing-for-bloggers">
+
+				
+															<h2><a href="http://www.wplighthouse.com/10-actionable-insights-go-viral-like-buzzfeed-buffer-copyblogger/">10 Actionable Insights on How to Go Viral Like Buzzfeed, Buffer &#038; Copyblogger</a></h2>
+					
+					<p class="post-meta"> by <a href="http://www.wplighthouse.com/author/jeffreyromano/" title="Posts by Jeffrey Romano" rel="author">Jeffrey Romano</a> | Jan 16, 2015 | <a href="http://www.wplighthouse.com/category/online-marketing-for-bloggers/" rel="category tag">Online-Marketing for Bloggers</a></p>Be honest with yourself. Is your content forgettable? And do you feel like it&#8217;s time to take your blogging to the next level? Are you tired of reading online marketing tips yet not getting enough comments, shares, and subscribers? Well you&#8217;re not alone.  I...				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-438" class="et_pb_post post-438 post type-post status-publish format-standard hentry category-blogging">
+
+				
+															<h2><a href="http://www.wplighthouse.com/make-it-big-first-year-blogging/">How to make it big in your first year of blogging. A case-study approach of 5 popular bloggers.</a></h2>
+					
+					<p class="post-meta"> by <a href="http://www.wplighthouse.com/author/jeffreyromano/" title="Posts by Jeffrey Romano" rel="author">Jeffrey Romano</a> | Dec 30, 2014 | <a href="http://www.wplighthouse.com/category/blogging/" rel="category tag">Blogging</a></p>You blog a few times every month. And you try to be active on social media. Yet you don’t really know where blogging will take you in the next 12 months. Perhaps you ask yourself, “should I keep at it?” “What should I do to make it big?” “How do I get more traffic?” I...				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-410" class="et_pb_post post-410 post type-post status-publish format-standard hentry category-online-marketing-for-bloggers">
+
+				
+															<h2><a href="http://www.wplighthouse.com/on-outsourcing-your-facebook-advertising-interview/">On Outsourcing Your Facebook Advertising &#8211; An Interview with Brittany Keller</a></h2>
+					
+					<p class="post-meta"> by <a href="http://www.wplighthouse.com/author/jeffreyromano/" title="Posts by Jeffrey Romano" rel="author">Jeffrey Romano</a> | Dec 22, 2014 | <a href="http://www.wplighthouse.com/category/online-marketing-for-bloggers/" rel="category tag">Online-Marketing for Bloggers</a></p>The skill of mastering Facebook Advertising is only going to become more important in 2015. It&#8217;s being widely predicted that ad spend on social media platforms is going to continue to grow next year. Focusing on Facebook, this is mainly due to two reasons....				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-369" class="et_pb_post post-369 post type-post status-publish format-standard hentry category-online-marketing-for-bloggers">
+
+				
+															<h2><a href="http://www.wplighthouse.com/7-social-media-hacks-to-consider/">7 Questionable Social Media Hacks You Should Consider</a></h2>
+					
+					<p class="post-meta"> by <a href="http://www.wplighthouse.com/author/jeffreyromano/" title="Posts by Jeffrey Romano" rel="author">Jeffrey Romano</a> | Dec 16, 2014 | <a href="http://www.wplighthouse.com/category/online-marketing-for-bloggers/" rel="category tag">Online-Marketing for Bloggers</a></p>&nbsp; As bloggers and business owners, we know that we should be investing in building our audiences on social media networks. But building an audience just takes too long for many of us! So we end up looking for shortcuts. The problem is, sometimes these shortcuts...				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-326" class="et_pb_post post-326 post type-post status-publish format-standard hentry category-online-marketing-for-bloggers">
+
+				
+															<h2><a href="http://www.wplighthouse.com/facebook-page-likes-dont-matter-anymore/">Why Facebook Page Likes Don’t Matter Anymore</a></h2>
+					
+					<p class="post-meta"> by <a href="http://www.wplighthouse.com/author/jeffreyromano/" title="Posts by Jeffrey Romano" rel="author">Jeffrey Romano</a> | Dec 4, 2014 | <a href="http://www.wplighthouse.com/category/online-marketing-for-bloggers/" rel="category tag">Online-Marketing for Bloggers</a></p>This might be a harsh statement, but it is becoming increasingly true! Marketing on Facebook has changed. Facebook used to be a marketer’s dream come true. It was paradise. However, in this last year, certain controversial developments from Facebook are making it less...				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-271" class="et_pb_post post-271 post type-post status-publish format-standard hentry category-online-marketing-for-bloggers">
+
+				
+															<h2><a href="http://www.wplighthouse.com/5-things-every-bookkeeper-know-online-marketing/">5 things every bookkeeper should know about online marketing</a></h2>
+					
+					<p class="post-meta"> by <a href="http://www.wplighthouse.com/author/jeffreyromano/" title="Posts by Jeffrey Romano" rel="author">Jeffrey Romano</a> | Nov 18, 2014 | <a href="http://www.wplighthouse.com/category/online-marketing-for-bloggers/" rel="category tag">Online-Marketing for Bloggers</a></p>&nbsp; In the last few years, thanks to my involvement with the Clever Accounting software-as-a-service, I’ve spoken with a number of local accountants and bookkeepers. We meet at business events where everyone would be focused on networking. Referrals and networking...				
+					</article> <!-- .et_pb_post -->
+			<div class="pagination clearfix">
+	<div class="alignleft"><a href="http://www.wplighthouse.com/blog/page/2/" >&laquo; Older Entries</a></div>
+	<div class="alignright"></div>
+</div>			</div> <!-- #left-area -->
+
+				<div id="sidebar">
+		<div id="widget_thrive_leads-2" class="et_pb_widget widget_thrive_leads"><div class="tve-leads-widget tve-leads-track-widget-4 tve-tl-anim tl-anim-instant"><div class="tl-style" id="tve_two_set" data-state="4"><div class="tve-leads-conversion-object" data-tl-type="widget"><div class="tve_flt"><div id="tve_editor" class="tve_shortcode_editor"><div class="thrv-leads-widget thrv_wrapper tve_editor_main_content tve_two_set_v2 tve_green tve_brdr_solid">
+<h4 style="color: #fff; font-size: 34px;line-height: 40px;margin-top: 0;margin-bottom: 0;" class="tve_p_center" contenteditable="false">Receive our free updates &amp; <span class="bold_text">bonuses</span>!</h4>
+<div style=" color: #1e99c9; margin-top: 15px;margin-bottom: 15px;" class="thrv_wrapper thrv_icon aligncenter">
+<span style="font-size: 110px;" class="tve_sc_icon two-set-mail" data-tve-icon="two-set-mail"></span>
+</div>
+<div data-tve-style="1" class="thrv_wrapper thrv_lead_generation tve_clearfix tve_blue tve_2 thrv_lead_generation_vertical" data-inputs-count="2" style="margin-top: 0;margin-bottom: 0;" data-tve-version="1">
+<div style="display: none;" class="thrv_lead_generation_code"></div>
+<div style="display: none;" class="thrv_lead_generation_errors"><input type="hidden" class="tve-lg-err-msg" value="{&quot;email&quot;:&quot;Please enter a valid email address&quot;,&quot;phone&quot;:&quot;Please enter a valid phone number&quot;,&quot;required&quot;:&quot;Name and Email fields are required&quot;}"></div>
+<div class="thrv_lead_generation_container tve_clearfix"><form method="POST" action="http://arp.wplighthouse.com/a.php/sub/3/l8vq8j"><div class="tve_lead_generated_inputs_container tve_clearfix"><div class="tve_lead_fields_overlay"></div><div class="tve_lg_input_container tve_lg_input tve_lg_2"><input type="text" data-field="email_address" data-required="1" data-validation="email" name="email_address" placeholder="Enter Email" data-placeholder="Enter Email" style="padding-right: 10px;"></div><div class="tve_lg_input_container tve_submit_container tve_lg_submit tve_lg_2">
+<button type="Submit" style="font-size: 20px;">Get Free Instant Access Now &gt;&gt;</button>
+</div></div></form></div>
+</div>
+</div></div></div></div></div></div></div> <!-- end .et_pb_widget --><div id="monarchwidget-2" class="et_pb_widget widget_monarchwidget"><h4 class="widgettitle">Follow us on</h4><div class="et_social_networks et_social_2col et_social_slide et_social_rounded et_social_top et_social_mobile_on et_social_withnetworknames et_social_outer_dark widget_monarchwidget">
+					
+					
+					<ul class="et_social_icons_container"><li class="et_social_twitter">
+						<a href="http://www.twitter.com/wplighthouse" class="et_social_follow" data-social_name="twitter" data-social_type="follow" data-post_id="0" target="_blank">
+							<i class="et_social_icon et_social_icon_twitter"></i>
+							<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div>
+							<span class="et_social_overlay"></span>
+						</a>
+					</li><li class="et_social_googleplus">
+						<a href="https://plus.google.com/u/0/+JeffreyRomano/posts" class="et_social_follow" data-social_name="googleplus" data-social_type="follow" data-post_id="0" target="_blank">
+							<i class="et_social_icon et_social_icon_googleplus"></i>
+							<div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div>
+							<span class="et_social_overlay"></span>
+						</a>
+					</li></ul>
+				</div></div> <!-- end .et_pb_widget --><div id="text-3" class="et_pb_widget widget_text">			<div class="textwidget"><a href="http://www.wplighthouse.com/wp-content/uploads/2015/02/As-seeon-on-compressor.png"><img class=" size-medium wp-image-567 alignleft" src="http://www.wplighthouse.com/wp-content/uploads/2015/02/As-seeon-on-compressor-254x300.png" alt="As-seeon-on-compressor" width="254" height="300" /></a></div>
+		</div> <!-- end .et_pb_widget -->	</div> <!-- end #sidebar -->
+		</div> <!-- #content-area -->
+	</div> <!-- .container -->
+</div> <!-- #main-content -->
+
+
+			<footer id="main-footer">
+				
+
+		
+				<div id="et-footer-nav">
+					<div class="container">
+						<ul id="menu-footer" class="bottom-nav"><li id="menu-item-325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-325"><a href="http://www.wplighthouse.com/hire-me-boost-your-blog/">Blogging Services</a></li>
+<li id="menu-item-538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-538"><a href="http://www.wplighthouse.com/write-for-us/">Write For Us</a></li>
+</ul>					</div>
+				</div> <!-- #et-footer-nav -->
+
+			
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons">
+
+	<li class="et-social-icon et-social-twitter">
+		<a href="https://twitter.com/WPLighthouse" class="icon">
+			<span>Twitter</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-rss">
+		<a href="http://www.wplighthouse.com/feed/" class="icon">
+			<span>RSS</span>
+		</a>
+	</li>
+
+</ul>
+						<p id="footer-info">Designed by <a href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a> | Powered by <a href="http://www.wordpress.org">WordPress</a></p>
+					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<div id="tve_notification_box"></div><script type='text/javascript' src='http://www.wplighthouse.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.wplighthouse.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2'></script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"http:\/\/www.wplighthouse.com\/wp-admin\/admin-ajax.php","pageurl":"","stats_nonce":"52d6c49e05","share_counts":"a0a482dc7e","follow_counts":"5a727c9fa8","total_counts":"49bfa27912","media_single":"e81332e7fe","media_total":"da4801021a","generate_all_window_nonce":"c1dccf1a3e","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-content/plugins/monarch/js/custom.js?ver=1.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tve_frontend_options = {"is_editor_page":"","page_events":[],"is_single":"0","ajaxurl":"http:\/\/www.wplighthouse.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-content/plugins/thrive-visual-editor/editor/js/thrive_content_builder_frontend.min.js?ver=1.95'></script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-content/plugins/thrive-visual-editor/editor/js/jquery.cookie.min.js?ver=4.2.5'></script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-content/plugins/thrive-leads/js/frontend.js?ver=1.30'></script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-content/themes/Divi/js/jquery.fitvids.js?ver=2.3.2'></script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-content/themes/Divi/js/waypoints.min.js?ver=2.3.2'></script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-content/themes/Divi/js/jquery.magnific-popup.js?ver=2.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_custom = {"ajaxurl":"http:\/\/www.wplighthouse.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/www.wplighthouse.com\/wp-content\/themes\/Divi\/images","et_load_nonce":"5dd2bbb9bd","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","fill":"Fill","field":"field","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-content/themes/Divi/js/custom.js?ver=2.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"wplighthouse"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.wplighthouse.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.2.5'></script>
+<script type="text/javascript">/*<![CDATA[*/var TL_Const={"security":"2b6ceb7131","ajax_url":"\/\/www.wplighthouse.com\/wp-admin\/admin-ajax.php","forms":{"widget":{"_key":"4","trigger":"page_load","trigger_config":{},"form_type_id":630,"main_group_id":629,"active_test_id":""}},"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"main_group_id":629,"display_options":{"allowed_post_types":[]},"custom_post_data":[]}/*]]> */</script><script type="text/javascript">var TL_Front = TL_Front || {}; TL_Front.impressions_data = TL_Front.impressions_data || {};TL_Front.impressions_data.widget = {"group_id":629,"form_type_id":630,"variation_key":"4","active_test_id":0,"output_js":true};</script><script type="text/javascript" id="tve-main-js">
+var TL_Front = TL_Front || {};
+/* minor hackery to ensure we have this available */
+var ThriveGlobal = ThriveGlobal || {$j: jQuery.noConflict()};
+
+/**
+ * Ajax call to increment impressions for all forms that might be displayed on the page
+ */
+TL_Front.do_impression = function () {
+    var data = TL_Front.impressions_data;
+    if (data === undefined) {
+        console.log("No form to register impression for !");
+        return;
+    }
+
+    ThriveGlobal.$j.post(TL_Const.ajax_url, {
+        security: TL_Const.security,
+        action: TL_Const.action_impression,
+        tl_data: data
+    }).done(function () {
+        //TODO: do something here if required
+    });
+};
+
+TL_Front.switch_lightbox_state = function ($state_target, $current_state) {
+    $state_target.find('.tve_p_lb_overlay').css('opacity', '0.8');
+    $state_target.find('.tve_p_lb_content').css('top', $current_state.find('.tve_p_lb_content').css('top')).addClass('tve-leads-triggered');
+    return TL_Front.open_lightbox($state_target.find('.tl-lb-target'));
+};
+
+TL_Front.close_lightbox = function () {
+    var $body = ThriveGlobal.$j('body'),
+        $html = ThriveGlobal.$j('html'),
+        overflow_hidden = 'tve-o-hidden tve-l-open tve-hide-overflow',
+        $lightbox = arguments[0] || $body.data('tl-open-lightbox');
+    if (!$lightbox || !$lightbox.length) {
+        return;
+    }
+
+    $lightbox.find('.tve-tl-anim').removeClass('tve-leads-triggered');
+    $lightbox.addClass('tve_lb_closing');
+    $body.removeClass(overflow_hidden).css('padding-right', '');
+    $html.removeClass(overflow_hidden);
+    setTimeout(function () {
+        $lightbox.removeClass('tve_lb_open tve_lb_opening tve_lb_closing tve_p_lb_background').css('display', 'none').find('tve_p_lb_content').trigger('tve.lightbox-close');
+    }, 200);
+
+    $lightbox.find('.thrv_responsive_video iframe').each(function () {
+        var $this = ThriveGlobal.$j(this);
+        $this.attr('data-src', $this.attr('src'));
+        $this.attr('src', '');
+    });
+    /**
+     * close any error messages that might have been displayed on forms inside the lightbox
+     */
+    ThriveGlobal.$j('#tve-lg-error-container').hide();
+};
+
+TL_Front.open_lightbox = function ($target, TargetEvent) {
+
+    function getBrowserScrollSize() {
+        var $ = ThriveGlobal.$j;
+        var css = {
+            "border": "none",
+            "height": "200px",
+            "margin": "0",
+            "padding": "0",
+            "width": "200px"
+        };
+
+        var inner = $("<div>").css($.extend({}, css));
+        var outer = $("<div>").css($.extend({
+            "left": "-1000px",
+            "overflow": "scroll",
+            "position": "absolute",
+            "top": "-1000px"
+        }, css)).append(inner).appendTo("body")
+            .scrollLeft(1000)
+            .scrollTop(1000);
+
+        var scrollSize = {
+            "height": (outer.offset().top - inner.offset().top) || 0,
+            "width": (outer.offset().left - inner.offset().left) || 0
+        };
+
+        outer.remove();
+        return scrollSize;
+    }
+
+    /* close any other opened lightboxes */
+    TL_Front.close_lightbox(ThriveGlobal.$j('.tve_p_lb_background.tve_lb_open'));
+
+    $target.css('display', '').parents('.tl-style').css('display', '');
+
+    var $body = ThriveGlobal.$j('body'),
+        $html = ThriveGlobal.$j('html'),
+        overflow_hidden = 'tve-o-hidden tve-l-open tve-hide-overflow',
+        scroll_width = getBrowserScrollSize().width,
+        oPadding = parseInt($body.css('paddingRight')),
+        has_lb_open = ThriveGlobal.$j('.tve_p_lb_background.tve_lb_open').length;
+
+    if (isNaN(oPadding)) {
+        oPadding = 0;
+    }
+
+    ThriveGlobal.$j('.tve_p_lb_close').off().on("click", function () {
+        TL_Front.close_lightbox();
+    });
+
+    $body.off('keyup.tve_lb_close').on('keyup.tve_lb_close', function (e) {
+        if (e.which == 27) {
+            TL_Front.close_lightbox();
+        }
+    });
+
+    ThriveGlobal.$j('.tve_p_lb_overlay').off('click.tve_lb_close').on('click.tve_lb_close', function () {
+        TL_Front.close_lightbox();
+    });
+
+    $body.data('tl-open-lightbox', $target);
+
+    $target.addClass('tve_p_lb_background');
+
+    $body.addClass(overflow_hidden);
+    $html.addClass(overflow_hidden);
+
+    var wHeight = ThriveGlobal.$j(window).height(),
+        page_has_scroll = wHeight < ThriveGlobal.$j(document).height();
+
+    if (page_has_scroll) {
+        $body.css('padding-right', (oPadding + scroll_width) + 'px');
+    }
+
+    //load the responsive video iframes
+    $target.find('.thrv_responsive_video iframe').each (function () {
+        var $this = jQuery(this);
+        if ($this.attr('data-src')) {
+            $this.attr('src', $this.attr('data-src'));
+        }
+    });
+
+    setTimeout(function () {
+
+        setTimeout(function () {
+            $target.addClass('tve_lb_opening');
+        }, 0);
+
+        /* reload any iframe that might be in there, this was causing issues with google maps embeds in hidden tabs */
+        $target.find('iframe').each(function () {
+            var $this = ThriveGlobal.$j(this);
+            if ($this.data('tve_ifr_loaded')) {
+                return;
+            }
+            $this.data('tve_ifr_loaded', 1).attr('src', $this.attr('src'));
+        });
+
+        /**
+         * took this variable out of the setTimeout because of the Safari 7
+         */
+        var cHeight = $target.find('.tve_p_lb_content').outerHeight(true) + (2 * parseInt($target.css('padding-top')));
+
+        setTimeout(function () {
+            var $lContent = $target.find('.tve_p_lb_content'),
+                top = (wHeight - cHeight) / 2;
+
+            $target.find('.tve_p_lb_overlay').css({
+                height: (cHeight + 80) + 'px',
+                'min-height': wHeight + 'px'
+            });
+            if (has_lb_open) {
+                $lContent.animate({
+                    top: (top < 40 ? 40 : top)
+                }, 100);
+            } else {
+                $lContent.css('top', (top < 40 ? 40 : top) + 'px');
+            }
+            if (cHeight + 40 > wHeight) {
+                $target.addClass('tve-scroll');
+            }
+        }, 0);
+
+    }, 20);
+
+    setTimeout(function () {
+        $target.removeClass('tve_lb_opening').addClass('tve_lb_open').find('.tve_p_lb_content').trigger('tve.lightbox-open');
+        ThriveGlobal.$j(window).trigger('scroll');
+    }, 300);
+
+    // called to stop other events that might interact in the bad way with the lightbox, like a button that redirects the page.
+    if (TargetEvent && TargetEvent.preventDefault) {
+        TargetEvent.preventDefault();
+        TargetEvent.stopPropagation();
+    }
+    $target.parents('.tl-states-root').off('switchstate').on('switchstate', function (e, $state) {
+        var args = Array.prototype.slice.call(arguments, 1);
+        TL_Front.switch_lightbox_state.apply(TL_Front, args);
+    });
+};
+TL_Front.open_two_step_lightbox = TL_Front.open_lightbox;
+
+
+
+
+
+ThriveGlobal.$j(function () {
+    ThriveGlobal.$j(TL_Front).on('showform.thriveleads', function (event, data) {
+        var $target = data.$target ? data.$target : ThriveGlobal.$j('.' + data.form_id),
+            $anim_target;
+        if ($target.attr('data-s-state')) {
+            /**
+             * find the already subscribed state and show it
+             */
+            $target = $target.closest('.tl-states-root').find('[data-state="' + $target.attr('data-s-state') + '"] .tl-lb-target');
+        }
+        $anim_target = $target.hasClass('tve-tl-anim') ? $target : $target.find('.tve-tl-anim');
+        $target.css('display', '');
+        setTimeout(function () {
+            $anim_target.addClass('tve-leads-triggered');
+            TCB_Front.postGridLayout();
+        }, 0);
+
+        if (typeof TL_Front['open_' + data.form_type] === 'function') {
+            TL_Front['open_' + data.form_type]($target, data.TargetEvent);
+        } else {
+            $target.show();
+        }
+        setTimeout(function () {
+            $target.find('.thrv_responsive_video iframe').each(function () {
+                var $this = ThriveGlobal.$j(this);
+                if ($this.attr('data-src')) {
+                    $this.attr('src', $this.attr('data-src'));
+                }
+            });
+        }, 200);
+    });
+    if (!TL_Const.ajax_load) {
+        setTimeout(TL_Front.do_impression, 2000);
+    }
+});
+</script><script type="text/javascript">
+    (function ($) {
+        $(function () {
+            var event_data = {"form_id":"tve-leads-track-widget-4","form_type":"widget"};
+            event_data.source = 'page_load';
+            setTimeout(function () {
+                ThriveGlobal.$j(TL_Front).trigger('showform.thriveleads', event_data);
+            }, 200);
+        });
+    })(ThriveGlobal.$j);
+</script></body>
+</html>

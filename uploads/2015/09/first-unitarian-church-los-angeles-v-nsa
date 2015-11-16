@@ -1,0 +1,1352 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  itemscope itemtype="http://schema.org/Article"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.eff.org/ru/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="ru" />
+<link href="https://www.eff.org/sh/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="sh" />
+<link href="https://www.eff.org/ro/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="ro" />
+<link href="https://www.eff.org/pt-br/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="pt-br" />
+<link href="https://www.eff.org/pl/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="pl" />
+<link href="https://www.eff.org/es/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="es" />
+<link href="https://www.eff.org/sv/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="sv" />
+<link rel="shortcut icon" href="https://www.eff.org/sites/all/themes/frontier/favicon.ico" type="image/vnd.microsoft.icon" />
+<link href="https://www.eff.org/ur/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="ur" />
+<link href="https://www.eff.org/tr/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="tr" />
+<link href="https://www.eff.org/th/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="th" />
+<link href="https://www.eff.org/fa/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="fa" />
+<link href="https://www.eff.org/vi/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="vi" />
+<link href="https://www.eff.org/zh-hans/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="zh-hans" />
+<link href="https://www.eff.org/nl/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="nl" />
+<link href="https://www.eff.org/my/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="my" />
+<link href="https://www.eff.org/ja/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="ja" />
+<link href="https://www.eff.org/am/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="am" />
+<link href="https://www.eff.org/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="en" />
+<link href="https://www.eff.org/en-gb/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="en-gb" />
+<link href="https://www.eff.org/it/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="it" />
+<link href="https://www.eff.org/id/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="id" />
+<link href="https://www.eff.org/de/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="de" />
+<link href="https://www.eff.org/fr/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="fr" />
+<link href="https://www.eff.org/ar/cases/first-unitarian-church-los-angeles-v-nsa" rel="alternate" hreflang="ar" />
+<meta name="description" content="Twenty-two organizations including Unitarian church groups, gun ownership advocates, and a broad coalition of membership and political advocacy organizations filed suit against the National Security Agency for violating their First Amendment right of association by illegally collecting their call records. The coalition is represented by EFF." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.eff.org/cases/first-unitarian-church-los-angeles-v-nsa" />
+<link rel="shortlink" href="https://www.eff.org/node/75002" />
+<link rel="publisher" href="https://www.eff.org/" />
+<meta property="og:site_name" content="Electronic Frontier Foundation" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="First Unitarian Church of Los Angeles v. NSA" />
+<meta property="og:url" content="https://www.eff.org/cases/first-unitarian-church-los-angeles-v-nsa" />
+<meta property="og:description" content="Twenty-two organizations including Unitarian church groups, gun ownership advocates, and a broad coalition of membership and political advocacy organizations filed suit against the National Security Agency for violating their First Amendment right of association by illegally collecting their call records. The coalition is represented by EFF." />
+<meta property="og:updated_time" content="2015-06-01T13:33:57-07:00" />
+<meta property="og:image" content="https://www.eff.org/files/2015/03/02/eff-og-3.png" />
+<meta property="og:image:url" content="https://www.eff.org/files/2015/03/02/eff-og-3.png" />
+<meta property="og:image:secure_url" content="https://www.eff.org/files/2015/03/02/eff-og-3.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="681" />
+<meta property="og:image:height" content="358" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@eff" />
+<meta name="twitter:title" content="First Unitarian Church of Los Angeles v. NSA" />
+<meta name="twitter:description" content="Twenty-two organizations including Unitarian church groups, gun ownership advocates, and a broad coalition of membership and political advocacy organizations filed suit against the National Security Agency for violating their First Amendment right of association by illegally collecting their call records. The coalition is represented by EFF." />
+<meta property="article:publisher" content="https://www.facebook.com/eff" />
+<meta property="article:published_time" content="2013-07-15T15:53:30-07:00" />
+<meta property="article:modified_time" content="2015-06-01T13:33:57-07:00" />
+<meta itemprop="name" content="First Unitarian Church of Los Angeles v. NSA" />
+<meta itemprop="description" content="Twenty-two organizations including Unitarian church groups, gun ownership advocates, and a broad coalition of membership and political advocacy organizations filed suit against the National Security Agency for violating their First Amendment right of association by illegally collecting their call records. The coalition is represented by EFF." />
+<meta itemprop="image" content="https://www.eff.org/files/2015/03/02/eff-og-3.png" />
+  <title>First Unitarian Church of Los Angeles v. NSA | Electronic Frontier Foundation</title>
+  <link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_r7mP1rcWJQ63n8Fdr5p_bAp2cVsr4IDoQbtzGzliANo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_tSI3reea_JpmTDg_GWOsPsfFp1aUt4eRLF9Y177UfIo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_2WDS6rAKK7kwjEKZtVIbWvbcKp7kyhaaJDneFaYyT34.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_9NRa37efpuJSV4GuWIYzp7qngB6DcDrhK10Z6bngn30.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_ZHfDJzxADxdmH_QwYMCWBEiv7uaILLa-WfESlbHWHqw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_Dm-SJfMUMI3Lq1IRh7yJYS8gMbJAhKw4i7TNs8uKI4I.css" media="print" />
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+/**
+ * @licstart The following is the entire license notice for the JavaScript
+ * code in this page.
+ *
+ * Copyright (C) 2015  Electronic Frontier Foundation.
+ *
+ * The JavaScript code in this page is free software: you can redistribute
+ * it and/or modify it under the terms of the GNU General Public License
+ * (GNU GPL) as published by the Free Software Foundation, either version 3
+ * of the License, or (at your option) any later version.  The code is
+ * distributed WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU GPL
+ * for more details.
+ *
+ * As additional permission under GNU GPL version 3 section 7, you may
+ * distribute non-source (e.g., minimized or compacted) forms of that code
+ * without the copy of the GNU GPL normally required by section 4, provided
+ * you include this license notice and a URL through which recipients can
+ * access the Corresponding Source.
+ *
+ * @licend The above is the entire license notice for the JavaScript code
+ * in this page.
+ */
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_8aTa-Jip7WrXIapyyJMi85UKSdnRZ30YbI4eJumTQvg.js"></script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_6J_fxLrsplKcEmRgJC-6QRLa7T_nJvQ7W6oH96gDKng.js"></script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_tJZVH1v1GFQcFQ_9deBX0TaNrLsWQlE5ZC1Zy9o6aC0.js"></script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_rvXZ5EsLq51Zzd9RjkSbWjyq9nUlF93fsVp15Wn5zqE.js"></script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_aRe4mjwNkRq0UugCuQDnvErzl6bmOFX_DLCke_FfyYc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"frontier","theme_token":"VoKuSvstRgs8TOrlX9GOdY8hHRG3-5PXT8KsRnL7BEc","jquery_version":"1.7","js":{"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/custom\/eff_whyb\/js\/whyb.js":1,"sites\/all\/modules\/caption_filter\/js\/caption-filter.js":1,"sites\/all\/modules\/mytube\/mytube.js":1,"sites\/all\/modules\/piwik_noscript\/piwik_noscript.js":1,"sites\/all\/modules\/patched\/lightbox2\/js\/lightbox.js":1,"sites\/all\/libraries\/chosen\/chosen.jquery.min.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/panels_tabs\/js\/panels_tabs.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/jquery.meanmenu.min.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/responsive_menus_mean_menu.js":1,"sites\/all\/modules\/chosen\/chosen.js":1,"sites\/all\/themes\/frontier\/js\/no_has_js.js":1,"sites\/all\/themes\/frontier\/js\/jquery.mailcheck.min.js":1,"sites\/all\/themes\/frontier\/js\/do_mailcheck.js":1,"sites\/all\/themes\/frontier\/js\/placeholder.js":1},"css":{"sites\/all\/themes\/frontier\/css\/reset.css":1,"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/chosen\/chosen.css":1,"sites\/all\/modules\/chosen\/css\/chosen-drupal.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"sites\/all\/modules\/footnotes\/footnotes.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mytube\/mytube.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/caption_filter\/caption-filter.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lexicon\/css\/lexicon.css":1,"sites\/all\/modules\/patched\/lightbox2\/css\/lightbox_alt.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/modules\/custom\/eff_library\/plugins\/layouts\/eff_related\/eff-related.css":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/meanmenu.min.css":1,"sites\/all\/modules\/custom\/eff_library\/plugins\/layouts\/eff_site_layout\/eff-site-layout.css":1,"sites\/all\/themes\/frontier\/css\/layout.css":1,"sites\/all\/themes\/frontier\/css\/html-elements.css":1,"sites\/all\/themes\/frontier\/css\/frontier.css":1,"sites\/all\/themes\/frontier\/css\/wysiwyg.css":1,"sites\/all\/themes\/frontier\/timeline\/css\/style.css":1,"sites\/all\/themes\/frontier\/css\/galleryformatter.css":1,"sites\/all\/themes\/frontier\/css\/print.css":1}},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/patched\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":10,"fade_in_speed":300,"slide_down_speed":10,"use_alt_layout":1,"disable_resize":0,"disable_zoom":1,"force_show_nav":0,"show_caption":1,"loop_items":1,"node_link_text":"","node_link_target":0,"image_count":"","video_count":"","page_count":"","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0,"useragent":"Mozilla\/5.0 (Windows NT 6.1; WOW64; Trident\/7.0; rv:11.0) like Gecko"},"chosen":{"selector":".node-form select:visible","minimum_single":5,"minimum_multiple":5,"minimum_width":200,"options":{"disable_search":false,"disable_search_threshold":0,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","inherit_select_classes":true}},"urlIsAjaxTrusted":{"\/cases\/first-unitarian-church-los-angeles-v-nsa":true,"\/search\/site":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:965e0429da5ff15df1451ec92fa23e4e":{"view_name":"legal_case_related_docs_no_filev","view_display_id":"panel_pane_1","view_args":"75002","view_path":"node\/75002","view_base_path":"node\/75002","view_dom_id":"965e0429da5ff15df1451ec92fa23e4e","pager_element":0},"views_dom_id:081b8ab4b4c0c29e0f423346e40b9bdf":{"view_name":"legal_case_related_blog_posts","view_display_id":"panel_pane_1","view_args":"75002","view_path":"node\/75002","view_base_path":null,"view_dom_id":"081b8ab4b4c0c29e0f423346e40b9bdf","pager_element":0},"views_dom_id:f4392a05b73f44dcd78ba02f72d78b58":{"view_name":"legal_case_related_press_release","view_display_id":"panel_pane_1","view_args":"75002","view_path":"node\/75002","view_base_path":"node\/75002","view_dom_id":"f4392a05b73f44dcd78ba02f72d78b58","pager_element":0},"views_dom_id:54964378dc1036aa64c7c09c445a70ac":{"view_name":"legal_case_eff_in_the_news","view_display_id":"panel_pane_1","view_args":"75002","view_path":"node\/75002","view_base_path":"node\/75002","view_dom_id":"54964378dc1036aa64c7c09c445a70ac","pager_element":0},"views_dom_id:0b4375ad79571402f58a04520d6b766d":{"view_name":"other_resources","view_display_id":"panel_pane_1","view_args":"75002","view_path":"node\/75002","view_base_path":"node\/75002","view_dom_id":"0b4375ad79571402f58a04520d6b766d","pager_element":0}}},"panelsTabs":{"tabsID":["tabs-0-related"]},"responsive_menus":[{"selectors":"#header-sls-menu","trigger_txt":"\u003Cspan class=\u0022mean-burger\u0022\/\u003E\u003Cspan class=\u0022mean-burger\u0022\/\u003E\u003Cspan class=\u0022mean-burger\u0022\/\u003E","close_txt":"X","close_size":"18px","position":"right","media_size":"480","show_children":"1","expand_children":"0","expand_txt":"+","contract_txt":"-","remove_attrs":"1","responsive_menus_style":"mean_menu"}],"piwikNoscript":{"image":"\u003Cimg style=\u0022position: absolute\u0022 src=\u0022https:\/\/anon-stats.eff.org\/piwik.php?idsite=1\u0026amp;rec=1\u0026amp;url=https%3A\/\/www.eff.org\/cases\/first-unitarian-church-los-angeles-v-nsa\u0026amp;action_name=\u0026amp;urlref=\u0022 width=\u00220\u0022 height=\u00220\u0022 alt=\u0022\u0022 \/\u003E"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-75002 node-type-case i18n-en" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page">
+  <div id="container-wrapper">
+    <div id="container">
+      <div id="header-wrapper">
+        <div class="header-content">
+          <div class="panel-pane pane-pane-header"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="header">
+  <div class="section clearfix">
+    <div id="logo-title">
+
+              <a href="/" title="Home" rel="home" id="logo"><img src="https://www.eff.org/sites/all/themes/frontier/images/logo_full.png" alt="Home" /></a>
+      
+      <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/" title="Home" rel="home"><span>Electronic Frontier Foundation</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Defending your rights in the digital world</div>
+              </div> <!-- /name-and-slogan -->
+    </div> <!-- /logo-title -->
+
+  </div> <!-- /section -->
+</div> <!-- /header -->
+  </div>
+
+  
+  </div>
+        </div>
+        <div class="search-box">
+          <div class="panel-pane pane-block pane-search-form"  >
+  
+      
+  
+  <div class="pane-content">
+    <form action="/search/site" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-5eWbDj94pbdnbMbTNu91HPykKMQwkzTVXGAWD9EwuFM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+
+  
+  </div>
+        </div>  
+      </div>
+      <div id="main-menu-nav" class="navigation">
+          <div class="panel-pane pane-pane-navigation"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="navigation" class="menu withprimary ">
+      <div id="primary" class="clear-block">
+      <h2>Main menu</h2><ul id="main-menu" class="links clearfix inline"><li class="menu-925 first"><a href="/" title="">Home</a></li>
+<li class="menu-1746"><a href="/about">About</a></li>
+<li class="menu-689 active-trail"><a href="/issues" class="active-trail">Our Work</a></li>
+<li class="menu-301"><a href="/deeplinks">Deeplinks Blog</a></li>
+<li class="menu-302"><a href="/press">Press Room</a></li>
+<li class="menu-303"><a href="/action" title="">Take Action</a></li>
+<li class="menu-926 last"><a href="https://supporters.eff.org/shop" title="">Shop</a></li>
+</ul>    </div>
+  
+</div> <!-- /navigation -->
+  </div>
+
+  
+  </div>
+      </div>
+      <div id="breadcrumb">
+                </div>
+      <div id="main">
+        <div class="layout-main-content">
+          <div class="panel-pane pane-page-content"  >
+  
+      
+  
+  <div class="pane-content">
+    
+  <div id="panel-case-page">
+    <div class="case-page-top">
+      <div class="case-page-top-above">
+        <div class="panel-pane pane-custom pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <a href="/nsa-spying"><img src="/files/nsa-header-2012-b.jpg" title="NSA Spying" alt="NSA Spying" /></a>
+
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-menu-tree pane-menu-nsa-spying"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-menu-nsa-spying-1 menu-name-menu-nsa-spying parent-mlid-menu-nsa-spying-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-3461"><a href="/nsa-spying/faq" title="">FAQ</a></li>
+<li class="leaf menu-mlid-3714"><a href="/nsa-spying/how-it-works" title="">How It Works</a></li>
+<li class="leaf menu-mlid-3717"><a href="/nsa-spying/key-officials" title="">Key Officials</a></li>
+<li class="leaf menu-mlid-6646"><a href="/nsa-spying/nsadocs" title="">NSA Primary Sources</a></li>
+<li class="leaf menu-mlid-3716"><a href="/nsa-spying/state-secrets-privilege" title="">State Secrets Privilege</a></li>
+<li class="leaf menu-mlid-3713"><a href="/nsa-spying/timeline" title="">Timeline</a></li>
+<li class="last leaf menu-mlid-3715"><a href="/nsa-spying/wordgames" title="">Word Games</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+      </div>
+      <div class="clr"></div>
+      <div class="case-page-top-left ">
+      <div class="panel-pane pane-eff-node-title"  >
+  
+      
+  
+  <div class="pane-content">
+    <h2 class="node-title">First Unitarian Church of Los Angeles v. NSA</h2>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-node-content"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="node-75002" class="node node-case clearfix">
+
+  
+      
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Twenty-two organizations including Unitarian church groups, gun ownership advocates, and a broad coalition of membership and political advocacy organizations filed suit against the National Security Agency for violating their First Amendment right of association by illegally collecting their call records. The coalition is represented by EFF.</p>
+<p>At the heart of <a href="https://www.eff.org/deeplinks/2014/01/deep-dive-first-unitarian-church-v-nsa-why-freedom-association-matters"><em>First Unitarian Church of Los Angeles v. NSA</em></a> is the bulk telephone records collection program that was confirmed by the publication of an order from the Foreign Intelligence Surveillance Court (FISC) in June of 2013. The Director of National Intelligence (DNI) further confirmed that this formerly secret document was authentic, and part of a broader program to collect all major telecommunications customers’ call history. The order demands wholesale collection of every call made, the location of the phone, the time of the call, the duration of the call, and other “identifying information” for every phone and call for all customers of Verizon for a period of three months. Government officials further confirmed that this was just one of series of orders issued on a rolling basis since at least 2006. <em>First Unitarian v. NSA</em> argues that this spying violates the First Amendment, which protects the freedom to associate and express political views as a group.</p>
+<p><b>Frequently Asked Questions About <em>First Unitarian v. NSA</em>:</b></p>
+<ul><li><a href="#why-associations">Why the focus on associations?</a></li>
+<li><a href="#factual-basis">What is the factual basis for the case?</a></li>
+<li><a href="#background-right-of-association">Background: First Amendment right of association</a></li>
+<li><a href="#what-harm">What harm does the First Amendment Right of Association seek to protect against?</a></li>
+<li><a href="#legal-tests">What legal tests apply when the First Amendment is at issue?</a></li>
+<li><a href="#is-that-all">Is that all you’re arguing?</a></li>
+<li><a href="#specific-legal-claims">What are the specific legal claims?</a></li>
+<li><a href="#where-case-filed">Where is the case being filed?</a></li>
+<li><a href="#jewel-v-nsa">How does this case compare to Jewel v. NSA?</a></li>
+<li><a href="#strange-bedfellows">Why such strange bedfellows?</a></li>
+</ul><p><a name="why-associations" id="why-associations"></a><b>Why the focus on associations?</b></p>
+<p>Our goal is to highlight one of the most important ways that the government collection of telephone records is unconstitutional: it violates the First Amendment right of association. When the government gets access to the phone records of political and activist organizations and their members, it knows who is talking to whom, when, and for how long. This so-called “<a href="https://www.eff.org/deeplinks/2013/06/why-metadata-matters">metadata</a>,” especially when collected in bulk and aggregated, tracks the associations of these organizations. After all, if the government knows that you call the Unitarian Church or Calguns or People for the American Way or Students for Sensible Drug Policy regularly, it has a very good indication that you are a member and it certainly knows that you associate regularly. The law has long recognized that government access to associations can create a chilling effect—people are less likely to associate with organizations when they know the government is watching and when the government can track their associations. </p>
+<p><a name="factual-basis" id="factual-basis"></a><b>What is the factual basis for the case?</b></p>
+<p>The case challenges the mass telephone records collection that was <a href="https://www.eff.org/deeplinks/2013/06/confirmed-nsa-spying-millions-americans">confirmed</a> by the <a href="http://www.guardian.co.uk/world/interactive/2013/jun/06/verizon-telephone-data-court-order">FISA Order</a> that was <a href="http://www.guardian.co.uk/world/2013/jun/06/nsa-phone-records-verizon-court-order">published</a> on June 5, 2013 and <a href="http://www.dni.gov/index.php/newsroom/press-releases/191-press-releases-2013/868-dni-statement-on-recent-unauthorized-disclosures-of-classified-information">confirmed</a> by the Director of National Intelligence (DNI) on June 6, 2013. The DNI confirmed that the collection was “broad in scope” and conducted under the “business records” provision of the Foreign Intelligence Surveillance Act, also known as section 215 of the Patriot Act and 50 U.S.C. section 1861.</p>
+<p>The facts have long been part of EFF’s <em><a href="https://www.eff.org/cases/jewel">Jewel v. NSA</a></em> case.</p>
+<p>The case does not include section 702 programs, which includes the recently made public and called the <a href="https://www.eff.org/deeplinks/2013/06/what-we-need-to-know-about-prism">PRISM program</a> or the fiber optic splitter program that is included (along with the telephone records program) in the <em><a href="https://www.eff.org/cases/jewel">Jewel v. NSA</a></em> case. </p>
+<p><a name="background-right-of-association" id="background-right-of-association"></a><b>Background: First Amendment right of association</b></p>
+<p>The First Amendment right of association is a well established doctrine that prevents the government “interfering with the right to peaceably assemble or prohibit the petition for a governmental redress of grievances.” The most famous case embracing it is a 1958 Supreme Court Case from the Civil Rights era called <em> NAACP v. Alabama</em>. In that case the Supreme Court held that it would violate the First Amendment for the NAACP to have to turn over its membership lists in litigation.</p>
+<p>The right stems from the simple fact that the First Amendment protects the freedom to associate and express political views as a group. This constitutional protection is critical because, as the court noted “[e]ffective advocacy of both public and private points of view, particularly controversial ones, is undeniably enhanced by group association[.]” <i>NAACP</i><i> v. Alabama</i>, 357 U.S. at 460. As another court noted: the Constitution protects freedom of association to encourage the “advancing ideas and airing grievances” <i>Bates v. City of Little Rock</i>, 361 U.S. 516, 522-23 (1960).</p>
+<p><a name="what-harm" id="what-harm"></a><b>What harm does the First Amendment right of association seek to protect against?</b></p>
+<p>The collection and analysis of telephone records give the government a broad window into our associations. The First Amendment protects against this because, as the Supreme Court has recognized, “it may induce members to withdraw from the association and dissuade others from joining it because of fear of exposure of their beliefs shown through their associations and of the consequences of their exposure.” <i>NAACP</i><i> v. Alabama</i>, 357 U.S. at 462-63. <i>See also</i> <i>Bates</i>, 361 U.S. at 523; <i>Gibson v. Florida Legislative Investigation Comm.</i>, 372 U.S. 539 (1963). </p>
+<p>Privacy in one’s associational ties is also closely linked to freedom of association: “Inviolability of privacy in group association may in many circumstances be indispensable to preservation of freedom of association, particularly where a group espouses dissident beliefs.” <i>NAACP</i><i> v. Alabama, </i>357 U.S. at 462. </p>
+<p><a name="legal-tests" id="legal-tests"></a><b>What legal tests apply when the First Amendment is at issue?</b></p>
+<p>The Supreme Court has made clear that infringements on freedom of association may survive constitutional scrutiny only when they “serve compelling state interests, unrelated to the suppression of ideas, that cannot be achieved through means significantly less restrictive of associational freedoms.” <i>Roberts v. United States Jaycees</i>, 468 U.S. 609, 623 (1984); <i>see also</i> <i>NAACP v. Button</i>, 371 U.S. at 341; <i>Knox v. SEIU, Local 1000</i>, 132 S. Ct. 2277, 2291 (2012) </p>
+<p>Here, the wholesale collection of telephone records of millions of innocent Americans’ communications records, and thereby collection of their associations, is massively overbroad, regardless of the government’s interest. Thus, the NSA spying program fails under the basic First Amendment tests that have been in place for over fifty years.</p>
+<p><a name="is-that-all" id="is-that-all"></a><b>Is that all you’re arguing?</b></p>
+<p>No. The new case will also argue the basic First and Fourth Amendment arguments that we’re also raising on behalf of individual AT&amp;T customers in <em>Jewel v.</em> NSA. It will also raise a claim under section 215 of the PATRIOT Act since we believe the government is misinterpreting the statute—it does not allow bulk collection and searching without individual judicial approval. We also raise a Fifth Amendment claim for informational privacy and for vagueness, since the secret court rulings by the court overseeing the spying, the Foreign Intelligence Surveillance Court, give neither the public nor law enforcement clear rules and limits on their ability to surveil Americans. </p>
+<p><a name="specific-legal-claims" id="specific-legal-claims"></a><b>What are the specific legal claims?</b></p>
+<ol><li>First Amendment</li>
+<li>Fourth Amendment</li>
+<li>Fifth Amendment right to informational privacy and vagueness</li>
+<li>50 U.S.C 1861 (also known as Patriot Act section 215)</li>
+<li>Return of property</li>
+</ol><p>There may also be other legal claims added later.</p>
+<p><a name="where-case-filed" id="where-case-filed"></a><b>Where is the case being filed?</b></p>
+<p>The case is filed in the Northern District of California federal court and will likely be related to the <em>Jewel v. NSA</em> case and the <em>Shubert v. Obama</em> case currently pending there. </p>
+<p><a name="jewel-v-nsa" id="jewel-v-nsa"></a><b>How does this case compare to Jewel v. NSA?</b></p>
+<p>This case is a companion case to our long pending one, <i><a href="https://www.eff.org/cases/jewel">Jewel v. NSA</a></i>, where the court—in July 2013—rejected the government’s claim of state secrets privilege. The Jewel case also addresses the phone records collection, but on behalf of individual AT&amp;T customers in a class action. It also includes the claims of direct access by the NSA to the Internet content and records of our communications carried on the fiberoptic cables of AT&amp;T. Those were first revealed by Mark Klein and recently confirmed in the secret NSA slides <a href="http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/">released</a> by the <i>Guardian</i> and the <i>Washington Post.</i></p>
+<p><a name="strange-bedfellows" id="strange-bedfellows"></a><b>Why such strange bedfellows?</b></p>
+<p>The First Amendment especially is designed to protect people in their associations without regard to what those associations are doing, so it’s not surprising that groups from across the political spectrum and whose focus is on a range of issues, some of which may conflict, all agree on the need for the protections of the First Amendment against government access to the records of who they associate with, when, for how long and at what frequency. The groups include:</p>
+<p>First Unitarian Church of Los Angeles<br />
+Unitarian Universalist Service Committee<br />
+The National Lawyers Guild<br />
+Greenpeace, Inc.<br />
+Council on American-Islamic Relations<br />
+Human Rights Watch<br />
+People for the American Way<br />
+California Association of Federal Firearms Licensees<br />
+Franklin Armory<br />
+The Calguns Foundation<br />
+Free Software Foundation<br />
+Public Knowledge<br />
+Free Press<br />
+Acorn Active Media Foundation<br />
+Patient Privacy Rights<br />
+The Shalom Center<br />
+Charity and Security Network<br />
+TechFreedom<br />
+Students for Sensible Drug Policy Foundation<br />
+NORML, California Chapter<br />
+Media Alliance<br />
+Bill of Rights Defense Committee</p>
+
+</div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+
+  
+  </div>
+      </div>
+            </div>
+    <div class="clr"></div>
+    <div class="case-page-related-notabs">
+          </div>
+    <div class="case-page-related">
+      <div id="tabs-0-related"><div class="item-list"><ul><li class="first"><a href="#tabs-0-related-1">Documents</a></li>
+<li><a href="#tabs-0-related-2">Blog Posts</a></li>
+<li><a href="#tabs-0-related-3">Press Releases</a></li>
+<li class="last"><a href="#tabs-0-related-4">In the News</a></li>
+</ul></div><div id="tabs-0-related-1"><div class="panel-pane pane-views-panes pane-legal-case-related-docs-no-filev-panel-pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-legal-case-related-docs-no-filev view-id-legal_case_related_docs_no_filev view-display-id-panel_pane_1 view-dom-id-965e0429da5ff15df1451ec92fa23e4e">
+        
+      <div class="view-filters">
+      <form action="/cases/first-unitarian-church-los-angeles-v-nsa" method="get" id="views-exposed-form-legal-case-related-docs-no-filev-panel-pane-1" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-keys-wrapper" class="views-exposed-widget views-widget-filter-keys">
+                  <label for="edit-keys">
+            Search Terms          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-keys">
+ <input title="Enter the terms you wish to search for." type="text" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-text" />
+</div>
+        </div>
+              </div>
+              <div class="views-exposed-widget views-widget-sort-by">
+        <div class="form-item form-type-select form-item-sort-by">
+  <label for="edit-sort-by">Sort by </label>
+ <select id="edit-sort-by" name="sort_by" class="form-select"><option value="field_file_date_value" selected="selected">Date</option><option value="title">Title</option></select>
+</div>
+      </div>
+      <div class="views-exposed-widget views-widget-sort-order">
+        <div class="form-item form-type-select form-item-sort-order">
+  <label for="edit-sort-order">Order </label>
+ <select id="edit-sort-order" name="sort_order" class="form-select"><option value="ASC">Asc</option><option value="DESC" selected="selected">Desc</option></select>
+</div>
+      </div>
+                <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-legal-case-related-docs-no-filev" name="" value="Apply" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-43229"> <span class="pdfpreview-image-wrapper"><a href="/document/governments-opposition-our-request-judicial-notice"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/39b7bd21c89c24232935b0ef0b931c2e.jpg?itok=5O6rNzmy" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">September 25, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/governments-opposition-our-request-judicial-notice" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Government&#039;s Opposition to our Request for Judicial Notice</a> <a href="https://www.eff.org/files/2015/10/05/first_uni_govt_response_to_our_rjn.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-43069"> <span class="pdfpreview-image-wrapper"><a href="/document/fisa-court-opinion-released-sept-17-2013"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/0cbad0cdbfd7bbca5a00caa5a6ce67c3.jpg?itok=v1lPaUdn" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">September 17, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/fisa-court-opinion-released-sept-17-2013" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">FISA Court Opinion - Released Sept. 17, 2013 </a> <a href="https://www.eff.org/files/2015/09/17/br13-09-primary-order.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-43040"> <span class="pdfpreview-image-wrapper"><a href="/document/plaintiffs-request-judicial-notice"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/5bf60fc197306e849263bc618c8008fd.jpg?itok=3G2f9B6P" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">September 11, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/plaintiffs-request-judicial-notice" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Plaintiffs&#039; Request for Judicial Notice</a> <a href="https://www.eff.org/files/2015/09/11/first_uni_pltfs_rjn_0.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-42225"> <span class="pdfpreview-image-wrapper"><a href="/document/order-denying-motion-hearings"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/7c213f4beb5b5ec668ff2d4a3b5c1b9f.jpg?itok=o2hljcMB" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">June 1, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/order-denying-motion-hearings" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Order Denying Motion for Hearings</a> <a href="https://www.eff.org/files/2015/06/01/jewel_order_denying_hearing_dates.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-42220"> <span class="pdfpreview-image-wrapper"><a href="/document/governnments-opposition-plaintiffs-motion-hearing-date"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/0aa6e69c467153c93212a14b2c6204ac.jpg?itok=C8CLNrTF" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">May 29, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/governnments-opposition-plaintiffs-motion-hearing-date" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Governnment&#039;s Opposition to Plaintiffs&#039; Motion for Hearing Date</a> <a href="https://www.eff.org/files/2015/05/29/first_uni_govt_opp_hearing_date_request.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-42182"> <span class="pdfpreview-image-wrapper"><a href="/document/staement-recent-decision-aclu-v-clapper"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/456e4a4f1df573495baed3b649b81d5d.jpg?itok=CocuEA_D" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">May 22, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/staement-recent-decision-aclu-v-clapper" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Statement of Recent Decision (ACLU v. Clapper)</a> <a href="https://www.eff.org/files/2015/05/22/first_uni_stmt_recent_decision_clapper.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-42183"> <span class="pdfpreview-image-wrapper"><a href="/document/administrative-motion-hearing-date-pending-motions"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/9eef4902c8fdd5ce5267dcd5b0bd354d.jpg?itok=czHQev9h" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">May 22, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/administrative-motion-hearing-date-pending-motions" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Administrative Motion for Hearing Date on Pending Motions</a> <a href="https://www.eff.org/files/2015/05/22/first_uni_admin_mtn_hearing_deux.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-41675"> <span class="pdfpreview-image-wrapper"><a href="/document/order-granting-motion-seal"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/6e3b38b1dbdc43a9267d595368c7e53b.jpg?itok=QczXmpS1" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">February 19, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/order-granting-motion-seal" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Order Granting Motion to Seal</a> <a href="https://www.eff.org/files/2015/02/19/first_uni_order_granting_sealing_2.19.15.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-41533"> <span class="pdfpreview-image-wrapper"><a href="/document/order-granting-parties-stipulation-service-defendants-their-individual-capacities"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/94aaa5f1e98752af8e58e85b3aced698.jpg?itok=0uwRqs-T" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">February 2, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/order-granting-parties-stipulation-service-defendants-their-individual-capacities" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Order Granting Parties&#039; Stipulation on Service of Defendants in their Individual Capacities</a> <a href="https://www.eff.org/files/2015/02/02/first_uni_order_on_service_defs_ind_capacity.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-10 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-41119"> <span class="pdfpreview-image-wrapper"><a href="/document/order-denying-plaintiffs-motion-request-hearing-dates"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/8c7beb664b5c692a95367c02af6c6012.jpg?itok=9f-bXZv0" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">December 9, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/order-denying-plaintiffs-motion-request-hearing-dates" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Order Denying Plaintiffs&#039; Motion to Request Hearing Dates</a> <a href="https://www.eff.org/files/2014/12/10/first_uni_order_denying_motion_for_hearing_date_12.9.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40878"> <span class="pdfpreview-image-wrapper"><a href="/document/defendants-opposition-motion-hearing"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/e21c1d658080dd0787ec6f0cb0ea6461.jpg?itok=eCHRWy6d" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 4, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/defendants-opposition-motion-hearing" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Defendant&#039;s Opposition to Motion for Hearing</a> <a href="https://www.eff.org/files/2014/11/04/first_uni_defs_opp_mtn_for_hearing.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-12 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40865"> <span class="pdfpreview-image-wrapper"><a href="/document/plaintiffs-motion-set-hearing-date"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/375e1feda669f41461789e4c5d479f93.jpg?itok=5eBu5GLA" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">October 31, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/plaintiffs-motion-set-hearing-date" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Plaintiffs&#039; Motion to Set Hearing Date</a> <a href="https://www.eff.org/files/2014/10/31/first_uni_pltfs_motion_for_hearing_date.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40446"> <span class="pdfpreview-image-wrapper"><a href="/document/statement-recent-decision"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/d5ad17362e22ec120fa82e7e20a576a1.jpg?itok=QCdVZsSE" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">August 27, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/statement-recent-decision" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Statement of Recent Decision</a> <a href="https://www.eff.org/files/2014/08/27/first_uni_stmt_recent_decision.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-14 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40372"> <span class="pdfpreview-image-wrapper"><a href="/document/second-amended-complaint-1"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/b501b35dc8b28d05461faf562d524533.jpg?itok=PHcKC7SQ" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">August 20, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/second-amended-complaint-1" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Second Amended Complaint</a> <a href="https://www.eff.org/files/2014/08/20/first_uni_2ac_filed.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-15 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40350"> <span class="pdfpreview-image-wrapper"><a href="/document/order-granting-leave-file-second-amended-complaint"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/85fdf1403a6f2d0beeb1b85f866310f6.jpg?itok=V0hXyVZX" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">August 19, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/order-granting-leave-file-second-amended-complaint" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Order Granting Leave to File Second Amended Complaint</a> <a href="https://www.eff.org/files/2014/08/19/first_uni_order_granting_leave_file_2ac.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-16 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40343"> <span class="pdfpreview-image-wrapper"><a href="/document/stipulation-and-proposed-order-leave-file-second-amended-complaint"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/4f50b0e873211a669f6811f44e7222e0.jpg?itok=qENdZ5ER" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">August 18, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/stipulation-and-proposed-order-leave-file-second-amended-complaint" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Stipulation and Proposed Order for Leave to File Second Amended Complaint</a> <a href="https://www.eff.org/files/2014/08/18/first_uni_stip_prop_order_file_2ac.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-17 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39685"> <span class="pdfpreview-image-wrapper"><a href="/document/govt-defendants-notice-lodging-classified-declaration-moultrie"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/69fea534788753cc7bb466b9bafadc60.jpg?itok=CtrjODtt" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">May 5, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/govt-defendants-notice-lodging-classified-declaration-moultrie" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Gov&#039;t Defendants&#039; Notice of Lodging of Classified Declaration of Moultrie</a> <a href="https://www.eff.org/files/2014/05/06/113_first_uni_defs_notice_lodging_moltrie_decl_5.5.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-18 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39702"> <span class="pdfpreview-image-wrapper"><a href="/document/unclassified-shea-declaration-mar-17-2014"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/4b89cf51826e6dfea653802719bb2b3b.jpg?itok=19nA794J" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">May 5, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/unclassified-shea-declaration-mar-17-2014" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Unclassified Shea Declaration Mar. 17, 2014</a> <a href="https://www.eff.org/files/2014/05/07/228_unclassified_shea_decl_3.17.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-19 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39684"> <span class="pdfpreview-image-wrapper"><a href="/document/govt-defendants-admin-motion-file-response-evidence-preservation-order-under-seal"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/6b76143c46ca60367033f10c8bd00b74.jpg?itok=VcAPImca" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">May 5, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/govt-defendants-admin-motion-file-response-evidence-preservation-order-under-seal" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Gov&#039;t Defendants&#039; Admin Motion to File Response to Evidence Preservation Order Under Seal</a> <a href="https://www.eff.org/files/2014/05/06/112_first_uni_defs_admin_mtn_file_response_to_evid_pres_order_under_seal_5.5.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-20 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39635"> <span class="pdfpreview-image-wrapper"><a href="/document/govts-identification-classified-declarations-under-review"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/fd03c4bd414835bf633981fb4a139b2e.jpg?itok=Axx9V7x0" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">April 21, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/govts-identification-classified-declarations-under-review" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Govt&#039;s Identification of Classified Declarations Under Review</a> <a href="https://www.eff.org/files/2014/04/22/first_uni_classified_decls_under_review.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-21 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39636"> <span class="pdfpreview-image-wrapper"><a href="/document/fisc-notice-re-docs-plaintiffs-jewel-and-first-unitarian"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/03e802bf37d18167bf898b39ed30bec6.jpg?itok=p9LqMHlp" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">April 18, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/fisc-notice-re-docs-plaintiffs-jewel-and-first-unitarian" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">FISC Notice Re Docs from Plaintiffs in Jewel and First Unitarian</a> <a href="https://www.eff.org/files/2014/04/22/fisc_notice_jewel_first_uni.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-22 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39603"> <span class="pdfpreview-image-wrapper"><a href="/document/rule-13b-notice"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/139df9c6fcc13efe1bf576d014171ddd.jpg?itok=N5VXXqxB" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">April 9, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/rule-13b-notice" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">FISC Rule 13(b) Notice</a> <a href="https://www.eff.org/files/2014/04/11/br14-01-notice-140410.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-23 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39604"> <span class="pdfpreview-image-wrapper"><a href="/document/brief-amicus-curiae-center-national-security-studies-lack-statutory-authority-courts-bulk"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/6f823d374c375ec4a9d8cad67f8e23de.jpg?itok=Zky1EAGl" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">April 3, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/brief-amicus-curiae-center-national-security-studies-lack-statutory-authority-courts-bulk" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">FISC Brief of Amicus Curiae Center for National Security Studies on the Lack of Statutory Authority for this Court&#039;s Bulk Telephony Metadata Orders</a> <a href="https://www.eff.org/files/2014/04/11/misc-14-01-brief-140404.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-24 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39452"> <span class="pdfpreview-image-wrapper"><a href="/document/notice-correcting-footnote-6-page-5-govts-response-fisc-order"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/87dcd7ba9cc648952886068c2e82abb5.jpg?itok=nZE9GKUL" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">April 3, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/notice-correcting-footnote-6-page-5-govts-response-fisc-order" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Notice Correcting Footnote 6 on Page 5 of Govt&#039;s Response to FISC Order</a> <a href="https://www.eff.org/files/2014/04/03/br14-01-notice-140403.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-25 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39451"> <span class="pdfpreview-image-wrapper"><a href="/document/govts-response-fisc-order-re-effs-motion-correct-record"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/caf89ecc0b00a3964f0bfc2eb90bc66f.jpg?itok=pRWScdSa" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">April 2, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/govts-response-fisc-order-re-effs-motion-correct-record" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Govt&#039;s Response to FISC Order re EFF&#039;s Motion to Correct the Record</a> <a href="https://www.eff.org/files/2014/04/03/br14-01-response-140403.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-26 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39430"> <span class="pdfpreview-image-wrapper"><a href="/document/notice-fisc-evidence-preservation-order-nd-ca"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/fdbb5310c35cdf598c91d24a2fbbff16.jpg?itok=34NXvaYu" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 27, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/notice-fisc-evidence-preservation-order-nd-ca" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Notice to FISC of Evidence Preservation Order in ND CA</a> <a href="https://www.eff.org/files/2014/03/31/br14-01-notice-140328.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-27 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39378"> <span class="pdfpreview-image-wrapper"><a href="/document/evidence-preservation-order"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/141dadf20723b57324e27a7b2c7dc402.jpg?itok=LHQEL3S6" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 21, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/evidence-preservation-order" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Evidence Preservation Order</a> <a href="https://www.eff.org/files/2014/03/21/preservation_order.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-28 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39374"> <span class="pdfpreview-image-wrapper"><a href="/document/unclassified-fisc-order-march-21-2014"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/d242c87c9413ce205b70b00dc91a84c0.jpg?itok=zjyYke_Z" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 21, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/unclassified-fisc-order-march-21-2014" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Unclassified FISC Order of March 21, 2014</a> <a href="https://www.eff.org/files/2014/03/21/br_14-01_opinion_and_order_march_21_2014_rbw_140321.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-29 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39361"> <span class="pdfpreview-image-wrapper"><a href="/document/government-defendants-proposed-evidence-preservation-order"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/6feef4bc57cd1bb6e2c37b03910bf34b.jpg?itok=DlnmkqFs" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 20, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/government-defendants-proposed-evidence-preservation-order" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Government Defendants&#039; Proposed Evidence Preservation Order</a> <a href="https://www.eff.org/files/2014/03/20/defs_prop_preservation_order.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-30 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39362"> <span class="pdfpreview-image-wrapper"><a href="/document/transcript-march-19-hearing"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/caaaa660493b94cbf1c3215d2f7ad012.jpg?itok=Sz4LF1R-" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 20, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/transcript-march-19-hearing" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Transcript of March 19 Hearing</a> <a href="https://www.eff.org/files/2014/03/20/jewel_first_uni_amended_transcript_3.19.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-31 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39347"> <span class="pdfpreview-image-wrapper"><a href="/document/plaintiffs-proposed-evidence-preservation-order"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/aa8c08954689a39a77950dd0af29682f.jpg?itok=M6mkrP6f" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 20, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/plaintiffs-proposed-evidence-preservation-order" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Plaintiffs&#039; Proposed Evidence Preservation Order</a> <a href="https://www.eff.org/files/2014/03/20/pltfs_prop_preservation_order_0.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-32 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39331"> <span class="pdfpreview-image-wrapper"><a href="/document/courts-questions-hearing-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/ac3bdf89740c45cab2c4b0a9b3d8e395.jpg?itok=GwdBt3sS" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 18, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/courts-questions-hearing-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Court&#039;s Questions for Hearing</a> <a href="https://www.eff.org/files/2014/03/18/196.1_questions_for_hearing_3.18.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-33 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39328"> <span class="pdfpreview-image-wrapper"><a href="/document/plaintiffs-reply-brief-re-preservation-evidence-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/30a82fa787622cafe1d3b39323ad080b.jpg?itok=9RYINQJg" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 18, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/plaintiffs-reply-brief-re-preservation-evidence-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Plaintiffs&#039; Reply Brief Re Preservation of Evidence</a> <a href="https://www.eff.org/files/2014/03/18/first_uni_reply.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-34 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39313"> <span class="pdfpreview-image-wrapper"><a href="/document/government-defendants-response-evidence-preservation-brief-1"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/068fe5e15aa6765d32e7691f590ba920.jpg?itok=ammLoyto" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 17, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/government-defendants-response-evidence-preservation-brief-1" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Gov&#039;t Defendants&#039;s Notice Ex Parte In Camera Declaration Teresa Shea</a> <a href="https://www.eff.org/files/2014/03/17/093_notice_in_camera_shea_decl_3.17.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-35 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39303"> <span class="pdfpreview-image-wrapper"><a href="/document/government-defendants-response-evidence-preservation-brief-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/8cb641835efeadbabb4a0be8ff90c160.jpg?itok=hDqkFAt0" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 17, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/government-defendants-response-evidence-preservation-brief-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Government Defendants&#039; Response to Evidence Preservation Brief</a> <a href="https://www.eff.org/files/2014/03/17/92-govts_response.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-36 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39285"> <span class="pdfpreview-image-wrapper"><a href="/document/plaintiffs-opening-brief-re-evidence-preservation-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/8dfe0981458fae6ea2f5c150c8119546.jpg?itok=Ob9d3Omd" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 13, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/plaintiffs-opening-brief-re-evidence-preservation-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Plaintiffs&#039; Opening Brief re Evidence Preservation</a> <a href="https://www.eff.org/files/2014/03/13/fu_brief_re_evidence_preservation.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-37 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39286"> <span class="pdfpreview-image-wrapper"><a href="/document/proposed-order-10"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/ebea824dc3f07df4df73d81b1b56f9d8.jpg?itok=GKKw-njg" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 13, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/proposed-order-10" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Proposed Order</a> <a href="https://www.eff.org/files/2014/03/13/fu_prop_order_on_brief_re_evidence_preservation.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-38 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39281"> <span class="pdfpreview-image-wrapper"><a href="/document/opinion-and-order"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/80901c538db83746a0b2c5702f5d65ff.jpg?itok=g2karnIG" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 12, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/opinion-and-order" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">FISC Opinion and Order</a> <a href="https://www.eff.org/files/2014/03/12/br14-01_order.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-39 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39277"> <span class="pdfpreview-image-wrapper"><a href="/document/notice-fisc-entry-temporary-restraining-order"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/f775aef37daf39f61ae424d4c33381de.jpg?itok=fl8OMGkv" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 11, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/notice-fisc-entry-temporary-restraining-order" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Notice to FISC of Entry of Temporary Restraining Order</a> <a href="https://www.eff.org/files/2014/03/12/noe_fisc.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-40 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39240"> <span class="pdfpreview-image-wrapper"><a href="/document/cohn-declaration-exhibit-support-tro-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/34173e2d618f83381adcaf118106c579.jpg?itok=iEx3l1vg" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 10, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/cohn-declaration-exhibit-support-tro-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Cohn Declaration Exhibit A in Support of TRO</a> <a href="https://www.eff.org/files/2014/03/10/086.2_cohn_decl_ex_a_tro_3.10.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-41 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39245"> <span class="pdfpreview-image-wrapper"><a href="/document/proposed-temporary-restraining-order-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/8ec894d7d2e691e168340ff3f0625266.jpg?itok=QeqEZFjw" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 10, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/proposed-temporary-restraining-order-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Proposed Temporary Restraining Order</a> <a href="https://www.eff.org/files/2014/03/10/086.7_prop_order_tro_3.10.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-42 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39238"> <span class="pdfpreview-image-wrapper"><a href="/document/notice-motion-and-motion-temporary-restraining-order-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/4d2dd89931ecde4a5cd8c29c6cf235d6.jpg?itok=Dyo9_yv1" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 10, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/notice-motion-and-motion-temporary-restraining-order-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Notice of Motion and Motion for Temporary Restraining Order</a> <a href="https://www.eff.org/files/2014/03/10/086_tro_mpa_3.10.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-43 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39243"> <span class="pdfpreview-image-wrapper"><a href="/document/cohn-declaration-exhibit-d-support-tro-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/514a2184891b02e2062c4f6b9923b84c.jpg?itok=08HjoI9A" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 10, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/cohn-declaration-exhibit-d-support-tro-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Cohn Declaration Exhibit D in Support of TRO</a> <a href="https://www.eff.org/files/2014/03/10/086.5_cohn_decl_ex_d_tro_3.10.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-44 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39241"> <span class="pdfpreview-image-wrapper"><a href="/document/cohn-declaration-exhibit-b-support-tro-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/ae4d8f740c792688030ddc02c722a7c2.jpg?itok=55FD-tCm" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 10, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/cohn-declaration-exhibit-b-support-tro-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Cohn Declaration Exhibit B in Support of TRO</a> <a href="https://www.eff.org/files/2014/03/10/086.3_cohn_decl_ex_b_tro_3.10.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-45 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39248"> <span class="pdfpreview-image-wrapper"><a href="/document/governments-response-tro-1"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/89f6fd5de5e98d9e8b79f22803bef3a3.jpg?itok=wvvHjJEi" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 10, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/governments-response-tro-1" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Government&#039;s Response to TRO</a> <a href="https://www.eff.org/files/2014/03/10/govts_response_to_tro_0.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-46 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39239"> <span class="pdfpreview-image-wrapper"><a href="/document/cohn-declaration-support-tro-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/47a4f4877cd561767b79bbba8a8192eb.jpg?itok=zPX0P0uY" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 10, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/cohn-declaration-support-tro-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Cohn Declaration in Support of TRO</a> <a href="https://www.eff.org/files/2014/03/10/086.1_cohn_decl_tro_3.10.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-47 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39244"> <span class="pdfpreview-image-wrapper"><a href="/document/cohn-declaration-exhibit-e-support-tro-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/30faf4f290fbbf0fed54f175d1b4cd61.jpg?itok=gSZImcAK" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 10, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/cohn-declaration-exhibit-e-support-tro-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Cohn Declaration Exhibit E in Support of TRO</a> <a href="https://www.eff.org/files/2014/03/10/086.6_cohn_decl_ex_e_tro_3.10.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-48 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39242"> <span class="pdfpreview-image-wrapper"><a href="/document/cohn-declaration-exhibit-c-support-tro-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/e58195f452e63fa56ae761013d8519c9.jpg?itok=YIhPXpvd" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 10, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/cohn-declaration-exhibit-c-support-tro-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Cohn Declaration Exhibit C in Support of TRO</a> <a href="https://www.eff.org/files/2014/03/10/086.4_cohn_decl_ex_c_tro_3.10.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-49 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39251"> <span class="pdfpreview-image-wrapper"><a href="/document/order-granting-tro-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/e7f69029ee56dbdc44a99eebadda9a16.jpg?itok=lhsXb90I" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 10, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/order-granting-tro-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Order Granting TRO</a> <a href="https://www.eff.org/files/2014/03/11/089_order_granting_tro_3.10.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-50 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39237"> <span class="pdfpreview-image-wrapper"><a href="/document/motion-dismiss-meuller"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/90483c07b8f5ee5555656cdbe9b7c1ad.jpg?itok=1u1VWqxa" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">March 6, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/motion-dismiss-meuller" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Motion to Dismiss Meuller</a> <a href="https://www.eff.org/files/2014/03/10/084_motion_dismiss_meuller_3.6.14.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-51 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39147"> <span class="pdfpreview-image-wrapper"><a href="/document/supplemental-declaration-teresa-shea"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/98de79bcb2ececeac2122bd7b4d8722a.jpg?itok=aHGrdcX4" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">February 21, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/supplemental-declaration-teresa-shea" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Supplemental Declaration of Teresa Shea</a> <a href="https://www.eff.org/files/2014/02/24/sheasuppdecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-52 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39148"> <span class="pdfpreview-image-wrapper"><a href="/document/government-defendants-reply-iso-their-motion-dismiss"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/64053f15603e12a61e0882d78a8a463c.jpg?itok=gRzw04e-" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">February 21, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/government-defendants-reply-iso-their-motion-dismiss" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Government Defendants&#039; Reply ISO their Motion to Dismiss</a> <a href="https://www.eff.org/files/2014/02/24/govtreplyisomtd.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-53 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-39146"> <span class="pdfpreview-image-wrapper"><a href="/document/governments-opposition-plaintiffs-motion-strike-declarations-shea-and-skule"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/c10b831b1d8ec77ad09854a80c884fed.jpg?itok=QcftQ-jv" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">February 21, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/governments-opposition-plaintiffs-motion-strike-declarations-shea-and-skule" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Government&#039;s Opposition to Plaintiffs&#039; Motion to Strike the Declarations of Shea and Skule</a> <a href="https://www.eff.org/files/2014/02/24/govtoppmtssheaskule.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-54 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-38943"> <span class="pdfpreview-image-wrapper"><a href="/document/cohn-declaration-support-plaintiffs-reply-support-partial-motion-summary-judgment"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/3038a96bfa1902b00d3c0bdbf9972d2e.jpg?itok=F8BjsrC4" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">January 25, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/cohn-declaration-support-plaintiffs-reply-support-partial-motion-summary-judgment" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Cohn Declaration in Support of Plaintiffs&#039; Reply in Support of Partial Motion for Summary Judgment</a> <a href="https://www.eff.org/files/2014/01/27/cohn_decl_no_exh.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-55 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-38941"> <span class="pdfpreview-image-wrapper"><a href="/document/plaintiffs-reply-support-partial-motion-summary-judgment"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/0dc9ebb6f440c094dc4d6bd51d86ec71.jpg?itok=WfqFFCox" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">January 25, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/plaintiffs-reply-support-partial-motion-summary-judgment" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Plaintiffs&#039; Reply in Support of Partial Motion for Summary Judgment</a> <a href="https://www.eff.org/files/2014/01/27/msj_reply_and_opp.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-56 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-38946"> <span class="pdfpreview-image-wrapper"><a href="/document/ex-c-cohn-declaration-support-plaintiffs-reply-support-partial-motion-summary-judgment"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/456dfbeaeed7c50ae4e2e173899d4f70.jpg?itok=DP32irkV" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">January 25, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/ex-c-cohn-declaration-support-plaintiffs-reply-support-partial-motion-summary-judgment" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Ex C to Cohn Declaration in Support of Plaintiffs&#039; Reply in Support of Partial Motion for Summary Judgment</a> <a href="https://www.eff.org/files/2014/01/27/ex_c_cohn_decl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-57 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-38944"> <span class="pdfpreview-image-wrapper"><a href="/document/ex-cohn-declaration-support-plaintiffs-reply-support-partial-motion-summary-judgment"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/5a5bcd31310dda750921bfadc437362c.jpg?itok=KUcds3nl" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">January 25, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/ex-cohn-declaration-support-plaintiffs-reply-support-partial-motion-summary-judgment" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Ex A to Cohn Declaration in Support of Plaintiffs&#039; Reply in Support of Partial Motion for Summary Judgment</a> <a href="https://www.eff.org/files/2014/01/27/ex_a_cohn_decl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-58 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-38942"> <span class="pdfpreview-image-wrapper"><a href="/document/cohn-declaration-exhibits-support-plaintiffs-reply-support-partial-motion-summary-judgment"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/d29a6e1720f14dfd0119d7f057b36904.jpg?itok=sh9S91zs" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">January 25, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/cohn-declaration-exhibits-support-plaintiffs-reply-support-partial-motion-summary-judgment" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Cohn Declaration with Exhibits in Support of Plaintiffs&#039; Reply in Support of Partial Motion for Summary Judgment</a> <a href="https://www.eff.org/files/2014/01/27/cohn_decl_with_exh.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-59 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-38945"> <span class="pdfpreview-image-wrapper"><a href="/document/ex-b-cohn-declaration-support-plaintiffs-reply-support-partial-motion-summary-judgment"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/787065afc48a79e3d5bf8196237f801f.jpg?itok=fKOCvyEZ" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">January 25, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/ex-b-cohn-declaration-support-plaintiffs-reply-support-partial-motion-summary-judgment" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Ex B to Cohn Declaration in Support of Plaintiffs&#039; Reply in Support of Partial Motion for Summary Judgment</a> <a href="https://www.eff.org/files/2014/01/27/ex_b_cohn_decl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-60 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-38711"> <span class="pdfpreview-image-wrapper"><a href="/document/amicus-brief-california-attorneys-criminal-justice"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/3d789acd22315eb7d69b5397c9cb3208.jpg?itok=W--tV5Bq" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">December 20, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/amicus-brief-california-attorneys-criminal-justice" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Amicus Brief of California Attorneys for Criminal Justice</a> <a href="https://www.eff.org/files/2013/12/23/ca_attys_for_crim_justice_amicus_brief.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-61 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-38535"> <span class="pdfpreview-image-wrapper"><a href="/document/government-defendants-motion-dismiss-and-opposition-plaintiffs-motion-partial-summary"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/cf4e95e976ae74b26eefd3db50e4017f.jpg?itok=QXjaCsVK" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">December 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/government-defendants-motion-dismiss-and-opposition-plaintiffs-motion-partial-summary" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Government Defendants&#039; Motion to Dismiss and Opposition to Plaintiffs&#039; Motion for Partial Summary Judgment</a> <a href="https://www.eff.org/files/2013/12/09/govtoppfirstunitarian.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-62 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-38536"> <span class="pdfpreview-image-wrapper"><a href="/document/declaration-james-j-gilligan-support-defendants-motion-dismiss"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/a13f98ce74d4dc43d082af4bc8c51b5e.jpg?itok=hS9gml8-" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">December 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/declaration-james-j-gilligan-support-defendants-motion-dismiss" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Declaration of James J. Gilligan In Support of Defendants&#039; Motion to Dismiss</a> <a href="https://www.eff.org/files/2013/12/09/gilligandecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-63 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-38357"> <span class="pdfpreview-image-wrapper"><a href="/document/amicus-brief-national-association-criminal-defense-lawyers"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/b889eaaf3de3d9fa36513e7dfcbce4d2.jpg?itok=yMYaR970" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 18, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/amicus-brief-national-association-criminal-defense-lawyers" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Amicus Brief of National Association of Criminal Defense Lawyers</a> <a href="https://www.eff.org/files/2013/11/18/nacdlamicusbrief.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-64 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-38351"> <span class="pdfpreview-image-wrapper"><a href="/document/amici-brief-reporters-committee-freedom-press-et-al"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/18287ba7ecde216b487c04f3bee1b1a2.jpg?itok=SyIdQDuQ" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 18, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/amici-brief-reporters-committee-freedom-press-et-al" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Amici Brief of Reporters Committee for Freedom of the Press, et al.</a> <a href="https://www.eff.org/files/2013/11/18/reporterscmteamicibrief.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-65 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-38359"> <span class="pdfpreview-image-wrapper"><a href="/document/amici-brief-senators-wyden-udall-heinrich"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/9b0a1479401f8c3e8c615e37971858d5.jpg?itok=HNTTymfz" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 18, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/amici-brief-senators-wyden-udall-heinrich" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Amici Brief of Senators Wyden, Udall &amp; Heinrich</a> <a href="https://www.eff.org/files/2013/11/18/senatorsamicibrief.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-66 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-38356"> <span class="pdfpreview-image-wrapper"><a href="/document/amicus-brief-pen-american-center"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/8049ed1e83649e55875a8e95bcd0a49c.jpg?itok=tD9kOAFc" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 18, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/amicus-brief-pen-american-center" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Amicus Brief of Pen American Center</a> <a href="https://www.eff.org/files/2013/11/18/penamcenteramicusbrief.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-67 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-38346"> <span class="pdfpreview-image-wrapper"><a href="/document/amicus-brief-experts-history-executive-surveillance"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/d8abbf8abd24eca8b4a6f42704f7b579.jpg?itok=qUdqklBr" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 15, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/amicus-brief-experts-history-executive-surveillance" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Amicus Brief of Experts in the History of Executive Surveillance</a> <a href="https://www.eff.org/files/2013/11/15/historynsaexpertsamicusbrief.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-68 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37918"> <span class="pdfpreview-image-wrapper"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-l"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/4d21502d14fa0b502889e5dd544ef9ce.jpg?itok=Vrv7Hx_a" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-l" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Declaration of Thomas E. Moore III ISO Plaintiffs&#039; MSJ Ex L</a> <a href="https://www.eff.org/files/2013/11/06/mooredeclexl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-69 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37923"> <span class="pdfpreview-image-wrapper"><a href="/document/cal-ffl-declration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/e536cb09b571e856ded82d18fba55cf9.jpg?itok=6yRmMYvw" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/cal-ffl-declration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">CAL-FFL Declration</a> <a href="https://www.eff.org/files/2013/11/06/caffldecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-70 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37928"> <span class="pdfpreview-image-wrapper"><a href="/document/charity-security-network-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/ce5e810d00099c3cf4fbc5d0a5076514.jpg?itok=_WNt4h63" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/charity-security-network-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Charity &amp; Security Network Declaration</a> <a href="https://www.eff.org/files/2013/11/06/csndecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-71 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37933"> <span class="pdfpreview-image-wrapper"><a href="/document/greenpeace-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/43d35c18011c998e6264a5c7ea9625c4.jpg?itok=qI1mPKvb" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/greenpeace-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Greenpeace Declaration</a> <a href="https://www.eff.org/files/2013/11/06/greenpeacedecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-72 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37906"> <span class="pdfpreview-image-wrapper"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/4e1c7eebb34e432ef10bfd024a00a06f.jpg?itok=hXyH-rpg" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Declaration of Thomas E. Moore III ISO Plaintiffs&#039; MSJ</a> <a href="https://www.eff.org/files/2013/11/06/mooredecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-73 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37938"> <span class="pdfpreview-image-wrapper"><a href="/document/people-american-way-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/d0d358eafcda058a9ed5761ec6eccecb.jpg?itok=VhL_pSjn" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/people-american-way-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">People for the American Way Declaration</a> <a href="https://www.eff.org/files/2013/11/06/pfawdecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-74 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37911"> <span class="pdfpreview-image-wrapper"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-e"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/2f4d9a1a2f1cee1cb41e96800ef7a22e.jpg?itok=TyAkRP0u" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-e" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Declaration of Thomas E. Moore III ISO Plaintiffs&#039; MSJ Ex E</a> <a href="https://www.eff.org/files/2013/11/06/mooredeclexe.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-75 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37943"> <span class="pdfpreview-image-wrapper"><a href="/document/unitarian-universalist-service-organization-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/a8117f00140612902d17845676255bc3.jpg?itok=Pk_UlC7r" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/unitarian-universalist-service-organization-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Unitarian Universalist Service Organization Declaration</a> <a href="https://www.eff.org/files/2013/11/06/uuscdecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-76 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37916"> <span class="pdfpreview-image-wrapper"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-j"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/04e8141b0c88d3a631d3336d5f379856.jpg?itok=_0WCNpl2" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-j" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Declaration of Thomas E. Moore III ISO Plaintiffs&#039; MSJ Ex J</a> <a href="https://www.eff.org/files/2013/11/06/mooredeclexj.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-77 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37921"> <span class="pdfpreview-image-wrapper"><a href="/document/acron-active-media-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/3a95d2cda1f1f130cc661d828ae8021d.jpg?itok=wM9rUW9W" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/acron-active-media-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Acorn Active Media Declaration</a> <a href="https://www.eff.org/files/2013/11/06/acorndecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-78 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37926"> <span class="pdfpreview-image-wrapper"><a href="/document/cair-oh-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/8d94d726f488935429f4e44b5e6135bb.jpg?itok=qM8v8Fr9" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/cair-oh-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">CAIR-OH Declaration</a> <a href="https://www.eff.org/files/2013/11/06/cairohdecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-79 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37931"> <span class="pdfpreview-image-wrapper"><a href="/document/free-software-foundation-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/eafe99903fac94bc98f81fa55507493e.jpg?itok=Y9FR_P-S" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/free-software-foundation-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Free Software Foundation Declaration</a> <a href="https://www.eff.org/files/2013/11/06/fsfdecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-80 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37936"> <span class="pdfpreview-image-wrapper"><a href="/document/national-lawyers-guild-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/1d1a7446dc3835082934008bed999b2b.jpg?itok=IraBiJDH" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/national-lawyers-guild-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">National Lawyers Guild Declaration</a> <a href="https://www.eff.org/files/2013/11/06/nlgdecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-81 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37909"> <span class="pdfpreview-image-wrapper"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-c"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/3e46647847de1315a1acf1af9c2836b5.jpg?itok=e1jII1mL" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-c" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Declaration of Thomas E. Moore III ISO Plaintiffs&#039; MSJ Ex C</a> <a href="https://www.eff.org/files/2013/11/06/mooredeclexc.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-82 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37941"> <span class="pdfpreview-image-wrapper"><a href="/document/shalom-center-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/34520f213d59a9e00f066b5ff536394c.jpg?itok=tC_4jWE4" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/shalom-center-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Shalom Center Declaration</a> <a href="https://www.eff.org/files/2013/11/06/shalomcenterdecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-83 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37914"> <span class="pdfpreview-image-wrapper"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-h"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/c9afbe86cfa7553698466889dcd4d6fa.jpg?itok=OMVZMQ6-" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-h" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Declaration of Thomas E. Moore III ISO Plaintiffs&#039; MSJ Ex H</a> <a href="https://www.eff.org/files/2013/11/06/mooredeclexh.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-84 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37919"> <span class="pdfpreview-image-wrapper"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-m"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/734260d549ca41abefc1e9bf80a8ed39.jpg?itok=wUaSS2sC" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-m" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Declaration of Thomas E. Moore III ISO Plaintiffs&#039; MSJ Ex M</a> <a href="https://www.eff.org/files/2013/11/06/mooredeclexm.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-85 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37924"> <span class="pdfpreview-image-wrapper"><a href="/document/cair-ca-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/ec8bd154cde8beb998f1aacce527f1bc.jpg?itok=iPURNGWO" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/cair-ca-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">CAIR-CA Declaration</a> <a href="https://www.eff.org/files/2013/11/06/caircadecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-86 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37929"> <span class="pdfpreview-image-wrapper"><a href="/document/franklin-armory-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/e3c7623f36982ddc457e83ae7d623d5d.jpg?itok=568ct3Tq" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/franklin-armory-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Franklin Armory Declaration</a> <a href="https://www.eff.org/files/2013/11/06/franklinarmorydecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-87 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37934"> <span class="pdfpreview-image-wrapper"><a href="/document/human-rights-watch"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/bbb98fe0b2d51053c16d16b4ff37d24e.jpg?itok=_XkyowpG" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/human-rights-watch" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Human Rights Watch Declaration</a> <a href="https://www.eff.org/files/2013/11/06/hrwdecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-88 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37907"> <span class="pdfpreview-image-wrapper"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/b79e3d219699954e77a30fe57a8052ff.jpg?itok=Nzs1tyjR" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Declaration of Thomas E. Moore III ISO Plaintiffs&#039; MSJ Ex A</a> <a href="https://www.eff.org/files/2013/11/06/mooredeclexa.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-89 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37939"> <span class="pdfpreview-image-wrapper"><a href="/document/public-knowledge-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/d498179cc4200f8264ce4f8afab34839.jpg?itok=azwxg5g0" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/public-knowledge-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Public Knowledge Declaration</a> <a href="https://www.eff.org/files/2013/11/06/pkdecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-90 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37912"> <span class="pdfpreview-image-wrapper"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-f"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/0fc32305a42e349b9242758abacf4b92.jpg?itok=oZxDCrbB" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-f" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Declaration of Thomas E. Moore III ISO Plaintiffs&#039; MSJ Ex F</a> <a href="https://www.eff.org/files/2013/11/06/mooredeclexf.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-91 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37944"> <span class="pdfpreview-image-wrapper"><a href="/document/all-plaintiffs-declarations"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/dd854e7d88930ff34bbd154c5d738ac9.jpg?itok=c1RR_-wW" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/all-plaintiffs-declarations" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">All Plaintiffs&#039; Declarations</a> <a href="https://www.eff.org/files/2013/11/06/allplaintiffsdeclarations.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-92 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37917"> <span class="pdfpreview-image-wrapper"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-k"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/66a38169836f00fa01eb661cb81ea710.jpg?itok=Wh9ai_Qf" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-k" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Declaration of Thomas E. Moore III ISO Plaintiffs&#039; MSJ Ex K</a> <a href="https://www.eff.org/files/2013/11/06/mooredeclexk.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-93 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37922"> <span class="pdfpreview-image-wrapper"><a href="/document/bill-rights-defense-committee-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/e570d0e986f1cd3dfc3babfbfb32a88e.jpg?itok=WN88wcxV" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/bill-rights-defense-committee-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Bill of Rights Defense Committee Declaration</a> <a href="https://www.eff.org/files/2013/11/06/bordcdecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-94 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37927"> <span class="pdfpreview-image-wrapper"><a href="/document/calguns-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/e0cb3b2d23382fe1c99a6bbb488c4390.jpg?itok=xKHZMayl" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/calguns-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">CalGuns Declaration</a> <a href="https://www.eff.org/files/2013/11/06/calguns.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-95 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37932"> <span class="pdfpreview-image-wrapper"><a href="/document/first-unitarian-church-la-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/6f0fc147ee6693df14cdc24ba025819d.jpg?itok=uk6W2qrO" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/first-unitarian-church-la-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">First Unitarian Church of LA Declaration</a> <a href="https://www.eff.org/files/2013/11/06/fucladecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-96 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37905"> <span class="pdfpreview-image-wrapper"><a href="/document/plaintiffs-motion-partial-summary-judgment-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/280c1b8f76ad91d32bd3dda4fc930c53.jpg?itok=-YEksEkv" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/plaintiffs-motion-partial-summary-judgment-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Plaintiffs&#039; Motion for Partial Summary Judgment</a> <a href="https://www.eff.org/files/2013/11/06/firstunitarianmsj.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-97 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37937"> <span class="pdfpreview-image-wrapper"><a href="/document/norml-ca-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/9698fed9f8af7feaceb158cc58993f0d.jpg?itok=wEEHWzKy" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/norml-ca-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">NORML, CA Declaration</a> <a href="https://www.eff.org/files/2013/11/06/normldecl.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-98 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37910"> <span class="pdfpreview-image-wrapper"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-d"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/629634130e3ac7632a2766ee3c0b8372.jpg?itok=N3XN9eO-" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-d" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Declaration of Thomas E. Moore III ISO Plaintiffs&#039; MSJ Ex D</a> <a href="https://www.eff.org/files/2013/11/06/mooredeclexd.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-99 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37942"> <span class="pdfpreview-image-wrapper"><a href="/document/techfreedom-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/9d6348c0c12aa152fea8f83a4bfa811d.jpg?itok=v05vXCJ8" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/techfreedom-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">TechFreedom Declaration</a> <a href="https://www.eff.org/files/2013/11/06/techfreedom.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-100 views-row-even views-row-last">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-37915"> <span class="pdfpreview-image-wrapper"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-i"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/160ab313e2da02aa8fd7a5900a4d2b2c.jpg?itok=p0y38JQ6" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 6, 2013</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/declaration-thomas-e-moore-iii-iso-plaintiffs-msj-ex-i" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Declaration of Thomas E. Moore III ISO Plaintiffs&#039; MSJ Ex I</a> <a href="https://www.eff.org/files/2013/11/06/mooredeclexi.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+      </ul></div>    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-previous first">&nbsp;</li>
+<li class="pager-current">1 of 2</li>
+<li class="pager-next last"><a title="Go to next page" href="/cases/first-unitarian-church-los-angeles-v-nsa?keys=&amp;sort_by=field_file_date_value&amp;sort_order=DESC&amp;page=1">next ›</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div><div id="tabs-0-related-2"><div class="panel-pane pane-views-panes pane-legal-case-related-blog-posts-panel-pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-legal-case-related-blog-posts view-id-legal_case_related_blog_posts view-display-id-panel_pane_1 view-dom-id-081b8ab4b4c0c29e0f423346e40b9bdf">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-created">        <span class="field-content">September 18, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/09/update-eff-case-arguing-nsa-spying-violated-groups-first-amendment-rights">Update on First Unitarian Church v. NSA: EFF&#039;s First Amendment Challenge to NSA Spying</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">September 11, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/09/eff-filings-show-phone-companies-participation-nsa-spying-no-state-secret">EFF Provides Evidence to Courts of Verizon Wireless, Sprint and AT&amp;T Participation in NSA Spying</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-created">        <span class="field-content">July 29, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/07/government-tries-blame-privacy-advocates-keeping-telephone-records">NSA Tries to Blame Privacy Advocates for Keeping Americans&#039; Telephone Records</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">June 23, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/06/how-usa-freedom-impacts-ongoing-nsa-litigation">How USA Freedom Impacts Ongoing NSA Litigation </a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-created">        <span class="field-content">June 5, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/06/fighting-privacy-two-years-after-snowden">Fighting for Privacy, Two Years After Snowden</a></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">May 31, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/05/section-215-expires-now">Section 215 Expires—For Now</a></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-created">        <span class="field-content">May 31, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/05/dont-worry-government-still-has-plenty-surveillance-power-if-section-215-sunsets">Don’t Worry, the Government Still Has Plenty of Surveillance Power If Section 215 Sunsets</a></span>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">May 22, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/05/why-mitch-mcconnell-cannot-be-allowed-decide-fate-patriot-act">Why Mitch McConnell Cannot Be Allowed to Decide the Fate of the Patriot Act</a></span>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field views-field-created">        <span class="field-content">May 12, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/05/rules-committee-sends-usa-freedom-act-house-vote-blocks-any-and-all-amendments">Rules Committee Sends USA Freedom Act to the House for a Vote, But Blocks Any and All Amendments on the Floor</a></span>  </div></li>
+          <li class="views-row views-row-10 views-row-even views-row-last">  
+  <div class="views-field views-field-created">        <span class="field-content">May 12, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/04/nsas-call-record-program-911-hijacker-and-failure-bulk-collection">The NSA’s Call Record Program, a 9/11 Hijacker, and the Failure of Bulk Collection</a></span>  </div></li>
+      </ul></div>    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=5">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=6">7</a></li>
+<li class="pager-next"><a title="Go to next page" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=6">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div><div id="tabs-0-related-3"><div class="panel-pane pane-views-panes pane-legal-case-related-press-release-panel-pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-legal-case-related-press-release view-id-legal_case_related_press_release view-display-id-panel_pane_1 view-dom-id-f4392a05b73f44dcd78ba02f72d78b58">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-created">        <span class="field-content">December 4, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/press/releases/appeals-court-hear-oral-arguments-idaho-womans-case-against-nsa-spying">Appeals Court to Hear Oral Arguments in Idaho Woman&#039;s Case Against NSA Spying</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">August 20, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/press/releases/eff-aclu-demolish-its-just-metadata-claim-nsa-spying-appeal">EFF, ACLU Demolish “It’s Just Metadata” Claim in NSA Spying Appeal</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-created">        <span class="field-content">July 16, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/press/releases/eff-aclu-join-idaho-moms-legal-challenge-nsa-surveillance">EFF, ACLU Join Idaho Mom’s Legal Challenge to NSA Surveillance </a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">June 27, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/press/releases/diverse-groups-fly-airship-over-nsas-utah-data-center-protest-illegal-internet-spying">Diverse Groups Fly Airship Over NSA’s Utah Data Center to Protest Illegal Spying</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-created">        <span class="field-content">June 27, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/press/releases/congressional-scorecard-mass-surveillance-standagainstspyingorg-launches-encourage">Congressional Scorecard on Mass Surveillance: StandAgainstSpying.org Launches to Encourage NSA Reform</a></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">March 18, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/press/releases/eff-fights-destruction-spying-evidence-court-wednesday">EFF Fights Destruction of Spying Evidence in Court Wednesday</a></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-created">        <span class="field-content">November 7, 2013</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/press/releases/eff-files-22-firsthand-accounts-how-nsa-surveillance-chilled-right-association">EFF Files 22 Firsthand Accounts of How NSA Surveillance Chilled the Right to Association </a></span>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">September 10, 2013</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/press/releases/five-more-organizations-join-eff-lawsuit-against-nsa-surveillance">Five More Organizations Join EFF Lawsuit Against NSA Surveillance</a></span>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field views-field-created">        <span class="field-content">September 4, 2013</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/press/releases/eff-files-amicus-behalf-rep-sensenbrenner-nsa-spying-case">EFF Files Brief on Behalf of Rep. Sensenbrenner in NSA Spying Case</a></span>  </div></li>
+          <li class="views-row views-row-10 views-row-even views-row-last">  
+  <div class="views-field views-field-created">        <span class="field-content">July 16, 2013</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/press/releases/unitarian-church-gun-groups-join-eff-sue-nsa-over-illegal-surveillance">Unitarian Church, Gun Groups Join EFF to Sue NSA Over Illegal Surveillance</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div><div id="tabs-0-related-4"><div class="panel-pane pane-views-panes pane-legal-case-eff-in-the-news-panel-pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-legal-case-eff-in-the-news view-id-legal_case_eff_in_the_news view-display-id-panel_pane_1 view-dom-id-54964378dc1036aa64c7c09c445a70ac">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">June 2, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| TechCrunch</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://techcrunch.com/2015/06/01/privacy-advocates-hope-sunset-of-section-215-marks-dawn-of-surveillance-reform/" target="_blank">Privacy Advocates Hope Sunset Of Section 215 Marks Dawn Of Surveillance Reform</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">June 1, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| SC Magazine</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.scmagazine.com/usa-freedom-act-fails-to-pass-and-section-215-sunsets/article/418018/" target="_blank">Section 215 expired today, and the internet isn&#039;t worried</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">June 1, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| The Christian Science Monitor</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.csmonitor.com/World/Passcode/2015/0601/With-sections-of-Patriot-Act-expired-attention-focuses-on-surveillance-reform-bill-video" target="_blank"> With sections of Patriot Act expired, attention focuses on surveillance reform bill (+video)</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">June 1, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| Marketplace</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.marketplace.org/topics/tech/patriot-acts-new-name" target="_blank">The Patriot Act&#039;s new name</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">May 11, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| Newsweek</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.newsweek.com/judgment-day-us-surveillance-state-330761" target="_blank">Judgment Day for the U.S. Surveillance State</a></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">May 10, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| Boing Boing</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://boingboing.net/2015/05/10/what-did-the-courts-just-do-th.html" target="_blank">What did the courts just do to NSA spying?</a></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">May 8, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| Newsmax</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://www.newsmax.com/Newsmax-Tv/Pete-Hoekstra-David-Greene-court-traitor/2015/05/08/id/643619/" target="_blank">Pete Hoekstra: Snowden &#039;Still a Traitor&#039; Despite Court Ruling</a></span>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">May 8, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| The Economic Times</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://articles.economictimes.indiatimes.com/2015-05-08/news/61947811_1_usa-freedom-act-nsa-dragnet-collection" target="_blank">Obama administration calls for new law to reform NSA&#039;s telephone and Internet spying</a></span>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">May 7, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| Sputnik News</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://sputniknews.com/analysis/20150507/1021801252.html" target="_blank">NSA Uses Phone Call Transcription Technology, Violates Privacy</a></span>  </div></li>
+          <li class="views-row views-row-10 views-row-even views-row-last">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">May 7, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| U.S. News &amp; World Report</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.usnews.com/news/articles/2015/05/07/nsa-phone-record-program-illegal-appeals-court-finds?int=a14709" target="_blank">NSA Phone Record Program Illegal, Appeals Court Finds</a></span>  </div></li>
+      </ul></div>    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=5">6</a></li>
+<li class="pager-next"><a title="Go to next page" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/cases/first-unitarian-church-los-angeles-v-nsa?page=5">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div></div>    </div>
+  </div>
+
+  </div>
+
+  
+  </div>
+        </div>
+                <div class="layout-right-sidebar">
+          <div class="panel-pane pane-sidebar-button"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="sidebar-big-button donate"><a href="https://supporters.eff.org/donate/button">Donate to EFF</a></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-sidebar-newsletter"  >
+  
+        <h2 class="pane-title">
+      Stay in Touch    </h2>
+    
+  
+  <div class="pane-content">
+    <form action="https://supporters.eff.org/subscribe" method="post" class="newsletter-form" accept-charset="UTF-8">
+<div class="form-item form-type-textfield form-item-email-address">
+  <label for="edit-email" style="display:none">Email Address</label>
+  <input placeholder="Email Address" type="text" style="margin-bottom:5px" name="email" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-postal-code">
+  <label for="edit-postal-code" style="display:none">Postal Code (optional) </label>
+  <input placeholder="Postal Code (optional)" type="text" name="postal_code" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<input type="submit" name="op" value="Sign Up Now" class="form-submit" />
+<input type="hidden" name="form_id" value="eff_supporters_library_subscribe_form" />
+</form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-nsa-spying"  >
+  
+        <h2 class="pane-title">
+      NSA Spying    </h2>
+    
+  
+  <div class="pane-content">
+    <div>
+  <div>
+    <p><a style="display:block; height:50px; background-color:#ffffff; padding:5px; border-radius:20px;" href="/nsa-spying">
+      <img style="float:left; margin-right:10px;" width="50" height="50" src="/sites/all/modules/custom/eff_library/images/NSA-small.png" title="NSA Spying" />
+      <strong style="float:left; height:50px; line-height:50px; font-family: Arial">eff.org/nsa-spying</strong>
+    </a></p>
+  </div>
+  <p style="font-size:0.8em; line-height:150%; color:#666666;">EFF is leading the fight against the NSA's illegal mass surveillance program. <a href="/nsa-spying">Learn more</a> about what the program is, how it works, and what you can do.</p>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-twitterator-follow-eff-panel-pane-1"  >
+  
+        <h2 class="pane-title">
+      Follow EFF    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-twitterator-follow-eff view-id-twitterator_follow_eff view-display-id-panel_pane_1 view-dom-id-32b65ba19338f89d99daebaae8ae09f8">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-tweet">        <div class="field-content"><p>USA Today has a huge scoop on DEA’s massive number of questionable wiretaps out of Riverside, CA: <a href="http://www.usatoday.com/story/news/2015/11/11/dea-wiretap-operation-riverside-california/75484076/">http://www.usatoday.com/story...</a></p>
+</div>  </div>  
+  <div class="views-field views-field-field-twitpic">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Nov 11 @ 11:28am</span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-tweet">        <div class="field-content"><p>When it comes to police body cameras, &quot;accountability is not automatic.&quot; @civilrightsorg scores body cam policies: <a href="https://www.bwcscorecard.org/">https://www.bwcscorecard.org/</a></p>
+</div>  </div>  
+  <div class="views-field views-field-field-twitpic">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Nov 10 @ 5:08pm</span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-tweet">        <div class="field-content"><p>4 takeaways from the Congressional copyright reform committee&#039;s visit to Silicon Valley: <a href="https://www.eff.org/deeplinks/2015/11/4-key-takeaways-copyright-reform-committees-silicon-valley-listening-tour">https://www.eff.org/deeplinks...</a></p>
+</div>  </div>  
+  <div class="views-field views-field-field-twitpic">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Nov 10 @ 4:48pm</span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <ul id="social-networks">
+<li><a href="https://twitter.com/eff">Twitter</a></li>
+<li><a href="https://www.facebook.com/eff">Facebook</a></li>
+<li><a href="https://identi.ca/eff">Identi.ca</a></li>
+</ul>
+
+    </div>
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-projects"  id="projects-menu" >
+  
+        <h2 class="pane-title">
+      Projects    </h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/bloggers" title="">Bloggers&#039; Rights</a></li>
+<li class="leaf"><a href="/issues/coders" title="">Coders&#039; Rights</a></li>
+<li class="leaf"><a href="/social-networks" title="">Follow EFF</a></li>
+<li class="leaf"><a href="/free-speech-weak-link" title="">Free Speech Weak Links</a></li>
+<li class="leaf"><a href="https://globalchokepoints.org/" title="">Global Chokepoints</a></li>
+<li class="leaf"><a href="/https-everywhere" title="">HTTPS Everywhere</a></li>
+<li class="leaf"><a href="https://www.manilaprinciples.org/" title="">Manila Principles</a></li>
+<li class="leaf"><a href="https://www.eff.org/issues/medical-privacy" title="">Medical Privacy Project</a></li>
+<li class="leaf"><a href="https://openwireless.org" title="">Open Wireless Movement</a></li>
+<li class="leaf"><a href="https://w2.eff.org/patent/" title="">Patent Busting</a></li>
+<li class="leaf"><a href="/privacybadger" title="">Privacy Badger</a></li>
+<li class="leaf"><a href="https://www.eff.org/fight" title="">Student Activism </a></li>
+<li class="leaf"><a href="https://ssd.eff.org" title="">Surveillance Self-Defense</a></li>
+<li class="leaf"><a href="/takedowns" title="">Takedown Hall of Shame</a></li>
+<li class="leaf"><a href="http://www.teachingcopyright.org/" title="">Teaching Copyright</a></li>
+<li class="leaf"><a href="https://www.eff.org/issues/transparency" title="">Transparency Project</a></li>
+<li class="leaf"><a href="https://trollingeffects.org" title="">Trolling Effects</a></li>
+<li class="last leaf"><a href="/helpout" title="">Ways To Help</a></li>
+</ul>  </div>
+
+  
+  </div>
+        </div>
+              </div>
+    </div>
+  </div>
+</div>
+<div id="footer-wrapper">
+  <div id="footer">
+    <div id="footerleft">
+      <div class="panel-pane pane-footer-elements"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="cc"><a href="https://www.eff.org/copyright"><img src="https://www.eff.org/sites/all/themes/frontier/images/cc-by-logo.png" alt="Creative Commons Licensed" /></a></div>  </div>
+
+  
+  </div>
+    </div>
+    <div id="footerright">
+      <div class="panel-pane pane-block pane-menu-menu-footer-menu"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/thanks" title="">Thanks</a></li>
+<li class="leaf"><a href="/rss" title="">RSS Feeds</a></li>
+<li class="leaf"><a href="/copyright" title="">Copyright Policy</a></li>
+<li class="leaf"><a href="/policy" title="">Privacy Policy</a></li>
+<li class="last leaf"><a href="/about/contact" title="">Contact EFF</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div>  <a href="/librejs/jslicense" rel="jslicense" style="display: none">JavaScript license information</a><div id="piwik-noscript"></div><noscript><img style="position: absolute" src="https://anon-stats.eff.org/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A//www.eff.org/cases/first-unitarian-church-los-angeles-v-nsa&amp;action_name=First%20Unitarian%20Church%20of%20Los%20Angeles%20v.%20NSA%20%7C%20Electronic%20Frontier%20Foundation" width="0" height="0" alt="" /></noscript>
+</body>
+</html>

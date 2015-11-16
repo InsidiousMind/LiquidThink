@@ -1,0 +1,596 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#" class="no-js" >
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.savetheinternet.com/sti-home" />
+<meta property="og:image" content="https://s3.amazonaws.com/s3.freepress.net/images/fp-logo-square.png" />
+<meta name="description" content="Internet freedom means Net Neutrality. Internet freedom means mobile rights. Internet freedom means open spectrum. Internet freedom means universal high-speed Internet. The fight for Internet freedom begins here, so get involved today. Read more and share with your friends." />
+<link name="favicon" content="/sites/all/themes/sti2/img/192px.png" sizes="192x192" rel="apple-touch-icon-precomposed" href="apple-touch-icon- 192x192-precomposed.png" />
+<meta property="og:description" content="Internet freedom means Net Neutrality. Internet freedom means mobile rights. Internet freedom means open spectrum. Internet freedom means universal high-speed Internet. The fight for Internet freedom begins here, so get involved today. Read more and share with your friends." />
+<meta property="og:description" content="What’s wrong with the media? Too slanted. Too greedy. Too much power in too few hands. It’s time to change that. The fight for better media begins here, so get involved today. Read more and share with your friends." />
+<meta property="og:see_also" content="https://www.facebook.com/freepress" />
+<link rel="canonical" href="/sti-home" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/node/106573" />
+<link rel="shortcut icon" href="http://www.savetheinternet.com/sites/default/files/favicon.png" type="image/png" />
+<meta property="og:title" content="Save the Internet" />
+<meta property="og:site_name" content="Free Press" />
+<meta name="description" content="What’s wrong with the media? Too slanted. Too greedy. Too much power in too few hands. It’s time to change that. The fight for better media begins here, so get involved today. Read more and share with your friends." />
+	<meta name="author" content="Free Press" />
+	<meta name="title" content="Save the Internet | Free Press" />
+  <!-- Mobile viewport optimized: j.mp/bplateviewport -->
+  <meta name="viewport" content="width=device-width">
+  <style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/modules/system/system.base.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/system/system.menus.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/system/system.messages.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/system/system.theme.css?nxnrhp");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.button.min.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.resizable.min.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.dialog.min.css?nxnrhp");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/modules/aggregator/aggregator.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/comment/comment.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/date/date_api/date.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/field/theme/field.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/logintoboggan/logintoboggan.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/node/node.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/search/search.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/user/user.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/views/css/views.css?nxnrhp");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/modules/ctools/css/ctools.css?nxnrhp");
+</style>
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Serif:400,700|Oswald" media="all" />
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/hailu-global.css?nxnrhp");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/flexslider.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/screen.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/themes/sti2/css/sti2-screen.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/themes/sti2/newhome/build/css/styles.min.css?nxnrhp");
+</style>
+<style type="text/css" media="print">
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/print.css?nxnrhp");
+</style>
+
+<!--[if IE 9]>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/ie_9.css?nxnrhp");
+</style>
+<![endif]-->
+
+<!--[if lt IE 9]>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/ie_8.css?nxnrhp");
+</style>
+<![endif]-->
+
+<!--[if IE 7]>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/ie_7.css?nxnrhp");
+</style>
+<![endif]-->
+
+<!--[if lt IE 7]>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/ie_6.css?nxnrhp");
+</style>
+<![endif]-->
+
+<!--[if lt IE 9]>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/themes/sti2/css/ie-sti2.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/themes/sti2/newhome/build/css/old-ie.css?nxnrhp");
+</style>
+<![endif]-->
+  <script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.1"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/misc/drupal.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.button.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/misc/ajax.js?v=7.35"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/misc/progress.js?v=7.35"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/fpstructure/js/modal-once.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/fpstructure/js/jquery.cookie.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/fpstructure/js/actionkit.js?nxnrhp"></script>
+<script type="text/javascript" src="http://s3.freepress.net.s3.amazonaws.com/outreach/bftn-widget/widget.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/fpstructure/js/modernizr.custom.78087.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/fpstructure/js/jquery.fitvids.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/fpstructure/js/script.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/sti2/newhome/js/jquery.smooth-scroll.min.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/sti2/newhome/js/script_newhome.js?nxnrhp"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sti2","theme_token":"Rxp5uV59XjReOVUJzxvLPZkwnmwfRHSIqE3Pkqum2uA","jquery_version":"1.7","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"misc\/progress.js":1,"sites\/all\/themes\/fpstructure\/js\/modal-once.js":1,"sites\/all\/themes\/fpstructure\/js\/jquery.cookie.js":1,"sites\/all\/themes\/fpstructure\/js\/actionkit.js":1,"http:\/\/s3.freepress.net.s3.amazonaws.com\/outreach\/bftn-widget\/widget.js":1,"sites\/all\/themes\/fpstructure\/js\/modernizr.custom.78087.js":1,"sites\/all\/themes\/fpstructure\/js\/jquery.fitvids.js":1,"sites\/all\/themes\/fpstructure\/js\/script.js":1,"sites\/all\/themes\/sti2\/newhome\/js\/jquery.smooth-scroll.min.js":1,"sites\/all\/themes\/sti2\/newhome\/js\/script_newhome.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"http:\/\/fonts.googleapis.com\/css?family=Droid+Sans:400,700|Droid+Serif:400,700|Oswald":1,"sites\/all\/themes\/fpstructure\/css\/hailu-global.css":1,"sites\/all\/themes\/fpstructure\/css\/flexslider.css":1,"sites\/all\/themes\/fpstructure\/css\/screen.css":1,"sites\/all\/themes\/sti2\/css\/sti2-screen.css":1,"sites\/all\/themes\/sti2\/newhome\/build\/css\/styles.min.css":1,"sites\/all\/themes\/fpstructure\/css\/print.css":1,"sites\/all\/themes\/fpstructure\/css\/ie_9.css":1,"sites\/all\/themes\/fpstructure\/css\/ie_8.css":1,"sites\/all\/themes\/fpstructure\/css\/ie_7.css":1,"sites\/all\/themes\/fpstructure\/css\/ie_6.css":1,"sites\/all\/themes\/sti2\/css\/ie-sti2.css":1,"sites\/all\/themes\/sti2\/newhome\/build\/css\/old-ie.css":1}},"ajax":{"edit-submit--2":{"callback":"signup_form_ajax","keypress":true,"event":"mousedown","prevent":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Add me"}},"edit-submit--3":{"callback":"signup_form_ajax","keypress":true,"event":"mousedown","prevent":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Add me"}}}});
+//--><!]]>
+</script>
+<script src="http://s3.freepress.net.s3.amazonaws.com/outreach/bftn-widget/widget.js"
+    async></script>
+    
+  <title>Save the Internet | Free Press</title>
+
+
+	<script type="text/javascript">var switchTo5x=false;</script>
+	
+  			<script type="text/javascript">
+  			  var _paq = _paq || [];
+         
+  			  _paq.push(["trackPageView"]);
+  			  _paq.push(["enableLinkTracking"]);
+  			 
+  			  (function() {
+  			    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://analytics.freepress.net/";
+  			    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+  			    _paq.push(["setSiteId", "2"]);
+  			    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+  			    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  			  })();
+  			</script>
+  			<noscript>
+  			  <img src="https://analytics.freepress.net/piwik.php?idsite=1&amp;rec=1" style="border:0" alt="" />
+  			</noscript>
+  			<!-- End Piwik Code -->
+  			
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-106573 node-type-home-page sti" >
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  
+  <script type="text/javascript">actionkit.forms.initPage()</script>
+
+<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6. chromium.org/developers/how-tos/chrome-frame-getting-started -->
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is outdated. <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+    
+
+<header class="full_header">
+	<div class="logo_menus container-fluid">
+		<div class="row-fluid">
+			<div class="view view-domain-tabs view-id-domain_tabs view-display-id-block">
+                      <div class="view-content">
+                          <div class="item-list">    
+                            <ul>          
+                              <li class="views-row views-row-1 views-row-odd views-row-first">  
+                                <div class="views-field views-field-field-image">        
+                                  <div class="field-content sti2-logo">
+                                    <a class="sti2-logo" href="http://freepress.net">
+                                      <img class="sti2-logo" typeof="foaf:Image" src="/sites/all/themes/sti2/img/sti-logo-top.png" width="532" height="69" />
+                                    </a>
+                                    <a class="sti2-logo" href="http://savetheinternet.com">
+                                      <img class="sti2-logo" typeof="foaf:Image" src="/sites/all/themes/sti2/img/sti-logo-bottom.png" width="532" height="63" />
+                                    </a>
+                                </div>
+                              </div>
+                            </li>
+                              </ul>
+                          </div>
+                      </div>
+                    </div>
+			<div class="mobile-logo">
+				<a href="http://www.savetheinternet.com/"><img src="/sites/all/themes/sti2/img/fp-logo-mobile.png" alt="free press and free press action fund" /></a>
+			</div>
+			
+			<div class="mobile-search"><ul class="menu-search ">
+							<li class="search-bar"><form action="/sti-home" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-pS5Lgh_Azoiji6lVZhuYsgZSjp1muS-bW16kzrsrRzM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></li>
+							<li class="mobile-search-button"><span>Search</span></li>
+							<!--all of these spans create the mobile menu button (three lines stacked on top of eachother)-->
+							<li class="mobile-menu-button"><span class="mobile-menu-button-span"><span></span><span></span><span></span></span></li>
+							</ul></div>
+			<ul class="signup_form">
+				<li id="signup-form">
+					<form action="/sti-home" method="post" id="fp-signup-form" accept-charset="UTF-8"><div><p class='form-title'>Join the Movement</p><div class="signup-errors"></div><div class="form-item form-type-emailfield form-item-email">
+  <label for="edit-email">Sign Up: </label>
+ <input placeholder="email" type="email" id="edit-email" name="email" value="" size="60" maxlength="128" class="form-text form-email" />
+</div>
+<div class="form-hidden-wrapper"><div class="form-item form-type-textfield form-item-zip">
+  <label for="edit-zip">Zip Code: </label>
+ <input placeholder="zip" type="text" id="edit-zip" name="zip" value="" size="5" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-chilly">
+ <input type="text" id="edit-chilly" name="chilly" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<input type="submit" id="edit-submit--2" name="op" value="Add me" class="form-submit" /><p>We respect your <a href="/privacy_copyright">privacy</a>.</p></div><input type="hidden" name="form_build_id" value="form-OheBRiqH9GCSMERmHNa6i653e-fKRbuc30AeMubS3UA" />
+<input type="hidden" name="form_id" value="fp_signup_form" />
+</div></form>				</li>				
+			</ul>
+			<ul class="social_nav">
+				<li id="twitter-btn-top"><a href="http://twitter.com/freepress" class="" target="_blank" ><img src="/sites/all/themes/fpstructure/img/twitter_image_top.png" /></a></li>
+				<li id="facebook-btn-top"><a href="https://www.facebook.com/savetheinternet" class="" target="_blank" ><img src="/sites/all/themes/fpstructure/img/facebook_image_top.png" /></li>
+				<li id=""><a href="http://themediafix.tumblr.com/" class="" target="_blank" ><img src="/sites/all/themes/fpstructure/img/tumblr_image_top.png" /></a></li>
+			</ul>
+					
+		</div><!--row-fluid-->
+	</div><!--logo and menus-->					
+</header><!--container-->
+
+<!-- <div class="search-bar">
+	<div id="search-block" class="search-block"></div>
+	<form action="/sti-home" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-pS5Lgh_Azoiji6lVZhuYsgZSjp1muS-bW16kzrsrRzM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div> -->
+
+<div id="small_nav">
+	<ol class="nav nav-pills">
+		<li class="signup-button-wrapper small-nav-item"><span class="signup-button" href="#">Sign Up</span>
+			<div class="mobile-sign-up hidden">
+				<form action="/sti-home" method="post" id="fp-mobile-signup-form" accept-charset="UTF-8"><div><p class='form-title'>Join the Movement</p><div class="signup-errors"></div><div class="form-item form-type-emailfield form-item-email">
+  <label for="edit-email--2">Sign Up: </label>
+ <input placeholder="email" type="email" id="edit-email--2" name="email" value="" size="60" maxlength="128" class="form-text form-email" />
+</div>
+<div class="form-hidden-wrapper"><div class="form-item form-type-textfield form-item-zip">
+  <label for="edit-zip--2">Zip Code: </label>
+ <input placeholder="zip" type="text" id="edit-zip--2" name="zip" value="" size="5" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-chilly">
+ <input type="text" id="edit-chilly--2" name="chilly" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<input type="submit" id="edit-submit--3" name="op" value="Add me" class="form-submit" /><p>We respect your <a href="/privacy_copyright">privacy</a>.</p></div><input type="hidden" name="form_build_id" value="form-aBWqVjotqZgnNJyY7eKa6h4WaKLVuWy2H6sGuA0Lq88" />
+<input type="hidden" name="form_id" value="fp_mobile_signup_form" />
+</div></form>				
+		    </div>
+		</li>
+		<li class="take-action small-nav-item"><a class="takeaction-button" href="/action">Take Action</a></li>
+		<li class="donate small-nav-item"><a class="donate-button" href="https://freepress.actionkit.com/donate/single/?source=freepress-mobile">Donate</a></li>
+	</ol>
+</div>		
+
+<div id="main">
+		  <div class="region region-topnav">
+    <div id="block-menu-block-2" class="block block-menu-block">
+	<div class="block-inner">
+	  		  
+	  <div class="content">
+	    <div class="menu-block-wrapper menu-block-2 menu-name-menu-sti-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1194"><a href="/sti-home/#why" title="">WHY</a></li>
+<li class="leaf menu-mlid-1195"><a href="/sti-home/#what" title="">WHAT</a></li>
+<li class="leaf menu-mlid-1196"><a href="/sti-home/#when" title="">WHEN</a></li>
+<li class="leaf menu-mlid-1197"><a href="/sti-home/#how" title="">HOW</a></li>
+<li class="leaf menu-mlid-701"><a href="/sti-blog" title="">Blog</a></li>
+<li class="leaf menu-mlid-712 menu-action"><a href="http://act.freepress.net/sign/internet_nn_congress_defend/" title="">Take Action</a></li>
+<li class="leaf menu-mlid-711 menu-donate"><a href="https://act.freepress.net/donate/internet_neutrality_victory/?source=modal" title="">Donate</a></li>
+<li class="last leaf menu-mlid-1038 search"><ul class="menu-search">
+					<li class="search-bar"><form action="/sti-home" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--4">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--4" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-clzR7l7y6ccaNPmZQinqUKv0BxpWIZ56MB5U6jcq1cM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></li>
+					<li class="mobile-search-button"><span>Search</span></li>
+					<!--all of these spans create the mobile menu button (three lines stacked on top of eachother)-->
+					<li class="mobile-menu-button"><span class="mobile-menu-button-span"><span></span><span></span><span></span></span></li>
+					</ul></li>
+</ul></div>
+	  </div>
+	</div>
+</div>
+  </div>
+	
+	<div class="container-fluid">
+		<div class="row-fluid">
+						<div class="span12 main_span">
+												
+						        		        		        <div class="tabs"></div>		        		          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+	<div class="block-inner">
+	  		  
+	  <div class="content">
+	    <div  about="/sti-home" typeof="sioc:Item foaf:Document" class="ds-1col node node-home-page node-promoted view_mode_full view-mode-full clearfix">
+
+  
+  
+<div class="paragraphs-items paragraphs-items-field-content paragraphs-items-field-content-full paragraphs-items-full">
+  <div class="field field-name-field-content field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><section class="section--intro">
+  <div class="intro--text">
+    <h1>SAVE THE INTERNET</h1>
+    <div class="field--subtitle">The battle is on … and the stakes have never been higher.</div>
+    <p class="text--direction">Scroll down to learn more.</p>
+  </div>
+</section>
+</div><div class="field-item odd"><div id="why"></div>
+</div><div class="field-item even"><section class="section section--middle">
+  <div class="field--summary"><p>On Feb. 26, 2015, the FCC approved strong open Internet rules under Title II of the Communications Act.</p><p style="font-weight: bold;">This is the biggest victory for the public interest in the agency’s history. And it wouldn’t have happened if not for the millions of people who pushed the FCC to act.</p><p>Many of those same people urged the government to block the Comcast-Time Warner Cable merger, which would have enabled Comcast to control the future of the Internet. The FCC and the Justice Department listened — and on April 24, 2015, Comcast abandoned its bid.</p><p>The cable and phone companies will continue trying to undermine the open Internet, but our message is clear: Mess with the Internet, and you’ll lose.</p></div>
+  <div class="fieldwrapper--actions">
+    <div class="field--action-button">
+      <a href="https://act.freepress.net/donate/internet_neutrality_victory/">HERE&#039;S ONE THING YOU CAN DO RIGHT NOW</a>
+    </div>
+  </div>
+</section>
+</div><div class="field-item odd"><section class="section section--goals">
+      <h2>Our Goals:</h2>
+  
+  <div class="group--goalbubbles featured">
+    <div class="fieldwrapper--bubble fieldwrapper--goal-bubbles">
+                    
+        <div class="fieldgroup--bubble fieldgroup--goal-bubble">
+          <div class="icon-circle">
+            <div class="title-group">
+              <div class="field--bubble-title"><h4>Secure Real Net Neutrality</h4></div>
+              <div class="field--bubble-icon"><img src="http://www.savetheinternet.com/sites/default/files/icon--sti.png" alt="icon"/></div>
+            </div>
+            <div class="field--bubble-text"><p>A year of unprecedented grassroots organizing pushed FCC Chairman Tom Wheeler to abandon an industry-friendly proposal and instead propose rules that ban blocking, throttling and paid prioritization under Title II of the Communications Act.  The full FCC approved these rules in a historic vote on Feb. 26. Title II’s sound legal footing will safeguard this win, but that won’t stop the cable and phone companies from trying to tear it down. In fact, there are now 10 industry-backed lawsuits designed to overturn the open Internet rules — and we filed a motion to intervene in court to ensure these protections survive.</p><center><h2><a href="http://act.freepress.net/sign/internet_nn_rod/" target="_blank"><strong><span style="line-height: 1.538em;">Fight back.</span></strong></a></h2></center><center><h2><strong><span style="line-height: 1.538em;"><a href="http://www.freepress.net/blog/2015/05/06/net-neutrality-rules-face-threats-congress-and-courts" target="_blank">Learn more.</a></span></strong></h2></center></div>
+          </div>
+        </div>
+
+                    
+        <div class="fieldgroup--bubble fieldgroup--goal-bubble">
+          <div class="icon-circle">
+            <div class="title-group">
+              <div class="field--bubble-title"><h4>Stop the Merger Mania</h4></div>
+              <div class="field--bubble-icon"><img src="http://www.savetheinternet.com/sites/default/files/icon--merger_0.png" alt="icon"/></div>
+            </div>
+            <div class="field--bubble-text"><p>Some of the same companies trying to kill Net Neutrality are also trying to consolidate their power over U.S. consumers. We defeated the disastrous Comcast-Time Warner Cable merger in April 2015 but consolidation continues. We need to demand broadband buildout, not corporate buyouts.</p><center><h2><a href="http://act.freepress.net/sign/internet_charter_twc/" target="_blank"><strong><span style="line-height: 1.538em;">Fight back.</span></strong></a></h2></center></div>
+          </div>
+        </div>
+
+          </div>
+  </div>
+</section></div><div class="field-item even"><div id="what"></div>
+</div><div class="field-item odd"><section class="section section--faq">
+  <div class="group--faq-img">
+    <div class="inside">
+      <div class="images">
+                            <div class="field--image field--image1"><img src="http://www.savetheinternet.com/sites/default/files/activists_1.jpg" alt=""/></div>
+                            <div class="field--image field--image2"><img src="http://www.savetheinternet.com/sites/default/files/activists_2.jpg" alt=""/></div>
+                            <div class="field--image field--image3"><img src="http://www.savetheinternet.com/sites/default/files/activists_3.jpg" alt=""/></div>
+                            <div class="field--image field--image4"><img src="http://www.savetheinternet.com/sites/default/files/activists_4.jpg" alt=""/></div>
+                            <div class="field--image field--image5"><img src="http://www.savetheinternet.com/sites/default/files/activists_5.jpg" alt=""/></div>
+              </div>
+      <div class="field--faq-text"><h3>The Internet Is In Danger</h3><p>Net Neutrality has made the Internet an unrivaled space for free speech, civic participation, innovation and opportunity. Net Neutrality prohibits online discrimination and gives any individual, organization or company the same chance to share their ideas and find an audience.</p><h3>The Fight’s Not Over</h3><p>Companies like Comcast and Verizon aren’t used to losing in Washington, and they’ll do everything they can to knock down the Title II protections the FCC approved on Feb. 26, 2015. Our message is clear: <a href="http://act.freepress.net/sign/internet_nn_congress_defend/" target="_blank">Mess with the Internet and you’ll lose</a>.</p><h3>Mega-Mergers, Mega-Problems</h3><p>Broadband providers would rather buy out their competition than invest in their networks. But allowing these companies to get even bigger won't help the open Internet — it will only make the gatekeepers more powerful. For the cost of the proposed AT&amp;T-DIRECTV deal and the failed Comcast-Time Warner Cable merger, AT&amp;T and Comcast could collectively deploy super-fast gigabit-fiber broadband service to every single home in America. But the message isn’t getting through: Now Charter wants to buy Time Warner Cable. We need broadband buildout, not corporate buyouts.</p><h3>What Can We Do About All This?</h3><p>Millions of people pushed the FCC to protect real Net Neutrality and block the Comcast merger. We need to do everything we can to ensure the open Internet continues to thrive as a space shared and shaped by its millions of users.</p></div>
+    </div>
+  </div>
+</section>
+</div><div class="field-item even"><div id="when"></div>
+</div><div class="field-item odd"><section class="section section--timeline">
+  <div class="inside-constrained">
+    <div id="timeline--trigger" class="timeline--trigger">Click here to see our</div>
+    <h2>TIMELINE to SAVE THE INTERNET</h2>
+
+    <div id="timeline--content" class="fieldwrapper--timeline">
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">Jan. 14, 2014:</div>
+          <div class="field--timeline-text"><p>A federal court strikes down the FCC’s 2010 Open Internet Order.</p></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">April 19:</div>
+          <div class="field--timeline-text"><p>The FCC’s new proposal is leaked — and public interest in Net Neutrality soars.</p></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">May 15:</div>
+          <div class="field--timeline-text"><p>FCC Chairman Tom Wheeler officially proposes his flawed rules. Hundreds of people converge <a href="https://www.youtube.com/watch?v=gL2rnDAlstg" target="_blank">outside the FCC headquarters</a> in Washington, D.C. and <a href="http://www.freepress.net/blog/2014/05/16/open-internet-activists-speak-out-may-15-rallies-across-country" target="_blank">rallies break out in cities across the U.S.</a></p><div class="video"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/gL2rnDAlstg" width="560"></iframe></div></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">July 15:</div>
+          <div class="field--timeline-text"><p>On the day initial public comments on the FCC’s proposal are due, the agency’s servers crash thanks to the heavy traffic. Within a few short hours Free Press and allies mobilize to <a href="http://www.freepress.net/blog/2014/07/15/net-neutrality-advocates-hand-deliver-comments-fcc" target="_blank">hand-deliver hundreds of thousands of comments</a>. The agency makes the unprecedented move of extending its deadline by three days.</p></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">July-August:</div>
+          <div class="field--timeline-text"><p>The <strong>SUMMER TO SAVE THE INTERNET</strong>: Activists participate in dozens upon dozens of <a href="http://www.freepress.net/blog/2014/08/29/net-neutrality-activists-take-senate-storm" target="_blank">in-district meetings with congressional offices</a>, rally outside fundraisers President Obama attends in the <a href="http://thehill.com/policy/technology/213138-obama-passes-net-neutrality-protesters-on-silicon-valley-trip" target="_blank">Bay Area</a> and <a href="https://www.youtube.com/watch?v=JWf56NXOYnM" target="_blank">Los Angeles</a>, and file comments in <a href="http://www.freepress.net/blog/2014/09/03/almost-everyone-whos-weighed-fcc-loves-net-neutrality" target="_blank">record numbers at the FCC</a> in favor of real Net Neutrality. </p></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">Sept. 10:</div>
+          <div class="field--timeline-text"><p><a href="http://www.battleforthenet.com/sept10th/#infographic" target="_blank">The Internet Slowdown. </a>On Sept. 10, hundreds of organizations and online companies — including Netflix, Kickstarter, Etsy and Tumblr — display a spinning icon representing a slow-loading Internet on their websites. This massive day of action drives 2 million emails and nearly 300,000 calls to Congress, and 777,364 people file comments with the FCC.</p></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">Sept. 15:</div>
+          <div class="field--timeline-text"><p>The period for public reply comments closes. A record-breaking 3.7 million people have filed comments — and most support real Net Neutrality. Big rallies are held in <a href="http://www.freepress.net/blog/2014/09/15/crowd-200-nyc-rallies-save-internet" target="_blank">New York City</a> and <a href="http://www.freepress.net/blog/2014/09/15/fighting-open-internet-philly" target="_blank">Philadelphia</a>.</p></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">Oct. 21</div>
+          <div class="field--timeline-text"><div>Activists <a href="http://www.freepress.net/blog/2014/10/21/free-press-activists-take-texas-net-neutrality-hearing-storm" target="_blank">rally</a> in College Station, Texas, and pack a hearing convened by FCC Commissioner Ajit Pai, a Net Neutrality foe. </div></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">Oct. 27</div>
+          <div class="field--timeline-text"><p>Free Press and allies organize a <a href="http://www.freepress.net/blog/2014/10/30/people-all-walks-life-stand-open-internet-new-york-speaks" target="_blank">big speakout</a> in New York City to highlight the voices of the communities the FCC's decision will most impact. </p></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">Oct. 30</div>
+          <div class="field--timeline-text"><p>The <em>Wall Street Journal</em> reports on new rules under consideration <span style="line-height: 1.538em;">— rules that would still allow slow lanes online. A huge backlash follows in the press and among public interest groups. </span></p></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">Nov. 10</div>
+          <div class="field--timeline-text"><p>President Obama releases a <a href="http://www.youtube.com/watch?v=uKcjQPVwfDk&amp;feature=youtu.be" target="_blank">video statement</a> urging the FCC to reclassify broadband under Title II.</p></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">Dec. </div>
+          <div class="field--timeline-text"><p>Net Neutrality supporters execute <a href="http://www.freepress.net/blog/2014/12/05/net-neutrality-jumbotron-delivers-message-fcc-couldnt-miss" target="_blank">multiple</a> <a href="http://www.freepress.net/blog/2014/12/12/stillwatching-and-waiting-real-net-neutrality" target="_blank">actions</a> in run-up to FCC vote.</p></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">Jan. 7, 2015</div>
+          <div class="field--timeline-text"><div>Chairman Wheeler <a href="http://www.freepress.net/blog/2015/01/08/you-wont-believe" target="_blank">signals</a> that he will likely base new Net Neutrality rules on Title II. He announces that a vote on these rules will take place on Feb. 26.</div></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">Feb. 4, 2015</div>
+          <div class="field--timeline-text"><p class="p1"><span class="s1">Chairman Wheeler <a href="http://www.wired.com/2015/02/fcc-chairman-wheeler-net-neutrality/" target="_blank"><span class="s2">confirms</span></a> that his new rules use Title II to give Internet users the strongest protections possible.</span></p></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">Feb. 26, 2015</div>
+          <div class="field--timeline-text"><p>Victory! The FCC <a href="http://www.freepress.net/blog/2015/02/26/net-neutrality-victory">approves Title II-based rules</a> that ban blocking, throttling and paid prioritization online.</p></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">May 13, 2015</div>
+          <div class="field--timeline-text"><p>Free Press files a legal motion to <a href="http://www.freepress.net/press-release/106988/free-press-intervenes-defend-net-neutrality-rules-court" target="_blank">intervene</a> in the industry-backed court case challenging the FCC's Net Neutrality rules.</p></div>
+        </div>
+                      <div class="fieldgroup--timeline">
+          <div class="field--date">Sept. 21, 2015</div>
+          <div class="field--timeline-text"><p class="p1"><span class="s1">Free Press files a <a href="http://www.freepress.net/sites/default/files/resources/Intervenors_Brief_as_Filed_Sept._21_2015.pdf">joint legal brief</a> to defend the FCC’s Net Neutrality rules.</span></p></div>
+        </div>
+          </div>
+  </div>
+</section></div><div class="field-item even"><div id="how"></div>
+</div><div class="field-item odd"><section class="section section--goals">
+      <h2>HOW WE&#039;LL WIN</h2>
+  
+  <div class="group--goalbubbles">
+    <div class="fieldwrapper--bubble fieldwrapper--goal-bubbles">
+                    
+        <div class="fieldgroup--bubble fieldgroup--goal-bubble">
+          <div class="icon-circle">
+            <div class="title-group">
+              <div class="field--bubble-title"><h4>Pressure the FCC</h4></div>
+              <div class="field--bubble-icon"><img src="http://www.savetheinternet.com/sites/default/files/icon--fcc.png" alt="icon"/></div>
+            </div>
+            <div class="field--bubble-text"><p>Public pressure works: A year of unceasing activism engaging millions of Americans spurred FCC Chairman Tom Wheeler to support Title II reclassification and protect Internet users. Activists across the country also mobilized against the Comcast-Time Warner Cable merger, filing 1 million comments at the FCC. The government listened, and Comcast abandoned its bid.</p><!--<p><strong>Here's how you can get in touch with the FCC:</strong></p>--><div><p><strong>Check out the comments we filed with the agency:</strong></p><ul><li><a href="http://www.freepress.net/sites/default/files/resources/Free_Press_14-28_Comments_7-18-2014.pdf" target="_blank">Free Press Initial Comments on Proposed Open Internet Rules</a> (July 17, 2014)</li><li><a href="http://www.freepress.net/sites/default/files/resources/Free%20Press_14-57_Petition%20to%20Deny_Final.pdf" target="_blank">Free Press Petition to Deny Comcast-Time Warner Cable Merger</a> (Aug. 25, 2014)</li><li><a href="http://www.freepress.net/sites/default/files/resources/Free_Press_14-28_Reply_Comments_FINAL_9-15-14.pdf" target="_blank">Free Press Reply Comments on Proposed Open Internet Rules</a> (Sept. 15, 2014)</li><li><a href="http://www.freepress.net/sites/default/files/resources/REDACTED_Free%20Press_14-57_Reply_to_Opposition.pdf">Free Press Reply Comments on Comcast-Time Warner Cable Merger</a> (Dec. 23, 2014)</li></ul></div><p> </p></div>
+          </div>
+        </div>
+
+                    
+        <div class="fieldgroup--bubble fieldgroup--goal-bubble">
+          <div class="icon-circle">
+            <div class="title-group">
+              <div class="field--bubble-title"><h4>Get Congress on the Record</h4></div>
+              <div class="field--bubble-icon"><img src="http://www.savetheinternet.com/sites/default/files/icon--political.png" alt="icon"/></div>
+            </div>
+            <div class="field--bubble-text"><p>Free Press members pushed <a href="https://www.battleforthenet.com/scoreboard/" target="_blank">more than 60 members of Congress</a> to speak out for real Net Neutrality. But now some folks in Congress are promoting a bill designed to prevent the agency from enforcing good rules.</p><p>We’ve come so far in this fight and we can’t let these troublemakers ruin everything. Tell Congress to <a href="http://act.freepress.net/sign/internet_nn_rod/" target="_blank">stop this bill in its tracks</a>.</p><p>Here's how you can help:</p><ul><li><a href="mailto:organizing@freepress.net?subject=I%20want%20to%20write%20to%20my%20members%20of%20Congress">Write to Your Member of Congress</a>: Want to send a personal note to your member of Congress? Email us and we’ll send you some samples to work from.</li><li><a href="http://www.freepress.net/resource/104560/district-meeting-faqs" target="_blank">Meet With Your Member of Congress</a>: You don't have to go all the way to Washington to weigh in with your elected officials. Check out our step-by-step guide for setting up meetings with your members of Congress in their local offices.</li><li><a href="http://www.freepress.net/sites/default/files/resources/letter-to-the-editor.pdf" target="_blank">Write a Letter to the Editor</a>: One of the most useful ways to get your story to policymakers is to write a letter to the editor of your local paper. Policymakers and their staffs read these letters to get a sense of what their constituents care about. </li></ul></div>
+          </div>
+        </div>
+
+                    
+        <div class="fieldgroup--bubble fieldgroup--goal-bubble">
+          <div class="icon-circle">
+            <div class="title-group">
+              <div class="field--bubble-title"><h4>Make Noise Outside of D.C.</h4></div>
+              <div class="field--bubble-icon"><img src="http://www.savetheinternet.com/sites/default/files/icon--artists.png" alt="icon"/></div>
+            </div>
+            <div class="field--bubble-text"><p>To win in Washington you have to organize across the country.</p><p>Throughout 2014 and into 2015 we kept up the drumbeat for real Net Neutrality, organizing rallies, protests, people’s hearings and other public events. We also teamed up with our BattlefortheNet.com partners to organize the 24-hour Internet Slowdown. More than 40,000 websites participated in this day of action, which drove more than 2 million emails and nearly 300,000 calls to Congress — and over 700,000 comments to the FCC.</p><p>Now that the FCC has passed strong Net Neutrality rules, folks in Congress are trying to undermine this victory. <a href="http://act.freepress.net/sign/internet_nn_rod/" target="_blank">We can’t let them get away with this</a>.</p><p>Want to turn up the volume in your community? Here are a few things you can do: </p><ul><li><span style="line-height: 1.538em;"><a href="http://www.freepress.net/save-internet-event-guide" target="_blank">Hold a Net Neutrality Demonstration</a>: Check out our toolkit for tips. </span></li><li><a href="http://www.freepress.net/resource/104560/district-meeting-faqs" target="_blank">Meet with your Members of Congress</a>: Our step-by-step guide for setting up meetings with your members of Congress in their local offices.</li><li><a href="http://www.savetheinternet.com/what-can-i-do" target="_blank">Looking for more</a>? We've got everything you need. </li></ul></div>
+          </div>
+        </div>
+
+                    
+        <div class="fieldgroup--bubble fieldgroup--goal-bubble">
+          <div class="icon-circle">
+            <div class="title-group">
+              <div class="field--bubble-title"><h4>Expand and Mobilize the Movement</h4></div>
+              <div class="field--bubble-icon"><img src="http://www.savetheinternet.com/sites/default/files/icon--flag.png" alt="icon"/></div>
+            </div>
+            <div class="field--bubble-text"><p>We mobilized an ever-expanding coalition of groups to advocate for strong Net Neutrality protections. Check out the links below to learn more about how Net Neutrality impacts all of our communities. </p><ul><li><a href="http://www.internetvoices.org/voices-home" target="_blank">Voices for Internet Freedom</a>: A coalition representing communities of color fighting for Net Neutrality.</li><li><a href="http://www.battleforthenet.com" target="_blank">Battle for the Net</a>: The organizers of the Internet Slowdown.</li><li><a href="http://www.freepress.net/sites/default/files/resources/Organizations_supporting_Net_Neutrality_May_2014_0.pdf" target="_blank">Advocacy organizations and NGOs</a>: More than 100 groups have come out in favor of reclassification and real Net Neutrality rules. </li><li><a href="https://docs.google.com/document/d/1v34_bFesbfyF_MbQgtZtUQNfSByAgUKTICEB9pjH3jk/pub" target="_blank">Innovators, investors and Internet companies</a>: Hundreds of companies — including 150 startups, smaller companies like Etsy and Kickstarter and even tech giants like Amazon, Facebook, Google and Twitter — have submitted pro-Net Neutrality comments to the FCC. </li><li><a href="http://www.savetheinternet.com/blog/2014/05/13/artists-stand-open-internet" target="_blank">Artists, musicians and actors</a>: The creative community has spoken out in support of real Net Neutrality. </li></ul></div>
+          </div>
+        </div>
+
+                    
+        <div class="fieldgroup--bubble fieldgroup--goal-bubble">
+          <div class="icon-circle">
+            <div class="title-group">
+              <div class="field--bubble-title"><h4>Get the Facts</h4></div>
+              <div class="field--bubble-icon"><img src="http://www.savetheinternet.com/sites/default/files/icon--internet.png" alt="icon"/></div>
+            </div>
+            <div class="field--bubble-text"><p>Knowledge is power. Learn more about what's at stake.</p><ul><li><a href="http://www.savetheinternet.com/net-neutrality-what-you-need-know-now" target="_blank">Net Neutrality FAQs</a>: Everything you ever wanted to know about Net Neutrality but were afraid to ask. </li><li><a href="http://www.freepress.net/sites/default/files/resources/net_neutrality_primer_04_2015_0.pdf" target="_blank">Net Neutrality Primer</a>: Gives a great overview of the issue and is best for distribution at events and rallies.</li><li><a href="http://www.freepress.net/sites/default/files/resources/FCC_Net_Neutrality_Order_Explained_FP_3-20-15.pdf">Free Press Analysis on FCC's Rules</a>: Our official analysis of the FCC's new Net Neutrality rules.</li></ul><p><strong>Overviews: </strong></p><ul><li><a href="http://www.freepress.net/blog/2015/05/06/net-neutrality-rules-face-threats-congress-and-courts" target="_blank">Net Neutrality Rules Face Threats in Congress and the Courts</a></li><li><a href="http://www.freepress.net/blog/2014/08/20/net-blocking-problem-need-solution" target="_blank">Net Blocking: A Problem in Search of a Solution</a></li><li><a href="http://www.freepress.net/blog/2015/02/04/why-title-ii-reclassification-net-neutrality-biggest-deal-ever" target="_blank">Why Title II Reclassification for Net Neutrality Is the Biggest Deal Ever</a></li></ul><p><strong>Debunking Industry Lies About Net Neutrality:</strong></p><ul><li><a href="http://www.freepress.net/resource/106875/reclassification-not-dirty-word">Reclassification Is Not A Dirty Word</a></li><li><a href="http://www.freepress.net/blog/2014/05/14/fighting-zombie-lies-sorry-isps-title-ii-good-economy" target="_blank">Fighting the Zombie Lies: Sorry ISPs, Title II Is Good for the Economy </a></li><li><a href="http://www.freepress.net/blog/2014/12/15/busted-internet-tax-hoax-2014" target="_blank">Busted: The Internet Tax Hoax of 2014</a></li><li><a href="http://www.freepress.net/blog/2012/10/19/fcc-commissioner-mcdowell-wrong-net-neutrality-and-investment" target="_blank">FCC Commissioner McDowell Wrong on Net Neutrality and Investment</a></li><li><a href="http://www.huffingtonpost.com/timothy-karr/the-biggest-lie-about-net_b_5657250.html" target="_blank">The Biggest Lie About Net Neutrality</a></li></ul></div>
+          </div>
+        </div>
+
+                    
+        <div class="fieldgroup--bubble fieldgroup--goal-bubble">
+          <div class="icon-circle">
+            <div class="title-group">
+              <div class="field--bubble-title"><h4>Get Everyone Talking </h4></div>
+              <div class="field--bubble-icon"><img src="http://www.savetheinternet.com/sites/default/files/icon--press.png" alt="icon"/></div>
+            </div>
+            <div class="field--bubble-text"><div>Media coverage of Net Neutrality has skyrocketed. Since January 2014, the Free Press team has had more than 4,000 press hits in outlets including the <em>New York Times</em>, the <em>New Yorker</em>, the <em>Wall Street Journal</em>, NPR, PBS, and the <em>Washington Post</em>. And the fight has made the rounds in pop culture, with celebrities taking up the cause as well. </div><div> </div><div>Here are some of our favorite moments: </div><div> </div><div><ul><li><a href="https://www.youtube.com/watch?v=fpbOEoRrHyU" target="_blank"><em>Last Week Tonight with John Oliver: Net Neutrality</em></a></li><li><a href="http://www.hollywoodreporter.com/news/mark-ruffalo-ok-go-protest-703530" target="_blank"><em>Hollywood Reporter</em>: Mark Ruffalo, OK Go Protest Proposed Net Neutrality Changes</a></li><li><a href="http://video.pbs.org/video/2365157008/" target="_blank"><em>PBS NewsHour</em>: Will End of Net Neutrality Rules Impact Future Innovation?</a></li><li><a href="http://www.democracynow.org/2014/9/10/internet_slowdown_online_protest_warns_users" target="_blank"><em>Democracy Now!</em> Internet Slowdown: Online Protest Warns Users of What’s to Come if Net Neutrality Rules Redrawn</a></li><li><a href="http://time.com/3319344/net-neutrality-congress-fcc/" target="_blank"><em>TIME</em>: Net Neutrality Campaign Claims Victory in ‘Battle for the Net’</a></li><li><a href="http://www.newrepublic.com/article/117777/net-neutrality-comeback-why-fcc-might-save-it-yet" target="_blank"><em>New Republic</em>: Somehow, Activists Have Put Protecting Net Neutrality Back on the Agenda</a></li></ul></div><p> </p></div>
+          </div>
+        </div>
+
+          </div>
+  </div>
+</section></div><div class="field-item even"><section class="section aside">
+  <div class="inside-constrained">
+    <h2>Join Us</h2>
+    <div class="field--merger-text"><p>Our rights to connect and communicate — via universally accessible, open, affordable and fast communications networks and devices — are essential to our individual, economic and political freedoms.</p><p>The Internet is the foremost battleground for free speech in the 21st century, and protecting our Internet freedom is essential to safeguarding our rights to speak and assemble in private.</p><p>Together we’re building the movement we need to protect our rights to connect and communicate.</p><center><h3><a href="http://act.freepress.net/sign/internet_nn_rod/ " target="_blank">Take Action Now</a></h3></center><center><h3> </h3><h3><a href="https://act.freepress.net/donate/internet_neutrality_victory/" target="_blank">Donate</a></h3></center></div>
+  </div>
+</section></div></div></div></div>
+</div>
+
+	  </div>
+	</div>
+</div>
+  </div>
+			</div><!--main_span-->
+			   
+			     
+		</div><!--row-->
+	</div><!--container fluid-->
+</div><!--#main-->
+
+<div class="icon-pop-up"><div class="text"><p><span>People + Policy</span></p><p>= Positive Change for the Public Good</p></div><span class="triangle"></span></div>
+<div class="icons"><img src="/sites/all/themes/sti2/img/fp-icons.png" alt="people + policy = Positive Change for the Public Good" /></div>
+<footer id="main_footer">
+	<div class="container-fluid">
+		<div class="footer-content">
+			<nav class="footer-nav">
+				<ul class="no-list">
+					<li><h4><a href="/contact">Contact</a></h4></li>
+					<li><h4><a href="/privacy_copyright">Privacy and Copyright</a></h4></li>
+				</ul>
+				<p>TM &#043; &#169; 2009&#8211;2015 Free Press, <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/">Creative Commons Attribution Noncommercial ShareAlike license</a></p>
+				<p>Freepress.net is a project of Free Press and the Free Press Action Fund. Free Press and the Free Press Action Fund do not support or oppose any candidate for public office. We are nonpartisan organizations fighting to save the free and open Internet, curb runaway media consolidation, protect press freedom, and ensure diverse voices are represented in our media.</p>
+			</nav>
+			<div class="connect">
+				<h4>Connect With Free Press</h4>
+				<ul class="social_nav">
+				<li id="twitter-btn-top"><a href="http://twitter.com/freepress" class="" target="_blank" ><img src="/sites/all/themes/fpstructure/img/twitter_image_top.png" /></a></li>
+				<li id="facebook-btn-top"><a href="https://www.facebook.com/savetheinternet" class="" target="_blank" ><img src="/sites/all/themes/fpstructure/img/facebook_image_top.png" /></li>
+				<li id=""><a href="http://themediafix.tumblr.com/" class="" target="_blank" ><img src="/sites/all/themes/fpstructure/img/tumblr_image_top.png" /></a></li>
+			</ul>		
+			</div>
+			<div class="charity-reviews">
+				<h4>Charity Reviews</h4>
+				<ul class="no-list">
+					<li class="great-nonprofits"><a href="http://greatnonprofits.org/reviews/free-press" target="_blank"><img src="http://s3.amazonaws.com/s3.freepress.net/outreach/2014-top-rated-awards-badge-embed.png" alt="top nonprofit"/></a></li>
+					<li class="guidestar"><a href="http://www.guidestar.org/organizations/41-2106721/free-press.aspx"><img src="/sites/all/themes/sti2/img/guidestar-seal.png" alt="guidestar"/></a></li>
+				</ul>
+			</div>
+		</div><!--footer-content-->
+	</div><!--container-fluid-->
+</footer>
+<div id="modal"></div>
+  </body>
+</html>

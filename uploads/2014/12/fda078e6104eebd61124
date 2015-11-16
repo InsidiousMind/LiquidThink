@@ -1,0 +1,573 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="viewport" content="width=1020">
+    
+    
+    <title>revisedNameGenChallenge.py · GitHub</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+    <link rel="fluid-icon" href="https://gist.github.com/fluidicon.png" title="GitHub">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
+    <meta property="fb:app_id" content="1401488693436528">
+
+      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="revisedNameGenChallenge.py" name="twitter:title" /><meta content="" name="twitter:description" /><meta content="https://avatars1.githubusercontent.com/u/6452260?v=3&amp;s=400" name="twitter:image:src" />
+      <meta content="Gist" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars1.githubusercontent.com/u/6452260?v=3&amp;s=400" property="og:image" /><meta content="revisedNameGenChallenge.py" property="og:title" /><meta content="https://gist.github.com/InsidiousMind/fda078e6104eebd61124" property="og:url" /><meta content="" property="og:description" />
+      <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+    <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+    <link rel="assets" href="https://assets-cdn.github.com/">
+    
+    <meta name="pjax-timeout" content="1000">
+    
+
+    <meta name="msapplication-TileImage" content="/windows-tile.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="selected-link" value="gist_code" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+    <meta name="google-analytics" content="UA-3769691-4">
+
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="gist" name="octolytics-app-id" /><meta content="6CAF061A:5927:1D1A36C7:56439A21" name="octolytics-dimension-request_id" />
+<meta content="/&lt;user-name&gt;/&lt;gist-id&gt;" data-pjax-transient="true" name="analytics-location" />
+<meta content="Rails, view, gists/gists#show" data-pjax-transient="true" name="analytics-event" />
+
+
+  <meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+    <meta content="true" name="octolytics-dimension-public" /><meta content="18923880" name="octolytics-dimension-gist_id" /><meta content="fda078e6104eebd61124" name="octolytics-dimension-gist_name" /><meta content="false" name="octolytics-dimension-anonymous" /><meta content="6452260" name="octolytics-dimension-owner_id" /><meta content="InsidiousMind" name="octolytics-dimension-owner_login" /><meta content="false" name="octolytics-dimension-forked" />
+
+  <meta class="js-ga-set" name="dimension5" content="public">
+  <meta class="js-ga-set" name="dimension6" content="owned">
+
+
+
+    <meta name="is-dotcom" content="true">
+        <meta name="hostname" content="gist.github.com">
+    <meta name="user-login" content="">
+
+      <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#4078c0">
+      <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
+
+    <meta content="f5b9c1a217e472c678c9ac078688eb1a10c93cab" name="form-nonce" />
+
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-f8ab60c8f32aceb51cd5cf788d9c6c923cc86a0b4884b62819169b4b936c414b.css" media="all" rel="stylesheet" />
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github2-818b0cb0376a1ae364a9c85b8a05a8432e7a1f056eb75d4df9cf8f77662ab219.css" media="all" rel="stylesheet" />
+    
+    
+    
+
+
+    <meta http-equiv="x-pjax-version" content="c4027e12dda0202d1cee1422596ff4cc">
+
+        <link href="/InsidiousMind.atom" rel="alternate" title="atom" type="application/atom+xml">
+  
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/gist-0014945d5ee438dd43f24976c88bf75360eb6391dca046fd42c6a0e55ecf6c96.css" media="all" rel="stylesheet" />
+
+  </head>
+
+
+  <body class="logged_out   env-production">
+    <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+
+    
+    
+    
+
+
+
+        <div class="header gist-header header-logged-out" role="banner">
+  <div class="container clearfix">
+
+    <a href="/" aria-label="Gist Homepage" class="header-logo-wordmark" data-hotkey="g d">
+      <span class="mega-octicon octicon-logo-github"></span>
+      <span class="mega-octicon octicon-gist-logo"></span>
+</a>
+    <div class="site-search js-site-search" role="search">
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <label class="js-chromeless-input-container form-control">
+    <input type="text"
+      class="js-site-search-focus chromeless-input"
+      data-hotkey="s"
+      name="q"
+      placeholder="Search…"
+      tabindex="1"
+      autocorrect="off"
+      autocomplete="off"
+      autocapitalize="off">
+  </label>
+
+</form>
+    </div>
+    <ul class="header-nav left" role="navigation">
+      <li class="header-nav-item">
+        <a href="/discover" class="header-nav-link" data-ga-click="Header, go to all gists, text:all gists">All gists</a>
+      </li>
+
+      <li class="header-nav-item">
+        <a href="https://github.com" class="header-nav-link" data-ga-click="Header, go to GitHub, text:GitHub">GitHub</a>
+      </li>
+    </ul>
+
+      <div class="header-actions" role="navigation">
+        <a href="/join" class="btn btn-primary" data-ga-click="Header, sign up">Sign up for a GitHub account</a>
+        <a href="https://gist.github.com/auth/github?return_to=gist" class="btn" data-ga-click="Header, sign in">Sign in</a>
+      </div>
+
+  </div>
+</div>
+
+
+
+
+    <div id="start-of-content" class="accessibility-aid"></div>
+
+    <div id="js-flash-container">
+</div>
+
+
+    <div role="main" class="main-content">
+      
+  <div itemscope itemtype="http://schema.org/WebPage">
+    <div id="gist-pjax-container" class="gist-content-wrapper" data-pjax-container>
+          <div class="gist-detail-intro gist-banner">
+      <div class="container">
+        <a href="/" class="btn btn-outline right">Create a gist now</a>
+        <p class="lead">
+          Instantly share code, notes, and snippets.
+        </p>
+      </div>
+    </div>
+
+
+  <div class="gisthead pagehead repohead instapaper_ignore readability-menu">
+    <div class="container">
+        
+
+
+<h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public css-truncate">
+  <img alt="@InsidiousMind" class="avatar gist-avatar" height="26" src="https://avatars3.githubusercontent.com/u/6452260?v=3&amp;s=52" width="26" />
+  <span class="author"><a href="/InsidiousMind" class="url fn" itemprop="url" rel="author"><span itemprop="title">InsidiousMind</span></a></span><!--
+       --><span class="path-divider">/</span><!--
+       --><strong class="gist-header-title css-truncate-target"><a href="/InsidiousMind/fda078e6104eebd61124">revisedNameGenChallenge.py</a></strong>
+
+  <span class="page-context-loader">
+    <img alt="" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+  </span>
+
+  <div class="gist-timestamp">Created <time datetime="2015-02-01T04:49:31Z" is="time-ago">Feb 1, 2015</time></div>
+</h1>
+
+<ul class="pagehead-actions">
+
+
+  <li>
+      <a href="/login?return_to=https%3A%2F%2Fgist.github.com%2FInsidiousMind%2Ffda078e6104eebd61124" aria-label="You must be signed in to star a gist" class="btn btn-sm btn-with-count tooltipped tooltipped-n" rel="nofollow">
+    <span class="octicon octicon-star"></span>
+    Star
+</a>
+  <a href="/InsidiousMind/fda078e6104eebd61124/stargazers" class="social-count">
+    0
+</a>
+  </li>
+
+    <li>
+        <a href="/login?return_to=https%3A%2F%2Fgist.github.com%2FInsidiousMind%2Ffda078e6104eebd61124" aria-label="You must be signed in to fork a gist" class="btn btn-sm btn-with-count tooltipped tooltipped-n" rel="nofollow">
+    <span class="octicon octicon-repo-forked"></span>
+    Fork
+</a>
+  <a href="/InsidiousMind/fda078e6104eebd61124/forks" class="social-count">
+    0
+</a>
+    </li>
+
+</ul>
+
+
+    </div><!-- /.container -->
+  </div><!-- /.repohead -->
+
+<div class="container">
+  <div class="repository-with-sidebar repo-container new-discussion-timeline with-full-navigation ">
+    <div class="repository-sidebar clearfix">
+        <div class="sunken-menu repo-nav js-repo-nav js-sidenav-container-pjax js-octicon-loaders"
+     data-pjax="#gist-pjax-container">
+  <ul class="sunken-menu-group">
+    <li class="tooltipped tooltipped-w" aria-label="Code">
+      <a href="/InsidiousMind/fda078e6104eebd61124" aria-label="Code" aria-selected="true" class="js-selected-navigation-item selected sunken-menu-item" data-hotkey="g c" data-pjax="true" data-selected-links="gist_code /InsidiousMind/fda078e6104eebd61124">
+        <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
+        <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>    </li>
+
+      <li class="tooltipped tooltipped-w" aria-label="Revisions">
+        <a href="/InsidiousMind/fda078e6104eebd61124/revisions" aria-label="Revisions" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g r" data-pjax="true" data-selected-links="gist_revisions /InsidiousMind/fda078e6104eebd61124/revisions">
+          <span class="octicon octicon-git-commit"></span> <span class="full-word">Revisions</span>
+          <span class="counter">1</span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+
+  </ul>
+</div>
+
+
+  <div class="only-with-full-nav">
+    <div class="embed-url open">
+  <h3 class="text-small"><span class="text-emphasized">Embed</span> URL</h3>
+  <div class="input-group js-zeroclipboard-container">
+    <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target" value="&lt;script src=&quot;https://gist.github.com/InsidiousMind/fda078e6104eebd61124.js&quot;&gt;&lt;/script&gt;"
+           readonly="readonly" aria-label="Gist Embed URL">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+
+      
+<div class="js-clone-url clone-url open"
+  data-protocol-type="http">
+  <h3 class="text-small text-muted"><span class="text-emphasized">HTTPS</span> clone URL</h3>
+  <div class="input-group js-zeroclipboard-container">
+    <input type="text" class="input-mini text-small text-muted input-monospace js-url-field js-zeroclipboard-target"
+           value="https://gist.github.com/fda078e6104eebd61124.git" readonly="readonly" aria-label="HTTPS clone URL">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+  
+<div class="js-clone-url clone-url "
+  data-protocol-type="subversion">
+  <h3 class="text-small text-muted"><span class="text-emphasized">Subversion</span> checkout URL</h3>
+  <div class="input-group js-zeroclipboard-container">
+    <input type="text" class="input-mini text-small text-muted input-monospace js-url-field js-zeroclipboard-target"
+           value="https://github.com/fda078e6104eebd61124" readonly="readonly" aria-label="Subversion checkout URL">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+
+
+<div class="clone-options text-small text-muted">You can clone with
+  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form " data-form-nonce="f5b9c1a217e472c678c9ac078688eb1a10c93cab" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="mJXcpejHsJc6Y6l8EJlEHjC8NeZ48nIh9xTAfIQQ5fkgiBvrJKHhWNATceHt/tUOKfv98iJdqHN03NUSl5IJ8w==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form> or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form " data-form-nonce="f5b9c1a217e472c678c9ac078688eb1a10c93cab" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="wSB2kLi+pnbWXYwDKYs8s8x8Wg51owDB0DNwPuSvV2AE7Km3xB1lLMNgiQ5gh0NkExz53XFL5vPTTxvdMqCMqQ==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+  <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
+    <span class="octicon octicon-question"></span>
+  </a>
+</div>
+
+
+      <a href="/InsidiousMind/fda078e6104eebd61124/archive/bbdf6e6cbd62e2a03b11719b5d0c258a094e2eeb.zip"
+          class="btn btn-block"
+          aria-label="Download the contents of InsidiousMind/fda078e6104eebd61124 as a zip file"
+          title="Download the contents of InsidiousMind/fda078e6104eebd61124 as a zip file"
+          rel="nofollow">
+        <span class="octicon octicon-cloud-download"></span>
+        Download ZIP
+      </a>
+  </div>
+
+
+    </div><!-- /.repository-sidebar -->
+
+    <div class="repository-content gist-content context-loader-container">
+      
+
+
+
+
+<span id="js-show-full-navigation"></span>
+
+<div>
+  <div class="repository-meta js-details-container">
+</div>
+
+      <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-revisednamegenchallenge-py" class="file">
+      <div class="file-header">
+        <div class="file-actions">
+
+          <a href="/InsidiousMind/fda078e6104eebd61124/raw/bbdf6e6cbd62e2a03b11719b5d0c258a094e2eeb/revisedNameGenChallenge.py" class="btn btn-sm ">Raw</a>
+        </div>
+        <div class="file-info">
+          <span class="icon">
+            <b class="octicon octicon-gist"></b>
+          </span>
+          <a class="tooltipped tooltipped-s css-truncate" aria-label="Permalink" href="#file-revisednamegenchallenge-py">
+            <strong class="user-select-contain gist-blob-name css-truncate-target">
+              revisedNameGenChallenge.py
+            </strong>
+          </a>
+        </div>
+      </div>
+    
+
+  <div class="blob-wrapper data type-python">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="file-revisednamegenchallenge-py-LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> random</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="file-revisednamegenchallenge-py-LC2" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="file-revisednamegenchallenge-py-LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-k">def</span> <span class="pl-en">sample</span>(<span class="pl-smi">items</span>):</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="file-revisednamegenchallenge-py-LC4" class="blob-code blob-code-inner js-file-line">    </td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="file-revisednamegenchallenge-py-LC5" class="blob-code blob-code-inner js-file-line">    randomIndex <span class="pl-k">=</span> random.randrange(<span class="pl-c1">len</span>(items))</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="file-revisednamegenchallenge-py-LC6" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">return</span> items[randomIndex]</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="file-revisednamegenchallenge-py-LC7" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="file-revisednamegenchallenge-py-LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-k">def</span> <span class="pl-en">promptForGender</span>():</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="file-revisednamegenchallenge-py-LC9" class="blob-code blob-code-inner js-file-line">    genderList <span class="pl-k">=</span> [<span class="pl-s"><span class="pl-pds">&quot;</span>male<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>female<span class="pl-pds">&quot;</span></span>]</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="file-revisednamegenchallenge-py-LC10" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="file-revisednamegenchallenge-py-LC11" class="blob-code blob-code-inner js-file-line">    response <span class="pl-k">=</span> <span class="pl-c1">input</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>What Name Gender would you like? (m/f) (enter &#39;r&#39; for random)<span class="pl-pds">&quot;</span></span>)</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="file-revisednamegenchallenge-py-LC12" class="blob-code blob-code-inner js-file-line">    response <span class="pl-k">=</span> response.lower()</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="file-revisednamegenchallenge-py-LC13" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="file-revisednamegenchallenge-py-LC14" class="blob-code blob-code-inner js-file-line">   </td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="file-revisednamegenchallenge-py-LC15" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">if</span> response <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&quot;</span>m<span class="pl-pds">&quot;</span></span>:</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="file-revisednamegenchallenge-py-LC16" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> <span class="pl-s"><span class="pl-pds">&quot;</span>male<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="file-revisednamegenchallenge-py-LC17" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">elif</span> response <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&quot;</span>f<span class="pl-pds">&quot;</span></span>:</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="file-revisednamegenchallenge-py-LC18" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> <span class="pl-s"><span class="pl-pds">&quot;</span>female<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="file-revisednamegenchallenge-py-LC19" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">elif</span> response <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&quot;</span>r<span class="pl-pds">&quot;</span></span>:</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="file-revisednamegenchallenge-py-LC20" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> sample(genderList)</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="file-revisednamegenchallenge-py-LC21" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">else</span>:</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="file-revisednamegenchallenge-py-LC22" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">print</span> (<span class="pl-s"><span class="pl-pds">&quot;</span>please enter &#39;M&#39; ,&#39;F&#39;, or &#39;R&#39; to initiate the Random Name Generator<span class="pl-pds">&quot;</span></span>)</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="file-revisednamegenchallenge-py-LC23" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="file-revisednamegenchallenge-py-LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-k">def</span> <span class="pl-en">genName</span>():</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="file-revisednamegenchallenge-py-LC25" class="blob-code blob-code-inner js-file-line">    boyNames <span class="pl-k">=</span> [<span class="pl-s"><span class="pl-pds">&quot;</span>Jack<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Andrew<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Mike<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Terry<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Torvald<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Gatsby<span class="pl-pds">&quot;</span></span>]</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="file-revisednamegenchallenge-py-LC26" class="blob-code blob-code-inner js-file-line">    girlNames <span class="pl-k">=</span> [<span class="pl-s"><span class="pl-pds">&quot;</span>Alice<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Hana<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Clare<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Janet<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Daisy<span class="pl-pds">&quot;</span></span>]</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="file-revisednamegenchallenge-py-LC27" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="file-revisednamegenchallenge-py-LC28" class="blob-code blob-code-inner js-file-line">    gender <span class="pl-k">=</span> promptForGender()</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="file-revisednamegenchallenge-py-LC29" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="file-revisednamegenchallenge-py-LC30" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">if</span> gender <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&quot;</span>male<span class="pl-pds">&quot;</span></span>:</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="file-revisednamegenchallenge-py-LC31" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> sample(boyNames)</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="file-revisednamegenchallenge-py-LC32" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">elif</span> gender <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&quot;</span>female<span class="pl-pds">&quot;</span></span>:</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="file-revisednamegenchallenge-py-LC33" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> sample(girlNames)</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="file-revisednamegenchallenge-py-LC34" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="file-revisednamegenchallenge-py-LC35" class="blob-code blob-code-inner js-file-line"><span class="pl-k">print</span> (<span class="pl-s"><span class="pl-pds">&quot;</span>Welcome to the Simple Random Name Generator by Liquid Think!<span class="pl-pds">&quot;</span></span>)</td>
+      </tr>
+      <tr>
+        <td id="file-revisednamegenchallenge-py-L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="file-revisednamegenchallenge-py-LC36" class="blob-code blob-code-inner js-file-line"><span class="pl-k">print</span> (genName())</td>
+      </tr>
+</table>
+
+  </div>
+
+  </div>
+  
+</div>
+
+
+  <a name="comments"></a>
+  <div class="discussion-timeline gist-discussion-timeline js-quote-selection-container ">
+    <div class="js-discussion js-socket-channel" data-channel="InsidiousMind/fda078e6104eebd61124:marked-as-read:18923880">
+      
+
+
+
+
+<!-- Rendered timeline since 2015-08-29 07:14:30 -->
+<div id="partial-timeline-marker"
+      class="js-timeline-marker js-socket-channel js-updatable-content"
+      data-channel="InsidiousMind/fda078e6104eebd61124:gist:18923880"
+      data-url="/InsidiousMind/fda078e6104eebd61124/show_partial?partial=gist%2Ftimeline_marker&amp;since=1440857670"
+      data-last-modified="Sat, 29 Aug 2015 14:14:30 GMT">
+</div>
+
+
+      <div class="discussion-timeline-actions">
+          <div class="signed-out-comment">
+	<a href="/join" class="btn btn-primary" rel="nofollow">Sign up for free</a>
+	<strong>to join this conversation on GitHub</strong>.
+	Already have an account?
+	<a href="/login?return_to=https%3A%2F%2Fgist.github.com%2FInsidiousMind%2Ffda078e6104eebd61124" rel="nofollow">Sign in to comment</a>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+    </div>
+
+  </div><!-- /.repo-container -->
+  <div class="modal-backdrop"></div>
+</div><!-- /.container -->
+
+    </div><!-- /.gist-pjax-container -->
+  </div><!-- /.site -->
+
+    </div>
+
+      <div class="container">
+  <div class="site-footer" role="contentinfo">
+    <ul class="site-footer-links right">
+        <li><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+      <li><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li><a href="https://github.com/blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a href="https://github.com/about" data-ga-click="Footer, go to about, text:about">About</a></li>
+        <li><a href="https://github.com/pricing" data-ga-click="Footer, go to pricing, text:pricing">Pricing</a></li>
+
+    </ul>
+
+    <a href="https://github.com" aria-label="Homepage">
+      <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
+</a>
+    <ul class="site-footer-links">
+      <li>&copy; 2015 <span title="0.04139s from github-fe143-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+        <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+        <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+        <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li><a href="https://github.com/contact" data-ga-click="Footer, go to contact, text:contact">Contact</a></li>
+        <li><a href="https://help.github.com" data-ga-click="Footer, go to help, text:help">Help</a></li>
+    </ul>
+  </div>
+</div>
+
+
+
+    
+    
+    
+
+    <div id="ajax-error-message" class="flash flash-error">
+      <span class="octicon octicon-alert"></span>
+      <button type="button" class="flash-close js-flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+        <span class="octicon octicon-x"></span>
+      </button>
+      Something went wrong with that request. Please try again.
+    </div>
+
+
+      <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-2e7fc3d264a208e1383de85b815379beccff56c1f977714515d4cac7820eef3e.js"></script>
+      <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github-74323e649f1eca3698cc7d7fb861264e361eb18744b089111835c9751bb19a22.js"></script>
+      
+      
+    <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner hidden">
+      <span class="octicon octicon-alert"></span>
+      <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+      <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    </div>
+  </body>
+</html>
+

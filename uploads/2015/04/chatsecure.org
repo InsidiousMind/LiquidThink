@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="/assets/css/main.min.css">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Free and open source encrypted chat for iPhone and Android.">
+<meta name="author" content="">
+
+<title></title>
+
+<!-- Bootstrap Core CSS -->
+<link href="assets/css/frontpage/bootstrap.min.css" rel="stylesheet">
+
+<!-- Custom CSS -->
+<link href="assets/css/frontpage/landing-page.css" rel="stylesheet">
+
+<!-- Custom Fonts -->
+<link href="assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-28188864-2', 'auto');
+  ga('send', 'pageview');
+</script>
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <section class="site-nav">
+    <header>
+        <nav id="navigation">
+            <a class="brand" href="/">
+                <img src="/images/logo.png" alt="ChatSecure Logo">
+            </a>
+            <a href="/about" class="home">About</a>
+            <a href="/blog" class="home">Blog</a>
+            <a href="/faq">FAQ</a>
+            <a href="/support">Support</a>
+            <a href="/contribute">Contribute</a>
+            <a href="/developers">Developers</a>
+        </nav>
+        <nav class="tagline">
+            
+            <a href="/about" class="btn btn-outline">Learn More</a>
+        </nav>
+    </header>
+</section>
+
+    <!-- Header -->
+    <div class="intro-header">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="intro-message">
+                        <h1>ChatSecure</h1>
+                        <h3>Encrypted Messenger for iOS and Android</h3>
+                        <hr class="intro-divider">
+                        <ul class="list-inline app-download-buttons">
+                            <li>
+                                <a href="https://itunes.apple.com/us/app/chatsecure/id464200063"><img src="images/appstore.svg" height="40px" alt="ChatSecure on iOS App Store"></a>
+                            </li>
+                            <li>
+                                <a href="https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im"><img src="images/playstore.svg" height="45px" alt="ChatSecure for Android on Google Play"></a>
+                            </li>
+                        </ul>
+                        <hr class="intro-divider">
+                        <ul class="list-inline intro-social-buttons">
+    <li>
+        <a href="https://twitter.com/chatsecure" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+    </li>
+    <li>
+        <a href="https://github.com/chatsecure" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+    </li>
+    <li>
+        <a href="https://www.facebook.com/chatsecure" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+    </li>
+</ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.intro-header -->
+
+    <!-- Page Content -->
+
+    <div class="content-section-a">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">What is ChatSecure?</h2>
+                    <p class="lead">ChatSecure is a free and open source messaging app that features <a href="https://en.wikipedia.org/wiki/Off-the-Record_Messaging">OTR encryption</a> over <a href="https://en.wikipedia.org/wiki/XMPP">XMPP</a>. You can connect to your existing accounts on Facebook or Google, create new accounts on <a href="https://xmpp.net/directory.php">public XMPP servers</a> (including via <a href="https://en.wikipedia.org/wiki/Tor_(anonymity_network)">Tor</a>), or even <a href="http://arstechnica.com/information-technology/2014/03/how-to-set-up-your-own-private-instant-messaging-server/">connect to your own server</a> for extra security.</p>
+                    <p class="lead">Unlike other apps that keep you stuck in their walled garden, ChatSecure is fully interoperable with other clients that support OTR and XMPP, such as <a href="https://www.adium.im">Adium</a>, <a href="https://jitsi.org">Jitsi</a>, and <a href="https://en.wikipedia.org/wiki/Off-the-Record_Messaging#Client_support">more.</a></p>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" src="images/accounts.png" alt="iOS Screenshot">
+                </div>
+            </div>
+        </div>
+        <!-- /.container -->
+    </div>
+    <!-- /.content-section-a -->
+
+    <div class="content-section-b">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">Strong Cryptography</h2>
+                    <p class="lead">ChatSecure only uses well-known open source cryptographic libraries to keep your conversations private. Other apps may make claims about "military grade" security but, without publicly auditable source code and verifiable end-to-end encryption, you cannot be truly safe.</p>
+                    <ul class="features-list">
+                        <li>XMPP with <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security#Certificate_pinning">TLS certificate pinning.</a></li>
+                        <li><a href="https://en.wikipedia.org/wiki/Off-the-Record_Messaging">OTR</a> for verifiable <a href="https://en.wikipedia.org/wiki/End-to-end_encryption">end-to-end encryption</a> and <a href="https://en.wikipedia.org/wiki/Forward_secrecy">forward secrecy</a>.</li>
+                        <li><a href="https://en.wikipedia.org/wiki/Tor_(anonymity_network)">Tor</a> to help bypass restrictive firewalls.</li>
+                        <li><a href="https://www.zetetic.net/sqlcipher/design/">SQLCipher</a> to locally encrypt conversation logs.</li>
+                    <ul>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                    <img class="img-responsive" src="images/android.png" alt="Android screenshot">
+                </div>
+            </div>
+        </div>
+        <!-- /.container -->
+    </div>
+    <!-- /.content-section-b -->
+
+    <div class="content-section-a">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">Free and Open Source</h2>
+                    <p class="lead">We believe in the power of free and open source software. The full source code to the <a href="https://github.com/chrisballinger/ChatSecure-iOS">iOS</a> and <a href="https://github.com/guardianproject/ChatSecureAndroid">Android</a> apps is available on GitHub.<br><br>Want to get involved? Feel free to send us a pull request!</p>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" src="images/github-octocat.png" alt="">
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+
+    <div class="banner">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <h2>Help us improve ChatSecure:</h2>
+                </div>
+                <div class="col-lg-6">
+                    <ul class="list-inline banner-social-buttons">
+    <li>
+        <a href="https://twitter.com/chatsecure" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+    </li>
+    <li>
+        <a href="https://github.com/chatsecure" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+    </li>
+    <li>
+        <a href="https://www.facebook.com/chatsecure" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+    </li>
+</ul>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.banner -->
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <p class="copyright text-muted small">Copyright &copy; <a href="http://chrisballinger.info">Chris Ballinger</a> 2014. <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.<br>
+                    Header image by <a href="https://www.flickr.com/photos/wwarby/9638549539/in/photostream/">William Warby</a>. Template from <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery Version 1.11.0 -->
+    <script src="assets/js/jquery-1.11.0.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="assets/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

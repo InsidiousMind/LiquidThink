@@ -1,0 +1,550 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Bitcoin Entrepreneur Injects Bitcoin &#039;Wallets&#039; into Hands | SecurityWeek.Com</title>
+	<meta http-equiv="content-language" content="en" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/securityweek_favicon.ico" type="image/x-icon" />
+<meta name="description" content="Chips containing Bitcoin enclosed in a 2mm by 12mm capsule of &quot;biocompatible&quot; glass and injected by a professional using a special syringe." />
+<meta name="abstract" content="A Dutch bitcoin entrepreneur has had two microchips containing Bitcoin injected into his hands to help him make contactless payments." />
+<meta name="keywords" content="Bitcoin,embedded,skin,hands,contactless payment,Martijn Wismeijer,NFC,virtual currency" />
+<meta name="copyright" content="SecurityWeek - A Wired Business Media Publication" />
+<link rel="canonical" href="http://www.securityweek.com/bitcoin-entrepreneur-injects-bitcoin-wallets-hands" />
+<meta name="revisit-after" content="1 day" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_9a051c1f6581a9befaf42b3fed673e0b.css" />
+<link type="text/css" rel="stylesheet" media="screen,projection" href="/sites/default/files/css/css_21a5dfbfda7313c666f05c0871f1828f.css" />
+  <!--[if lte IE 7]>
+  	<link href="/sites/all/themes/securityweek/css/ie.css" rel="stylesheet"  type="text/css"  media="screen, projection" />
+  <![endif]-->  
+  <!--[if lte IE 6]>
+  	<link href="/sites/all/themes/securityweek/css/ie6.css" rel="stylesheet"  type="text/css"  media="screen, projection" />
+  <![endif]-->
+<script type="text/javascript" src="/sites/default/files/js/js_7f5d84add1db1a5f6f0cb2a36491198e.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" }, "disqus": { "url": "http://www.securityweek.com/bitcoin-entrepreneur-injects-bitcoin-wallets-hands", "title": "Bitcoin Entrepreneur Injects Bitcoin \x26#039;Wallets\x26#039; into Hands", "identifier": "node/7380", "shortname": "securityweek" }, "CToolsUrlIsAjaxTrusted": { "/search/google": true }, "quicktabs": { "qt_1": { "tabs": [ 0, 0 ] } } });
+//--><!]]>
+</script>
+ 
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/1009451/300x250-Lower', [300, 250], 'div-gpt-ad-1415848531926-0').addService(googletag.pubads());
+googletag.defineSlot('/1009451/300x600-Right-Side', [300, 600], 'div-gpt-ad-1415848531926-1').addService(googletag.pubads());
+googletag.defineSlot('/1009451/728x90-Bottom', [728, 90], 'div-gpt-ad-1415848531926-2').addService(googletag.pubads());
+googletag.defineSlot('/1009451/SecurityWeek-Splash-640x480', [640, 480], 'div-gpt-ad-1415848531926-3').addService(googletag.pubads());
+googletag.defineSlot('/1009451/SecurityWeek_Home_Top_728x90', [728, 90], 'div-gpt-ad-1415848531926-4').addService(googletag.pubads());
+googletag.defineSlot('/1009451/SecurityWeek_Home_Top_Right_300x250', [300, 250], 'div-gpt-ad-1415848531926-5').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+</head>
+<body>
+<div id="container" class="admin right-col">
+    <div id="top">
+  <div id="block-menu-menu-top-menu" class="block block-menu region-odd odd region-count-1 count-1">
+
+  <h3 class="title">SECURITYWEEK NETWORK:</h3>
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="http://www.securityweek.com" title="Information Security News">Information Security News</a></li>
+<li class="leaf"><a href="http://www.infosecisland.com/" title="Infosec Island Commumity">Infosec Island</a></li>
+<li class="leaf last"><a href="http://www.suitsandspooks.com/" title="Suits and Spooks Events">Suits and Spooks</a></li>
+</ul></div>
+  
+</div>
+<div id="block-block-2" class="block block-block region-even even region-count-2 count-2">
+
+  <h3 class="title">Security Experts:</h3>
+
+  <div class="content"><a href="http://www.securityweek.com/contact-us" style="color:#FFF">WRITE FOR US</a></div>
+  
+</div>
+  </div>
+  <div class="clearfix"></div>
+    <div id="wrapper">
+    <div id="header">
+      <h1 id="logo">
+        <a title="Information Security News, IT Security News &amp; Expert Insights: SecurityWeek.Com" href="/">
+                  <img src="/sites/default/files/securityweek_logo.jpg" alt="Information Security News, IT Security News &amp; Expert Insights: SecurityWeek.Com" />
+                </a>
+      </h1>
+      <div id="block-menu-menu-header-menu" class="block block-menu region-odd odd region-count-1 count-3">
+
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="http://www.securityweek.com/subscribe" title="IT Security Newsletter">Subscribe (Free)</a></li>
+<li class="leaf"><a href="http://whitepapers.securityweek.com" title="IT Security White Papers">Security White Papers</a></li>
+<li class="leaf"><a href="http://www.icscybersecurityconference.com/" title="ICS Cyber Security Conference 2014">ICS Cyber Security Conference</a></li>
+<li class="leaf last"><a href="http://www.securityweek.com/contact-us" title="Contact SecurityWeek Team">Contact Us</a></li>
+</ul></div>
+  
+</div>
+    </div>
+    <div class="clearfix"></div>
+        <div id="banner">
+    <div id="block-ad-48" class="block block-ad region-odd even region-count-1 count-4">
+
+
+  <div class="content"><div class="html-advertisement" id="ad-1983"><!-- 728x90-Bottom --><!-- 728x90-Bottom --><div id='div-gpt-ad-1415848531926-2' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415848531926-2'); });
+</script></div>
+</div><div class="ad-image-counter"><img src="http://www.securityweek.com/sites/all/modules/ad/serve.php?o=image&amp;a=1983" height="0" width="0" alt="view counter" /></div></div>
+  
+</div>
+    </div>
+    <div class="clearfix"></div>
+            <div id="navigation">
+      <div id="block-menu-menu-main-navigation" class="block block-menu region-odd odd region-count-1 count-5">
+
+
+  <div class="content"><ul class="menu"><li class="expanded first"><a href="/virus-threats" title="Malware &amp; Threats">Malware &amp; Threats</a><ul class="menu"><li class="leaf first"><a href="/virus-threats/vulnerabilities" title="Vulnerabilities">Vulnerabilities</a></li>
+<li class="leaf"><a href="/virus-threats/email-security" title="Email Security">Email Security</a></li>
+<li class="leaf"><a href="/virus-threats/virus-malware" title="Virus &amp; Malware">Virus &amp; Malware</a></li>
+<li class="leaf"><a href="/virus-threats/white-papers" title="White Papers">White Papers</a></li>
+<li class="leaf last"><a href="/virus-threats/desktop-security" title="Desktop Security ">Desktop Security </a></li>
+</ul></li>
+<li class="expanded"><a href="/cybercrime" title="Cybercrime">Cybercrime</a><ul class="menu"><li class="leaf first"><a href="/cybercrime/cyberwarfare" title="Cyberwarfare">Cyberwarfare</a></li>
+<li class="leaf"><a href="/cybercrime/fraud-identity-theft" title="Fraud &amp; Identity Theft">Fraud &amp; Identity Theft</a></li>
+<li class="leaf"><a href="/cybercrime/phishing" title="Phishing">Phishing</a></li>
+<li class="leaf"><a href="/cybercrime/malware" title="Malware">Malware</a></li>
+<li class="leaf"><a href="/cybercrime/tracking-law-enforcement" title="Tracking &amp; Law Enforcement">Tracking &amp; Law Enforcement</a></li>
+<li class="leaf last"><a href="/cybercrime/whitepapers" title="Whitepapers">Whitepapers</a></li>
+</ul></li>
+<li class="expanded"><a href="/mobile-wireless" title="Mobile &amp; Wireless">Mobile &amp; Wireless</a><ul class="menu"><li class="leaf first"><a href="/mobile-wireless/mobile-security" title="Mobile Security">Mobile Security</a></li>
+<li class="leaf last"><a href="/mobile-wireless/wireless-security" title="Wireless Security">Wireless Security</a></li>
+</ul></li>
+<li class="expanded"><a href="/privacy-compliance" title="Risk Management &amp; Compliance">Risk &amp; Compliance</a><ul class="menu"><li class="leaf first"><a href="/privacy-compliance/audits" title="Risk Management">Risk Management</a></li>
+<li class="leaf"><a href="/privacy-compliance/compliance" title="Compliance">Compliance</a></li>
+<li class="leaf"><a href="/privacy-compliance/privacy" title="Privacy">Privacy</a></li>
+<li class="leaf last"><a href="/privacy-compliance/whitepapers" title="Whitepapers">Whitepapers</a></li>
+</ul></li>
+<li class="expanded"><a href="/security-infrastructure" title="Security Architecture">Security Architecture</a><ul class="menu"><li class="leaf first"><a href="/security-infrastructure/cloud-security" title="Cloud Security">Cloud Security</a></li>
+<li class="leaf"><a href="/security-infrastructure/identity-access" title="Identity &amp; Access">Identity &amp; Access</a></li>
+<li class="leaf"><a href="/security-infrastructure/data-protection" title="Data Protection">Data Protection</a></li>
+<li class="leaf"><a href="/security-infrastructure/white-papers" title="White Papers">White Papers</a></li>
+<li class="leaf"><a href="/security-infrastructure/network-security" title="Network Security">Network Security</a></li>
+<li class="leaf last"><a href="/security-infrastructure/application-security" title="Application Security ">Application Security </a></li>
+</ul></li>
+<li class="expanded"><a href="/management-strategy" title="Management &amp; Strategy">Management &amp; Strategy</a><ul class="menu"><li class="leaf first"><a href="/management-strategy/risk-management" title="Risk Management">Risk Management</a></li>
+<li class="leaf"><a href="/management-strategy/security-architecture" title="Security Architecture">Security Architecture</a></li>
+<li class="leaf"><a href="/management-strategy/disaster-recovery" title="Disaster Recovery">Disaster Recovery</a></li>
+<li class="leaf"><a href="/management-strategy/incident-management" title="Incident Management">Incident Management</a></li>
+<li class="leaf last"><a href="/management-strategy/training-certification" title="Training &amp; Certification">Training &amp; Certification</a></li>
+</ul></li>
+<li class="leaf last"><a href="/scada-ics" title="SCADA / ICS">SCADA / ICS</a></li>
+</ul></div>
+  
+</div>
+    </div>
+    <div class="clearfix"></div>
+        <div id="content">
+      <div id="center">
+        <div class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/cybercrime/fraud-identity-theft">Fraud &amp; Identity Theft</a></div><div class="auth-picture"><img src="http://www.securityweek.com/sites/default/files/imagecache/auth_story/pictures/picture-86.png" alt="" title="" width="68" height="40" class="imagecache imagecache-auth_story"/></div><h2 class="page-title">Bitcoin Entrepreneur Injects Bitcoin &#039;Wallets&#039; into Hands</h2><div id="node-7380" class="node clear-block">
+
+
+  <div class="meta">
+      <div class="submitted">
+        <div>
+            By <a href="/authors/afp">AFP</a> on November 12, 2014        </div>
+        
+        <div style="margin-top:2px;"><div style="float: left; margin: 1px 0pt 0pt 5px;">
+                <script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-counter="right"></script>
+            </div>
+            
+            <div style="float: left; width: 70px;"><g:plusone size="medium" href="http://www.securityweek.com/bitcoin-entrepreneur-injects-bitcoin-wallets-hands"></g:plusone><script type="text/javascript">
+           (function() {
+           var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+           po.src = "https://apis.google.com/js/plusone.js";
+           var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+           })();</script>
+           </div>
+            <div style="float: left;">
+                <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="SecurityWeek">Tweet</a>
+            <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+            </div>
+            
+            <div style="float: left;">
+              <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.securityweek.com%2Fbitcoin-entrepreneur-injects-bitcoin-wallets-hands&amp;layout=button_count&amp;show_faces=true&amp;width=120&amp;action=recommend&amp;font=tahoma&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowTransparency="true"></iframe>
+            </div>   
+            
+            <div style="float: left;margin-left:12px;">
+                <a href="http://feeds.feedburner.com/securityweek" target="_blank" style=""><img style="margin-top: -7px; margin-left: 5px;" src="/images/RSS-Icon.png"/></a>
+            </div></div>
+	</div>
+      </div>
+
+  <div class="content clear-block">
+        <p><img src="/sites/default/files/Hacking-Bitcoin-Mining.jpg" alt="Bitcoin" title="Bitcoin Injected into Skin" width="675" height="304" /></p>
+<p style="text-align: center;"><strong><span style="font-size: large;">&nbsp;Dutchman Has Bitcoin 'Wallets' Inserted in Hands</span></strong></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"><strong>THE HAGUE - A Dutch bitcoin entrepreneur has had two microchips containing the virtual currency injected into his hands to help him make contactless payments. </strong></span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"> The chips, enclosed in a 2mm by 12mm capsule of "biocompatible" glass, were injected by a professional using a special syringe. </span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"> They emit a tiny radio signal using Near Field Communication (NFC) and can store up to 888 bits of information each. </span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"> "We wanted to do this experiment to push further the concept of the virtual wallet," <strong>Martijn Wismeijer</strong>, co-founder of MrBitcoin which installs bitcoin cash distributors, told AFP. </span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"> Using NFC, the chips can communicate with devices such as Android smartphones or tablets. </span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"> "What's stored on the microchips should be seen as a savings account," rather than a current account, Wismeijer said. </span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"> "The payment device remains the smartphone, but you transfer funds from the chips," said Wismeijer, who was injected with the chips along with a handful of other people on November 3. </span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"> His experiment has garnered so much publicity that he has temporarily withdrawn the money from his hands for security reasons. </span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"> "The aim wasn't for everyone to know about it," he said, laughing. </span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"> The chips are available on the Internet, sold with a syringe for $99 (around 80 euros) by the Dangerous Things company. </span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"> "It's really not recommended to do this yourself, you should find a specialist if you want to avoid infections," Wismeijer said. </span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"> Besides storing bitcoins, the chips can be programmed with a smartphone to do such things as open doors electronically or turn an alarm clock off if placed in a certain position. </span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"> Around 1,500 people around the world have already had such chips injected, Wismeijer said, but he did not know how many carried bitcoins. </span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"> Such experiments are important to make the technology acceptable to society, he said. </span></span></p>
+<p><span style="font-size: medium;"><span style="font-family: 'trebuchet ms', geneva;"> "Imagine having a tattoo that is normally invisible but turns red if you have a heart attack: you scan the tattoo with your smartphone and your doctor is immediately alerted."</span></span></p>
+
+        <div class="ad_in_content" style="margin:5px 0;">                 
+            <div class="image-advertisement" id="ad-1296"><a href="http://www.securityweek.com/ad/redirect/1296/t47" rel="nofollow"></a></div><div class="ad-image-counter"><img src="http://www.securityweek.com/sites/all/modules/ad/serve.php?o=image&amp;a=1296" height="0" width="0" alt="view counter" /></div>
+            <div style="clear:both"></div>
+		</div>
+        
+        <div class="sharethis">                 
+            <div style="float: left; margin: 1px 0pt 0pt 5px;">
+                <script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-counter="right"></script>
+            </div>
+            
+            <div style="float: left; width: 70px;"><g:plusone size="medium" href="http://www.securityweek.com/bitcoin-entrepreneur-injects-bitcoin-wallets-hands"></g:plusone><script type="text/javascript">
+           (function() {
+           var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+           po.src = "https://apis.google.com/js/plusone.js";
+           var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+           })();</script>
+           </div>
+            <div style="float: left;">
+                <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="SecurityWeek">Tweet</a>
+            <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+            </div>
+            
+            <div style="float: left;">
+              <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.securityweek.com%2Fbitcoin-entrepreneur-injects-bitcoin-wallets-hands&amp;layout=button_count&amp;show_faces=true&amp;width=120&amp;action=recommend&amp;font=tahoma&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowTransparency="true"></iframe>
+            </div>   
+            
+            <div style="float: left;margin-left:12px;">
+                <a href="http://feeds.feedburner.com/securityweek" target="_blank" style=""><img style="margin-top: -7px; margin-left: 5px;" src="/images/RSS-Icon.png"/></a>
+            </div>
+            <div style="clear:both"></div>
+		</div><div class="author_content"><div class="author_text"><div class="auth-picture"><img src="http://www.securityweek.com/sites/default/files/imagecache/auth_story/pictures/picture-86.png" alt="" title="" width="68" height="40" class="imagecache imagecache-auth_story"/></div>© AFP 2013</div><div class="author_title"><span class="headline">Previous Columns by AFP:</span><div class="views-row"><div class="views-field-title"><span class="field-content"><a href="/microsoft-agrees-store-customer-data-germany">Microsoft Agrees to Store Customer Data in Germany</a></span></div></div><div class="views-row"><div class="views-field-title"><span class="field-content"><a href="/four-indicted-massive-hack-jp-morgan-chase-others">Four Indicted in Massive Hack of JP Morgan Chase, Others</a></span></div></div><div class="views-row"><div class="views-field-title"><span class="field-content"><a href="/apple-chief-warns-uk-against-new-spying-law-report">Apple Chief Warns UK Against New Spying Law: Report</a></span></div></div><div class="views-row"><div class="views-field-title"><span class="field-content"><a href="/judge-orders-nsa-bulk-collection-halted-weeks-early">Judge Orders NSA Bulk Collection Halted Weeks Early</a></span></div></div><div class="views-row"><div class="views-field-title"><span class="field-content"><a href="/egypt-crash-shows-key-role-surveillance-can-play-analysts">Egypt Crash Shows Key Role Surveillance Can Play: Analysts</a></span></div></div></div><div style="clear:both"></div></div><div class="sponsored_links_box">
+		  
+		  <div style="float:left;font-size: 11px;width:500px"><div class="html-advertisement" id="ad-681"><p><a href="https://www.brighttalk.com/webcast/11329/159623">WEBCAST: Best Practices for Privileged Identity Management (6/30/15)</a></p>
+</div><div class="ad-image-counter"><img src="http://www.securityweek.com/sites/all/modules/ad/serve.php?o=image&amp;a=681" height="0" width="0" alt="view counter" /></div><div class="advertisement-space" id="space-t46-1"></div><div class="html-advertisement" id="ad-894"><p><a href="http://whitepapers.securityweek.com">Download Free Security Resources from the SecurityWeek White Paper Library</a></p>
+</div><div class="ad-image-counter"><img src="http://www.securityweek.com/sites/all/modules/ad/serve.php?o=image&amp;a=894" height="0" width="0" alt="view counter" /></div><div class="advertisement-space" id="space-t46-2"></div><div class="html-advertisement" id="ad-683"><p><a href="https://www.brighttalk.com/channel/11329/securityweek">View Our Library of on Demand Security Webcasts</a></p>
+</div><div class="ad-image-counter"><img src="http://www.securityweek.com/sites/all/modules/ad/serve.php?o=image&amp;a=683" height="0" width="0" alt="view counter" /></div><div class="advertisement-space" id="space-t46-3"></div><div class="html-advertisement" id="ad-693"><p><a href="http://www.icscybersecurityconference.com">2015 ICS Cyber Security Conference: Oct. 26-29 - Atlanta, Ga</a></p>
+</div><div class="ad-image-counter"><img src="http://www.securityweek.com/sites/all/modules/ad/serve.php?o=image&amp;a=693" height="0" width="0" alt="view counter" /></div><div class="advertisement-space" id="space-t46-4"></div><div class="html-advertisement" id="ad-1030"><p><a href="http://www.securityweek.com/2014-securityweek-golf-classic-take-place-may-22-half-moon-bay>Register to Play in the 2014 SecurityWeek Golf Classic - May 22</a></p>
+</div><div class="ad-image-counter"><img src="http://www.securityweek.com/sites/all/modules/ad/serve.php?o=image&amp;a=1030" height="0" width="0" alt="view counter" /></div></div>
+		  <div class="headline">sponsored links</div>
+          <div style="clear:both"></div>
+          
+		</div><div class="author-terms"><div class="terms"><img height="14" width="16" alt="" src="/images/tag_icon.jpg"><b>Tags: </b><ul class="links"><li class="taxonomy_term_33 first"><a href="/news-industry" rel="tag" title="">NEWS &amp; INDUSTRY</a></li>
+<li class="taxonomy_term_22 last"><a href="/cybercrime/fraud-identity-theft" rel="tag" title="Fraud &amp; Identity Theft">Fraud &amp; Identity Theft</a></li>
+</ul></div><div style="clear:both"></div></div><div id="disqus_thread"></div><noscript><div class="disqus-noscript"><a href="http://securityweek.disqus.com/?url=http%3A%2F%2Fwww.securityweek.com%2Fbitcoin-entrepreneur-injects-bitcoin-wallets-hands">View the discussion thread.</a></div></noscript>  </div>
+
+</div>      </div>
+    
+              <div id="right"><div id="block-google_cse-0" class="block block-google_cse region-odd even region-count-1 count-8">
+
+
+  <div class="content"><form action="/search/google"  accept-charset="UTF-8" method="get" id="google-cse-searchbox-form">
+<div><input type="hidden" name="cx" id="edit-cx" value="016540353864684098383:6mcx-eenlzi"  />
+<input type="hidden" name="cof" id="edit-cof" value="FORID:11"  />
+<div class="form-item" id="edit-query-wrapper">
+ <input type="text" maxlength="128" name="query" id="edit-query" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-sa" value="Search"  class="form-submit" />
+<input type="hidden" name="safe" id="edit-safe" value="off"  />
+<input type="hidden" name="form_build_id" id="form-_e-JNxG8PSaQF6fpK4Q1czvI6zZrMN9rISU_5nsj_gs" value="form-_e-JNxG8PSaQF6fpK4Q1czvI6zZrMN9rISU_5nsj_gs"  />
+<input type="hidden" name="form_id" id="edit-google-cse-searchbox-form" value="google_cse_searchbox_form"  />
+
+</div></form>
+</div>
+  
+</div>
+<div id="block-ad-36" class="block block-ad region-even odd region-count-2 count-9">
+
+
+  <div class="content"><div class="html-advertisement" id="ad-43"><!-- SecurityWeek_Home_Top_Right_300x250 --><!-- SecurityWeek_Home_Top_Right_300x250 --><div id='div-gpt-ad-1415848531926-5' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415848531926-5'); });
+</script></div>
+</div><div class="ad-image-counter"><img src="http://www.securityweek.com/sites/all/modules/ad/serve.php?o=image&amp;a=43" height="0" width="0" alt="view counter" /></div></div>
+  
+</div>
+<div id="block-block-3" class="block block-block region-odd even region-count-3 count-10">
+
+  <h3 class="title">Subscribe to SecurityWeek</h3>
+
+  <div class="content"><center>
+<div class="form-subscribe">
+<form style="" method="post" target="_blank" action="http://visitor.constantcontact.com/d.jsp" name="ccoptin">
+  <input type="hidden" value="1102592012458" name="m" />
+  <input type="hidden" value="oi" name="p" />
+<div class="form-item">
+    <input type="text" class="form-text required" value="Enter Your Email Address" size="60" name="ea" maxlength="128" />
+<input type="submit" class="submit" value="Subscribe" name="go" />  </div>
+</form>
+</div>
+</center>
+<center>
+                     <a href="http://twitter.com/securityweek" target="_a"><img src="/images/subscribe_icon_new_03.jpg" alt="subscribe_icon_54" width="42" border="0" height="41" /></a> &nbsp;
+                      <a href="http://www.facebook.com/pages/SecurityWeekCom/366251913615"><img src="/images/subscribe_icon_new_05.jpg" alt="Become a Fan on Facebook" width="42" border="0" height="41" /></a>&nbsp; 
+                       <a href="http://www.linkedin.com/groups?gid=2983767"><img src="/images/subscribe_icon_new_07.jpg" alt="Join our Group on LinkedIn" title="Join our Group on LinkedIn" width="42" border="0" height="41" /></a> &nbsp;
+					   
+					   <a href="http://feeds.feedburner.com/securityweek"><img src="/images/rss_icon_new_11.jpg" alt="Subscribe via RSS" width="42" border="0" height="41" /></a>
+</center></div>
+  
+</div>
+<div id="block-block-19" class="block block-block region-even odd region-count-4 count-11">
+
+
+  <div class="content"><!-- 300x600-Right-Side -->
+<div id='div-gpt-ad-1415848531926-1' style='width:300px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415848531926-1'); });
+</script>
+</div>
+</div>
+  
+</div>
+<div id="block-quicktabs-1" class="block block-quicktabs region-odd even region-count-5 count-12">
+
+
+  <div class="content"><div id="quicktabs-1" class="quicktabs_wrapper quicktabs-style-nostyle"><ul class="quicktabs_tabs quicktabs-style-nostyle"><li class="qtab-0 active first"><a href="/bitcoin-entrepreneur-injects-bitcoin-wallets-hands?quicktabs_1=0#quicktabs-1" id="quicktabs-tab-1-0" class="qt_tab active">Most Recent</a></li><li class="qtab-1 last"><a href="/bitcoin-entrepreneur-injects-bitcoin-wallets-hands?quicktabs_1=1#quicktabs-1" id="quicktabs-tab-1-1" class="qt_tab active">Most Read</a></li></ul><div id="quicktabs_container_1" class="quicktabs_main quicktabs-style-nostyle"><div id="quicktabs_tabpage_1_0" class="quicktabs_tabpage"><div id="block-security_week-1" class="block block-security_week region-odd even region-count-1 count-6">
+
+
+  <div class="content"><div class="item-list"><ul><li class="first"><a href="/majority-top-android-apps-easily-reverse-engineered-report">Majority of Top Android Apps Easily Reverse Engineered: Report</a></li>
+<li><a href="/android-tablets-pre-installed-trojan-sold-amazon">Android Tablets with Pre-Installed Trojan Sold on Amazon</a></li>
+<li><a href="/most-enterprises-prone-privileged-account-hacks-report">Most Enterprises Prone to Privileged Account Hacks: Report</a></li>
+<li><a href="/sap-releases-over-dozen-high-priority-patches">SAP Releases Over Dozen High Priority Patches</a></li>
+<li><a href="/attackers-abuse-security-products-install-bookworm-trojan">Attackers Abuse Security Products to Install &quot;Bookworm&quot; Trojan</a></li>
+<li><a href="/microsoft-agrees-store-customer-data-germany">Microsoft Agrees to Store Customer Data in Germany</a></li>
+<li><a href="/dhs-continuous-diagnostics-and-mitigation-program-enough">Is the DHS Continuous Diagnostics and Mitigation Program Enough?</a></li>
+<li><a href="/microsoft-fixes-critical-vulnerabilities-windows-ie-edge">Microsoft Fixes Critical Vulnerabilities in Windows, IE, Edge</a></li>
+<li><a href="/adobe-patches-17-flaws-flash-player">Adobe Patches 17 Flaws in Flash Player</a></li>
+<li class="last"><a href="/four-indicted-massive-hack-jp-morgan-chase-others">Four Indicted in Massive Hack of JP Morgan Chase, Others</a></li>
+</ul></div></div>
+  
+</div>
+</div><div id="quicktabs_tabpage_1_1" class="quicktabs_tabpage quicktabs-hide"><div id="block-views-most_read-block_1" class="block block-views region-even odd region-count-2 count-7">
+
+
+  <div class="content"><div class="view view-most-read view-id-most_read view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/looking-malware-all-wrong-places-0">Looking for Malware in All the Wrong Places?</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/first-step-internets-next-25-years-adding-security-dns">First Step For The Internet&#039;s next 25 years: Adding Security to the DNS</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/tattle-tale-what-your-computer-says-about-you">Tattle Tale: What Your Computer Says About You</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/be-position-act-through-cyber-situational-awareness">Be in a Position to Act Through Cyber Situational Awareness</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/report-shows-heavily-regulated-industries-letting-social-networking-apps-run-rampant">Report Shows Heavily Regulated Industries Letting Social Networking Apps Run Rampant</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/2010-great-year-be-scammer">2010, A Great Year To Be a Scammer.</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/dont-let-dns-be-your-single-point-failure">Don&#039;t Let DNS be Your Single Point of Failure</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/how-identify-malware-blink">How to Identify Malware in a Blink</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/defining-and-debating-cyber-warfare">Defining and Debating Cyber Warfare</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/five-a%E2%80%99s-make-cybercrime-so-attractive">The Five A’s that Make Cybercrime so Attractive</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/how-defend-against-ddos-attacks">How to Defend Against DDoS Attacks</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/security-budgets-not-line-threats">Security Budgets Not in Line with Threats</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/anycast-three-reasons-why-your-dns-network-should-use-it">Anycast - Three Reasons Why Your DNS Network Should Use It</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/evolution-enterprise-security-approaches-forward-thinking-organizations">The Evolution of the Extended Enterprise: Security Strategies for Forward Thinking Organizations</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-15 views-row-odd views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/using-dns-across-extended-enterprise-it%E2%80%99s-risky-business">Using DNS Across the Extended Enterprise: It’s Risky Business</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+  
+</div>
+</div></div></div></div>
+  
+</div>
+</div>
+          </div>
+    
+    
+    <div class="clearfix"></div>
+          <div id="footer" class="clear">
+                  <div id="block-menu-menu-popular-topics" class="block block-menu region-odd odd region-count-1 count-13">
+
+  <h3 class="title">Popular Topics</h3>
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="/" title="Information Security News">Information Security News</a></li>
+<li class="leaf"><a href="/" title="IT Security News">IT Security News</a></li>
+<li class="leaf"><a href="/management-strategy/risk-management" title="IT Risk Management">Risk Management</a></li>
+<li class="leaf"><a href="http://www.securityweek.com/cybercrime" title="Cybercrime News">Cybercrime</a></li>
+<li class="leaf"><a href="http://www.securityweek.com/security-infrastructure/cloud-security" title="">Cloud Security</a></li>
+<li class="leaf"><a href="/security-infrastructure/application-security" title="">Application Security</a></li>
+<li class="leaf last"><a href="http://www.securityweek.com/smart-device-security" title="Information on Securing Smart Devices">Smart Device Security</a></li>
+</ul></div>
+  
+</div>
+<div id="block-menu-menu-security-community" class="block block-menu region-even even region-count-2 count-14">
+
+  <h3 class="title">Security Community</h3>
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="http://www.securityweek.com/subscribe" title="IT Security Newsletters">IT Security Newsletters</a></li>
+<li class="leaf"><a href="http://whitepapers.securityweek.com" title="">IT Security White Papers</a></li>
+<li class="leaf"><a href="http://www.suitsandspooks.com/" title="Suits and Spooks">Suits and Spooks</a></li>
+<li class="leaf"><a href="http://www.icscybersecurityconference.com/" title="ICS Cyber Security Conference Series">ICS Cyber Security Conference</a></li>
+<li class="leaf"><a href="http://www.cisoforum.com/" title="CISO Forum">CISO Forum</a></li>
+<li class="leaf last"><a href="http://www.infosecisland.com/" title="Infosec Island Security Community Site">InfosecIsland.Com </a></li>
+</ul></div>
+  
+</div>
+<div id="block-menu-menu-stay-intouch" class="block block-menu region-odd odd region-count-3 count-15">
+
+  <h3 class="title">Stay Intouch</h3>
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="http://twitter.com/securityweek" title="Follow us on Twitter">Twitter</a></li>
+<li class="leaf"><a href="http://www.facebook.com/pages/SecurityWeekCom/366251913615" title="Become a Fan on Facebook">Facebook</a></li>
+<li class="leaf"><a href="http://www.linkedin.com/groups?gid=2983767" title="">LinkedIn Group</a></li>
+<li class="leaf"><a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=3551517" title="Cyber Weapon Discussion Global Discussion Group on LinkedIn">Cyber Weapon Discussion Group</a></li>
+<li class="leaf"><a href="http://feeds.feedburner.com/securityweek" title="">RSS Feed</a></li>
+<li class="leaf"><a href="http://www.securityweek.com/contact-us" title="">Submit Tip</a></li>
+<li class="leaf last"><a href="http://www.linkedin.com/groups?gid=4439585" title="Security Intelligence Group on LinkedIn">Security Intelligence Group</a></li>
+</ul></div>
+  
+</div>
+<div id="block-menu-menu-about-securityweek" class="block block-menu region-even even region-count-4 count-16">
+
+  <h3 class="title">About SecurityWeek</h3>
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="/" title="">Team</a></li>
+<li class="leaf"><a href="http://www.securityweek.com/contact-us" title="">Advertising</a></li>
+<li class="leaf"><a href="/" title="">Events</a></li>
+<li class="leaf"><a href="http://www.securityweek.com/contact-us" title="">Writing Opportunities</a></li>
+<li class="leaf"><a href="http://www.securityweek.com/contact-us" title="">Feedback</a></li>
+<li class="leaf last"><a href="http://www.securityweek.com/contact-us" title="">Contact Us</a></li>
+</ul></div>
+  
+</div>
+                          <div id="footer-message"><div class="wired"><a href="#"><img border="0" vspace="1" alt="Wired Business Media" src="/images/wired_publishing.jpg" /></a></div>
+<div class="copyright">Copyright &copy; 2015 Wired Business Media. All Rights Reserved.<a href="#"> Privacy Policy</a> | <a href="#">Terms of Use</a></div></div>
+              </div>
+      </div>
+</div>
+<script type="text/javascript" src="/sites/default/files/js/js_2567a182c11c99493f5b84cae0731921.js"></script>
+<script type="text/javascript" src="/sites/all/modules/custom_control/misc/init.js?1447269966"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "googleCSE": { "language": "en" } });
+//--><!]]>
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11590534-1']);
+  _gaq.push(['_setDomainName', '.securityweek.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

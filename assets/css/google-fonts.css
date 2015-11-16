@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(http://fonts.gstatic.com/s/lato/v11/1YwB1sO8YE1Lyjf12WNiUA.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(http://fonts.gstatic.com/s/lato/v11/H2DMvhDLycM56KNuAtbJYA.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(http://fonts.gstatic.com/s/lato/v11/PLygLKRVCQnA5fhu3qk5fQ.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Merriweather'), url(http://fonts.gstatic.com/s/merriweather/v8/RFda8w1V0eDZheqfcyQ4EOgdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Merriweather Bold'), local('Merriweather-Bold'), url(http://fonts.gstatic.com/s/merriweather/v8/ZvcMqxEwPfh2qDWBPxn6nnNuWYKPzoeKl5tYj8yhly0.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Merriweather Heavy'), local('Merriweather-Heavy'), url(http://fonts.gstatic.com/s/merriweather/v8/ZvcMqxEwPfh2qDWBPxn6ntDLwwZd-mS_8JqJ_KGXwxs.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Merriweather Italic'), local('Merriweather-Italic'), url(http://fonts.gstatic.com/s/merriweather/v8/So5lHxHT37p2SS4-t60SlBMBlNeli-0RcAdOFWWLdxQ.woff2) format('woff2');
+}

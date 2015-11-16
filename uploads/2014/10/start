@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html class="google" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      Google Glass
+    </title>
+    <meta content="initial-scale=1, width=device-width, user-scalable=no" name="viewport">
+    <meta content=
+    "Thanks for exploring with us. The journey doesn't end here. You’ll start to see future versions of Glass when they’re ready (for now, no peeking)."
+    name="description">
+    <meta content="O_SsuHO-yONHIHTapO2I00JGEQtZg93kQC8kSbc3Lto" name="google-site-verification">
+    <script src="//www.gstatic.com/external_hosted/modernizr/modernizr.js">
+    </script>
+    <link href="https://www.google.co.uk/intl/en/glass/start/" hreflang="en-GB" rel="alternate">
+    <link href="https://www.google.com/glass/start/" hreflang="x-default" rel="alternate">
+    <link href="../../glass/start/assets/css/dark.css" rel="stylesheet">
+    <script src="//www.google.com/js/google.js">
+    </script>
+    <script src="//www.google.com/js/gweb/analytics/doubletrack.js">
+    </script>
+    <script>
+    (function(){window.adsTracker=new gweb.analytics.AutoTrack({profile:"UA-37917000-1"})})();
+    </script>
+    <link href="/glass/start/assets/img/touchfavicon.png" rel="apple-touch-icon">
+    <link href="/glass/start/assets/img/favicon.png" rel="icon">
+  </head>
+  <body class="home">
+    <noscript><iframe class="gtm" src=
+    "//www.googletagmanager.com/ns.html?id=GTM-N8W5JS"></iframe></noscript> 
+    <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N8W5JS');
+    </script>
+    <section>
+      <div class="main-nav"></div>
+      <div class="thanks">
+        <h2>
+          Glass
+        </h2>
+        <h1 class="light">
+          <span class="block">Thanks for</span> exploring with us
+        </h1>
+        <h1 class="dark">
+          <span class="small-block">The journey</span> doesn't end here
+        </h1>
+        <ul class="social">
+          <li>
+            <a data-action="footer social" data-category="link" data-label="Google+" href=
+            "https://plus.google.com/+GoogleGlass" id="google-plus" target="_blank">Google+</a>
+          </li>
+          <li>
+            <a data-action="footer social" data-category="link" data-label="Twitter" href=
+            "https://twitter.com/googleglass" id="twitter" target="_blank">Twitter</a>
+          </li>
+          <li>
+            <a data-action="footer social" data-category="link" data-label="Facebook" href=
+            "https://www.facebook.com/GoogleGlass" id="facebook" target="_blank">Facebook</a>
+          </li>
+          <li>
+            <a data-action="footer social" data-category="link" data-label="Instagram" href=
+            "http://instagram.com/googleglass/" id="instagram" target="_blank">Instagram</a>
+          </li>
+          <li>
+            <a data-action="footer social" data-category="link" data-label="YouTube" href=
+            "https://www.youtube.com/user/googleglass" id="youtube" target="_blank">YouTube</a>
+          </li>
+        </ul>
+      </div>
+      <div class="form">
+        <div class="form-inner">
+          <div id="formerror"></div>
+          <div class="success-message">
+            <p>
+              Thanks for your interest.
+            </p>
+            <p>
+              You’ll start to see future versions of Glass when they’re ready (for now, no
+              peeking).
+            </p>
+          </div><span>Looking for Glass at Work? <a href=
+          "https://developers.google.com/glass/distribute/glass-at-work">Learn more</a>.</span>
+        </div>
+      </div>
+    </section>
+    <ul class="footer">
+      <li>
+        <ul class="social">
+          <li>
+            <a data-action="footer social" data-category="link" data-label="Google+" href=
+            "https://plus.google.com/+GoogleGlass" id="google-plus" target="_blank">Google+</a>
+          </li>
+          <li>
+            <a data-action="footer social" data-category="link" data-label="Twitter" href=
+            "https://twitter.com/googleglass" id="twitter" target="_blank">Twitter</a>
+          </li>
+          <li>
+            <a data-action="footer social" data-category="link" data-label="Facebook" href=
+            "https://www.facebook.com/GoogleGlass" id="facebook" target="_blank">Facebook</a>
+          </li>
+          <li>
+            <a data-action="footer social" data-category="link" data-label="Instagram" href=
+            "http://instagram.com/googleglass/" id="instagram" target="_blank">Instagram</a>
+          </li>
+          <li>
+            <a data-action="footer social" data-category="link" data-label="YouTube" href=
+            "https://www.youtube.com/user/googleglass" id="youtube" target="_blank">YouTube</a>
+          </li>
+        </ul>
+      </li>
+      <li></li>
+    </ul>
+    <script src="/glass/start/assets/js/glass-post.min.js">
+    </script> 
+    <script>
+    if (window.location.href.indexOf('signup-success') == -1){gweb.analytics.DoubleTrack.track('floodlight',{src:2542116,type:'googl070',cat:'googl232'})}
+    </script>
+  </body>
+</html>

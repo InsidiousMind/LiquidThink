@@ -1,0 +1,572 @@
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Sleep Time by Azumio</title>
+	<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css"> -->
+	<link rel="stylesheet" href="../lib/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../lib/fontawesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="../lib/slick.js/slick/slick.css">
+	<link rel="stylesheet" href="../css/sleep-time.min.css">
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	
+	<meta name="apple-itunes-app" content="app-id=498360026">
+	
+	<!-- facebook meta tags -->
+	<meta property="og:title" content="Sleep Time by Azumio" />
+	<meta property="og:site_name" content="Sleep Cycle Smart Alarm Clock, Sleep Tracker with Sleep Cycle Analysis and Soundscapes for Better Sleep"/>
+	<meta property="og:url" content="http://www.azumio.com/s/sleeptime/index.html" />
+	<meta property="og:description" content="Sleep Time provides insight into your sleep patterns. By tracking your level of movement throughout the night, Sleep Time generates customized sleep data in easy-to-read charts." />
+	<meta property="og:image" content="http://www.azumio.com/s/images/640px/ST.jpg" />
+	<meta property="fb:app_id" content="1405021589718107" />
+	
+	<script type="text/javascript">
+		var a = -2.855723570833333e+10;
+		var b = 0.020833333333333
+		
+		setInterval(oneSecondFunction, 1000);
+		
+		function oneSecondFunction() {
+			
+			var currentTime = new Date().getTime();
+			var count = Math.round(a + b * currentTime);
+			
+			var output = ("" + count).replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+			$("#sleeptimeHours").text(output);
+		}
+	</script>
+
+</head>
+<body id="sleep-time">
+<nav class="navbar-fixed-top visible lock">
+	<div class="container">
+		<div class="navbar-header">
+			<a class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu" aria-expanded="false"
+			   aria-controls="menu">
+				<i class="fa extended fa-remove"></i><i class="fa fa-bars"></i>Menu</a>
+			</a>
+			<a class="navbar-brand" href="/"></a>
+		</div>
+		<div id="menu" class="navbar collapse navbar-collapse pull-right">
+			<ul class="nav navbar-nav">
+				<li><a href="https://www.azumio.com/web">Log In</a></li>
+				<li><a href="/">Home</a></li>
+                <!-- <li><a href="/s/premium/index.html">Premium</a></li>  -->
+				<li>
+					<a class="dropdown-toggle" id="products" data-toggle="dropdown" aria-expanded="false" href="">Products</a>
+					<ul class="dropdown-menu" role="menu" aria-labelledby="products">
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../argus/index.html">Argus</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../instantheartrate/index.html">Instant Heart
+							Rate</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../sleeptime/index.html">Sleep Time</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../fitnessbuddy/index.html">Fitness Buddy</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="../glucosebuddy/index.html">Glucose Buddy</a></li>
+					</ul>
+				</li>
+				<li><a href="/blog">Blog</a></li>
+				<li><a href="http://support.azumio.com/">Help & Support</a></li>
+				<!--<li><a href="">About</a></li>-->
+				<li><a href="../contact/index.html">About</a></li>
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<header>
+	<div class="container">
+		<img src="../images/sleep-time/world-map.png" width="1092" height="518" class="img-responsive world-map">
+		<img src="../images/sleep-time/night-shape.png" width="970" height="641" class="img-responsive night-shape">
+		<main class="static">
+			<h1 class="sleep-time">
+				<img src="../images/60px/ST-iTunesArtwork-60px.png" alt="Sleep Time">
+				<span class="sleep-time-logo"></span>
+			</h1>
+		</main>
+		<div class="bottom-label">
+			<h2 class="unica-one">
+				<span id="sleeptimeHours"></span>
+				<small class="raleway ">hours of sleep have been recorded<br>
+					with Sleep Time
+				</small>
+			</h2>
+		</div>
+	</div>
+</header>
+
+<section class="download-apps container-fluid">
+	<h3>Download the App<br>
+		<small>
+			Sleep Time is available on iOS and Google Play.<br>
+			Find out why our users love this app &amp; let us know what you think.
+		</small>
+		<ul class="list-inline list-unstyled">
+			<li>
+				<a href="https://itunes.apple.com/us/app/sleep-time+-sleep-cycle-smart/id498360026?mt=8&at=11l9S3&pt=574383&ct=sleepWPProductsTop">
+					<img src="../images/store/appStore.png">
+				</a>
+			</li>
+			<li>
+				<a href="https://play.google.com/store/apps/details?id=com.azumio.android.sleeptime&hl=en">
+					<img src="../images/store/googlePlay.png">
+				</a>
+			</li>
+		</ul>
+	</h3>
+</section>
+
+<section class="manual container-fluid">
+	<h3>How it works</h3>
+	<div class="container">
+		<div class="col-sm-4 col-xs-12 text-center">
+			<h5>Place your phone in your bed.</h5>
+			<img src="../images/sleep-time/tutorial1.png" width="310" alt="">
+		</div>
+		<div class="col-sm-4 col-xs-12 text-center">
+			<h5>Sleep Time analyzes how you sleep.</h5>
+			<img src="../images/sleep-time/tutorial2.png" width="171" alt="">
+		</div>
+		<div class="col-sm-4 col-xs-12 text-center">
+			<h5>Wake up in your lightest sleep phase.</h5>
+			<img src="../images/sleep-time/tutorial3.png" width="230" alt="">
+		</div>
+	</div>
+</section>
+
+<section class="how-it-works container-fluid">
+	<h3>
+		Understand your sleep
+		<small>
+			Sleep Time provides insight into your sleep patterns.<br>
+			By tracking your level of movement throughout the night, <br>Sleep Time generates customized sleep
+			data in easy-to-read charts.
+		</small>
+	</h3>
+
+	<div class="container text-center">
+		<div class="sleep-time-how-it-works-slider">
+
+
+			<div>
+				<img src="../images/sleep-time/hiw-typical.png" alt="" class="img-responsive">
+				<h4>Typical Night of Sleep</h4>
+				<p>
+					Sleep Time analyzes your movement throughout the night, graphs your sleep cycles, and
+					learns to wake you up at the perfect moment of your lightest sleep phase.
+				</p>
+			</div>
+
+			<div>
+				<img src="../images/sleep-time/hiw-jetlag.png" alt="" class="img-responsive">
+				<h4>Jetlag</h4>
+				<p>
+					Although this jetlagged user went to bed at 10pm, we can see it was difficult for her to
+					maintain regular sleep cycles throughout the night. She spent a good portion of night
+					awake or in light sleep.
+				</p>
+			</div>
+
+			<div>
+				<img src="../images/sleep-time/hiw-disrupted.png" alt="" class="img-responsive">
+				<h4>Disrupted Sleep</h4>
+				<p>
+					This user drank a caffeinated beverage before bedtime and took about one hour to fall
+					asleep. Throughout the night, he had abnormal sleep cycles and even woke up once in the
+					middle of the night. Sleep Time helps you analyze how your habits affect your sleep.
+				</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="smart-alarm container-fluid">
+	<video id="smart-alarm" poster="../video/st_poster_play.jpg" src="../video/st5s.mp4" autoplay loop muted preload="auto">
+		<source type="video/mp4" src="../video/st5s.mp4">
+	</video>
+
+
+	<h3>Smart Alarm
+		<small>
+			Wakes you up during your lightest sleep phase.
+		</small>
+	</h3>
+
+	<div class="footer">
+		<div class="container">
+			<h6 class="col-xs-10 col-xs-offset-1">
+				When alarms wake you up during a period of deep sleep… 
+			</h6>
+
+			<p class="col-xs-10 col-xs-offset-1">
+				your body can take more than an hour to fully feel awake. Sleep Time learns how you sleep and wakes you up gradually during your lightest sleep phase, leaving you feeling refreshed, never drained.
+			</p>
+		</div>
+	</div>
+</section>
+
+<section class="soundscapes container-fluid">
+	<h3>
+		Soundscapes
+		<small>
+			Falling asleep may be difficult if there are constant noise distractions around you. Soundscapes simulate a
+			natural environment and help you
+			drift quickly asleep.
+		</small>
+	</h3>
+
+	<div class="sound-slider container">
+		<div>
+			<div class="item">
+				<img src="../images/sleep-time/sound1.jpg" class="img-responsive " >
+				<a class="control play playSound" rel="gentleWaves" alt="Play sound: Gentle Waves" title="Play sound: Gentle Waves"></a>
+				<audio class="hidden" id="gentleWaves">
+					<source src="../audio/Gentle_Waves.mp3" type="audio/mp3">
+				</audio>
+				<span>gentle waves</span>
+
+				<p>A quiet breeze and gentle waves lapping around ancient volcanic tide pools.</p>
+			</div>
+		</div>
+
+		<div>
+			<div class="item">
+				<img src="../images/sleep-time/sound2.jpg" class="img-responsive " >
+				<a class="control play playSound" rel="rainForestStorm" alt="Play sound: Rain Forest Storm" title="Play sound: Rain Forest Storm"></a>
+				<audio class="hidden" id="rainForestStorm">
+					<source src="../audio/Rain_Forest_Storm.mp3" type="audio/mp3">
+				</audio>
+				<span>Rain Forest Storm</span>
+
+				<p>The wet and drippy sounds of a New Zealand forest during a mild rain shower.</p>
+			</div>
+		</div>
+
+		<div>
+			<div class="item">
+				<img src="../images/sleep-time/sound3.jpg" class="img-responsive playSound" >
+				<a class="control play playSound" rel="oceanWaves" alt="Play sound: Ocean Waves" title="Play sound: Ocean Waves"></a>
+				<audio class="hidden" id="oceanWaves">
+					<source src="../audio/Ocean_Waves.mp3" type="audio/mp3">
+				</audio>
+				<span>ocean waves</span>
+
+				<p>Frothing waves crashing against the shore.</p>
+			</div>
+		</div>
+	</div>
+
+</section>
+
+<section class="sleep-insight container-fluid">
+	<h3>Sleep Insight Reports
+		<small>
+			Sleep Insights is a comprehensive report into your shut-eye. Find patterns between your sleep and other variables in your life. 
+		</small>
+
+        <img src="../images/sleep-time/sleep-insights.png" alt="" class="img-responsive">
+	</h3>
+
+	<div class="container text-center">
+		<div class="sleep-insight-slider">
+			<!--<div>-->
+				<!--<h4>Sun and Sleep</h4>-->
+
+				<!--<p>-->
+					<!--Plot the various phases of your sleep over the week to highlight any abnormalities in your sleep schedule.-->
+					<!--Sleep Time makes it easy to compare your bedtime and rise time with sunrise and sunset.-->
+				<!--</p>-->
+			<!--</div>-->
+			<!--<div>-->
+				<!--<h4>Sleep Duration and Heart Rate</h4>-->
+
+				<!--<p>-->
+					<!--Sleep Time lets you measure your heart rate just after waking up. See how your morning resting heart rate-->
+					<!--fluctuates over the week depending on the quality of each night’s sleep.-->
+				<!--</p>-->
+			<!--</div>-->
+			<div>
+				<h4>Bed Time and Efficiency</h4>
+
+				<p>
+					Staying up late past your normal bedtime can hurt your ability to fall asleep. Know how late you can
+					work and still maximize the efficiency of your sleep with sleep insights.
+				</p>
+			</div>
+		</div>
+	</div>
+
+</section>
+
+<section class="testimonials container-fluid">
+	<h3>Testimonials</h3>
+
+	<div class="testimonials-slider container">
+		<div>
+			<div class="cloud">
+				<p>"Besides lulling me to sleep with the sensual sounds of the ocean, it’s
+					comforting to be aroused in the morning in just the perfect, light way.
+					And I can’t wait to grab it! By just touching the right spot I can re-live the
+					entire night in exquisite detail.
+					"</p>
+				<span>Diane (Musicle)</span>
+
+				<div class="arrow"></div>
+			</div>
+			<img src="../images/sleep-time/faces/ST-testimonials-1.png" class="rounded_face">
+		</div>
+
+		<div>
+			<div class="cloud">
+				<p>"This app is perfect to assist people to wake up feeling refreshed and
+					motivated throughout the entire day. Sleep is so important and this app
+					really helps you improve your rest at night."</p>
+				<span>Jon (JonRed)</span>
+
+				<div class="arrow"></div>
+			</div>
+			<img src="../images/sleep-time/faces/ST-testimonials-2.png" class="rounded_face">
+		</div>
+
+		<div>
+			<div class="cloud">
+				<p>"It’s easy to see the quality of my night’s sleep from a quick glance at the
+					detailed graphs and charts. When needed, I can pinpoint the nights where
+					vivid dreams or stress seem to have affected my sleep, and by just how
+					much."</p>
+				<span>Cheryl (Dangling Pear)</span>
+
+				<div class="arrow"></div>
+			</div>
+			<img src="../images/sleep-time/faces/ST-testimonials-3.png" class="rounded_face">
+		</div>
+
+		<div>
+			<div class="cloud">
+				<p>"Much more pleasant to wake up to than the stock alarm, and somehow I
+					wake up not as groggy. Highly recommended from a chronic snoozer."</p>
+				<span>David (DFreit808)</span>
+
+				<div class="arrow"></div>
+			</div>
+			<img src="../images/sleep-time/faces/ST-testimonials-4.png" class="rounded_face">
+		</div>
+	</div>
+</section>
+
+<section class="download-apps container-fluid">
+	<h3>Download the App<br>
+		<small>
+			Sleep Time is available on iOS and Google Play.<br>
+			Find out why our users love this app &amp; let us know what you think.
+		</small>
+		<ul class="list-inline list-unstyled">
+			<li>
+				<a href="https://itunes.apple.com/us/app/sleep-time+-sleep-cycle-smart/id498360026?mt=8&at=11l9S3&pt=574383&ct=sleepWPProductsDownloadOurApps">
+					<img src="../images/store/appStore.png">
+				</a>
+			</li>
+			<li>
+				<a href="https://play.google.com/store/apps/details?id=com.azumio.android.sleeptime&hl=en">
+					<img src="../images/store/googlePlay.png">
+				</a>
+			</li>
+		</ul>
+	</h3>
+</section>
+
+
+<section class="more-apps container-fluid">
+	<h3>More Apps<br>
+		<small>
+			Did you know? Sleep Time connects to the entire family of Azumio applications!<br>
+			Check out our other apps below to discover even more about your health.
+		</small>
+	</h3>
+	<div class="container">
+		<ul class="more-apps list-inline">
+			<li class="col-sm-3">
+				<div class="frame">
+					<a href="../instantheartrate/index.html">
+						<div class="app-picture">
+							<div class="hover">
+								<img src="../images/60px/IHR-iTunesArtwork-60px.png">
+								<h4>Instant Heart Rate
+									<small>Measure Your Heart Rate Wherever You Are</small>
+								</h4>
+							</div>
+							<picture>
+								<source srcset="../images/480px/IHR.jpg" media="(min-width: 768px)">
+								<source srcset="../images/640px/IHR.jpg" media="(max-width: 767px)">
+								<img src="../images/480px/IHR.jpg" alt="Instant Heart Rate" class="img-responsive">
+							</picture>
+						</div>
+						<span>Instant Heart Rate</span>
+					</a>
+				</div>
+			</li>
+			<li class="col-sm-3">
+				<div class="frame">
+					<a href="../argus/index.html">
+						<div class="app-picture">
+							<div class="hover">
+								<img src="../images/60px/Argus-iTunesArtwork-60px.png">
+								<h4>Argus
+									<small>Easy Activity Tracking in One Place</small>
+								</h4>
+							</div>
+							<picture>
+								<source srcset="../images/480px/Argus.jpg" media="(min-width: 768px)">
+								<source srcset="../images/640px/Argus.jpg" media="(max-width: 767px)">
+								<img src="../images/480px/Argus.jpg" alt="Argus" class="img-responsive">
+							</picture>
+						</div>
+						<span>Argus</span>
+					</a>
+				</div>
+			</li>
+			<li class="col-sm-3">
+				<div class="frame">
+					<a href="../fitnessbuddy/index.html">
+						<div class="app-picture">
+							<div class="hover">
+								<img src="../images/60px/FB-iTunesArtwork-60px.png">
+								<h4>Fitness Buddy
+									<small>Your Exercise Workout Journal</small>
+								</h4>
+							</div>
+							<picture>
+								<source srcset="../images/480px/FB.jpg" media="(min-width: 768px)">
+								<source srcset="../images/640px/FB.jpg" media="(max-width: 767px)">
+								<img src="../images/480px/FB.jpg" alt="My default image" class="img-responsive">
+							</picture>
+						</div>
+						<span>Fitness Buddy</span>
+					</a>
+				</div>
+			</li>
+			<li class="col-sm-3">
+				<div class="frame">
+					<a href="../glucosebuddy/index.html">
+						<div class="app-picture">
+							<div class="hover">
+								<img src="../images/60px/GB-iTunesArtwork-60px.png">
+								<h4>Glucose Buddy
+									<small>Diabetes and Blood Sugar Management</small>
+								</h4>
+							</div>
+							<picture>
+								<source srcset="../images/480px/GB.jpg" media="(min-width: 768px)">
+								<source srcset="../images/640px/GB.jpg" media="(max-width: 767px)">
+								<img src="../images/480px/GB.jpg" alt="Glucose buddy" class="img-responsive">
+							</picture>
+						</div>
+						<span>Glucose buddy</span>
+					</a>
+				</div>
+			</li>
+		</ul>
+	</div>
+
+</section>
+
+<span class="visible-xs" id="isMobile"></span>
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<address>
+					230 S California Avenue, Ste 212<br>
+					Palo Alto, CA 94306<br>
+					Email: <a href="mailto:info@azumio.com">info@azumio.com</a>
+				</address>
+				<ul class="list-inline">
+					<li>
+						<a href="https://twitter.com/azumioinc">
+							<i class="fa fa-twitter"></i>
+						</a>
+					</li>
+					<li>
+						<a href="https://www.facebook.com/azumioinc">
+							<i class="fa fa-facebook"></i>
+						</a>
+					</li>
+					<li>
+						<a href="https://plus.google.com/111664965522600133150">
+							<i class="fa fa-google-plus"></i>
+						</a>
+					</li>
+				</ul>
+				<p>Apple, the Apple logo, and iPad are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.</p>
+			</div>
+<!-- 			<div class="col-md-3">
+				<h4>Latest from our blog</h4>
+				<ul class="list-unstyled">
+
+				</ul>
+			</div>-->
+			<div class="col-md-4"> 
+				<h4>Our apps</h4>
+				<ul class="our-apps list-unstyled">
+					<li><a href="../argus/index.html"><span>Argus</span></a></li>
+					<li><a href="../instantheartrate/index.html"><span>Instant Heart Rate</span></a></li>
+					<li><a href="../fitnessbuddy/index.html"><span>Fitness Buddy</span></a></li>
+					<li><a href="../sleeptime/index.html"><span>Sleep Time</span></a></li>
+					<li><a href="../glucosebuddy/index.html"><span>Glucose Buddy</span></a></li>
+				</ul>
+			</div>
+			<div class="col-md-4">
+				<h4>Download our apps</h4>
+				<ul class="download-apps list-unstyled">
+					<li>
+						<a href="https://itunes.apple.com/us/artist/azumio-inc./id439290207&at=11l9S3&pt=574383&ct=allWPProductsDownloadOurApps">
+							<i class="fa fa-apple fa-lg simple_social"></i> <span>Azumio on the App Store</span>
+						</a>
+					</li>
+					<li class="googlePlay">
+						<a href="https://play.google.com/store/apps/developer?id=Azumio+Inc.">
+							<i class="fa fa-android fa-lg simple_social"></i> <span>Google Play Store</span>
+						</a>
+					</li>
+					<li>
+						<a href="http://www.windowsphone.com/en-US/store/publishers?publisherId=Azumio%2BInc">
+							<i class="fa fa-windows fa-lg simple_social"></i> <span>Windows Phone</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="copyright text-center">
+		<a href = "http://azumio.com/page/privacypolicy">Privacy Policy</a> | &copy; Copyright Azumio Inc. 
+	</div>
+</footer>
+<script type="text/javascript" src="../lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="../lib/bootstrap/dist/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../lib/slick.js/slick/slick.min.js"></script>
+<script type="text/javascript" src="../js/azumio.min.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24721534-1']);
+  _gaq.push(['_setDomainName', 'azumio.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+adroll_adv_id = "6I73IFT7GVHMNNV2G6AR3J"; adroll_pix_id = "3ZEXEXJ7VNBTBNQRGVYSUZ"; (function () { var oldonload = window.onload; window.onload = function(){ __adroll_loaded=true; var scr = document.createElement("script"); var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); scr.setAttribute('async', 'true'); scr.type = "text/javascript"; scr.src = host + "/j/roundtrip.js"; ((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr);if(oldonload){oldonload()}};}());
+</script>
+<img height="1" width="1" style="border-style:none;" alt="" 
+src="https://api.adsymptotic.com/api/s/trackconversion?_pid=12374&_psign=e8d8b2c04e64c19b22881b690fcdd773&_aid=12374&_lbl=RT_az_rt"/>
+</body>
+</html>

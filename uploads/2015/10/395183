@@ -1,0 +1,2020 @@
+
+
+
+<!doctype html>
+
+<!--[if lt IE 7 ]> <html class="ie ie6 ie-lt10 ie-lt9 ie-lt8 ie-lt7 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 ie-lt10 ie-lt9 ie-lt8 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 ie-lt10 ie-lt9 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 ie-lt10 no-js" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. -->
+
+<head data-template-set="html5-reset" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+
+    <meta charset="utf-8">
+
+    <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, width=device-width" user-scaleable="no">
+
+    <title>When Google Self-Driving Cars Are in Accidents, Humans Are to Blame - The Atlantic</title>
+
+    
+
+        <!-- Fav icons/tiles -->
+        <link rel="shortcut icon" href="http://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/favicon.ico">
+        <link rel="apple-touch-icon" href="http://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/apple-touch-icon-iphone.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="http://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/apple-touch-icon-ipad.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="http://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/apple-touch-icon-iphone-retina.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="http://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/apple-touch-icon-ipad-retina.png">
+
+        <meta name="application-name" content="">
+        <meta name="msapplication-TileColor" content="">
+        <meta name="msapplication-TileImage" content="">
+
+        <link rel="alternate" type="application/rss+xml" title="The Atlantic" href="http://feeds.feedburner.com/TheAtlantic" />
+        <link rel="alternate" type="application/rss+xml" title="Best of The Atlantic" href="http://feeds.feedburner.com/Best-Of-The-Atlantic" />
+
+        <!-- Meta -->
+        
+        <meta name="keywords" content="The Atlantic, The Atlantic Magazine, TheAtlantic.com, Atlantic, news, opinion, breaking news, analysis, commentary, business, politics, culture, international, science, technology, national and life">
+        <meta name="description" content="The autonomous vehicles have been in a dozen crashes since 2009, but haven&rsquo;t caused any of them, the company says in a new report.">
+        <link rel="image_src" href="http://cdn.theatlantic.com/assets/media/img/mt/2015/06/googlebig/lead_large.jpg">
+
+        <meta property="og:site_name" content="The Atlantic">
+        <meta property="og:locale" content="en_US">
+        <meta property="fb:admins" content="577048155,17301937">
+        <meta property="fb:page_id" content="29259828486">
+        <meta property="fb:app_id" content="100770816677686">
+        <link href="https://plus.google.com/109258622984321091629" rel="publisher" />
+        <meta name="p:domain_verify" content="68e1a0361a557708fefc992f3309ed70"/>
+
+        <meta property="og:title" content="When Google Self-Driving Cars Are in Accidents, Humans Are to Blame">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="http://www.theatlantic.com/technology/archive/2015/06/every-single-time-a-google-self-driving-car-crashed-a-human-was-to-blame/395183/" />
+
+        
+            <link rel="canonical" href="http://www.theatlantic.com/technology/archive/2015/06/every-single-time-a-google-self-driving-car-crashed-a-human-was-to-blame/395183/" />
+        
+
+        <meta property="og:image" content="http://cdn.theatlantic.com/assets/media/img/mt/2015/06/googlebig/lead_large.jpg">
+        <meta property="og:description" content="The autonomous vehicles have been in a dozen crashes since 2009, but haven&rsquo;t caused any of them, the company says in a new report.">
+
+        
+        
+            
+        
+        <meta name="author" content="Adrienne LaFrance" />
+        
+
+        <meta name="twitter:site" content="@theatlantic" />
+        <meta name="twitter:domain" content="theatlantic.com" />
+        
+        <meta name="twitter:card" content="summary" />
+        
+
+        <script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "url": "http://www.theatlantic.com",
+          "logo": "http://cdn.theatlantic.com/front/images/logo/213x70.png",
+          "sameAs" : [
+            "https://www.facebook.com/TheAtlantic",
+            "https://twitter.com/theatlantic",
+            "https://plus.google.com/109258622984321091629/posts"]
+        }
+        </script>
+
+        
+            
+                <meta name="ROBOTS" content="INDEX, FOLLOW">
+            
+        
+
+    
+    
+
+    
+    
+    <meta name='parsely-page' content='{"title": "When Google Self-Driving Cars Are in Accidents, Humans Are to Blame", "type": "post", "section": "technology", "author": "Adrienne LaFrance", "post_id": 395183, "link": "http://www.theatlantic.com/technology/archive/2015/06/every-single-time-a-google-self-driving-car-crashed-a-human-was-to-blame/395183/", "pub_date": "2015-06-08T12:24:24Z"}'>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+
+    
+
+    
+
+    <!-- Sitewide styles go here. -->
+    <link href="http://cdn.theatlantic.com/assets/static/a/theatlantic/css/site_rollup.0f486edbbd9f.css" rel="stylesheet" type="text/css" />
+    <link href="http://cdn.theatlantic.com/assets/static/a/theatlantic/css/print_rollup.56da6bce6056.css" rel="stylesheet" type="text/css" media="print" />
+
+    
+
+    <style type="text/css" media="screen">
+        #article .lead-img .img {
+            padding-bottom: 66.5625%;
+        }
+
+        .article-wide #article .article-cover,
+        .article-wide #article .ad-article-wrapper {
+            padding-top: 66.5625%;
+            padding-top: -webkit-calc(66.5625% + 35px);
+            padding-top: calc(66.5625% + 35px);
+
+        }
+
+        .article-wide #article .blocker-message {
+            margin-top: 66.5625%;
+            margin-top: -webkit-calc(66.5625% + 35px);
+            margin-top: calc(66.5625% + 35px);
+        }
+
+        @media (max-width: 680px) {
+            .article-wide #article .article-cover,
+            .article-wide #article .ad-article-wrapper {
+                padding-top: 66.5625%;
+                padding-top: -webkit-calc(66.5625% + 20px);
+                padding-top: calc(66.5625% + 20px);
+            }
+
+            .article-wide #article .blocker-message {
+                margin-top: 66.5625%;
+                margin-top: -webkit-calc(66.5625% + 20px);
+                margin-top: calc(66.5625% + 20px);
+            }
+        }
+
+        @media (max-width: 1010px) {
+            
+            .article-full #article .article-cover {
+                padding-top: 66.5625%;
+            }
+        }
+    </style>
+
+
+
+
+    <script>
+        var Atlantic = {};
+        Atlantic.page_info = {
+  "domain": "www.theatlantic.com", 
+  "image": "http://cdn.theatlantic.com/assets/media/img/mt/2015/06/googlebig/lead_large.jpg", 
+  "channels": [
+    "technology"
+  ], 
+  "report": "", 
+  "is_news": false, 
+  "trump_channel": "technology", 
+  "canonical_url": "http://www.theatlantic.com/technology/archive/2015/06/every-single-time-a-google-self-driving-car-crashed-a-human-was-to-blame/395183/", 
+  "original_url": "http://www.theatlantic.com/technology/archive/2015/06/every-single-time-a-google-self-driving-car-crashed-a-human-was-to-blame/395183/", 
+  "seo_title": "", 
+  "site_url": "http://www.theatlantic.com", 
+  "primary_channel": "technology", 
+  "share_dek": "", 
+  "is_instant": false, 
+  "share_title": "", 
+  "description": "<span>The autonomous vehicles have been in a dozen crashes since 2009, but haven&rsquo;t caused any of them, the company says in a new report.</span>", 
+  "tags": [], 
+  "is_404": false, 
+  "extra_omniture_params": {}, 
+  "kicker": "", 
+  "authors": [
+    "Adrienne LaFrance"
+  ], 
+  "date": "2015-06-08T12:24:24-04:00", 
+  "path": "/technology/archive/2015/06/every-single-time-a-google-self-driving-car-crashed-a-human-was-to-blame/395183/", 
+  "article_id": 395183, 
+  "categories": [], 
+  "share_text": "", 
+  "url": "http://www.theatlantic.com/technology/archive/2015/06/every-single-time-a-google-self-driving-car-crashed-a-human-was-to-blame/395183/", 
+  "is_sponsored": false, 
+  "title": "When Google Self-Driving Cars Are in Accidents, Humans Are to Blame", 
+  "og_type": "article", 
+  "is_magazine": false, 
+  "view": "article", 
+  "is_features": false
+};
+        Atlantic.STATIC_URL = "http://cdn.theatlantic.com/assets/static/a/";
+        Atlantic.MEDIA_URL = "http://cdn.theatlantic.com/assets/media/";
+        Atlantic.PROFILES_URL = "https://profiles.theatlantic.com/";
+        Atlantic.PROFILES_SERVER_VERSION = "1.1.21";
+
+        // Used for comment counts
+        var disqus_shortname = 'theatlantic';
+        var s_account = "atlanticprod";
+    </script>
+    
+
+    
+    <script src="http://cdn.theatlantic.com/assets/static/a/theatlantic/common/js/advertisement.js"></script>
+
+    <!-- Optimizely -->
+    <script src="//cdn.optimizely.com/js/335305610.js"></script>
+
+    <script type="text/javascript" src="http://cdn.theatlantic.com/assets/static/a/theatlantic/js/head.7394de5a1a49.js" charset="utf-8"></script>
+
+
+    <!--[if lt IE 9]>
+        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    
+</head>
+
+<body data-page-type="article"
+    id=""
+    class="article-wide header-extended header-flag ">
+
+
+
+<div id="site" class="">
+    
+
+        
+            
+
+
+
+
+
+<header id="site-header-container">
+    
+
+    <div id="site-header-wrapper" class="fluid-container" data-omni-click="r'article',r'header',d,r' ',r' ',@href">
+        <div id="site-header">
+            <a href="/" data-omni-click="inherit"><h1 class="site-logo">The Atlantic</h1></a>
+            <ul id="site-nav">
+                <li class="subscribe"><a href="/locator/subscribe-magazine/" data-omni-click="inherit"><span>Subscribe</span></a></li>
+                <li class="search"><a href="#" data-toggles="#site-search-wrapper" data-omni-click="inherit"><span>Search</span></a></li>
+                <li class="menu"><a href="#" data-toggles="#site-menu-wrapper" data-omni-click="inherit"><span>Menu</span></a></li>
+            </ul>
+            
+            <h2 class="header-title">When Google Self-Driving Cars Are in Accidents, Humans Are to Blame</h2>
+            <ul class="social-links color header-social-links">
+                <li><a href="#" class="social-icon facebook" data-share="facebook" data-omni-click="r'article',r'header',d,r'fb',r' ',r'395183 '"></a></li>
+                <li><a href="#" class="social-icon twitter" data-share="twitter" data-omni-click="r'article',r'header',d,r'tw',r' ',r'395183 '"></a></li>
+                <li class="email"><a href="mailto:?subject=When%20Google%20Self-Driving%20Cars%20Are%20in%20Accidents%2C%20Humans%20Are%20to%20Blame&body=The%20autonomous%20vehicles%20have%20been%20in%20a%20dozen%20crashes%20since%202009%2C%20but%20haven%E2%80%99t%20caused%20any%20of%20them%2C%20the%20company%20says%20in%20a%20new%20report.%0A%0ARead More:%0Ahttp%3A//www.theatlantic.com/technology/archive/2015/06/every-single-time-a-google-self-driving-car-crashed-a-human-was-to-blame/395183/" class="social-icon email" data-omni-click="r'article',r' ',d,r'email',r'header',r'395183 '"></a></li>
+            </ul>
+            
+        </div>
+    </div>
+    <div id="site-search-wrapper" class="fluid-container">
+        <form class="site-search" action="/search/" method="get">
+            <input type="text" placeholder="Enter search terms" name="q" />
+            <button type="submit"></button>
+        </form>
+    </div>
+    <div id="site-menu-wrapper" data-omni-click="r'article',r'header',d,r' ',r' ',@href">
+        <nav id="site-menu" class="fluid-container">
+            <a href="#" class="close-link">Close</a>
+            
+            <ul class="popular-links header-section">
+                <li><a href="/" data-omni-click="inherit">Home</a></li>
+                <li><a href="/latest/" data-omni-click="inherit">Latest</a></li>
+                <li><a href="/most-popular/" data-omni-click="inherit">Most Popular</a></li>
+                <li><a href="/magazine/" data-omni-click="inherit">Magazine</a></li>
+                <li><a href="/video/" data-omni-click="inherit">Video</a></li>
+                <li><a href="/photo/" data-omni-click="inherit">Photo</a></li>
+                <li><a href="/writers/" data-omni-click="inherit">Writers</a></li>
+
+            </ul>
+            <div class="nav-lower">
+                <ul class="channel-links header-section">
+                    <li><a href="/news/" data-omni-click="inherit">News</a></li>
+                    <li><a href="/politics/" data-omni-click="inherit">Politics</a></li>
+                    <li><a href="/business/" data-omni-click="inherit">Business</a></li>
+                    <li><a href="/entertainment/" data-omni-click="inherit">Culture</a></li>
+                    <li><a href="/science/" data-omni-click="inherit">Science</a></li>
+                    <li><a href="/technology/" data-omni-click="inherit">Technology</a></li>
+                    <li><a href="/health/" data-omni-click="inherit">Health</a></li>
+                    <li><a href="/sexes/" data-omni-click="inherit">Sexes</a></li>
+                    <li><a href="/national/" data-omni-click="inherit">U.S.</a></li>
+                    <li><a href="/education/" data-omni-click="inherit">Education</a></li>
+                    <li><a href="/international/" data-omni-click="inherit">Global</a></li>
+                </ul>
+                <ul class="other-links header-section">
+                    <li><a href='/notes/'>Notes</a></li>
+                    <li><a href="/special-reports/" data-omni-click="inherit">Projects</a></li>
+                    <li><a href="/live/" data-omni-click="inherit">Events</a></li>
+                    <li><a href="/ebooks/" data-omni-click="inherit">Books</a></li>
+                    <li><a href="/store/" data-omni-click="inherit">Shop</a></li>
+                </ul>
+
+                <div class="register-subscribe header-section">
+                    <div class="register">
+                        <div class="janrain-utils">
+                            <ul id="nav-login">
+                                <li data-omni-click="inherit"><a href="/profiles/?screenToRender=editProfile" class="captureProfileLink signed-in-utils">Your Account</a><a href="#" class="captureSignOutLink signed-in-utils">Sign Out</a></li>
+                                <li data-omni-click="inherit"><a href="#" class="captureSignInLink signed-out-utils" data-screen-to-render='signIn'>Sign In</a><a href="#" class="captureSignInLink signed-out-utils" data-screen-to-render='signIn'>Sign Up</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="subscribe">
+                        
+                        
+                        
+                            
+                            
+                            <a href="/subscribe/magazine-cover-drop-down/" data-omni-click="inherit">
+                                <img class="cover lazyload" data-src="http://cdn.theatlantic.com/assets/media/img/issues/2015/10/02/1115_Cover_RGB/large.jpg" width="100" height="131" />
+                            </a>
+                            
+                        
+                        <h2>2 Free Issues</h2>
+                        <p>Try two trial issues of <em>The Atlantic</em> with our compliments.</p>
+                        <a class="button order-now" href="/subscribe/subscribe-navigation/" data-omni-click="inherit">Click to Claim</a>
+                        
+                    </div>
+                    
+                </div>
+
+                <!-- Follow Us -->
+                <div class="follow header-section">
+                    <h2>Follow</h2>
+                    <ul class="social-icons color round">
+                        <li><a data-omni-click="inherit" href="https://www.facebook.com/TheAtlantic" class="social-icon facebook">Facebook</a></li>
+                        <li><a data-omni-click="inherit" href="https://twitter.com/TheAtlantic" class="social-icon twitter">Twitter</a></li>
+                        <li><a data-omni-click="inherit" href="https://www.linkedin.com/company/the-atlantic" class="social-icon linkedin">LinkedIn</a></li>
+                        <li><a data-omni-click="inherit" href="http://theatlantic.tumblr.com/" class="social-icon tumblr">Tumblr</a></li>
+                        <li><a data-omni-click="inherit" href="https://www.pinterest.com/theatlantic/" class="social-icon pinterest">Pinterest</a></li>
+                        <li><a data-omni-click="inherit" href="http://www.theatlantic.com/follow-the-atlantic/#follow-rssfeeds" class="social-icon rss">RSS</a></li>
+                        <li><a data-omni-click="inherit" href="https://itunes.apple.com/us/app/atlantic-magazine-digital/id397599894?mt=8" class="social-icon apple">App Store</a></li>
+                    </ul>
+                    <a data-omni-click="inherit" href="/newsletters/sign-up/">See our Newsletters &gt;</a>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+
+
+
+
+
+<div id="promo-offer-wrapper">
+    <div id="promo-expanding-region">
+        <a class="contracted-visible-button button" href="/subscribe/toolbargift/">Give a Free Gift</a>
+        <div class="expanded-region" >
+            
+            
+                
+                
+                    <a href="/subscribe/toolbarexpand/">
+                        <img class="issue-cover-image lazyload" data-src="http://cdn.theatlantic.com/assets/media/img/issues/2015/10/02/1115_Cover_RGB/large.jpg"/>
+                    </a>
+                
+            
+            <p>Give a FREE gift subscription to your friend when you start your own subscription now.</p>
+            <a href="/subscribe/toolbarexpand/" class="subscribe-now-button button">Claim 2-for-1 savings</a>
+        </div>
+    </div>
+</div>
+
+
+
+            <!--[if lt IE 9]>
+            <div class="browser-warning">
+                <div class="container">
+                    <strong>Your browser is no longer supported.</strong>
+                    For maximum compatibility
+                    we recommend upgrading to a <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">newer version of IE</a>,
+                    or another browser such as <a href="http://www.google.com/chrome/">Chrome</a>
+                    or <a href="http://www.mozilla.com/en-US/firefox/new/">Firefox</a>.
+                </div>
+            </div>
+            <![endif]-->
+
+        
+
+        
+
+
+<!-- Left/right nav buttons -->
+<nav class="nav-article">
+    <a href="/business/archive/2015/06/how-walmart-convinces-its-employees-not-to-unionize/395051/" class="nav-article-button nav-article-previous" data-omni-click="r'article',r' ',d,r'next-prev-nav',r'1',r'395051'"><span class="nav-article-word">previous</span><span class="nav-article-title">How Walmart Persuades Its Workers Not to Unionize</span></a><a href="/national/archive/2015/06/a-prison-escape-new-york-manhunt-andrew-cuomo/395204/" class="nav-article-button nav-article-next" data-omni-click="r'article',r' ',d,r'next-prev-nav',r'2',r'395204'"><span class="nav-article-title">A Prison Escape From 'Little Siberia'</span><span class="nav-article-word">next <span class="story-marker">story</span></span></a>
+</nav>
+
+
+<article id="article" data-omni-click="r'article',r' ',d,r' ',r' ',r''" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+    <div id="ad-mobile-above">
+        
+
+    <gpt-ad id="ad-boxonly" 
+        targeting-pos="boxonly"
+        class="ad ad-boxonly"
+        
+        lazy-load="0" 
+        
+        
+        
+        data-object-pk="2"
+        data-object-name="boxonly"
+        >
+        
+            <gpt-sizeset viewport-size="[680, 0]" sizes="[]"></gpt-sizeset>
+        
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250]]"></gpt-sizeset>
+        
+    </gpt-ad>
+
+
+    </div>
+    <div class="article-above fluid-container">
+        <div class="article-cover">
+            <div class="article-cover-content-wrapper">
+                <div class="article-cover-content">
+                    
+                    <a href="/technology/" class="rubric" data-omni-click="r'article',r' ',d,r'rubric',r' ',@href">Technology</a>
+                    
+                    <h1 class="hed" itemprop="headline">When Google Self-Driving Cars Are in Accidents, Humans Are to Blame</h1>
+                    
+                    <p class="dek" itemprop="description"><span>The autonomous vehicles have been in a dozen crashes since 2009, but haven&rsquo;t caused any of them, the company says in a new report.</span></p>
+                    
+                </div>
+            </div>
+
+            
+                
+                <figure class="lead-img ">
+                    <div class="img-wrapper">
+                        <picture class="img">
+                            <img itemprop="image" src="http://cdn.theatlantic.com/assets/media/img/mt/2015/06/googlebig/lead_960.jpg?1433777179" />
+                        </picture>
+                    </div>
+                        
+                        <figcaption>
+                            
+                            
+                                <span class="credit">Google</span>
+                            
+                        </figcaption>
+                        
+                </figure>
+                
+            
+
+        </div>
+        <div class="ad-article-wrapper">
+            
+
+    <gpt-ad id="ad-boxtop" 
+        targeting-pos="boxtop"
+        class="ad ad-article"
+        
+        lazy-load="1.5" 
+        
+        
+        
+        data-object-pk="25"
+        data-object-name="boxtop"
+        >
+        
+            <gpt-sizeset viewport-size="[1010, 0]" sizes="[[300, 250], [300, 251], [300, 351], [300, 600]]"></gpt-sizeset>
+        
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[]"></gpt-sizeset>
+        
+    </gpt-ad>
+
+
+        </div>
+        <div class="article-cover-extra-wrapper show-share">
+            
+                
+                    
+
+
+<div class="blocker-message">
+<div class="blackbox">
+	<h2>
+	We noticed that you have an
+    <div class="bold">AD BLOCKER</div>
+    <div class="enabled">ENABLED</div>
+	</h2>
+	</div>
+	<div class="disable">
+	    Please consider disabling it
+	    for our site, or supporting our
+	    work in one of these ways
+	</div>
+
+
+
+
+<a href="/subscribe-support/" class="subscribe-link">
+    <div class="images-overlaid">
+        <img src="http://cdn.theatlantic.com/assets/media/img/issues/2015/10/02/1115_Cover_RGB/large.jpg?1445003816" class="cover-image current-cover">
+        <img src="http://cdn.theatlantic.com/assets/media/img/issues/2015/10/09/original_1/large.jpg?1444418489" class="cover-image previous-cover">
+    </div>
+</a>
+
+<a href="/subscribe-support/" class="subscribe-button">
+    Subscribe Now &#62;
+</a>
+	<hr>
+	<form action="http://theatlantic.us2.list-manage.com/subscribe/post?u=ed2d318978b7dc9b30b1f464f&amp;id=f2eeb0a9f3" id="blocker-newsletter-signup" method="post" target="_blank" data-newsletter-signup="1">
+	        <div style="text-align:center">Sign up for</div><i>The Atlantic Daily</i> newsletter
+	    <p>
+        <input type="hidden" name="group[7413][197]" value="1" />
+		<input class="full-width" type="email" id="newsletter-email" name="EMAIL" placeholder="Email"/>
+	    </p>
+	    <p>
+	        <input type="checkbox" checked="checked" value="8" name="group[7421][8]" id="signup-page-mce-group[7421][8]" />
+	        <label class="italic" id="signup-page-opt-in" for="signup-page-mce-group[7421][8]">I want to receive updates from partners and sponsors.</label>
+	    </p>
+	    <p>
+	        <input class="full-width submit" type="submit" id="newsletter-submit" name="subscribe" value="Sign up" />
+	    </p>
+	    <p class="message"></p>
+    </form>
+</div>
+
+
+                
+            
+            <div class="article-cover-extra">
+                
+<ul class="social-icons round color">
+    <li>
+        <div class="share-count facebook"></div>
+        <a href="#" class="social-icon facebook" data-share="facebook" data-omni-click="r'article',r' ',d,r'fb',r' ',r'395183 '"></a></li>
+    <li>
+        <div class="share-count twitter"></div>
+        <a href="#" class="social-icon twitter" data-share="twitter" data-omni-click="r'article',r' ',d,r'tw',r' ',r'395183 '"></a></li>
+    <li class="hide-mobile"><a href="#" class="social-icon linkedin" data-share="linkedin" data-omni-click="r'article',r' ',d,r'lnkd',r' ',r'395183 '"></a></li>
+    <li><a href="#" class="social-icon pocket" data-share="pocket" data-omni-click="r'article',r' ',d,r'pckt',r' ',r'395183 '"></a></li>
+    <li class="show-mobile"><a href="#" class="social-icon whatsapp" data-share="whatsapp" data-omni-click="r'article',r' ',d,r'whts',r' ',r'395183 '"></a></li>
+    <li><a href="mailto:?subject=When%20Google%20Self-Driving%20Cars%20Are%20in%20Accidents%2C%20Humans%20Are%20to%20Blame&body=The%20autonomous%20vehicles%20have%20been%20in%20a%20dozen%20crashes%20since%202009%2C%20but%20haven%E2%80%99t%20caused%20any%20of%20them%2C%20the%20company%20says%20in%20a%20new%20report.%0A%0ARead More:%0Ahttp%3A//www.theatlantic.com/technology/archive/2015/06/every-single-time-a-google-self-driving-car-crashed-a-human-was-to-blame/395183/" class="social-icon email" data-omni-click="r'article',r' ',d,r'email',r' ',r'395183 '"></a></li>
+    <li class="hide-mobile"><a href="#" class="social-icon print" data-share="print" data-omni-click="r'article',r' ',d,r'print',r' ',r'395183 '"></a></li>
+    <li><a href="#article-comments" class="social-icon comments" data-omni-click="r'article',r' ',d,r'disq',r' ',r'395183 '"></a></li>
+</ul>
+
+                <ul class="metadata">
+                    
+                    <li class="byline"><a href="/author/adrienne-lafrance/" title="Adrienne LaFrance">Adrienne LaFrance</a></li>
+                    
+                    <li class="date">
+                        
+                            <time itemprop="datePublished" datetime="2015-06-08T12:24:24">Jun 8, 2015</time>
+                        
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="article-body" itemprop="articleBody">
+        
+        <section id="article-section-1"><p>In August 2011, on one of the main roads that runs through Google&#8217;s headquarters in Mountain View, California, a Prius&#8212;one of the cars in Google&#8217;s fleet of autonomous vehicles&#8212;caused a fender-bender.</p><p>The accident happened, naturally, because there was a human behind the wheel.</p><p>That's according to <a href="http://static.googleusercontent.com/media/www.google.com/en/us/selfdrivingcar/files/reports/report-0515.pdf" data-omni-click="r'article',r'link',r'0',r'395183'">a new report by Google</a> about its self-driving car project, a document that tallies every accident since it began testing its 32 vehicles on the roads in 2009. That sounds like it could be a massive dataset, considering the tens of thousands of accidents that happen on American roadways each year. It actually isn&#8217;t: &#8220;In the six years of our project, we&#8217;ve been involved in 12 minor accidents during more than 1.8 million miles of autonomous and manual driving combined,&#8221; Google wrote. &#8220;Not once was the self-driving car the cause of the accident.&#8221;</p><p>Not once! In the case of the fender bender four summers ago, a Google employee&#8212;yes, a human&#8212;was to blame. He had borrowed the car to run a quick errand and ended up rear-ending another car. (&#8220;He was not using the vehicle to test our autonomous technology,&#8221; Google wrote, and the car ended up sustaining &#8220;some damage.&#8221;) So what ended up being probably a pretty bad day for that Google employee&#8212;imagine telling your boss you crashed the driverless car&#8212;turns out to be a tidy example of the key difference between human drivers and algorithmic ones. Namely: Robots are much, much better drivers than humans.</p></section><div class="ad-boxinjector-wrapper"><gpt-ad id="boxinjector1" targeting-pos="boxinjector1" class="ad ad-boxinjector" lazy-load="2" data-object-pk="1" data-object-name="boxinjector"><gpt-sizeset viewport-size="[1050, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1024, 350], [1, 3], [1600, 520], [1000, 350]]"></gpt-sizeset><gpt-sizeset viewport-size="[1010, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1, 3], [768, 520], [640, 360]]"></gpt-sizeset><gpt-sizeset viewport-size="[760, 0]" sizes="[[728, 90], [728, 350], [1, 3], [768, 520], [640, 360]]"></gpt-sizeset><gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250], [320, 350], [300, 350], [1, 3], [320, 520], [320, 430]]"></gpt-sizeset></gpt-ad></div><section id="article-section-2"><p>Google&#8217;s descriptions of the other accidents involving its self-driving cars reiterates that point. Its cars were rear-ended eight times, merged into once, and struck from the side once. One other collision that didn't cause any damage involved a non-Google car&#8217;s mirror grazing the side sensor of an automated Lexus. (One of Google&#8217;s cars was again rear-ended last week, <a href="http://arstechnica.com/tech-policy/2015/06/google-self-driving-car-gets-rear-ended-in-13th-accident-since-2009/" data-omni-click="r'article',r'link',r'1',r'395183'">Ars Technica reports</a>.)</p><p>Google&#8217;s latest report, which it says will be a monthly installment, is part of a drumbeat of recent information from the tech giant about what it has learned in its experiments with self-driving cars. It has shared imagery, for instance, that shows how self-driving cars see ambulances as distinct from other kinds of traffic.</p><div style="text-align:center">
+<figure style="display: inline-block;max-width: 376.0px; width: 100%;"><picture style="position:relative; width:100%; height:0; overflow:hidden; padding-bottom:55.585106383%;"><img alt="" data-src="https://cdn.theatlantic.com/assets/media/img/posts/2015/06/google_car/774400eaf.png" class="lazyload" style="position:absolute; width:100%; height:100%; top:0; left:0; border:0;"></picture><figcaption class="credit"></figcaption></figure></div><p>&#8220;In this example, our car was stopped at a stoplight," Google wrote. &#8220;Our light had turned green, but we detected an ambulance approaching from the right (the purple rectangle with two little red and white symbols on top), so we remained stopped as it passed through the intersection.&#8221;</p><p>Last month, Chris Urmson, the director of Google&#8217;s self-driving car program, <a href="https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088" data-omni-click="r'article',r'link',r'2',r'395183'">wrote an essay</a> for Medium outlining what he and his colleagues had learned from their work. &#8220;Not only are we developing a good understanding of minor accident rates on suburban streets, we&#8217;ve also identified patterns of driver behavior (lane-drifting, red-light running) that are leading indicators of significant collisions,&#8221; Urmson wrote. &#8220;Those behaviors don&#8217;t ever show up in official statistics, but they create dangerous situations for everyone around them.&#8221;</p></section><div class="ad-boxinjector-wrapper"><gpt-ad id="boxinjector2" targeting-pos="boxinjector2" class="ad ad-boxinjector" lazy-load="2" data-object-pk="1" data-object-name="boxinjector"><gpt-sizeset viewport-size="[1050, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1024, 350], [1, 3], [1600, 520], [1000, 350]]"></gpt-sizeset><gpt-sizeset viewport-size="[1010, 0]" sizes="[[728, 90], [728, 350], [970, 250], [1, 3], [768, 520], [640, 360]]"></gpt-sizeset><gpt-sizeset viewport-size="[760, 0]" sizes="[[728, 90], [728, 350], [1, 3], [768, 520], [640, 360]]"></gpt-sizeset><gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250], [320, 350], [300, 350], [1, 3], [320, 520], [320, 430]]"></gpt-sizeset></gpt-ad></div><section id="article-section-3"><p>What has become clear, Urmson said, is that many accidents happen in intersections, that drivers make dangerous decisions when they're turning (including often going the wrong way down a street or doing something crazy to make a turn at the last minute), and that&#8212;above all&#8212; lots of people aren&#8217;t paying attention as they drive. Next-level not paying attention. &#8220;Our safety drivers routinely see people weaving in and out of their lanes,&#8221; he wrote. &#8220;We&#8217;ve spotted people reading books, and even one playing a trumpet.&#8221; (Please, dear drivers, put away your brass instruments and novels while you&#8217;re en route. Also, stop texting while driving. Seriously. Stop. Distracted driving <a href="http://www.distraction.gov/stats-research-laws/facts-and-statistics.html" data-omni-click="r'article',r'link',r'3',r'395183'">kills thousands of people</a> every year.)</p><p>The computer mind driving Google&#8217;s cars is far more focused on the road. It&#8217;s cautious to the point of being &#8220;jittery,&#8221; as one <em>Mercury News</em> reporter <a href="http://www.siliconbeat.com/2015/05/15/what-its-like-to-ride-googles-jittery-new-robot-car/" data-omni-click="r'article',r'link',r'4',r'395183'">wrote</a> of his Disneyland-like ride in one of the cars last month. This summer, Google's self-driving prototypes&#8212;those cute little bubble-like vehicles that look like something out of the <a href="http://www.gamedynamo.com/images/galleries/photo/1140/weakling-game-characters-super-mario-goombas.jpg" data-omni-click="r'article',r'link',r'5',r'395183'">Nintendo universe</a>&#8212;will finally leave the test track and practice driving around Mountain View. "The new prototypes already have lots of experience to draw on," Urmson wrote in <a href="http://googleblog.blogspot.com/2015/05/self-driving-vehicle-prototypes-on-road.html" data-omni-click="r'article',r'link',r'6',r'395183'">a blog post</a>. "In fact, it&#8217;s the equivalent of about 75 years of typical American adult driving experience."</p><p>Already, Google is logging about 10,000 weekly miles of autonomous drive-time on public streets. That's the equivalent of almost two roundtrips between the Golden Gate Bridge and the U.S. Capitol every week.</p><p>&#8220;Getting these cars out into public, and allowing people to react to them, allowing us to see them out there,&#8221; Urmson said in <a href="https://www.youtube.com/watch?v=uCezICQNgJU" data-omni-click="r'article',r'link',r'7',r'395183'">a video</a> about the project, &#8220;I think that's a huge deal. And most importantly, it's the necessary step to getting them to drive themselves.&#8221;</p></section>
+    </div>
+
+    <div class="article-tools fluid-container">
+        <ul class="article-links">
+            <li class="continue-reading">
+                <a href="#">Continue Reading</a>
+            </li>
+            <li><a href="#article-comments">Jump to Comments</a></li>
+            <li class="authors-about">
+                <a href="#about-the-authors" data-omni-click="inherit">About the Author</a>
+            </li>
+        </ul>
+        
+<ul class="social-icons round color">
+    <li>
+        <div class="share-count facebook"></div>
+        <a href="#" class="social-icon facebook" data-share="facebook" data-omni-click="r'article',r' ',d,r'fb',r' ',r'395183 '"></a></li>
+    <li>
+        <div class="share-count twitter"></div>
+        <a href="#" class="social-icon twitter" data-share="twitter" data-omni-click="r'article',r' ',d,r'tw',r' ',r'395183 '"></a></li>
+    <li class="hide-mobile"><a href="#" class="social-icon linkedin" data-share="linkedin" data-omni-click="r'article',r' ',d,r'lnkd',r' ',r'395183 '"></a></li>
+    <li><a href="#" class="social-icon pocket" data-share="pocket" data-omni-click="r'article',r' ',d,r'pckt',r' ',r'395183 '"></a></li>
+    <li class="show-mobile"><a href="#" class="social-icon whatsapp" data-share="whatsapp" data-omni-click="r'article',r' ',d,r'whts',r' ',r'395183 '"></a></li>
+    <li><a href="mailto:?subject=When%20Google%20Self-Driving%20Cars%20Are%20in%20Accidents%2C%20Humans%20Are%20to%20Blame&body=The%20autonomous%20vehicles%20have%20been%20in%20a%20dozen%20crashes%20since%202009%2C%20but%20haven%E2%80%99t%20caused%20any%20of%20them%2C%20the%20company%20says%20in%20a%20new%20report.%0A%0ARead More:%0Ahttp%3A//www.theatlantic.com/technology/archive/2015/06/every-single-time-a-google-self-driving-car-crashed-a-human-was-to-blame/395183/" class="social-icon email" data-omni-click="r'article',r' ',d,r'email',r' ',r'395183 '"></a></li>
+    <li class="hide-mobile"><a href="#" class="social-icon print" data-share="print" data-omni-click="r'article',r' ',d,r'print',r' ',r'395183 '"></a></li>
+    <li><a href="#article-comments" class="social-icon comments" data-omni-click="r'article',r' ',d,r'disq',r' ',r'395183 '"></a></li>
+</ul>
+
+        
+        <div class="article-after">
+            <div class="ad-article-wrapper-bottom">
+                
+
+    <gpt-ad id="ad-boxbottom" 
+        targeting-pos="boxbottom"
+        class="ad ad-boxbottom"
+        
+        lazy-load="1.5" 
+        
+        
+        
+        data-object-pk="21"
+        data-object-name="boxbottom"
+        >
+        
+            <gpt-sizeset viewport-size="[680, 0]" sizes="[[300, 250], [300, 450]]"></gpt-sizeset>
+        
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[]"></gpt-sizeset>
+        
+    </gpt-ad>
+
+
+            </div>
+
+
+            
+            
+            <div class="module module-related related-categorization video" data-omni-click="r'article',r' ',d,r'related',r' ',@href">
+                <h2 class="module-label">
+                    <a href="/video/">Latest Video</a>
+                </h2>
+
+                
+
+
+
+
+
+<a href="/video/index/414238/blogger-maria-popova-search-for-purpose/" data-omni-click="inherit">
+
+
+    
+    
+        <figure>
+            <img src="http://cdn.theatlantic.com/assets/media/video/img/2015/11/7things_thumbnail-1/thumb_wide_300.jpg?1447263208">
+            
+        </figure>
+    
+
+
+<h2 class="hed">A Writer’s Journey: Lessons Learned From a Search for Purpose </h2>
+</a>
+<p class="dek has-dek">
+    A celebrated blogger shares her insights on what it means to lead a good life.
+</p>
+
+<ul class="metadata">
+    
+    <li class="byline"><a href="/author/greyson-korhonen/" title="Greyson Korhonen">Greyson Korhonen</a></li>
+    
+    <li class="date">
+        <time datetime="2015-11-11">
+        
+            3:04 PM ET
+        
+        </time>
+    </li>
+    
+    <li class="comments"><a href="/video/index/414238/blogger-maria-popova-search-for-purpose/#disqus_thread" data-disqus-identifier="" data-disqus-format="{}"></a></li>
+    
+    
+</ul>
+
+
+            </div>
+            
+            
+
+
+            
+            <div id="about-the-authors" class="module module-authors">
+                <h2 class="module-label">About the Author</h2>
+                
+
+
+<ul class="authors">
+    
+    <li class="author">
+        
+            
+            <img src="http://cdn.theatlantic.com/assets/media/None/071715_LaFranceMug_BW/headshot.jpg" class="headshot" height="" width="59" />
+        
+        <div class="bio">
+            
+                <span><a href="/author/adrienne-lafrance/" class="author-link">Adrienne LaFrance</a> is a </span>staff writer<span> at </span><em>The Atlantic</em><span>, where she covers technology. She was previously an investigative reporter for </span><a href="http://www.civilbeat.com/"><em>Honolulu Civil Beat</em></a><span>, </span><a href="http://www.niemanlab.org/">Nieman Journalism Lab</a><span>, and </span><a href="http://www.wbur.org/">WBUR</a><span>.</span>
+
+                
+            
+        </div>
+
+        
+            <ul class="links">
+                
+                
+                <li><a href="https://twitter.com/intent/user?screen_name=AdrienneLaF" class="twitter">Twitter</a></li>
+                
+                
+                
+            </ul>
+        
+    </li>
+    
+</ul>
+
+            </div>
+            
+        </div>
+    </div>
+</article>
+
+<div id="taboola-container">
+    <div id="taboola-bottom-main-column"></div>
+    <script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({mode:'thumbnails-a', container:'taboola-bottom-main-column', placement:'Bottom Main Column'});
+    </script>
+</div>
+
+<div id="article-most-popular" class="most-popular-container fluid-container" data-omni-click="r'article',r' ',d,r'mostpop',$li,@href">
+
+    <div class="most-popular-header">
+        <h2>Most Popular</h2>
+        <div class="presented-by" data-enable-if-ad="ad-logo">
+            Presented by
+            
+
+    <gpt-ad id="ad-logo" 
+        targeting-pos="logo"
+        class="ad ad-logo"
+        
+        lazy-load="1" 
+        
+        
+        
+        data-object-pk="38"
+        data-object-name="logo"
+        >
+        
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[[88, 31], [120, 60]]"></gpt-sizeset>
+        
+    </gpt-ad>
+
+
+        </div>
+    </div>
+
+    
+    
+
+<div class="most-popular-list">
+    <ul class="most-popular">
+        
+            
+            
+
+<li class="most-popular-article ">
+    <a href="/politics/archive/2015/11/the-new-intolerance-of-student-activism-at-yale/414810/" class="article-link" data-omni-click="r'.',r' ',d,r'mostpop',$li,r'414810.'">
+    
+        <figure class="lead-img">
+            <img data-src="http://cdn.theatlantic.com/assets/media/img/mt/2015/11/yale/hero_wide_640.jpg?1447028140" class="lazyload">
+            
+            <figcaption class="credit">Fortumania / Flickr</figcaption>
+            
+        </figure>
+    
+
+        <h3 class="hed">The New Intolerance of Student Activism</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><a href="/author/conor-friedersdorf/" title="Conor Friedersdorf">Conor Friedersdorf</a></li>
+        
+            
+        
+
+    </ul>
+
+    <div class="article-content ">
+        <p class="dek">A fight over Halloween costumes at Yale has devolved into an effort to censor dissenting views.</p>
+        
+        <div class="excerpt">
+            <p><span class="entry-header">Professor Nicholas </span>Christakis lives at Yale, where he presides over one of its undergraduate colleges. His wife Erika, a lecturer in early childhood education, shares that duty. They reside among students and are responsible for shaping residential life. And before Halloween, some students complained to them that Yale administrators were offering heavy-handed advice on what Halloween costumes to avoid.</p>&#13;
+&#13;
+<p>Erika Christakis reflected on the frustrations of the students, drew on her scholarship and career experience, and <a href="https://www.thefire.org/email-from-erika-christakis-dressing-yourselves-email-to-silliman-college-yale-students-on-halloween-costumes/">composed an email</a> inviting the community to think about the controversy through an intellectual lens that few if any had considered. Her message was a model of relevant, thoughtful, civil engagement.</p>&#13;
+
+        </div>
+        
+    </div>
+    <a class="read-more" href="/politics/archive/2015/11/the-new-intolerance-of-student-activism-at-yale/414810/" data-omni-click="inherit">
+        
+        Continue Reading
+        
+    </a>
+</li>
+
+        
+            
+            
+
+<li class="most-popular-article ">
+    <a href="/magazine/archive/2015/09/the-coddling-of-the-american-mind/399356/" class="article-link" data-omni-click="r'.',r' ',d,r'mostpop',$li,r'399356.'">
+    
+        <figure class="lead-img">
+            <img data-src="http://cdn.theatlantic.com/assets/media/img/2015/07/WEL_Haidt_PC_Kid_FNL_WEBCrop/hero_wide_640.jpg?1438197190" class="lazyload">
+            
+            <figcaption class="credit">Andrew B. Myers / The Atlantic</figcaption>
+            
+        </figure>
+    
+
+        <h3 class="hed">The Coddling of the American Mind</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><a href="/author/greg-lukianoff/" title="Greg Lukianoff">Greg Lukianoff</a> and <a href="/author/jonathan-haidt/" title="Jonathan Haidt">Jonathan Haidt</a></li>
+        
+            
+        
+
+    </ul>
+
+    <div class="article-content ">
+        <p class="dek"><span><span>In the name of emotional well-being, college students are increasingly demanding protection from words and ideas they don&rsquo;t like. Here&rsquo;s why that&rsquo;s disastrous for education&mdash;and mental health. </span></span></p>
+        
+        <div class="excerpt">
+            <p class="dropcap"><span class="smallcaps"><b>S</b>omething strange is </span>happening at America&#x2019;s colleges and universities. A movement is arising, undirected and driven largely by students, to scrub campuses clean of words, ideas, and subjects that might cause discomfort or give offense. Last December, Jeannie Suk wrote in an online article for <i>The New Yorker</i> about law students asking her fellow professors at Harvard not to teach rape law&#x2014;or, in one case, even use the word <i>violate</i> (as in &#x201C;that violates the law&#x201D;) lest it cause students distress. In February, Laura Kipnis, a professor at Northwestern University, wrote an essay in <i>The Chronicle of Higher Education </i>describing a new campus politics of sexual paranoia&#x2014;and was then subjected to a long investigation after students who were offended by the article and by a tweet she&#x2019;d sent filed Title IX complaints against her. In June, a professor protecting himself with a pseudonym wrote an essay for Vox describing how gingerly he now has to teach. &#x201C;I&#x2019;m a Liberal Professor, and My Liberal Students Terrify Me,&#x201D; the headline said. A number of popular comedians, including Chris Rock, have stopped performing on college campuses (see Caitlin Flanagan&#x2019;s <a href="http://www.theatlantic.com/magazine/archive/2015/09/thats-not-funny/399335/">article</a> in this month&#x2019;s issue). Jerry Seinfeld and Bill Maher have publicly condemned the oversensitivity of college students, saying too many of them can&#x2019;t take a joke.</p>&#13;
+&#13;
+
+        </div>
+        
+    </div>
+    <a class="read-more" href="/magazine/archive/2015/09/the-coddling-of-the-american-mind/399356/" data-omni-click="inherit">
+        
+        Continue Reading
+        
+    </a>
+</li>
+
+        
+            
+            
+
+<li class="most-popular-article ">
+    <a href="/politics/archive/2015/11/how-campus-activists-are-weaponizing-the-safe-space/415080/" class="article-link" data-omni-click="r'.',r' ',d,r'mostpop',$li,r'415080.'">
+    
+        <figure class="lead-img">
+            <img data-src="http://cdn.theatlantic.com/assets/media/img/mt/2015/11/RTR4GBFN/hero_wide_640.jpg?1447167475" class="lazyload">
+            
+            <figcaption class="credit">Rick Wilking / Reuters</figcaption>
+            
+        </figure>
+    
+
+        <h3 class="hed">Campus Activists Weaponize ‘Safe Space’</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><a href="/author/conor-friedersdorf/" title="Conor Friedersdorf">Conor Friedersdorf</a></li>
+        
+            
+        
+
+    </ul>
+
+    <div class="article-content ">
+        <p class="dek">A journalist at the University of Missouri is mobbed by a crowd insisting he is the aggressor.</p>
+        
+        <div class="excerpt">
+            <p>At the University of Missouri, student activists <a href="http://www.nytimes.com/2015/11/10/us/university-of-missouri-system-president-resigns.html">succeeded this week</a> in forcing the resignation of President Timothy M. Wolfe, charging that he has not done enough to address persistent racism on campus. Tim Tai, a University of Missouri student, got a freelance assignment from ESPN <a href="http://espn.go.com/college-football/photos/gallery/_/id/14091412/image/1/version/mobile/university-missouri-protests-reaction">to photograph</a> the reaction of victorious activists at the tent city they set up in a public area of campus. As a matter of law, he had an indisputable First Amendment right to photograph events transpiring <a href="http://www.themaneater.com/stories/2015/9/23/passing-new-bill-students-can-hold-protests-all-th/">outdoors on public property</a>.</p>&#13;
+&#13;
+<p>But student activists did not want their tent city or the people in it photographed, and forcibly prevented him from taking pictures. &#x201C;We ask for no media in the parameters so the place where people live, fellowship, and sleep can be protected from twisted insincere narratives,&#x201D; a Twitter account associated with the activists later declared, adding that &#x201C;it&#x2019;s typically white media who don&#x2019;t understand the importance of respecting black spaces.&#x201D; Tim Tai is Asian American.</p>&#13;
+&#13;
+
+        </div>
+        
+    </div>
+    <a class="read-more" href="/politics/archive/2015/11/how-campus-activists-are-weaponizing-the-safe-space/415080/" data-omni-click="inherit">
+        
+        Continue Reading
+        
+    </a>
+</li>
+
+        
+            
+            
+
+<li class="most-popular-article ">
+    <a href="/politics/archive/2015/11/republican-debate-fox-business-milwaukee/415284/" class="article-link" data-omni-click="r'.',r' ',d,r'mostpop',$li,r'415284.'">
+    
+        <figure class="lead-img">
+            <img data-src="http://cdn.theatlantic.com/assets/media/img/mt/2015/11/AP_219464251769/hero_wide_640.jpg?1447217196" class="lazyload">
+            
+            <figcaption class="credit">Morry Gash / AP</figcaption>
+            
+        </figure>
+    
+
+        <h3 class="hed">Who Won the Republican Presidential Debate?</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><a href="/author/david-a-graham/" title="David A. Graham">David A. Graham</a>, <a href="/author/yoni-appelbaum/" title="Yoni Appelbaum">Yoni Appelbaum</a>, <a href="/author/molly-ball/" title="Molly Ball">Molly Ball</a>, <a href="/author/priscilla-alvarez/" title="Priscilla Alvarez">Priscilla Alvarez</a>, <a href="/author/matt-ford/" title="Matt Ford">Matt Ford</a>, <a href="/author/conor-friedersdorf/" title="Conor Friedersdorf">Conor Friedersdorf</a>, <a href="/author/gillian-b-white/" title="Gillian B. White">Gillian B. White</a>, <a href="/author/tyler-bishop/" title="Tyler Bishop">Tyler Bishop</a>, <a href="/author/marina-koren/" title="Marina Koren">Marina Koren</a>, and <a href="/author/russell-berman/" title="Russell Berman">Russell Berman</a></li>
+        
+            
+        
+
+    </ul>
+
+    <div class="article-content ">
+        <p class="dek">A substantive discussion in Milwaukee left much of the field unchanged&mdash;but a couple candidates managed to boost their fortunes.</p>
+        
+        <div class="excerpt">
+            <p>Improbably, the best moment of the Republican debates so far came during a wonky discussion of tax policy.</p>&#13;
+&#13;
+<p>It occurred as the GOP candidates debated in Milwaukee Tuesday night. The magical exchange kicked off with a question to Ben Carson about his tax plan, which he&#x2019;s said is based on Biblical tithing. Carson&#x2019;s answer was revealing: He made clear that he&#x2019;d eliminate all tax credits, including the earned-income tax credit and the home-mortgage-interest deduction, a significantly regressive change. Then Rand Paul and Ted Cruz both got tough questions about their tax plans, which are projected to create enormous revenue shortfalls. When neither man explained how they&#x2019;d fill that hole in the deficit, moderator Maria Bartiromo pushed them on it. (Not that they offered much of an answer.)</p>&#13;
+&#13;
+
+        </div>
+        
+    </div>
+    <a class="read-more" href="/politics/archive/2015/11/republican-debate-fox-business-milwaukee/415284/" data-omni-click="inherit">
+        
+        Continue Reading
+        
+    </a>
+</li>
+
+        
+            
+            
+
+<li class="most-popular-article ">
+    <a href="/business/archive/2015/11/gop-debate-gold-standard/415386/" class="article-link" data-omni-click="r'.',r' ',d,r'mostpop',$li,r'415386.'">
+    
+        <figure class="lead-img">
+            <img data-src="http://cdn.theatlantic.com/assets/media/img/mt/2015/11/RTX10D5E/hero_wide_640.jpg?1447265983" class="lazyload">
+            
+            <figcaption class="credit">Shannon Stapleton / Reuters</figcaption>
+            
+        </figure>
+    
+
+        <h3 class="hed">Why Are Republicans So Obsessed With the Gold Standard?</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><a href="/author/gillian-b-white/" title="Gillian B. White">Gillian B. White</a></li>
+        
+            
+        
+
+    </ul>
+
+    <div class="article-content ">
+        <p class="dek">GOP candidates love it for what it represents, not because it&rsquo;s good policy.</p>
+        
+        <div class="excerpt">
+            <p dir="ltr"><span><span>During Tuesday night&#x2019;s Republican debate a familiar topic resurfaced to the dismay of most economists: the case for the gold standard.</span></span></p>&#13;
+&#13;
+<p dir="ltr"><span><span>Senator Ted Cruz criticized the Fed&#x2019;s ability to manipulate monetary policy (a common refrain among gold-standard advocates) saying, &#x201C;Instead of adjusting monetary policy according to whims and getting it wrong over and over again and causing booms and busts, what the Fed should be doing is ... keeping our money tied to a stable level of gold.&#x201D;</span></span></p>&#13;
+&#13;
+<p dir="ltr"><span><span>This wasn&#x2019;t the first time that a GOP hopeful had tried to revive the idea of linking the dollar with the precious metal. Both Rand Paul and Ted Cruz have broached the idea, though not always so explicitly, as part of their monetary policy in the past few months. Additionally, in 2012, </span><a href="http://www.cnbc.com/id/48782481"><span>Ron Paul included</span></a><span> it in his platform. </span></span></p>&#13;
+&#13;
+
+        </div>
+        
+    </div>
+    <a class="read-more" href="/business/archive/2015/11/gop-debate-gold-standard/415386/" data-omni-click="inherit">
+        
+        Continue Reading
+        
+    </a>
+</li>
+
+        
+            
+            
+
+<li class="most-popular-article ">
+    <a href="/entertainment/archive/2015/11/why-writers-run/415146/" class="article-link" data-omni-click="r'.',r' ',d,r'mostpop',$li,r'415146.'">
+    
+        <figure class="lead-img">
+            <img data-src="http://cdn.theatlantic.com/assets/media/img/mt/2015/11/RTXEE9V/hero_wide_640.jpg?1447176231" class="lazyload">
+            
+            <figcaption class="credit">Toby Melville / Reuters</figcaption>
+            
+        </figure>
+    
+
+        <h3 class="hed">Why Writers Run</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><a href="/author/nick-ripatrazone/" title="Nick Ripatrazone">Nick Ripatrazone</a></li>
+        
+            
+        
+
+    </ul>
+
+    <div class="article-content ">
+        <p class="dek">Racking up mile after mile is difficult, mind-expanding, and hypnotic&mdash;just like putting words down on a page.</p>
+        
+        <div class="excerpt">
+            <p>From Homer&#x2019;s <em>The Iliad</em> to A.E. Housman&#x2019;s poem about an athlete dying young, there&#x2019;s no shortage of literary depictions of running. &#x201C;Move, as the limbs / of a runner do,&#x201D; <a href="http://runningmuse.co.uk/blog/4586568427/W.H.-Auden's-'Runner'/9676701">writes W.H. Auden</a>. &#x201C;In orbit go / Round an endless track.&#x201D; There&#x2019;s also a long tradition of writers leaving their pens or screens behind to stride along roads, tracks, and trails. Jonathan Swift, <a href="https://books.google.com/books?id=ZR9GAQAAMAAJ&amp;pg=PA3&amp;lpg=PA3&amp;dq=jonathan+swift+run+half+a+mile+up+and+down+a+hill+every+two+hours&amp;source=bl&amp;ots=jsh6bmQcKa&amp;sig=MkzDA0Cl7T15ZusYpGEodp8aKWY&amp;hl=en&amp;sa=X&amp;ved=0CCYQ6AEwAmoVChMI1abN9tmGyQIVgRs-Ch3MeQW6#v=onepage&amp;q&amp;f=false">according to Samuel Johnson</a>, would &#x201C;run half a mile up and down a hill every two hours&#x201D; during his 20s. Louisa May Alcott ran since her youth: &#x201C;I always thought I must have been a deer or a horse in some former state,&#x201D; <a href="https://books.google.com/books?id=9OB_2sFqYtsC&amp;pg=PA115&amp;lpg=PA115&amp;dq=I+always+thought+I+must+have+been+a+deer+or+a+horse+in+some+former+state&amp;source=bl&amp;ots=lM4_Ewpiz_&amp;sig=ETSM3O4CwSxwJpmLm8vJbxae3fE&amp;hl=en&amp;sa=X&amp;ved=0CDAQ6AEwA2oVChMI5OL7htuGyQIVQ4I-Ch29HwhS#v=onepage&amp;q&amp;f=false">she wrote</a> in her journal, &#x201C;because it was such a joy to run.&#x201D; Despite this correlation,<span> </span><em>The New Yorker&#x2019;</em>s<span> </span><a href="http://www.newyorker.com/news/sporting-scene/what-we-think-about-when-we-run">Kathryn Schulz recently lamented how few books</a> <span>capture the mindset of the runner in descriptive terms</span><em>, </em>citing Thomas Gardner&#x2019;s new collection of essays <em>Poverty Creek Journal </em>as the best exception.</p>&#13;
+&#13;
+
+        </div>
+        
+    </div>
+    <a class="read-more" href="/entertainment/archive/2015/11/why-writers-run/415146/" data-omni-click="inherit">
+        
+        Continue Reading
+        
+    </a>
+</li>
+
+        
+            
+            
+
+<li class="most-popular-article ">
+    <a href="/national/archive/2015/11/whats-happening-at-the-university-of-missouri/414870/" class="article-link" data-omni-click="r'.',r' ',d,r'mostpop',$li,r'414870.'">
+    
+        <figure class="lead-img">
+            <img data-src="http://cdn.theatlantic.com/assets/media/img/mt/2015/11/9642327968_fedcf91db8_k/hero_wide_640.jpg?1447080008" class="lazyload">
+            
+            <figcaption class="credit">nonorganical / Flickr</figcaption>
+            
+        </figure>
+    
+
+        <h3 class="hed">What's Happening at the University of Missouri?</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><a href="/author/krishnadev-calamur/" title="Krishnadev Calamur">Krishnadev Calamur</a></li>
+        
+            
+        
+
+    </ul>
+
+    <div class="article-content ">
+        <p class="dek"><span>R. Bowen Loftin, the university&rsquo;s chancellor, will step down at the end of the year amid criticism of how the school handled racial incidents. His resignation follows that of Tim Wolfe, the university&rsquo;s president.</span></p>
+        
+        <div class="excerpt">
+            <p><small><em>Update on November 9 at 6:19 p.m. ET</em></small></p>&#13;
+&#13;
+<p>Criticism over how the University of Missouri handled a series of racist incidents on campus this fall has claimed the jobs of two top officials: President Tim Wolfe and Chancellor <span>R. Bowen Loftin.</span></p>&#13;
+&#13;
+<p>Hours after Wolfe announced he was stepping down, <a href="http://www.umsystem.edu/ums/news/news_releases/news_110915">a news release</a> from the UM System noted Loftin would stay in his position at the university&#x2019;s main campus in Columbia until the end of the year.</p>&#13;
+&#13;
+<p>Starting next January, Loftin will take over as director for research facility development, leading the school&#x2019;s effort &#x201C;to construct new facilities and renovate current facilities to meet the university&#x2019;s research needs,&#x201D; the statement said.</p>&#13;
+&#13;
+<p>Hank Foley, MU&#x2019;s senior vice chancellor for research and graduate studies, was appointed interim chancellor. The statement said an interim system president will be announced as soon as possible.</p>&#13;
+&#13;
+
+        </div>
+        
+    </div>
+    <a class="read-more" href="/national/archive/2015/11/whats-happening-at-the-university-of-missouri/414870/" data-omni-click="inherit">
+        
+        Continue Reading
+        
+    </a>
+</li>
+
+        
+            
+            
+
+<li class="most-popular-article ">
+    <a href="/business/archive/2015/11/starbucks-coffee-cups-war-on-christmas/415029/" class="article-link" data-omni-click="r'.',r' ',d,r'mostpop',$li,r'415029.'">
+    
+        <figure class="lead-img">
+            <img data-src="http://cdn.theatlantic.com/assets/media/img/mt/2015/11/AP_470820006463/hero_wide_640.jpg?1447106050" class="lazyload">
+            
+            <figcaption class="credit">Justin McCartney / AP</figcaption>
+            
+        </figure>
+    
+
+        <h3 class="hed">The Inanity of the Starbucks Christmas Cup ‘Controversy’</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><a href="/author/emma-green/" title="Emma Green">Emma Green</a></li>
+        
+            
+        
+
+    </ul>
+
+    <div class="article-content ">
+        <p class="dek">Seeking religious affirmation from corporate branding is ironic, misguided, and culturally damaging.</p>
+        
+        <div class="excerpt">
+            <p dir="ltr"><span><span>&#x201C;Maybe we should boycott Starbucks. I don't know,&#x201D; Donald Trump </span><a href="http://www.syracuse.com/politics/index.ssf/2015/11/war_on_christmas_donald_trump_wants_to_boycott_starbucks_over_red_coffee_cups.html"><span>said on Monday night </span></a><span>at a speech in Springfield, Illinois. &#x201C;Seriously, I don't care.&#x201D;</span></span></p>&#13;
+&#13;
+<p dir="ltr"><span><span>It was a rare moment of trollish apathy for the Donald, considering that he was referring to the kind of peevish campaign that&#x2019;s right up his alley: </span><a href="https://www.facebook.com/joshua.feuerstein.5/videos/689569711145714/"><span>a video</span></a><span> going around the Internet by a guy named Joshua Feuerstein&#x2014;he calls himself &#x201C;an American evangelist, Internet, and social media personality&#x201D;&#x2014;raging against &#x201C;the age of political correctness&#x201D; and the new seasonal coffee cups at Starbucks.</span></span></p>&#13;
+&#13;
+<p dir="ltr"><span><span>&#x201C;Do you realize that Starbucks wanted to take Christ, and Christmas, off of their brand-new cups? That&#x2019;s why they&#x2019;re just plain red,&#x201D; he says.</span></span></p>&#13;
+&#13;
+<p><span><span>First off, just to be clear, the long-haired, chill-looking person on Starbucks&#x2019;s cups isn&#x2019;t Jesus&#x2014;</span><a href="http://www.starbucks.com/blog/so-who-is-the-siren"><span>she&#x2019;s </span></a><span>&#x201C;a 16th century Norse woodcut of a twin-tailed mermaid, or Siren.&#x201D; And though Starbucks </span><a href="https://news.starbucks.com/news/the-story-behind-the-design-of-starbucks-red-holiday-cups-for-2015"><span>says</span></a><span> it &#x201C;has told a story of the holidays by featuring symbols of the season from vintage ornaments and hand-drawn reindeer to modern vector-illustrated characters&#x201D; since 1997, there was never a time when someone could sip a latte out of a nativity-scene-decorated cup.</span></span></p>&#13;
+&#13;
+
+        </div>
+        
+    </div>
+    <a class="read-more" href="/business/archive/2015/11/starbucks-coffee-cups-war-on-christmas/415029/" data-omni-click="inherit">
+        
+        Continue Reading
+        
+    </a>
+</li>
+
+        
+            
+            
+
+<li class="most-popular-article ">
+    <a href="/health/archive/2015/11/meals-you-can-eat-to-get-enough-sugar/415344/" class="article-link" data-omni-click="r'.',r' ',d,r'mostpop',$li,r'415344.'">
+    
+        <figure class="lead-img">
+            <img data-src="http://cdn.theatlantic.com/assets/media/img/mt/2015/11/RTR1IJ5T/hero_wide_640.jpg?1447266863" class="lazyload">
+            
+            <figcaption class="credit"> Albert Gea / Reuters</figcaption>
+            
+        </figure>
+    
+
+        <h3 class="hed">A Day's Worth of Sugar in a Single Food</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><a href="/author/olga-khazan/" title="Olga Khazan">Olga Khazan</a></li>
+        
+            
+        
+
+    </ul>
+
+    <div class="article-content ">
+        <p class="dek">The FDA just announced that Americans should limit their added sugar intake to 12 teaspoons per day. That&rsquo;s less than it probably seems. Here&rsquo;s where all that sugar is hiding.</p>
+        
+        <div class="excerpt">
+            <p>The <span>Food and Drug Administration</span> this week <a href="http://well.blogs.nytimes.com/2015/11/09/placing-a-cap-on-americans-consumption-of-added-sugar/">recommended</a> that people eat no more than 12.5 teaspoons of sugar each day, or about 50 grams. The idea is to limit sugar consumption to 10 percent of a person&#x2019;s daily total calories. Currently, Americans <a href="http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformation/LabelingNutrition/ucm387533.htm">get about</a> 16 percent of their calories from added sugars on average.</p>&#13;
+&#13;
+<p>The new rule is not as strict as the sugar caps other health organizations have suggested. The World Health Organization endorses a limit of six teaspoons, or 25 grams, per day.</p>&#13;
+&#13;
+<p>The new limit part of the <a href="http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformation/LabelingNutrition/ucm385663.htm#images">FDA&#x2019;s push</a> to change food labels to display the total amount of added sugars in a food, as opposed to natural sugars. (<span>This is similar to how </span><span>&#x201C;saturated fat</span><span>&#x201D; and </span><span>&#x201C;total fat</span><span>&#x201D; are currently separated out on food labels.) </span>Although added and natural sugars are chemically similar, foods that contain natural sugars, like fruit, usually contain other nutrients, like fiber, that are considered beneficial. Added sugar, meanwhile, is just that: superfluous. It&#x2019;s been <a href="http://www.theatlantic.com/health/archive/2014/02/check-out-these-hot-new-nutrition-facts/284117/">indicted by many</a> nutritionists as one driver of the obesity epidemic and a <a href="http://www.ncbi.nlm.nih.gov/pubmed/24493081">potential cause</a> of other health problems, such as heart disease.</p>&#13;
+&#13;
+
+        </div>
+        
+    </div>
+    <a class="read-more" href="/health/archive/2015/11/meals-you-can-eat-to-get-enough-sugar/415344/" data-omni-click="inherit">
+        
+        Continue Reading
+        
+    </a>
+</li>
+
+        
+            
+            
+
+<li class="most-popular-article ">
+    <a href="/international/archive/2015/11/isis-war-of-ideas-propaganda/415335/" class="article-link" data-omni-click="r'.',r' ',d,r'mostpop',$li,r'415335.'">
+    
+        <figure class="lead-img">
+            <img data-src="http://cdn.theatlantic.com/assets/media/img/mt/2015/11/ISIS_1/hero_wide_640.jpg?1447257991" class="lazyload">
+            
+            <figcaption class="credit">Reuters</figcaption>
+            
+        </figure>
+    
+
+        <h3 class="hed">ISIS Is Not Winning the War of Ideas</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><a href="/author/jm-berger/" title="J.M. Berger">J.M. Berger</a></li>
+        
+            
+        
+
+    </ul>
+
+    <div class="article-content ">
+        <p class="dek"><span>The Islamic State isn&rsquo;t succeeding because of the strength of its narrative. It&rsquo;s succeeding because it can mobilize</span><span> a microscopic minority.</span><br />
+<!--EndFragment--></p>
+        
+        <div class="excerpt">
+            <p>&#x201C;The United States is engaged in a war of ideas&#x2014;and it&#x2019;s losing.&#x201D;</p>&#13;
+&#13;
+<p>This refrain feels modern, but it has echoed through most of American history. The argument that the U.S. is losing a <a href="https://www.ctc.usma.edu/posts/the-truth-campaign-and-the-war-of-ideas">war of ideas</a> or <a href="http://www.thedailybeast.com/articles/2015/10/25/the-real-power-of-isis.html">narratives</a> to ISIS is only the latest iteration. As Scott Atran <a href="http://www.thedailybeast.com/articles/2015/10/25/the-real-power-of-isis.html">recently wrote</a> at <i>The Daily Beast</i>, the various military campaigns against the Islamic State obscure &#x201C;a central and potentially determining fact about the fight&#x201D;&#x2014;namely that it &#x201C;is, fundamentally, a war of ideas that the West has virtually no idea how to wage, and that is a major reason anti-ISIS policies have been such abysmal failures.&#x201D;</p>&#13;
+<!-- START "MORE ON" SINGLE STORY BOX v. 2 -->&#13;
+&#13;
+<!-- END "MORE ON" SINGLE STORY BOX v. 2 --><p>The myth that America&#x2019;s narrative is losing to ISIS&#x2019;s persists despite the fact that <a href="http://www.unhcr.org/pages/49e486426.html">millions of people</a> are fleeing ISIS territories, while mere thousands have traveled to <a href="http://icct.nl/wp-content/uploads/2015/10/ICCT-Schmid-Foreign-Terrorist-Fighter-Estimates-Conceptual-and-Data-Issues-October20152.pdf">join the group</a>. It persists despite the fact that the Islamic State&#x2019;s ideological sympathizers make up less than 1 percent of the world&#x2019;s population, even using the most <a href="http://bridge.georgetown.edu/do-42-million-muslims-really-support-isis/">hysterically alarmist estimates</a><b>, </b>and the fact that <a href="http://warontherocks.com/2015/02/how-many-fighters-does-the-islamic-state-really-have/">active, voluntary participants</a> in its caliphate project certainly make up less than a tenth of a percent.</p>&#13;
+&#13;
+
+        </div>
+        
+    </div>
+    <a class="read-more" href="/international/archive/2015/11/isis-war-of-ideas-propaganda/415335/" data-omni-click="inherit">
+        
+        Continue Reading
+        
+    </a>
+</li>
+
+        
+        
+            
+            
+
+<li class="most-popular-article most-popular-video">
+    <a href="/video/index/409927/dont-sneak-a-fathers-command-to-his-gay-son-in-the-1950s/" class="article-link" data-omni-click="r'.',r' ',d,r'mostpop',$li,r'409927.'">
+    
+        <figure class="lead-img">
+            <img data-src="http://cdn.theatlantic.com/assets/media/video/img/2015/10/Screen_Shot_2015_10_11_at_4.47.41_PM/hero_wide_640.jpg?1444597691" class="lazyload">
+            
+        </figure>
+    
+
+        <h3 class="hed">'Don't Sneak': A Father's Command to His Gay Son in the 1950s</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><a href="/author/nadine-ajaka/" title="Nadine Ajaka">Nadine Ajaka</a></li>
+        
+            
+        
+
+    </ul>
+
+    <div class="article-content without-excerpt">
+        <p class="dek">In a StoryCorps animation, Patrick Haggerty remembers the remarkable advice he got from his dairy farmer dad.</p>
+        
+    </div>
+    <a class="read-more" href="/video/index/409927/dont-sneak-a-fathers-command-to-his-gay-son-in-the-1950s/" data-omni-click="inherit">
+        
+        Watch Video
+        
+    </a>
+</li>
+
+        
+            
+            
+
+<li class="most-popular-article most-popular-video">
+    <a href="/video/index/414499/a-horrifying-animation-of-a-racist-preachers-descent-into-madness/" class="article-link" data-omni-click="r'.',r' ',d,r'mostpop',$li,r'414499.'">
+    
+        <figure class="lead-img">
+            <img data-src="http://cdn.theatlantic.com/assets/media/video/img/2015/11/PrideOfStrathmoor_01/hero_wide_640.jpg?1446755712" class="lazyload">
+            
+        </figure>
+    
+
+        <h3 class="hed">A Horrifying Animation of a Racist Preacher's Descent Into Madness</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><a href="/author/nadine-ajaka/" title="Nadine Ajaka">Nadine Ajaka</a></li>
+        
+            
+        
+
+    </ul>
+
+    <div class="article-content without-excerpt">
+        <p class="dek">Disturbing excerpts from the 1927 journal of a character named Pastor John Deitman.</p>
+        
+    </div>
+    <a class="read-more" href="/video/index/414499/a-horrifying-animation-of-a-racist-preachers-descent-into-madness/" data-omni-click="inherit">
+        
+        Watch Video
+        
+    </a>
+</li>
+
+        
+            
+            
+
+<li class="most-popular-article most-popular-video">
+    <a href="/video/index/411802/our-meatless-morrow/" class="article-link" data-omni-click="r'.',r' ',d,r'mostpop',$li,r'411802.'">
+    
+        <figure class="lead-img">
+            <img data-src="http://cdn.theatlantic.com/assets/media/video/img/2015/10/meat_3_2/hero_wide_640.jpg?1445609515" class="lazyload">
+            
+        </figure>
+    
+
+        <h3 class="hed">The Future of Protein Will Not Be Animal Meat</h3>
+    </a>
+    <ul class="metadata">
+        <li class="byline"><a href="/author/nicolas-pollock/" title="Nicolas Pollock">Nicolas Pollock</a>, <a href="/author/james-hamblin/" title="James Hamblin">James Hamblin</a>, and <a href="/author/jaclyn-skurie/" title="Jaclyn Skurie">Jaclyn Skurie</a></li>
+        
+            
+        
+
+    </ul>
+
+    <div class="article-content without-excerpt">
+        <p class="dek">New plant-based meats are an exciting development for nutrition and the environment.</p>
+        
+    </div>
+    <a class="read-more" href="/video/index/411802/our-meatless-morrow/" data-omni-click="inherit">
+        
+        Watch Video
+        
+    </a>
+</li>
+
+        
+    </ul>
+</div>
+
+    
+</div>
+
+
+<div id="article-comments">
+    
+
+    <gpt-ad id="ad-bottomleader" 
+        targeting-pos="bottomleader"
+        class="ad ad-bottomleader"
+        
+        lazy-load="0.5" 
+        
+        
+        
+        data-object-pk="20"
+        data-object-name="bottomleader"
+        >
+        
+            <gpt-sizeset viewport-size="[760, 0]" sizes="[[728, 90]]"></gpt-sizeset>
+        
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250]]"></gpt-sizeset>
+        
+    </gpt-ad>
+
+
+
+    <div id="disqus_thread">
+        <a href="#disqus_thread" class="show-comments" data-omni-click="r'article',r'comments ',d,r'related',r' ',r''">Show Comments</a>
+    </div>
+</div>
+
+
+
+
+
+        
+            
+            <div id="janrain-screens" class="profile-screens"></div>
+        
+
+        
+            
+
+
+
+<footer id="site-footer" data-omni-click="r'article',r'footer',d,r' ',r' ',@href">
+    <div class="row">
+        <section class="subscribe">
+            <div class="footer-content border">
+                <div id="subscribe-header" >
+                    <h1 class="footer-title">Subscribe</h1>
+                    <p class="promo-tag">Get 10 issues a year and save 65% off the cover price.</p>
+                </div>
+                <a href="/subscribe/footer-cover" data-omni-click="inherit">
+                    <div id="issue-image">
+                        
+                        
+                        
+                        
+                        
+                        <img class="cover lazyload" data-src="http://cdn.theatlantic.com/assets/media/img/issues/2015/10/02/1115_Cover_RGB/large.jpg">
+                        
+                        
+                        
+                    </div>
+                </a>
+
+                <div class="wrap-form">
+                    <form action="/subscribe/embedded-footer-features/" method="post" id="footerCircForm" class="labeled">
+
+        <input type="HIDDEN" name="lsid" value="50301515139038984">
+        <input type="HIDDEN" name="vid" value="1">
+        <input type="HIDDEN" name="cds_page_id" value="173343">
+        <input type="HIDDEN" name="cds_mag_code" value="ATL">
+        <input type="HIDDEN" name="cds_form_submitted" value="subscription_US_billme:subscription_US_billme1">
+        <input type="HIDDEN" name="cds_doms_order_number" value="">
+        <input type="HIDDEN" name="cds_doms_offer_code" value="">
+        <input type="HIDDEN" name="cds_doms_package_offer_id" value="">
+        <input type="HIDDEN" name="cds_config_id" value="">
+        <input type="HIDDEN" name="cds_series_status" value="">
+
+        <input class="name label" name="cds_name" type="text" value="" placeholder="Name" keyev="true">
+
+        <input class="address1 label" name="cds_address_1" type="text" value="" placeholder="Address 1">
+        <input class="address2 label" name="cds_address_1" type="text" value="" placeholder="Address 2">
+        <input class="city label" name="cds_city" type="text" value="" placeholder="City">
+        <div class="styled-select">
+        <select class="state" name="cds_state">
+            <option selected disabled value="">State</option>
+            <option value="AL">Alabama</option>
+            <option value="AK">Alaska</option>
+            <option value="AB">Alberta</option>
+            <option value="AS">American Samoa</option>
+            <option value="AE">APO/FPO-Africa</option>
+            <option value="AE">APO/FPO-Canada</option>
+            <option value="AE">APO/FPO-Europe</option>
+            <option value="AE">APO/FPO-Middle East</option>
+            <option value="AA">APO/FPO-Americas</option>
+            <option value="AP">APO/FPO-Pacific</option>
+            <option value="AZ">Arizona</option>
+            <option value="AR">Arkansas</option>
+            <option value="BC">British Columbia</option>
+            <option value="CA">California</option>
+            <option value="CO">Colorado</option>
+            <option value="CT">Connecticut</option>
+            <option value="DE">Delaware</option>
+            <option value="DC">District of Columbia</option>
+            <option value="FL">Florida</option>
+            <option value="GA">Georgia</option>
+            <option value="GU">Guam</option>
+            <option value="HI">Hawaii</option>
+            <option value="ID">Idaho</option>
+            <option value="IL">Illinois</option>
+            <option value="IN">Indiana</option>
+            <option value="IA">Iowa</option>
+            <option value="KS">Kansas</option>
+            <option value="KY">Kentucky</option>
+            <option value="LA">Louisiana</option>
+            <option value="ME">Maine</option>
+            <option value="MB">Manitoba</option>
+            <option value="MH">Marshall Islands</option>
+            <option value="MD">Maryland</option>
+            <option value="MA">Massachusetts</option>
+            <option value="MI">Michigan</option>
+            <option value="FM">Micronesia</option>
+            <option value="MN">Minnesota</option>
+            <option value="MS">Mississippi</option>
+            <option value="MO">Missouri</option>
+            <option value="MT">Montana</option>
+            <option value="NE">Nebraska</option>
+            <option value="NV">Nevada</option>
+            <option value="NB">New Brunswick</option>
+            <option value="NH">New Hampshire</option>
+            <option value="NJ">New Jersey</option>
+            <option value="NM">New Mexico</option>
+            <option value="NY">New York</option>
+            <option value="NF">Newfoundland</option>
+            <option value="NL">Newfoundland-Labrador</option>
+            <option value="NC">North Carolina</option>
+            <option value="ND">North Dakota</option>
+            <option value="MP">Northern Mariana Isles</option>
+            <option value="NT">Northwest Territories</option>
+            <option value="NS">Nova Scotia</option>
+            <option value="NU">Nunavut</option>
+            <option value="OH">Ohio</option>
+            <option value="OK">Oklahoma</option>
+            <option value="ON">Ontario</option>
+            <option value="OR">Oregon</option>
+            <option value="PW">Palau</option>
+            <option value="PA">Pennsylvania</option>
+            <option value="PE">Prince Edward Island</option>
+            <option value="PR">Puerto Rico</option>
+            <option value="PQ">Quebec</option>
+            <option value="QC">Quebec</option>
+            <option value="RI">Rhode Island</option>
+            <option value="SK">Saskatchewan</option>
+            <option value="SC">South Carolina</option>
+            <option value="SD">South Dakota</option>
+            <option value="TN">Tennessee</option>
+            <option value="TX">Texas</option>
+            <option value="UT">Utah</option>
+            <option value="VT">Vermont</option>
+            <option value="VI">Virgin Islands</option>
+            <option value="VA">Virginia</option>
+            <option value="WA">Washington</option>
+            <option value="WV">West Virginia</option>
+            <option value="WI">Wisconsin</option>
+            <option value="WY">Wyoming</option>
+            <option value="YT">Yukon Territories</option>
+        </select>
+    </div>
+        <input name="cds_zip" type="text" pattern="\d*" size="10" value="" placeholder="Zip" class="zip label" />
+        <input name="cds_country" type="text" value="United States" placeholder="Country" class="country label" />
+        <input name="cds_email" type="email" value="" placeholder="Email" class="email label" />
+        <input class="submit" type="submit" value="Order Now" name="Submit" />
+</form>
+
+                </div>
+                <div class="fraud-alert">
+                    <a href="/personal/archive/2013/10/fraud-alert-regarding-i-the-atlantic-i/280278/" data-omni-click="inherit">Fraud Alert regarding The Atlantic</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="newsletters toggleable">
+            <div class="footer-content border">
+                <h1 class="footer-title toggle">Newsletters<span>+</span></h1>
+            </div>
+            <div class="footer-content toggleable-content" id="footer-newsletter-signup" data-newsletter-signup="1">
+                <form action="http://theatlantic.us2.list-manage.com/subscribe/post?u=ed2d318978b7dc9b30b1f464f&amp;id=f2eeb0a9f3" method="post" target="_blank" name="mc-embedded-subscribe-form">
+                    <div class="newsletter-column wide">
+                        <ul class="options wide">
+                            <li class="newsletter-header italic">
+                                The Atlantic
+                            </li>
+                            <div class="newsletter-sub-column">
+                                <li data-omni-click="inherit" class="checkbox"><input type="checkbox" value="1" name="group[7413][197]" id="group_33554432">
+                                    <label for="group_33554432"><i>The Atlantic</i> Daily</label>
+                                </li>
+                                <li data-omni-click="inherit" class="checkbox"><input type="checkbox" value="4" name="group[7413][9]" id="mce-group[7413]-7413-0">
+                                    <label for="mce-group[7413]-7413-0">This Week</label>
+                                </li>
+                                <li data-omni-click="inherit" class="checkbox"><input type="checkbox" value="32" name="group[7413][21]" id="mce-group[7413]-7413-1">
+                                    <label for="mce-group[7413]-7413-1">This Month</label>
+                                </li>
+                            </div>
+                            <div class="newsletter-sub-column">
+                                <li data-omni-click="inherit" class="checkbox"><input type="checkbox" value="256" name="group[7413][33]" id="mce-group[7413]-7413-3">
+                                    <label for="mce-group[7413]-7413-3">New Photo Galleries</label>
+                                </li>
+                                <li data-omni-click="inherit" class="checkbox"><input type="checkbox" value="524288" name="group[7413][161]" id="mce-group[7413][524288]">
+                                    <label for="mce-group[7413][524288]">Top Videos This Week</label>
+                                </li>
+                            </div>
+                        </ul>
+                    </div>
+                    <ul class="options">
+                        <div class="newsletter-column">
+                            <li data-omni-click="inherit" class="newsletter-header italic">
+                                CityLab
+                            </li>
+                            <li data-omni-click="inherit" class="checkbox"><input type="checkbox" value="1" name="group[7045][1]" id="mce-group[7045]-7045-0">
+                                <label for="mce-group[7045]-7045-0">Today’s Top Stories</label>
+                            </li>
+                            <li data-omni-click="inherit" class="checkbox"><input type="checkbox" value="4194304" name="group[7045][169]" id="mce-group[7045]-7045-4194304">
+                                <label for="mce-group[7045]-7045-4194304">This Week's Most Popular Stories</label>
+                            </li>
+                        </div>
+                        <div class="signup newsletter-column">
+                            <li data-omni-click="inherit" class="opt-in checkbox"><input type="checkbox" value="8" checked name="group[7421][13]" id="mce-group[7421][8]">
+                                <label class="italic" id="opt-in" for="mce-group[7421][8]">I want to receive updates from partners and sponsors.</label>
+                            </li>
+                            <li data-omni-click="inherit" class="newsletter-input newsletter-email">
+                                <input class="full-width" type="email" id="newsletter-email" name="EMAIL" placeholder="Email">
+                            </li>
+                            <li data-omni-click="inherit" class="newsletter-input newsletter-submit">
+                                <input class="full-width submit" type="submit" id="newsletter-submit" name="subscribe" value="Sign up">
+                            </li>
+                        </div>
+                    </ul>
+                    <p class="message"></p>
+                </form>
+            </div>
+        </section>
+    </div>
+    <div class="row">
+        <section class="follow toggleable">
+            <div class="footer-content border">
+                <h1 class="footer-title toggle">Follow<span>+</span></h1>
+            </div>
+            <div class="footer-content toggleable-content">
+                <ul class="nav-social-links social-icons color round">
+                    <li><a data-omni-click="inherit" class="social-icon facebook" href="https://www.facebook.com/TheAtlantic">Facebook</a></li>
+                    <li><a data-omni-click="inherit" class="social-icon twitter" href="https://twitter.com/TheAtlantic">Twitter</a></li>
+                    <li><a data-omni-click="inherit" class="social-icon linkedin" href="https://www.linkedin.com/company/the-atlantic">LinkedIn</a></li>
+                    <li><a data-omni-click="inherit" href="http://theatlantic.tumblr.com/" class="social-icon tumblr">Tumblr</a></li>
+                    <li><a data-omni-click="inherit" href="https://www.pinterest.com/theatlantic/" class="social-icon pinterest">Pinterest</a></li>
+                    <li><a data-omni-click="inherit" class="social-icon rss" href="/follow-the-atlantic/#follow-rssfeeds">RSS</a></li>
+                    <li><a data-omni-click="inherit" class="social-icon apple" href="http://wda.biz/mrmxub">App Store</a></li>
+                </ul>
+            </div>
+        </section>
+        <section class="about toggleable">
+            <div class="footer-content border">
+                <h1 class="footer-title toggle">About<span>+</span></h1>
+            </div>
+            <div class="footer-content toggleable-content">
+                <ul class="links">
+                    <div class="about-link-group">
+                        <li><a data-omni-click="inherit" href="/masthead/">Masthead</a></li>
+                        <li><a data-omni-click="inherit" href="/faq/">FAQ</a></li>
+                        <li><a data-omni-click="inherit" href="/press/">Press</a></li>
+                        <li><a data-omni-click="inherit" href="/jobs/">Jobs</a></li>
+                    </div>
+                    <div class="about-link-group">
+                        <li><a data-omni-click="inherit" href="/store/">Shop</a></li>
+                        <li><a data-omni-click="inherit" href="/ebooks/">Books</a></li>
+                        <li><a data-omni-click="inherit" href="/emporium/">Emporium</a></li>
+                    </div>
+                </ul>
+                <ul class="links">
+                    <div class="about-link-group">
+                        <li><a data-omni-click="inherit" href="/contact/">Contact Us</a></li>
+                        <li><a data-omni-click="inherit" href="/privacy-policy/">Privacy Policy</a></li>
+                        <li><a data-omni-click="inherit" href="/advertise/">Advertise</a></li>
+                        <li><a data-omni-click="inherit" href="http://cdn.theatlantic.com/static/front/docs/ads/TheAtlanticAdvertisingGuidelines.pdf">Advertising Guidelines</a></li>
+                    </div>
+                    <div class="about-link-group">
+                        <li><a data-omni-click="inherit" href="/terms-and-conditions/">Terms and Conditions</a></li>
+                        <li><a data-omni-click="inherit" href="/register-cds/">Subscriber Help</a></li>
+                        
+                        
+                        <li><a data-omni-click="inherit" href="/site-map/">Site Map</a></li>
+                    </div>
+                </ul>
+            </div>
+        </section>
+    </div>
+    <div class="copyright">
+        <p> Copyright © 2015 by The Atlantic Monthly Group. All Rights Reserved. <a href="https://www.verizondigitalmedia.com/platform/deliver/">CDN</a> powered by Verizon Digital Media Services. </p><p>Insights powered by <a href="http://www.parsely.com/">Parsely</a>
+    </p>
+</div>
+</footer>
+
+<!-- TODO:  prevent three section/divs in a row on large view screens -->
+
+        
+    
+
+</div>
+
+
+<script type="gpt-config">
+    {
+        "globals": {
+  "src": "article", 
+  "xpost": [], 
+  "rubric": "technology", 
+  "title": "when-google-self-driving-cars-are-in-accidents-humans-are-to-blame", 
+  "type": "non-mag-reg", 
+  "id": 395183, 
+  "cat": []
+},
+        "zone": "/4624/TheAtlanticOnline/channel_technology",
+        "peer39": true,
+        "amazon": "3239",
+        "adtest_domain": "dctestsite",
+        "lazy_load": 3,
+        "outofpage": true
+    }
+</script>
+
+
+<div class="native-promo-slider">
+    <button class="close"><span>Close</span></button>
+    
+
+    <gpt-ad id="ad-slider" 
+        targeting-pos="slider"
+        class="ad ad-slider"
+        
+        lazy-load="0" 
+        defer="1" 
+        prevent-reload="1"
+        
+        data-object-pk="10"
+        data-object-name="slider"
+        >
+        
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 150], [1, 2]]"></gpt-sizeset>
+        
+    </gpt-ad>
+
+
+</div>
+
+
+
+
+<!-- BEGIN: Welcome Screens -->
+<div id="lightbox-welcome" class="welcome-lightbox">
+    <div class="welcome-lightbox-continue">
+        (<span class="welcome-lightbox-count"></span>) Continue &gt;
+    </div>
+    
+
+    <gpt-ad id="ad-welcome" 
+        targeting-pos="welcome"
+        class="ad ad-welcome"
+        
+        lazy-load="0" 
+        
+        prevent-reload="1"
+        
+        data-object-pk="13"
+        data-object-name="welcome"
+        >
+        
+            <gpt-sizeset viewport-size="[1010, 0]" sizes="[[640, 480], [300, 608], [1024, 768]]"></gpt-sizeset>
+        
+            <gpt-sizeset viewport-size="[680, 0]" sizes="[[640, 480], [300, 608], [768, 1024], [640, 200]]"></gpt-sizeset>
+        
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 258], [350, 640]]"></gpt-sizeset>
+        
+    </gpt-ad>
+
+
+</div>
+
+
+<script type="text/javascript">
+    Atlantic.ad_queue = Atlantic.ad_queue || [];
+    Atlantic.ad_queue.push(function(){
+        Atlantic.Ad.sizeListener(/^welcome/, function(pos, size){
+            if (!size) {
+                return false;
+            }
+            var $lightbox = $('#lightbox-welcome');
+
+            // The lightbox's class includes the size, so ipad
+            // ads and other weird cases can have their own styling.
+            $lightbox.addClass("active format-" + size.join("x"));
+            if (typeof window.welcomeScreen === 'undefined') {
+                window.welcomeScreen = new Atlantic.WelcomeScreen();
+            }
+            window.welcomeScreen.show();
+
+            // Clicking elsewhere on the page will close the iframe
+            // after 1 second.
+            setTimeout(function() {
+                $(document).on("click", function(e) {
+                    if (!$.contains($("#ad_")[0], e.target)) {
+                        welcomeScreen.hide();
+                    }
+                });
+            }, 1500);
+        });
+    });
+</script>
+<!-- End welcome screen -->
+
+
+
+
+
+
+<div id="outofpage"></div>
+
+
+
+    <script type="text/javascript" src="http://cdn.theatlantic.com/assets/static/a/theatlantic/js/footer_rollup.ebddd42a60b7.js" charset="utf-8"></script>
+    
+        <script type="text/javascript" src="http://cdn.theatlantic.com/assets/static/a/theatlantic/js/vendors.17244fadf481.js" charset="utf-8"></script>
+    
+
+
+
+<script type="text/javascript" src="http://cdn.theatlantic.com/assets/static/a/theatlantic/js/article.7c933241eebe.js" charset="utf-8"></script>
+
+
+<script type="text/javascript">
+    var disqus_identifier = "mt395183";
+    var disqus_url = "http://www.theatlantic.com/technology/archive/2015/06/every-single-time-a-google-self-driving-car-crashed-a-human-was-to-blame/395183/";
+    var disqus_title = "When Google Self-Driving Cars Are in Accidents, Humans Are to Blame";
+</script>
+
+
+
+
+
+    <script type="text/javascript">
+// Set all mandatory properties that don't change.
+s.account = "atlanticprod";
+s.charSet="UTF-8";
+s.currencyCode="USD";
+s.trackDownloadLinks=true;
+s.trackExternalLinks=true;
+s.trackInlineStats=true;
+s.linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls";
+s.linkInternalFilters="javascript:,thewire.com,citylab.com,theatlantic.com,localhost";
+s.linkLeaveQueryString=false;
+s.linkTrackVars="None";
+s.linkTrackEvents="None";
+s.visitorNamespace="atlanticmedia";
+s.trackingServer="atlanticmedia.122.2o7.net";
+
+// Optimizely Adobe Analytics SiteCatalyst Integration
+ window.optimizely = window.optimizely || [];
+ window.optimizely.push("activateSiteCatalyst");
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code = s.t();
+if (s_code) document.write(s_code)
+if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-');
+</script>
+<noscript><img src="http://atlanticmedia.122.2o7.net/b/ss/atlanticprod/1/H.23.6--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.23.6. -->
+
+
+    <script type="text/javascript">
+    (function() {
+        // Duplicate a few existing s.props to be passed with linkTrackVars. If
+        // we just reused the existing s.props, data would be recorded twice.
+        s.prop66 = location.pathname;
+        s.prop67 = Atlantic.page_info.view;
+        s.prop68 = s.prop23; // Viewport
+        s.prop69 = ""; // Referring domain.
+
+        // You can coerce a URL into a URL object by creating a fake <a>
+        // element and setting the href. Newer browsers have a real URL
+        // constructor but this works in IE<10.
+        if (document.referrer !== "") {
+            var tmp = document.createElement("a");
+            tmp.href = document.referrer;
+            s.prop69 = tmp.hostname;
+        }
+
+        s.linkTrackVars =
+        "prop61,prop66,prop67,prop68,prop69,prop43,prop44,eVar21,eVar22,eVar25,eVar26,eVar27,eVar32,eVar33,eVar35,eVar36,eVar37,eVar38,eVar39,eVar40,eVar20,evar41,evar43";
+    })();
+    </script>
+
+    <!-- Omniture noscript counter -->
+    <noscript><div><a href="http://www.omniture.com" title="Web Analytics" ><img
+    src="http://atlanticmedia.122.2o7.net/b/ss/atlanticprod/1/H.22--NS/0"
+    height="1" width="1" alt="" /></a></div></noscript>
+    <!--/DO NOT REMOVE/-->
+
+
+
+
+
+<script id="peer39ScriptLoader" src="//stags.peer39.net/1406/trg_1406.js" async="async" onerror="window.detectedBlocker();"></script>
+<script src="//www.googletagservices.com/tag/js/gpt.js" async="async"></script>
+
+
+<!-- Ads. -->
+<script type='text/javascript' src='http://c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+<script type='text/javascript'>
+    if (/adtest\=1/.test(window.location.search) || /adtest\./.test(window.location.hostname)) {
+        amznads.debug_mode = true;
+    }
+</script>
+
+<script type="text/javascript" src="http://mtrx.go.sonobi.com/morpheus.atlantic.js"></script>
+
+<script type="text/javascript">
+    /**
+     * GPT responsive version.
+     */
+    (function(){
+        var sonobiSizes = {
+            "300x250" : "5f2d6bce9df694672d0c",
+            "300x600" : "4449390ce636c2bba09c",
+            "728x90" : "0848bd941032b63fc7c7",
+            "970x250" : "7d140ce0d19eb6068341"
+        };
+
+        var size, ids, sizeIn, id;
+        for (var key in sonobiSizes) {
+            size = key.split("x");
+            coded_size = sonobiSizes[key];
+            sizeIn = $("gpt-sizeset[sizes*='[" + size[0] + ", " + size[1] + "]']");
+            ids = $.map(sizeIn, function(el) { 
+                return el.parentElement.id;
+            });
+            for (var i = 0; i < ids.length; i++) {
+                id = ids[i];
+                sbi_morpheus.register(id, coded_size);
+            }
+        }
+
+    }());
+</script>
+
+<script type="text/javascript">
+    sbi_morpheus.callOperator();
+</script>
+
+
+
+<!-- Analytics, etc. -->
+
+<script src="http://siterecruit.comscore.com/sr/atlantic/broker.js"></script>
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+//<![CDATA[
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6463921" });
+</script>
+<script type="text/javascript" async="async" src="//sb.scorecardresearch.com/beacon.js"></script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6463921&amp;cv=2.0&amp;cj=1" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2012 Nielsen Online -->
+<script type="text/javascript">
+(function () {
+var d = new Image(1, 1);
+d.onerror = d.onload = function () {
+d.onerror = d.onload = null;
+};
+d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-906344h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+</script>
+<noscript>
+<div>
+<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-906344h&cg=0&cc=1&ts=noscript" 
+width="1" height="1" alt="" />
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- Google Analytics -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-20189-19']);
+_gaq.push(['_trackPageview']);
+</script>
+<script type="text/javascript" src="//www.google-analytics.com/ga.js" async="async"></script>
+<!-- End Google Analytics -->
+
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+    <a id="parsely-cfg" data-parsely-site="theatlantic.com"
+        href="http://parsely.com">Powered by the Parse.ly Publisher Platform (P3).</a>
+</div>
+<script type="text/javascript" src="//d1z2jf7jlzjs58.cloudfront.net/p.js" async="async"></script>
+<!-- END Parse.ly Include -->
+
+
+<!-- Facebook Tracking Pixel -->
+<script>(function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    _fbq.push(['addPixelId', "1407501962855831"]);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(["track", "PixelInitialized", {}]);
+</script>
+<script type="text/javascript" src="//connect.facebook.net/en_US/fbds.js" async="async"></script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=1407501962855831&amp;ev=NoScript" /></noscript>
+<!-- End Facebook Tracking Pixel -->
+
+
+
+<!-- chartbeat -->
+<script type="text/javascript">
+//<![CDATA[
+var _sf_async_config={uid: 102508, domain:"www.theatlantic.com"};
+
+_sf_async_config.path = "/technology/archive/2015/06/every-single-time-a-google-self-driving-car-crashed-a-human-was-to-blame/395183/";
+_sf_async_config.title = "When Google Self\u002DDriving Cars Are in Accidents, Humans Are to Blame";
+_sf_async_config.sections = "technology";
+_sf_async_config.authors = "Adrienne LaFrance";
+
+window._sf_endpt=(new Date()).getTime();
+</script>
+<script type="text/javascript" language="javascript" src="//static.chartbeat.com/js/chartbeat.js" async="async"></script>
+
+
+
+
+<!-- Simplereach -->
+<script>
+__reach_config = {
+  "title": "When Google Self-Driving Cars Are in Accidents, Humans Are to Blame", 
+  "url": "http://www.theatlantic.com/technology/archive/2015/06/every-single-time-a-google-self-driving-car-crashed-a-human-was-to-blame/395183/", 
+  "tags": [], 
+  "pid": "516eed0e4240cfbf3000002a", 
+  "channels": [
+    "technology"
+  ], 
+  "authors": [
+    "adrienne-lafrance"
+  ], 
+  "date": "2015-06-08T12:24:24"
+}
+</script>
+<script type="text/javascript" src="//d8rk54i4mohrb.cloudfront.net/js/reach.js" async="async"></script>
+
+
+
+
+    <!-- Begin Taboola Tag -->
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({
+    article: 'auto'
+    });
+</script>
+<script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/theatlantic/loader.js" async="async"></script>
+<!-- End Taboola Tag -->
+
+
+
+
+
+<!-- Load social buttons last, so we don't care if they hang -->
+
+    
+<script src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=100770816677686" async="async"></script>
+
+
+    <!-- Twitter -->
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js" async="async"></script>
+
+
+
+
+<!-- 2015-11-11T15:52:12.955795 -->
+<!-- PAGE_COMPLETED -->
+</body>
+</html>

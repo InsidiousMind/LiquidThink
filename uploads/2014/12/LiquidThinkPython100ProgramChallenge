@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Liquid Think » Python 100 Program Challenge</title>
+	
+	<link>https://liquidthink.net</link>
+	<description>Weekly Rantings of a Nerdy Lunatic</description>
+	<lastBuildDate>Wed, 11 Nov 2015 19:42:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/LiquidThinkPython100ProgramChallenge" /><feedburner:info uri="liquidthinkpython100programchallenge" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+		<title>Python 100 Program Challenge: The ‘Real’ Name Generator</title>
+		<link>http://feedproxy.google.com/~r/LiquidThinkPython100ProgramChallenge/~3/0SCc8XB-Xv0/</link>
+		<comments>https://liquidthink.net/python-100-program-challenge-real-name-generator/#comments</comments>
+		<pubDate>Sun, 08 Feb 2015 19:25:23 +0000</pubDate>
+		<dc:creator><![CDATA[insidious]]></dc:creator>
+				<category><![CDATA[Computer Science]]></category>
+		<category><![CDATA[Python 100 Program Challenge]]></category>
+		<category><![CDATA[/r/programming]]></category>
+		<category><![CDATA[4chan]]></category>
+		<category><![CDATA[4chan challenge]]></category>
+		<category><![CDATA[4chan program]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[creating a simple name generator]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[reddit]]></category>
+
+		<guid isPermaLink="false">http://liquidthink.net/?p=1288</guid>
+		<description><![CDATA[<p>Hello Coders! As kindly pointed out by /u/AngularBeginner on reddit, the first Python 100 Program challenge did not really &#8220;Generate Names&#8221;. Therefore, in order to</p>
+<p>The post <a rel="nofollow" href="https://liquidthink.net/python-100-program-challenge-real-name-generator/">Python 100 Program Challenge: The &#8216;Real&#8217; Name Generator</a> appeared first on <a rel="nofollow" href="https://liquidthink.net">Liquid Think</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hello Coders!</p>
+<p>As kindly pointed out by /u/AngularBeginner on reddit, the first Python 100 Program challenge did not really &#8220;Generate Names&#8221;. Therefore, in order to satisfy the whims of AngularBeginner (and have full satisfaction of completing the challenge, hopefully), I wrote another program which generated names. Or so I think (Will update with what /u/AngularBeginner thinks).</p>
+<p>Sorry about the delay, January was a busy time with school I&#8217;m going to try and update this challenge weekly/bi-weekly from now on.</p>
+<h3><strong>Part 1: The Concept:</strong></h3>
+<p>If you saw the first <a title="Python 100 Program Challenge (Program 1): Building a Simple Name Generator" href="https://liquidthink.net/python-100-program-challenge-program-1-building-simple-name-generator/">Name Generator </a>then you probably already know the basic concept behind this project. This time, however, we won&#8217;t simply be choosing a name from a lits of already known names. Rather, we will be creating a new name based on other names, therfore &#8216;generating&#8217; a totally unique name. AngularBeginners problem was that the first program didn&#8217;t actually generate a name, which was absolutely true.</p>
+<p>This program will simply ask the user how many names they would like to generate, and then generate that many names based from U.S Census Data (130,000 names). These names from the census data is syllabalized, and these syllables put together, at random, in order to generate a totally new name.</p>
+<p>So, for example, take 4 names.</p>
+<p>Andrew</p>
+<p>Bogdan</p>
+<p>Conrad</p>
+<p>Zielinski</p>
+<p>Syllabalize Them:</p>
+<p>An-drew</p>
+<p>Bog-dan</p>
+<p>Con-rad</p>
+<p>Zie-lin-ski</p>
+<p>The first syllables (An, Bog, Con, Zie) will always be placed at the beginning of a word, whilst ending syllabled (ew, dan,rad,ski) will always be placed at the end. middle syllables can be placed wherever.</p>
+<p>So a possible random name can be:</p>
+<p>Boglinski</p>
+<p>So basically, the program will:</p>
+<ul>
+<li>Take U.S Census data and syllablize it</li>
+<li>Begin Constructing a Name
+<ul>
+<li>Choose a Random Start Syllable</li>
+<li>Choose random middle syllables</li>
+<li>choose a random end syllable</li>
+</ul>
+</li>
+<li>return all the syllables concatenated together</li>
+</ul>
+<h3><strong>Part 2 The Pseudocode:</strong></h3>
+<p>Things we will need for this program:<br />
+csv library</p>
+<p>random library</p>
+<p>pyHyphen</p>
+<p>Define &#8220;SyllabalizeNames&#8221; Function that receives a &#8220;nameList&#8221;:</p>
+<p style="padding-left: 30px;">iterate over nameList</p>
+<p style="padding-left: 30px;">syllablize each name with Pyhyphen</p>
+<p style="padding-left: 30px;">put names in a temp list</p>
+<p style="padding-left: 30px;">return tempList.</p>
+<p>Define &#8220;ParseNames&#8221; Function that receives a &#8220;nameFile&#8221;</p>
+<p style="padding-left: 30px;">Open CSV file containing names</p>
+<p style="padding-left: 30px;">iterate over each CSV row, appending the contents to a &#8220;name&#8221; list</p>
+<p style="padding-left: 30px;">Close the CSV file!!!</p>
+<p style="padding-left: 30px;">return name list, passing it through &#8220;syllabalizeNames&#8221;, so that it returns a syllabalized version of the list</p>
+<p style="padding-left: 30px;">Define a &#8220;Sample&#8221; function that will choose a random index from a list of names:</p>
+<p style="padding-left: 30px;">choose a random index from 0 to the index of the last item in the list using the &#8220;random&#8221; python library</p>
+<p>Define a &#8220;ChooseItem&#8221; that accepts a list and &#8220;place&#8221; integer</p>
+<p style="padding-left: 30px;">ChooseItem will choose a random syllable from the list using our sample method, depending on what place we need</p>
+<p style="padding-left: 30px;">If the place is one, then return the first syllable from the random item chosen in the passed list</p>
+<p style="padding-left: 30px;">if the place is three, get a random item and check if it has exactly 3 items in it</p>
+<p style="padding-left: 60px;">If it does, return the third item</p>
+<p>Define a &#8220;GenName&#8221; Function, that accepts a list</p>
+<p style="padding-left: 30px;">The first part of the name will use the results of passing the namelist through &#8220;ChooseItem&#8221; with &#8220;1&#8221; as the place</p>
+<p style="padding-left: 30px;">SecondPart= ChooseName(list, 3)</p>
+<p style="padding-left: 30px;">return firstpart + secondpart</p>
+<p>Define a &#8220;PromptUser&#8221; Function</p>
+<p style="padding-left: 30px;">prompt a user on how many names they would like to generate</p>
+<p style="padding-left: 30px;">If they don&#8217;t enter a number</p>
+<p style="padding-left: 60px;">Prompt them to enter a number</p>
+<p style="padding-left: 30px;">Create a counter @ 0</p>
+<p style="padding-left: 30px;">while the counter &lt; NumberOfNames the user would like to generate</p>
+<p style="padding-left: 60px;">print another name</p>
+<p style="padding-left: 60px;">add one to the counter</p>
+<p>names = parseNames(the name file)</p>
+<p>print a welcome message</p>
+<p>promptUser()</p>
+<p>print Here Are Your Names:</p>
+<p>&nbsp;</p>
+<p>Done~~!</p>
+<h3><strong> Part 3: The Code</strong></h3>
+<p>&nbsp;</p>
+<p>First we have to install pyHyphen so we can split names up into syllables. The instructions are in teh comments of the code, but i&#8217;ll add on to it here.</p>
+<p>Numerous guides already exist on installing pip on the internets, so I recommend just googling it.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<pre class="brush: python; title: ; notranslate">
+
+#REQUIRES a Name Database. In this case, nameDB.csv <figure class="hammy-responsive wp-smiley" title=""  data-media="https://liquidthink.net/wp-includes/images/smilies/simple-smile.png"><noscript><img src="https://liquidthink.net/wp-includes/images/smilies/simple-smile.png" alt=":)" title="" width="" height=""></noscript></figure>
+#REQUIRES pyhyphen
+#To Install pyhyphen:
+#first install &quot;pip&quot; the python package manager
+#then &quot;sudo pip install pyhyphen&quot;
+#and you are good to go
+#Written in Python 3
+</pre>
+<p>&nbsp;</p>
+<p>Import the required packages</p>
+<pre class="brush: python; title: ; notranslate">
+import csv
+import random
+from hyphen import Hyphenator&lt;/strong&gt;
+
+from hyphen.dictools import *&lt;/strong&gt;
+
+</pre>
+<p>&nbsp;</p>
+<p>Time for the first function!<br />
+pyHyphen does most of the work here for us. All we have to do is call on it to put the syllabalized names in a list. The function accepts &#8220;nameList&#8221;<strong>, </strong>which is the list that will be &#8220;syllabalized&#8221;. Then in the function we create the list that will hold the syllabalizd names. But we have to check if pyHyphen has the language we want, and if it doesn&#8217;t install it.  The variable &#8220;en_US&#8221; points to the US English language in pyHyphen.</p>
+<p>After we get pyHyphen all sorted out, all that&#8217;s left to do is iterate over all the items in the namelist, and append a syllabalized version of what is in &#8220;nameList&#8221; to our temporary list, &#8220;tempList&#8221;, which is then returned.<strong><br />
+</strong></p>
+<pre class="brush: python; title: ; notranslate">
+#Split all the names in the list into syllables using pyhyphen
+def syllabizeNames(nameList):
+ tempList = []
+ for lang in ['en_US']:
+   if not is_installed(lang): install(lang)
+ en_US = Hyphenator('en_US')
+ for item in nameList:
+   tempList.append(en_US.syllables(item))
+ return tempList
+</pre>
+<p>&nbsp;</p>
+<p>The next method parses the &#8220;CSV&#8221; file containing all our names and puts them into another tempList which is returned.<br />
+In order to parse the CSV file, set the file to a variable, and then start a series of &#8220;try&#8221; &#8220;finally&#8221; blocks, in case the file reader chances across an empty row. Again, we append every row to a list in python.</p>
+<p>We have to remember to close the file. If you don&#8217;t, it will cause all kinds of crazy things to occur with your program, and now one wants that ;).</p>
+<p>Then the function returns the names from the CSV, but passing it through &#8220;SyllabalizeNames&#8221; first.</p>
+<pre class="brush: python; title: ; notranslate">
+#Parse the names from the csv file and put them into a list
+def parseNames(nameFile):
+   tempList = []
+   csv_f = open(nameFile)
+   try:
+     reader = csv.reader(csv_f)
+     for row in reader:
+        tempList.append(row[0])
+   finally:
+     csv_f.close()
+   return syllabizeNames(tempList)
+</pre>
+<p>&nbsp;</p>
+<p>Now comes the sample method. This is easy, just use the Python &#8220;random&#8221; library to select a random integer from the range of 0 to the length of our list.</p>
+<p>&nbsp;</p>
+<pre class="brush: python; title: ; notranslate">
+#sample a random index from given list of items
+def sample(items):
+  randomIndex = random.randrange(len(items))
+  return items[randomIndex]
+</pre>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The chooseItem function. This is again surrounded in try-except . Sometimes the program will come across an empty object in the list. Since I&#8217;m too lazy to filter these out in the CSV file, or write a function for it (it&#8217;s very rare), this will just put a placeholder in the place of that name and continue on with the program.</p>
+<p>&nbsp;</p>
+<pre class="brush: python; title: ; notranslate">
+#Choose an item and return it. If the method chances upon an empty item,
+#It skips over it and continues&lt;/strong&gt;
+
+def chooseItem(list, place):
+ #just a local variable
+   thirdIndex = sample(list)
+   try:
+     if place == 1:
+       return sample(list)[0]
+     elif place == 3:
+       while len(thirdIndex) != 3:
+         thirdIndex = sample(list)
+       return thirdIndex[2]
+   except IndexError:
+     print(&quot;Whoops! Looks like we came across an empty name object. :(&quot;)
+</pre>
+<p>&nbsp;</p>
+<p>Another easy function. Using output from &#8220;chooseItem&#8221; we craft the first and second parts of the name. If the ChooseItem function, however, came across an empty name we get a &#8220;TypeError&#8221; (since python can&#8217;t concatenate something empty with a string, or vice-versa). So we surround it in try-except, and the program will print &#8220;null&#8221; if this occurs. This will always occur when &#8220;chooseItem&#8221; comes across an empty item.<strong><br />
+</strong></p>
+<p>&nbsp;</p>
+<pre class="brush: python; title: ; notranslate">
+&lt;/strong&gt;
+
+&lt;strong&gt;#generate a name using &quot;Choose Item&quot;. Try to concatenate them, if not,
+#it will spit out null
+def genName(list):
+   firstPart = chooseItem(list, 1)
+   secondPart = chooseItem(list, 3)
+   try:
+    return firstPart + secondPart
+   except TypeError:
+     print(&quot;null&quot;)
+</pre>
+<p>&nbsp;</p>
+<p>This function asks a user for input using Pythons &#8220;input()&#8221;. Keep in mind that this is Python 3 specific. Using &#8220;input()&#8221; in anything but Python 3 may yield unwieldy results. If using Python 2, raw_input() is what you want.</p>
+<p>We use try-except blocks again, to make sure the user is entering a number. If the user does not, the program prompts them to enter a number and runs the function again.</p>
+<p>&nbsp;</p>
+<pre class="brush: python; title: ; notranslate">
+#Prompt the user for input.
+ #if they dont enter a number tell em'
+def promptUser():
+   numOfNames = input(&quot;How Many Names Would You Like to Generate?&quot;)
+   count = 0
+   try:
+     numOfNames = int(numOfNames)
+     while count &lt; numOfNames:
+       print(genName(names))
+     count += 1
+   except ValueError:
+     print(&quot;Please Enter a Number&quot;)
+     promptUser()
+</pre>
+<p>Then we put it all together! &#8220;names&#8221; holds our parsed and syllabalized list.Then we print a welcome message, prompt the user, and the names are printed! Done!</p>
+<pre class="brush: python; title: ; notranslate">
+#parse the names, syllabalizing them
+names = parseNames('nameDB.csv')&lt;/strong&gt;&lt;/h3&gt;
+#Viola!
+print(&quot;Welcome to the Random Name Generator by Liquid Think!&quot;)
+promptUser()
+print(&quot;Here are Your Name(s)!:&quot;)
+
+</pre>
+<p>Part 4: Conclusion</p>
+<p>That was a nice re-do! Here is the <a href="https://github.com/InsidiousMind/100-Program-Challenge-Python-/tree/master/Name%20Generator">link to the Github Repo where this program is held.  </a>This program is &#8220;nameGen2.py&#8221; and the database is &#8220;nameDB.csv&#8221;.</p>
+<p>That&#8217;s it for this challenge. Onto a &#8220;Heads or Tails&#8221; program!</p>
+<p>Happy Coding!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style='text-align:left'>&copy; 2015, <a href='https://liquidthink.net'>insidious</a>. All rights reserved. </p>
+<p>The post <a rel="nofollow" href="https://liquidthink.net/python-100-program-challenge-real-name-generator/">Python 100 Program Challenge: The &#8216;Real&#8217; Name Generator</a> appeared first on <a rel="nofollow" href="https://liquidthink.net">Liquid Think</a>.</p>
+<img src="http://feeds.feedburner.com/~r/LiquidThinkPython100ProgramChallenge/~4/0SCc8XB-Xv0" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>https://liquidthink.net/python-100-program-challenge-real-name-generator/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>https://liquidthink.net/python-100-program-challenge-real-name-generator/</feedburner:origLink></item>
+		<item>
+		<title>Python 100 Program Challenge (Program 1): Building a Simple Name Generator</title>
+		<link>http://feedproxy.google.com/~r/LiquidThinkPython100ProgramChallenge/~3/LsI-x9CtJWs/</link>
+		<comments>https://liquidthink.net/python-100-program-challenge-program-1-building-simple-name-generator/#comments</comments>
+		<pubDate>Sun, 28 Dec 2014 14:15:42 +0000</pubDate>
+		<dc:creator><![CDATA[insidious]]></dc:creator>
+				<category><![CDATA[Computer Science]]></category>
+		<category><![CDATA[Python 100 Program Challenge]]></category>
+		<category><![CDATA[how to code]]></category>
+		<category><![CDATA[how to program]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[programming challenge]]></category>
+		<category><![CDATA[python challenge]]></category>
+
+		<guid isPermaLink="false">http://liquidthink.net/?p=1043</guid>
+		<description><![CDATA[<p>Hello Programmers! First off, this post is a bit later than I expected. I got sick after publishing the introduction to this series, and then</p>
+<p>The post <a rel="nofollow" href="https://liquidthink.net/python-100-program-challenge-program-1-building-simple-name-generator/">Python 100 Program Challenge (Program 1): Building a Simple Name Generator</a> appeared first on <a rel="nofollow" href="https://liquidthink.net">Liquid Think</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hello Programmers!</p>
+<p>First off, this post is a bit later than I expected. I got sick after publishing the introduction to this series, and then with the Holiday&#8217;s and all, this post got a bit delayed. So sorry about that <figure class="hammy-responsive wp-smiley" title=""  data-media="https://liquidthink.net/wp-includes/images/smilies/frownie.png"><noscript><img src="https://liquidthink.net/wp-includes/images/smilies/frownie.png" alt=":(" title="" width="" height=""></noscript></figure></p>
+<p>But, onto the challenge!</p>
+<p>This is the first post and programming challenge in the 100 Program Challenge in Python. We will be building a simple name generator. Nothing crazy here, just a simple program. If you complete the program but want more of a challenge, I will be making a Bonus Challenge for this program.</p>
+<p>Here We Go!</p>
+<p>&nbsp;</p>
+<p>(NOTE: Remember to put in appropriate spaces in your Python Code. The article below auto-formats to erase the spaces)</p>
+<h3><span style="text-decoration: underline;"><strong>Part 1: The Concept</strong></span></h3>
+<p>The concept for this one is pretty easy to get the hang of. The program will generate a name from a Python Dictionary of known names, based on whether the user wants a Female, Male, or Random gender name. This can be altered to be anything. For example, if you wanted a Name Generator for a popular MMORPG, it could be Female/Male/Random and then you could add more statements to make it Elvish/Dwarvish/Gnome or Orc. Then the program spits out a name and the generation is done. The randomness is handled by the Python random library, so no worries in that direction. Lets go on to the pseudocode!</p>
+<h3><span style="text-decoration: underline;"><strong>Part 2: The Pseudocode</strong></span></h3>
+<p>Simple here. First we will ask the user for input</p>
+<pre class="brush: python; title: ; notranslate">
+
+Ask User: &quot;What Kind of name do you want? Female (F), Male (M), or Random (R)?
+
+if not F M or R then:
+
+&quot;Put in 'F' 'M' or 'R' to Continue&quot;
+
+if F:
+
+print rand Female Name
+
+else if M:
+
+print rand Male name
+
+else if R:
+
+get rand gender
+
+print random name of the random gender
+</pre>
+<p>And that&#8217;s the psuedocode! not too bad, huh? Time to build the actual program!</p>
+<h3><span style="text-decoration: underline;"><strong>Part 3: Building the Program</strong></span></h3>
+<p>(Updated January 31st. Changed to Python 3, with more readable/intuitive code, courtesy of <a href="https://github.com/johnzeringue">John Zeringue).</a></p>
+<p>Ok, so first we have to import all the packages we need. All we need for this program is Python&#8217;s &#8220;random&#8221; package, which allows us to choose a random number from the range we need. So this is easy:</p>
+<pre class="Python">import random</pre>
+<p>Before we do any Nnme stuff, let&#8217;s create a function that just chooses something random from a list of things it receives.</p>
+<pre class="brush: python; title: ; notranslate">
+
+def sample(items):
+randomIndex = random.randrange(len(items))
+return items[randomIndex]
+
+</pre>
+<p>In this function, the method randrange is used. Randrange picks a random number from the random range given. In this case, the range is from 0 to the size of the list, items. The list of items is passed through to the function, so in this particular method it does not matter what these &#8220;items&#8221; are, it will choose a random number, then return the thing at that number&#8217;s position in &#8220;items&#8221;.</p>
+<p>&nbsp;</p>
+<p>Now, we get to if the user wants a Male, Female, or Random name. So we have to ask them! Let&#8217;s create a function &#8220;PromptForGender&#8221; that prompts the user for the gender they would like.</p>
+<pre class="brush: python; title: ; notranslate">
+
+def promptForGender():
+genderList = [&quot;male&quot;, &quot;female&quot;]
+
+response = input(&quot;What Name Gender would you like? (m/f) (enter 'r' for random)&quot;)
+response = response.lower()
+
+if response == &quot;m&quot;:
+return &quot;male&quot;
+elif response == &quot;f&quot;:
+return &quot;female&quot;
+elif response == &quot;r&quot;:
+return sample(genderList)
+else:
+print (&quot;please enter 'M' ,'F', or 'R' to initiate the Random Name Generator&quot;)
+
+</pre>
+<p>This function asks the user with the &#8220;input&#8221; method. Then it parses the response; if it&#8217;s a specific gender it returns the corresponding string, and if it is random it goes straight to our sample method, chooses a random gender and returns it.</p>
+<p>(Before Python 3, one used &#8220;raw_input&#8221; in order to accomplish this; but since I decided to use Python 3 in this challenge I replaced &#8220;raw_input&#8221; with &#8220;input&#8221;.)</p>
+<p>&nbsp;</p>
+<p>Now we put all our previous methods together in genName() !</p>
+<pre class="brush: python; title: ; notranslate">
+
+def genName():
+boyNames = [&quot;Jack&quot;, &quot;Andrew&quot;, &quot;Mike&quot;, &quot;Terry&quot;, &quot;Torvald&quot;, &quot;Gatsby&quot;]
+girlNames = [&quot;Alice&quot;, &quot;Hana&quot;, &quot;Clare&quot;, &quot;Janet&quot;, &quot;Daisy&quot;]
+
+gender = promptForGender()
+
+if gender == &quot;male&quot;:
+return sample(boyNames)
+elif gender == &quot;female&quot;:
+
+return sample(girlNames)
+
+print (&quot;Welcome to the Simple Random Name Generator by Liquid Think!&quot;)
+print (genName())
+
+</pre>
+<p>In this function is a list of BoyNames and GirlNames. These lists can be any size you want, they just need to be in Python&#8217;s list format. For simplicity&#8217;s sake, i kept these Dictionaries short and simple, but you can add as many names as you&#8217;d like and the program would work the same, since the logic is not dependent on a certain dictionary length to generate names.</p>
+<p>Then we just print genName(), and all is done!</p>
+<p>&nbsp;</p>
+<h3><span style="text-decoration: underline;"><strong>Part 4: Program Completion</strong></span></h3>
+<p>Here is the program in it&#8217;s entirety, along with a link to the GIST if you so want to:</p>
+<p><a title="NameGenChallengeSimple" href="https://gist.github.com/InsidiousMind/fda078e6104eebd61124" target="_blank">Here&#8217;s the GIST</a></p>
+<pre class="brush: python; title: ; notranslate">
+
+import random
+
+def sample(items):
+randomIndex = random.randrange(len(items))
+return items[randomIndex]
+
+def promptForGender():
+genderList = [&quot;male&quot;, &quot;female&quot;]
+
+response = input(&quot;What Name Gender would you like? (m/f) (enter 'r' for random)&quot;)
+response = response.lower()
+
+if response == &quot;m&quot;:
+
+return &quot;male&quot;
+elif response == &quot;f&quot;:
+return &quot;female&quot;
+elif response == &quot;r&quot;:
+return sample(genderList)
+else:
+print (&quot;please enter 'M' ,'F', or 'R' to initiate the Random Name Generator&quot;)
+
+def genName():
+boyNames = [&quot;Jack&quot;, &quot;Andrew&quot;, &quot;Mike&quot;, &quot;Terry&quot;, &quot;Torvald&quot;, &quot;Gatsby&quot;]
+girlNames = [&quot;Alice&quot;, &quot;Hana&quot;, &quot;Clare&quot;, &quot;Janet&quot;, &quot;Daisy&quot;]
+
+gender = promptForGender()
+
+if gender == &quot;male&quot;:
+return sample(boyNames)
+elif gender == &quot;female&quot;:
+return sample(girlNames)
+
+print (&quot;Welcome to the Simple Random Name Generator by Liquid Think!&quot;)
+print (genName())
+
+</pre>
+<h3></h3>
+<h3><span style="text-decoration: underline;">Overview/Summary</span></h3>
+<p>So that is the Random Name Generator. Challenge # 1 complete! The bonus challenge will be next, so stay tuned! I think this challenge is a good start. It was nice and simple for the beginners out there. If your not looking for bonus challenges, our next challenge will be &#8220;Higher or Lower Heads/Tails&#8221;. Coin Toss possibly? ^^. If you would like to subscribe to this challenge, <a href="http://feeds.feedburner.com/LiquidThinkPython100ProgramChallenge" target="_blank">you can right here!</a><br />
+But until next time,</p>
+<p>Happy Coding!</p>
+<p>UPDATE: I will be updating/editing this article with suggestions/code improvements from Reddit&#8217;s Community over at /r/DailyProgrammer and /r/Programming. I will keep the article updated as best I can, which means this article may be different, if you find yourself referring to it again. Don&#8217;t worry! it&#8217;s probably just updated with better/more concise code.</p>
+<p>Just keep in mind that coding is a process, and it there is always room for improvement! Don&#8217;t be afraid to fail!</p>
+<p style='text-align:left'>&copy; 2014 &#8211; 2015, <a href='https://liquidthink.net'>insidious</a>. All rights reserved. </p>
+<p>The post <a rel="nofollow" href="https://liquidthink.net/python-100-program-challenge-program-1-building-simple-name-generator/">Python 100 Program Challenge (Program 1): Building a Simple Name Generator</a> appeared first on <a rel="nofollow" href="https://liquidthink.net">Liquid Think</a>.</p>
+<img src="http://feeds.feedburner.com/~r/LiquidThinkPython100ProgramChallenge/~4/LsI-x9CtJWs" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>https://liquidthink.net/python-100-program-challenge-program-1-building-simple-name-generator/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>https://liquidthink.net/python-100-program-challenge-program-1-building-simple-name-generator/</feedburner:origLink></item>
+		<item>
+		<title>Introduction to the 100 Program Challenge Series in Python</title>
+		<link>http://feedproxy.google.com/~r/LiquidThinkPython100ProgramChallenge/~3/KLg39a4OUL4/</link>
+		<comments>https://liquidthink.net/introduction-100-program-challenge-series-python/#comments</comments>
+		<pubDate>Mon, 15 Dec 2014 03:43:31 +0000</pubDate>
+		<dc:creator><![CDATA[insidious]]></dc:creator>
+				<category><![CDATA[Computer Science]]></category>
+		<category><![CDATA[Python 100 Program Challenge]]></category>
+		<category><![CDATA[100 program challenge]]></category>
+		<category><![CDATA[beginner programming tutorial]]></category>
+		<category><![CDATA[featured]]></category>
+		<category><![CDATA[python 100 program challenge]]></category>
+		<category><![CDATA[python programming challenge]]></category>
+		<category><![CDATA[python tutorial]]></category>
+
+		<guid isPermaLink="false">http://liquidthink.net/?p=1054</guid>
+		<description><![CDATA[<p>Welcome to Liquid Think&#8217;s Introduction in a long to-be series of Programming Tutorials, dubbed the &#8220;100 Program Challenge&#8221;. This series, the first of such on</p>
+<p>The post <a rel="nofollow" href="https://liquidthink.net/introduction-100-program-challenge-series-python/">Introduction to the 100 Program Challenge Series in Python</a> appeared first on <a rel="nofollow" href="https://liquidthink.net">Liquid Think</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Welcome to Liquid Think&#8217;s Introduction in a long to-be series of Programming Tutorials, dubbed the &#8220;100 Program Challenge&#8221;.</p>
+<p>This series, the first of such on Liquid Think, will go through 100 different Programs, taken from a post on 4chan, and build them using Python. The programs range in difficulty. Starting relatively easily they progressively becoming harder and harder until the challenge is complete at the 100th program. The goal of these posts is to make me, and the reader, a better programmer.</p>
+<p>Here are the 100 programs we will be going through:</p>
+<p><a class="lightbox" href="https://liquidthink.net/wp-content/uploads/2014/12/a6fN92L11.jpg"><figure class="hammy-responsive alignleft wp-image-1071 size-large" title=""  data-media="https://liquidthink.net/wp-content/uploads/cache/2014/12/a6fN92L1-1024x8121/-753443038.jpg" data-media320="https://liquidthink.net/wp-content/uploads/cache/2014/12/a6fN92L1-1024x8121/1334331139.jpg" data-media480="https://liquidthink.net/wp-content/uploads/cache/2014/12/a6fN92L1-1024x8121/-1645904179.jpg"><noscript><img src="https://liquidthink.net/wp-content/uploads/2014/12/a6fN92L1-1024x8121.jpg" alt="a6fN92L" title="" width="740" height="586"></noscript></figure></a></p>
+<p>&nbsp;</p>
+<p>Before we get into any programming tutorials, I would like to explain my reasoning behind some of the things in this series, as to make everything clear before starting.</p>
+<h2><span style="text-decoration: underline;"><strong>Why Python?</strong></span></h2>
+<p>When I first stumbled upon this list on a rogue thread in 4chan&#8217;s /g/ subsection, Python immediately stood out to me as the best choice to undertake these programs.</p>
+<p>So here are my three reasons for using Python:</p>
+<h3>It&#8217;s Easy for a Beginner to Get the Hang Of</h3>
+<p>Python is a high-level object-oriented language, which makes it easy for a beginner to learn it. Since this series will be targeted at beginners, it only makes sense I use a beginner-friendly language. If you haven&#8217;t already, I highly suggest heading over and doing <a href="https://liquidthink.net/wp-content/uploads/2014/12/python" target="_blank">Code Academy&#8217;s Python course</a>. Although this course won&#8217;t make you a 1337 Python programmer once you finish it, it does teach the basic programming concepts and Python syntax that I will assume the reader already knows whilst going through these programs.</p>
+<h3>Python is a Great General Programming Language</h3>
+<p>What do I mean by this? Well, arguably, Python is not great at any one specific thing. Rather, the best use I found for it are your everyday programming problems. Python allows for great variety in what you do, and since there are 100 programs here, a flexible language able to tackle many different problems is a must.</p>
+<h3>It&#8217;s Not so Obscure as to Alienate</h3>
+<p>Python is a known language. Sure, if I wanted to make this some crazy 1337 programmer challenge, I would choose Haskell. Maybe if you have your own blog and scoff at the beginner-friendly-nature of this series, you can go ahead and do the same challenge alongside mine in Haskell. I would love some collaboration :). Most every programmer has heard of Python, and even if one does not know the basics, they know the general programming concepts behind it and can pick it up relatively easily.</p>
+<div class="row-fluid" style="min-height:0;"></div>
+<hr />
+<h2><span style="text-decoration: underline;"><strong>Bonus Challenges</strong></span></h2>
+<p>For some programming projects, there will be &#8220;Bonus Challenge&#8221; for those seeking more of a thrill. In this content, their is potential for:</p>
+<ul>
+<li>A more complex program.</li>
+<li>Delving into more languages than just Python (EX: using an SQL database to store Names in the Random Name Generator)</li>
+<li>Anything extra that doesn&#8217;t totally relate to the base program, but makes the program overall more useful</li>
+<li>The Challenge will be in a separate post from the original programming challenge. So make sure to check back every once in a while, to make sure you are not missing any bonus challenges</li>
+</ul>
+<p>If your one of those people who like a challenge, make sure to keep your eyes peeled for this content. The completion of this bonus content is not needed in order to complete the 100 Program Challenge.</p>
+<hr />
+<h2><span style="text-decoration: underline;"><strong>How the Posts will Look </strong></span></h2>
+<p>Each post will be split up into 4 sections:</p>
+<h2>Part 1: The Concept</h2>
+<p>Part 1 will explain the concept of the program, as well as any other concepts that the program encompasses. For example, challenge 4 deals with simply Encryption/Decryption. In that post, I will explain what Encryption is/What it Does/How it is used in Today&#8217;s World/How we will tackle the Problem before getting into any coding. This part will most likely consist of the most subsections out of all other parts.</p>
+<h2>Part 2: The Psuedo Code</h2>
+<p>Here we put down the psuedo code for the program. The idea of how we want the program to work/any planning before going into building the program.</p>
+<h2>Part 3: Building the Program</h2>
+<p>This is where actual Python Code comes in. In this part we actually build the program.</p>
+<h2>Part 4: Program Completion</h2>
+<p>In this part the program is already built. I will go over any problems/bugs that I encountered.</p>
+<h2>Overview/Summary/Conclusion</h2>
+<p>Here is the overview of the challenge. What I thought was done well, what I thought could be improved upon or done differently in order to arrive at a better end result.</p>
+<hr />
+<p>These parts are subject to change as I go through the challenge. Their may be a better layout that I am not aware of, but may present itself later in the challenge.</p>
+<p>&nbsp;</p>
+<p>And that&#8217;s it for the Introduction! If you would like to know anything else about this series, make sure to comment. I will respond with an answer ASAP :).</p>
+<p>I will have the first programming tutorial up soon, so until then, Happy Coding!</p>
+<p>&nbsp;</p>
+<p>UPDATE: The programs do not range in difficulty. Rather, they are meant to be randomly assigned based on the last three digits of your 4Chan post number.</p>
+<p style='text-align:left'>&copy; 2014 &#8211; 2015, <a href='https://liquidthink.net'>insidious</a>. All rights reserved. </p>
+<p>The post <a rel="nofollow" href="https://liquidthink.net/introduction-100-program-challenge-series-python/">Introduction to the 100 Program Challenge Series in Python</a> appeared first on <a rel="nofollow" href="https://liquidthink.net">Liquid Think</a>.</p>
+<img src="http://feeds.feedburner.com/~r/LiquidThinkPython100ProgramChallenge/~4/KLg39a4OUL4" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>https://liquidthink.net/introduction-100-program-challenge-series-python/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<feedburner:origLink>https://liquidthink.net/introduction-100-program-challenge-series-python/</feedburner:origLink></item>
+	</channel>
+</rss>

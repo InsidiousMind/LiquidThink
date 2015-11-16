@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.1//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+        <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+    <link rel="canonical" href="https://twitter.com/amabaie">
+    <meta name="twitter-redirect-url" content="twitter://user?screen_name=amabaie"/>
+    <meta name="twitter-redirect-srcs" content="{&quot;pwreset-iphone&quot;:true,&quot;android&quot;:true,&quot;email&quot;:true}"/>
+    <link href="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/favicon.ico" rel="icon" type="image/x-icon" />
+    <title>David Leonhardt (@amabaie) on Twitter</title>
+      <link href="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/assets/a.css" inline="false" media="screen" rel="stylesheet" type="text/css" />
+    <script src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/javascripts/framebust.js" type="text/javascript"></script>
+    <meta name="google-site-verification" content="V0yIS0Ec_o3Ii9KThrCoMCkwTYMMJ_JYx_RSaGhFYvw" />
+  </head>
+  <body class="images nojs users-page users-show-page">
+    <div id="container">
+      
+      
+        <div id="brand_bar">
+  <table id="top">
+    <tr>
+      <td class="left">
+        <a href="/" class="brandmark">
+              <img alt="Twitter" height="28"  src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/larry_28px.gif">
+
+          
+        </a>
+      </td>
+      <td class="right">
+            <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/brandbar_divider.gif" />
+          <a class="search" href="#search">
+                <img alt="Search" height="28"  src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/search_28px.gif">
+
+            
+          </a>
+            <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/brandbar_divider.gif" />
+          <a class="signin" href="/session/new"><span>Log in</span></a>
+            <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/brandbar_divider.gif" /> 
+          <a href="/signup"><span class="signup">Sign up</span></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+      
+      
+      
+      <div id="main_content">
+        
+      <div class="profile">
+        <table class="profile-details">
+  <tr>
+      <td class="avatar">
+        <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+      </td>
+      <td class="user-info">
+        <div class="fullname">David Leonhardt
+        </div>
+        <div class="username">
+          <span>@</span>
+          <span class="screen-name">amabaie</span>
+        </div>
+        <div class="location">Chesterville, Ontario</div>
+      </td>
+  </tr>
+  <tr>
+    <td class="details" colspan="2">
+      <div class="bio">
+        <div class="dir-ltr" dir="ltr">
+          I run THGM.  We write and we promote.  I love nature and living simply. Follow me also on <a href="https://t.co/xR6MWck9yH"rel="nofollow"dir="ltr"data-expanded-url="https://www.pinterest.com/amabaie/"class="twitter-timeline-link"target="_blank"title="https://www.pinterest.com/amabaie/">pinterest.com/amabaie/</a>
+        </div>
+      </div>
+      <div class="url">
+        <div class="dir-ltr">
+          <a href="http://t.co/4LXYIFhyM4" data-url="seo-writer.com" class="twitter-timeline-link activeLink dir-ltr tco-link"
+              dir="ltr" rel="nofollow" target="_blank">seo-writer.com</a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+        <table class="profile-stats">
+  <tr>
+    <td class="stat">
+      <div class="statnum">80,167</div>
+      <div class="statlabel"> Tweets </div>
+    </td>
+    <td class="stat">
+        <a href="/amabaie/following">
+          <div class="statnum">18,491</div>
+          <div class="statlabel"> Following </div>
+        </a>
+    </td>
+    <td class="stat stat-last">
+        <a href="/amabaie/followers">
+          <div class="statnum">19,955</div>
+          <div class="statlabel"> Followers </div>
+        </a>
+    </td>
+  </tr>
+</table>
+
+        <div class="profile-actions">
+        <form action="/i/guest/follow/amabaie" method="post">
+            <span class="m2-auth-token">
+    <input name="authenticity_token" type="hidden" value="7d5e8c8f0d242bd0d844d0b7834b8d1b"/>
+  </span>
+          
+          <span class="w-button-common w-button">
+            <input name="commit" type="submit" value="Follow">
+          </span>
+        </form>
+      <form action="/amabaie/actions" method="get">
+        
+        <span class="w-button-common w-button">
+          <input name="commit" type="submit" value="•••">
+        </span>
+      </form>
+</div>
+
+      </div>
+
+        <div class="w-mediaonebox">
+    <table>
+      <tr>
+        <td style="width: 95px;">
+          <a href="/amabaie/media/grid?idx=0"><img src="https://pbs.twimg.com/media/CTjLBLgWEAACZec.jpg:thumb" width="95" height="78"/></a>
+        </td>
+        <td style="width: 108px;">
+          <a href="/amabaie/media/grid?idx=1"><img src="https://pbs.twimg.com/media/CTiSdxaXAAA5Fk0.jpg:thumb" width="108" height="78"/></a>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+    <div class="see-more">
+      <a href="/amabaie/media/grid">View more photos</a>
+    </div>
+</div>
+
+      <div class="timeline">
+        <table class="titlebar">
+          <tr>
+          <td>Tweets</td>
+          <td class="right fifty">
+                <form action="/amabaie/follow_sms" method="get">
+      
+      <span class="w-button-common w-button-follow-sms-small">
+        <input alt="Follow by SMS" src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/notifications_default_sm.gif" type="image">
+      </span>
+    </form>
+
+          </td>
+        </table>
+          <table class="tweet  "
+       href="/jdquey/status/664481312330280964?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context" colspan="2">
+      <span class="context">David Leonhardt retweeted</span>
+    </td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/jdquey?p=i">
+      <img alt="Jason Quey" src="https://pbs.twimg.com/profile_images/580086994337857536/lBBdJe2b_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/jdquey?p=s">
+    <strong class="fullname">Jason Quey</strong>
+    <div class="username">
+      <span>@</span>jdquey
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664481312330280964" href="/jdquey/status/664481312330280964?p=p">3h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664481312330280964">
+      <div class="dir-ltr" dir="ltr">  7 Advanced Tactics to Increase Sales Through Live Chat <a href="https://t.co/OC8zB2q9Vq"rel="nofollow"dir="ltr"data-expanded-url="http://inbound.org/articles/view/7-advanced-tactics-to-increase-sales-through-live-chat"data-url="http://inbound.org/articles/view/7-advanced-tactics-to-increase-sales-through-live-chat"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://inbound.org/articles/view/7-advanced-tactics-to-increase-sales-through-live-chat">inbound.org/articles/view/…</a> <a href="/hashtag/ecommerce?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#ecommerce</a> <a href="/hashtag/b2b?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#b2b</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/jdquey/status/664481312330280964?p=v">View summary</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/jdquey/reply/664481312330280964?rt_by=amabaie" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664481312330280964/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664481312330280964/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/jdquey/status/664481312330280964/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664504166631522305?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664504166631522305" href="/amabaie/status/664504166631522305?p=p">2h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664504166631522305">
+      <div class="dir-ltr" dir="ltr">  How to Write a <a href="/hashtag/BestMan?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#BestMan</a> Speech <a href="https://t.co/6ZYykP4Tjs"rel="nofollow"dir="ltr"data-expanded-url="http://thgmwriters.com/blog/best-man-speech/"data-url="http://thgmwriters.com/blog/best-man-speech/"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://thgmwriters.com/blog/best-man-speech/">thgmwriters.com/blog/best-man-…</a> <a href="/hashtag/weddings?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#weddings</a> <a href="https://t.co/qKfTvACwfm"data-pre-embedded="true"rel="nofollow"data-entity-id="664504166165909504"dir="ltr"data-url="http://twitter.com/amabaie/status/664504166631522305/photo/1"data-tco-id="qKfTvACwfm"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/amabaie/status/664504166631522305/photo/1">pic.twitter.com/qKfTvACwfm</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664504166631522305?p=v">View photo</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664504166631522305" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664504166631522305/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664504166631522305/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664504166631522305/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664503789722935296?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664503789722935296" href="/amabaie/status/664503789722935296?p=p">2h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664503789722935296">
+      <div class="dir-ltr" dir="ltr">  <a href="/masqtours"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="masqtours">@masqtours</a> <a href="/mochadad"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="mochadad">@mochadad</a> <a href="/AprilSalazarNYC"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="AprilSalazarNYC">@AprilSalazarNYC</a> <a href="/camusr6"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="camusr6">@camusr6</a> <a href="/Hippoinatutu"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="Hippoinatutu">@Hippoinatutu</a> <a href="/msjennimiller"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="msjennimiller">@msjennimiller</a>&#10;&#10;Are you a <a href="/hashtag/writer?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#writer</a>? Take this quiz: <a href="https://t.co/uNEIkqHiSg"rel="nofollow"dir="ltr"data-expanded-url="http://thgmwriters.com/blog/writer-quiz/"data-url="http://thgmwriters.com/blog/writer-quiz/"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://thgmwriters.com/blog/writer-quiz/">thgmwriters.com/blog/writer-qu…</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664503789722935296?p=v">View summary</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664503789722935296" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664503789722935296/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664503789722935296/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664503789722935296/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664501151379939328?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664501151379939328" href="/amabaie/status/664501151379939328?p=p">2h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664501151379939328">
+      <div class="dir-ltr" dir="ltr">  <a href="/AngelaAckerman"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="AngelaAckerman">@AngelaAckerman</a> <a href="/peggy_jaeger"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="peggy_jaeger">@peggy_jaeger</a> <a href="/minalh"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="minalh">@minalh</a> <a href="/MeiravDevash"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="MeiravDevash">@MeiravDevash</a> <a href="/jennyha_yes"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="jennyha_yes">@jennyha_yes</a> <a href="/LinesOfForce"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="LinesOfForce">@LinesOfForce</a>&#10;&#10;Are you a <a href="/hashtag/writer?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#writer</a>? Take this quiz: <a href="https://t.co/uNEIkqHiSg"rel="nofollow"dir="ltr"data-expanded-url="http://thgmwriters.com/blog/writer-quiz/"data-url="http://thgmwriters.com/blog/writer-quiz/"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://thgmwriters.com/blog/writer-quiz/">thgmwriters.com/blog/writer-qu…</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664501151379939328?p=v">View summary</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664501151379939328" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664501151379939328/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664501151379939328/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664501151379939328/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/MMarquit/status/664494028717584384?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context" colspan="2">
+      <span class="context">David Leonhardt retweeted</span>
+    </td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/MMarquit?p=i">
+      <img alt="MMarquit" src="https://pbs.twimg.com/profile_images/573838508881678336/U0gwgOYy_normal.jpeg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/MMarquit?p=s">
+    <strong class="fullname">MMarquit</strong>
+    <div class="username">
+      <span>@</span>MMarquit
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664494028717584384" href="/MMarquit/status/664494028717584384?p=p">2h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664494028717584384">
+      <div class="dir-ltr" dir="ltr">  Expanding Learning Experiences <a href="https://t.co/wUAgfQCLxq"rel="nofollow"dir="ltr"data-expanded-url="https://www.gofundme.com/hamercomputers?pc=14_tw_2"data-url="https://www.gofundme.com/hamercomputers?pc=14_tw_2"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://www.gofundme.com/hamercomputers?pc=14_tw_2">gofundme.com/hamercomputers…</a> &lt;-- Help my mom bring new computers to her underserved rural school. <a href="/hashtag/education?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#education</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/MMarquit/status/664494028717584384?p=v">View details</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/MMarquit/reply/664494028717584384?rt_by=amabaie" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664494028717584384/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664494028717584384/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/MMarquit/status/664494028717584384/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664460074866360320?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664460074866360320" href="/amabaie/status/664460074866360320?p=p">5h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664460074866360320">
+      <div class="dir-ltr" dir="ltr">  5 Ways To Get And Convert More Traffic <a href="https://t.co/zOh6Kit46S"rel="nofollow"dir="ltr"data-expanded-url="http://vcb.bz/1ee2"data-url="http://vcb.bz/1ee2"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://vcb.bz/1ee2">vcb.bz/1ee2</a> RT <a href="/ErikEmanuelli"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="ErikEmanuelli">@ErikEmanuelli</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664460074866360320?p=v">View summary</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664460074866360320" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664460074866360320/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664460074866360320/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664460074866360320/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/MommytimeTT/status/663600319247417344?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context" colspan="2">
+      <span class="context">David Leonhardt retweeted</span>
+    </td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/MommytimeTT?p=i">
+      <img alt="Edav" src="https://pbs.twimg.com/profile_images/593267662786015232/QBaW3_Zz_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/MommytimeTT?p=s">
+    <strong class="fullname">Edav</strong>
+    <div class="username">
+      <span>@</span>MommytimeTT
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_663600319247417344" href="/MommytimeTT/status/663600319247417344?p=p">Nov 8</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="663600319247417344">
+      <div class="dir-ltr" dir="ltr">  My green canoe painting <a href="https://t.co/KS7OCG7uMm"rel="nofollow"dir="ltr"data-expanded-url="https://www.youtube.com/watch?v=lZpO0C9KelU"data-url="https://www.youtube.com/watch?v=lZpO0C9KelU"class="twitter_external_link dir-ltr tco-link"target="_blank"title="https://www.youtube.com/watch?v=lZpO0C9KelU">youtube.com/watch?v=lZpO0C…</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/MommytimeTT/status/663600319247417344?p=v">View details</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/MommytimeTT/reply/663600319247417344?rt_by=amabaie" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/663600319247417344/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/663600319247417344/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/MommytimeTT/status/663600319247417344/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664448616468213760?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664448616468213760" href="/amabaie/status/664448616468213760?p=p">5h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664448616468213760">
+      <div class="dir-ltr" dir="ltr">  <a href="/Ken_dunn"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="Ken_dunn">@Ken_dunn</a> <a href="/TechBluemoon"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="TechBluemoon">@TechBluemoon</a> <a href="/mssackstein"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="mssackstein">@mssackstein</a> <a href="/SpookyMrsGreen"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="SpookyMrsGreen">@SpookyMrsGreen</a> <a href="/AwesometasticBk"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="AwesometasticBk">@AwesometasticBk</a> &#10;&#10;Are you a <a href="/hashtag/writer?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#writer</a>? Take this quiz: <a href="https://t.co/uNEIkqHiSg"rel="nofollow"dir="ltr"data-expanded-url="http://thgmwriters.com/blog/writer-quiz/"data-url="http://thgmwriters.com/blog/writer-quiz/"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://thgmwriters.com/blog/writer-quiz/">thgmwriters.com/blog/writer-qu…</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664448616468213760?p=v">View summary</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664448616468213760" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664448616468213760/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664448616468213760/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664448616468213760/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664447262324490240?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664447262324490240" href="/amabaie/status/664447262324490240?p=p">5h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664447262324490240">
+      <div class="dir-ltr" dir="ltr">  <a href="/hashtag/TuesdayTreasure?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#TuesdayTreasure</a>: Vacation Memories <a href="https://t.co/9zLjhnpxp4"rel="nofollow"dir="ltr"data-expanded-url="http://goo.gl/zlHbyQ"data-url="http://goo.gl/zlHbyQ"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://goo.gl/zlHbyQ">goo.gl/zlHbyQ</a> via <a href="/psthib"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="psthib">@psthib</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664447262324490240?p=v">View details</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664447262324490240" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664447262324490240/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664447262324490240/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664447262324490240/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664444990932697091?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664444990932697091" href="/amabaie/status/664444990932697091?p=p">6h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664444990932697091">
+      <div class="dir-ltr" dir="ltr">  RT <a href="/enstinemuki"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="enstinemuki">@enstinemuki</a> How to use <a href="/hashtag/ContentUpgrade?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#ContentUpgrade</a> to massively grow your list <a href="https://t.co/lmA8BMUhkt"rel="nofollow"dir="ltr"data-expanded-url="http://enstinemuki.com/why-content-upgrades-are-so-damn-effective-in-growing-your-email-list/"data-url="http://enstinemuki.com/why-content-upgrades-are-so-damn-effective-in-growing-your-email-list/"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://enstinemuki.com/why-content-upgrades-are-so-damn-effective-in-growing-your-email-list/">enstinemuki.com/why-content-up…</a> with <a href="/timsoulo"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="timsoulo">@timsoulo</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664444990932697091?p=v">View summary</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664444990932697091" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664444990932697091/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664444990932697091/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664444990932697091/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664443490072469504?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664443490072469504" href="/amabaie/status/664443490072469504?p=p">6h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664443490072469504">
+      <div class="dir-ltr" dir="ltr">  First Impressions by Peggy Jaeger <a href="/hashtag/MFRWauthor?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#MFRWauthor</a> <a href="/hashtag/mgtab?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#mgtab</a> <a href="/hashtag/Romance?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#Romance</a> <a href="/peggy_jaeger"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="peggy_jaeger">@peggy_jaeger</a> <a href="https://t.co/tXrvoiLtfE"rel="nofollow"dir="ltr"data-expanded-url="http://goo.gl/CRwKlh"data-url="http://goo.gl/CRwKlh"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://goo.gl/CRwKlh">goo.gl/CRwKlh</a> via <a href="/JacqBiggar"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="JacqBiggar">@JacqBiggar</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664443490072469504?p=v">View summary</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664443490072469504" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664443490072469504/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664443490072469504/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664443490072469504/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664441986527666176?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664441986527666176" href="/amabaie/status/664441986527666176?p=p">6h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664441986527666176">
+      <div class="dir-ltr" dir="ltr">  The amazing power of <a href="/hashtag/motivational?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#motivational</a> <a href="/hashtag/quotes?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#quotes</a>!  <a href="https://t.co/i9ZVUZat9i"rel="nofollow"dir="ltr"data-expanded-url="http://thgmwriters.com/blog/power-motivational-quotes/"data-url="http://thgmwriters.com/blog/power-motivational-quotes/"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://thgmwriters.com/blog/power-motivational-quotes/">thgmwriters.com/blog/power-mot…</a> <a href="https://t.co/ClLTYnYAhN"data-pre-embedded="true"rel="nofollow"data-entity-id="664441985214906368"dir="ltr"data-url="http://twitter.com/amabaie/status/664441986527666176/photo/1"data-tco-id="ClLTYnYAhN"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/amabaie/status/664441986527666176/photo/1">pic.twitter.com/ClLTYnYAhN</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664441986527666176?p=v">View photo</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664441986527666176" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664441986527666176/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664441986527666176/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664441986527666176/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/The7PillarsBook/status/663158722059833344?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context" colspan="2">
+      <span class="context">David Leonhardt retweeted</span>
+    </td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/The7PillarsBook?p=i">
+      <img alt="7 Pillars by @mqtodd" src="https://pbs.twimg.com/profile_images/3337058596/f9dbbf6454ca6dbcececc52b0438d909_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/The7PillarsBook?p=s">
+    <strong class="fullname">7 Pillars by @mqtodd</strong>
+    <div class="username">
+      <span>@</span>The7PillarsBook
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_663158722059833344" href="/The7PillarsBook/status/663158722059833344?p=p">Nov 7</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="663158722059833344">
+      <div class="dir-ltr" dir="ltr">  Joined yet? Where we are at with Crowdify now (our 12 key features so far). <a href="/hashtag/Tech?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#Tech</a> <a href="/hashtag/Perks?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#Perks</a> <a href="https://t.co/tqae8LDB8S"rel="nofollow"dir="ltr"data-expanded-url="http://goo.gl/TRkFHL"data-url="http://goo.gl/TRkFHL"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://goo.gl/TRkFHL">goo.gl/TRkFHL</a> <a href="https://t.co/tx7xv8YiUR"data-pre-embedded="true"rel="nofollow"data-entity-id="663158720658980864"dir="ltr"data-url="http://twitter.com/The7PillarsBook/status/663158722059833344/photo/1"data-tco-id="tx7xv8YiUR"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/The7PillarsBook/status/663158722059833344/photo/1">pic.twitter.com/tx7xv8YiUR</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/The7PillarsBook/status/663158722059833344?p=v">View photo</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/The7PillarsBook/reply/663158722059833344?rt_by=amabaie" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/663158722059833344/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/663158722059833344/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/The7PillarsBook/status/663158722059833344/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664439712191483905?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664439712191483905" href="/amabaie/status/664439712191483905?p=p">6h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664439712191483905">
+      <div class="dir-ltr" dir="ltr">  Top Ten Tuesday: Book to Movie <a href="https://t.co/3Dbu8nFCmZ"rel="nofollow"dir="ltr"data-expanded-url="http://goo.gl/j53ZTl"data-url="http://goo.gl/j53ZTl"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://goo.gl/j53ZTl">goo.gl/j53ZTl</a> via <a href="/ladyreaderstuff"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="ladyreaderstuff">@ladyreaderstuff</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664439712191483905?p=v">View details</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664439712191483905" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664439712191483905/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664439712191483905/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664439712191483905/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664435935308816384?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664435935308816384" href="/amabaie/status/664435935308816384?p=p">6h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664435935308816384">
+      <div class="dir-ltr" dir="ltr">  The &quot;Write Good Content&quot; Myth <a href="https://t.co/LXcqufnpr7"rel="nofollow"dir="ltr"data-expanded-url="http://bit.ly/20K4fit"data-url="http://bit.ly/20K4fit"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://bit.ly/20K4fit">bit.ly/20K4fit</a> via <a href="/BrentCarnduff"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="BrentCarnduff">@BrentCarnduff</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664435935308816384?p=v">View details</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664435935308816384" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664435935308816384/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664435935308816384/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664435935308816384/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664432164851884032?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664432164851884032" href="/amabaie/status/664432164851884032?p=p">6h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664432164851884032">
+      <div class="dir-ltr" dir="ltr">  Lost it <a href="https://t.co/wVXuKYmWSV"rel="nofollow"dir="ltr"data-expanded-url="http://bit.ly/20JM0tB"data-url="http://bit.ly/20JM0tB"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://bit.ly/20JM0tB">bit.ly/20JM0tB</a> via <a href="/emaginette"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="emaginette">@emaginette</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664432164851884032?p=v">View summary</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664432164851884032" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664432164851884032/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664432164851884032/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664432164851884032/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664424608205021184?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664424608205021184" href="/amabaie/status/664424608205021184?p=p">7h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664424608205021184">
+      <div class="dir-ltr" dir="ltr">  6 Dieting and Healthy Eating Habits to Make You Feel Your Best in 2016 <a href="https://t.co/eE6hd7uL68"rel="nofollow"dir="ltr"data-expanded-url="http://goo.gl/z1WOQR"data-url="http://goo.gl/z1WOQR"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://goo.gl/z1WOQR">goo.gl/z1WOQR</a> via <a href="/LatinaR2"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="LatinaR2">@LatinaR2</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664424608205021184?p=v">View details</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664424608205021184" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664424608205021184/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664424608205021184/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664424608205021184/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664422453687533568?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664422453687533568" href="/amabaie/status/664422453687533568?p=p">7h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664422453687533568">
+      <div class="dir-ltr" dir="ltr">  <a href="/paulregabooks"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="paulregabooks">@paulregabooks</a> <a href="/DeniseWithWords"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="DeniseWithWords">@DeniseWithWords</a> <a href="/AuthorLTaylor"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="AuthorLTaylor">@AuthorLTaylor</a> <a href="/pswinnauthor"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="pswinnauthor">@pswinnauthor</a> <a href="/james_minter"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="james_minter">@james_minter</a>&#10;&#10;Are you a <a href="/hashtag/writer?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#writer</a>? Take this quiz: <a href="https://t.co/uNEIkqHiSg"rel="nofollow"dir="ltr"data-expanded-url="http://thgmwriters.com/blog/writer-quiz/"data-url="http://thgmwriters.com/blog/writer-quiz/"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://thgmwriters.com/blog/writer-quiz/">thgmwriters.com/blog/writer-qu…</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664422453687533568?p=v">View summary</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664422453687533568" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664422453687533568/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664422453687533568/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664422453687533568/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664420836657520640?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664420836657520640" href="/amabaie/status/664420836657520640?p=p">7h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664420836657520640">
+      <div class="dir-ltr" dir="ltr">  Cover Reveal: No Return <a href="https://t.co/rD00LdNeLE"rel="nofollow"dir="ltr"data-expanded-url="http://goo.gl/uifxG5"data-url="http://goo.gl/uifxG5"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://goo.gl/uifxG5">goo.gl/uifxG5</a> via <a href="/growwithstacy"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="growwithstacy">@growwithstacy</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664420836657520640?p=v">View details</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664420836657520640" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664420836657520640/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664420836657520640/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664420836657520640/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/amabaie/status/664417061632876544?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/amabaie?p=i">
+      <img alt="David Leonhardt" src="https://pbs.twimg.com/profile_images/329300650/David_Leonhardt_medium_normal.jpg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/amabaie?p=s">
+    <strong class="fullname">David Leonhardt</strong>
+    <div class="username">
+      <span>@</span>amabaie
+    </div>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_664417061632876544" href="/amabaie/status/664417061632876544?p=p">7h</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="664417061632876544">
+      <div class="dir-ltr" dir="ltr">  How to Analyze Symbolism <a href="https://t.co/Dv4hbSxf2W"rel="nofollow"dir="ltr"data-expanded-url="http://goo.gl/M8urVD"data-url="http://goo.gl/M8urVD"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://goo.gl/M8urVD">goo.gl/M8urVD</a> via <a href="/csvibrations"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="csvibrations">@csvibrations</a>
+</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/amabaie/status/664417061632876544?p=v">View details</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/amabaie/reply/664417061632876544" class="first">
+            <img alt="Reply"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/664417061632876544/retweet">
+                <img alt="Retweet"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/664417061632876544/favorite?authenticity_token=7d5e8c8f0d242bd0d844d0b7834b8d1b" class="favorite">
+              <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/tweet_heart.gif">
+
+        </a>
+        <a href="/amabaie/status/664417061632876544/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <div class="w-button-more">
+            <a href="/amabaie?max_id=664417061632876543">Load older Tweets</a>
+          </div>
+      </div>
+
+
+      </div>
+      <div id="footer">
+    <div class="search-fields">
+    <div class="title">
+      Enter a topic, @name, or fullname
+    </div>
+    <form action="/search" class="search-input" method="get">
+    <table>
+      <tr>
+        <td class="value" id="search"><div><input id="q" name="q" type="text" value=""/></div></td>
+        <td class="button">
+          <input type="hidden" name="s" value="typd" />
+          <input type="image" src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/magnifying_glass.gif" alt="Search"/>
+        </td>
+      </tr>
+    </table>
+    </form>
+</div>
+
+    <table class="global-actions">
+      <tr>
+        <td><a href="/settings">Settings</a></td>
+        <td><a href="https://support.twitter.com/"> Help</a></td>
+      </tr>
+    </table>
+    <div class="view-actions"><a href="#top"> Back to top</a> &middot; <a href="/settings/profile_images">Turn images off</a></div>
+</div>
+
+    </div>
+      <script id="scribe-configuration" type="application/json">{"page":"profile"}</script>
+      <script src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/assets/m2_tweets.js" type="text/javascript"></script>
+      <img src="/i/anonymize?data=%5B%7B%22integration%22%3A%22ga%22%2C%22ref%22%3A%22%22%2C%22mobileMetricsToken%22%3A%22144727118327781453%22%7D%5D" height="0" width="0">
+  <img src="https://cert.twitter.com/robots.txt" height="0" width="0">
+  <img src="https://twitter.com/robots.txt" height="0" width="0">
+
+  </body>
+</html>

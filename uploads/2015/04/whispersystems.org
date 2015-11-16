@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    
+    <meta name="apple-itunes-app" content="app-id=874139669">
+    
+
+    
+<meta name="twitter:card" content="app">
+<meta name="twitter:site" content="@whispersystems">
+<meta name="twitter:app:name:iphone" content="Signal">
+<meta name="twitter:app:id:iphone" content="874139669">
+<meta name="twitter:app:name:googleplay" content="TextSecure">
+<meta name="twitter:app:id:googleplay" content="org.thoughtcrime.securesms">
+
+
+
+    <title>Open Whisper Systems >> Home</title>
+
+    <link rel="shortcut icon" href="/assets/header/favicon-32985534a0bdf5272c6b7487ae069143.ico" type="image/x-icon">
+    <link rel="icon" href="/assets/header/favicon-32985534a0bdf5272c6b7487ae069143.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="/assets/theme-112e6df9ccb981f8d8c52b354ab74fbc.css">
+
+    <!-- Custom Fonts -->
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css">
+  </head>
+
+  <body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top ">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="/#page-top">Open Whisper Systems</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a href="http://support.whispersystems.org">Support</a>
+                    </li>
+                    <li >
+                        <a class="page-scroll" href="/blog/">Blog</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="http://open-whisper-systems.readme.io/">Developers</a>
+                    </li>
+
+		    <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Install</a>
+                      <ul class="dropdown-menu" role="menu">
+			<li><a href="https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&referrer=utm_source%3DOWS%26utm_medium%3DWeb%26utm_campaign%3DNav"><i class="fa fa-android"></i></a></li>
+			<li><a href="https://itunes.apple.com/us/app/signal-private-messenger/id874139669"><i class="fa fa-apple"></i></a></li>
+                      </ul>
+		    </li>
+
+		    <li>
+		      <a href="https://twitter.com/whispersystems"><i class="fa fa-twitter"></i></a>
+		    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+
+        <!-- Header -->
+    <header class="main">
+        <div class="container">
+<!--
+            <div class="intro-text">
+              <div class="intro-lead-in"> </div>
+              <div class="intro-heading"> </div>
+            </div>
+-->
+        </div>
+    </header>
+    
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Privacy that fits in your pocket</h2>
+          </div>
+        </div>
+
+        <blockquote>
+          <div class="row">
+            <div class="col-md-3 text-center">
+              <img class="img-circle" src="/assets/testimonials/snowden-7d94c7133d8e8041317cbcbba2e76cda.jpg" style="width: 100px;height:100px;">
+              <p>Use anything by Open Whisper Systems.</p>
+              <small><span class="source">Edward Snowden</span>, Whistleblower and privacy advocate</small>
+            </div>
+
+            <div class="col-md-3 text-center">
+              <img class="img-circle" src="/assets/testimonials/poitras-214adbc22ee81611be016f7b00e4f529.jpg" style="width: 100px;height:100px;">
+              <p>Signal is the most scalable encryption tool we have. It is free and peer reviewed. I encourage people to use it everyday.</p>
+              <small><span class="source">Laura Poitras</span>, Oscar winning filmmaker and journalist</small>
+            </div>
+
+            <div class="col-md-3 text-center">
+              <img class="img-circle" src="/assets/testimonials/schneier-3c0b65ff9756556aea7bd9b3666ee2f7.jpg" style="width: 100px;height:100px;">
+	      <p>I am regularly impressed with the thought and care put into both the security and the usability of this app. It's my first choice for an encrypted conversation.</p>
+              <small><span class="source">Bruce Schneier</span>, internationally renowned security technologist</small>
+            </div>
+	    
+            <div class="col-md-3 text-center">
+              <img class="img-circle" src="/assets/testimonials/mattgreen-aa211a08ed8b84e469e1a18b78d7363d.jpg" style="width: 100px;height:100px;">
+              <p>After reading the code, I literally discovered a line of drool running down my face. It’s really nice.</p>
+              <small><span class="source">Matt Green</span>, Cryptographer, Johns Hopkins University</small>
+            </div>
+	  </div>
+        </blockquote>	
+      </div>
+
+    <!-- Services Section -->
+    <section id="messaging" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+		  <img src="/assets/screenshots/signal-conversation-list-framed-6339f98498873ec877cd6688d485bcc7.png"/>
+                </div>
+		<div class="col-md-1"></div>
+		<div class="col-md-7">
+                  <h2 class="section-heading">Private messaging</h2>
+                  <h3 class="section-subheading text-muted">For iPhone and Android</h3>
+
+		  <div class="promotional">
+		    <ul class="fa-ul">
+		      <li>
+			<i class="fa-li fa fa-check"></i>
+			<span class="summary">Say Anything</span> - Send high-quality group, text, picture, and video messages, all without SMS and MMS fees.
+		      </li>
+		      <li>
+			<i class="fa-li fa fa-check"></i>
+			<span class="summary">Be Yourself</span> - Use your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.
+		      </li>
+		      <li>
+			<i class="fa-li fa fa-check"></i>
+			<span class="summary">Stay Private</span> - We cannot read your messages, and no one else can either. Everything is always end-to-end encrypted and painstakingly engineered in order to keep your communication safe.
+		      </li>
+		      <li>
+			<i class="fa-li fa fa-check"></i>
+			<span class="summary">Get Organized</span> - Archive functionality makes it easy to keep track of the conversations that matter to you right now.
+		      </li>
+		      <li>
+			<i class="fa-li fa fa-check"></i>
+			<span class="summary">Pay Nothing</span> - The development team is supported by community donations and grants. There are no advertisements, and it doesn't cost anything to use.
+		      </li>
+		    </ul>
+
+		    <a href="https://itunes.apple.com/us/app/signal-private-messenger/id874139669">
+		      <img alt="iPhone app on App Store"
+			   src="/assets/body/appstore-297f0a4d103e75d79651a318d7ffcb03.png"/>
+		    </a>
+
+		    <a href="https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&referrer=utm_source%3DOWS%26utm_medium%3DWeb%26utm_campaign%3DMessaging">
+		      <img alt="Android app on Google Play"
+			   src="https://developer.android.com/images/brand/en_app_rgb_wo_60.png" />
+		    </a>
+
+		  </div>
+		</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="calling">
+        <div class="container">
+            <div class="row">
+		<div class="col-md-7">
+                  <h2 class="section-heading">Private calling</h2>
+                  <h3 class="section-subheading text-muted">For iPhone and Android</h3>
+
+		  <div class="promotional">
+		    <ul class="fa-ul">
+		      <li>
+			<i class="fa-li fa fa-check"></i>
+			<span class="summary">Speak Freely</span> - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.
+		      </li>
+		      <li>
+			<i class="fa-li fa fa-check"></i>
+			<span class="summary">Stay Private</span> - We cannot hear your conversations, and no one else can either. No exceptions.
+		      </li>
+		      <li>
+			<i class="fa-li fa fa-check"></i>
+			<span class="summary">Pay Nothing</span> - The development team is supported by community donations and grants. There are no advertisements, and it doesn't cost anything to use.
+		      </li>
+		    </ul>
+
+		    <a href="https://itunes.apple.com/us/app/signal-private-messenger/id874139669">
+		      <img alt="iPhone app on App Store"
+			   src="/assets/body/appstore-297f0a4d103e75d79651a318d7ffcb03.png"/>
+		    </a>
+
+		    <a href="https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&referrer=utm_source%3DOWS%26utm_medium%3DWeb%26utm_campaign%3DVoice">
+		      <img alt="Android app on Google Play"
+			   src="https://developer.android.com/images/brand/en_app_rgb_wo_60.png" />
+		    </a>
+
+		  </div>
+		</div>
+		<div class="col-md-1"></div>
+                <div class="col-md-4">
+		  <img src="/assets/screenshots/signal-call-framed-13344cef4aac7e9c2796b1fb4b329ca8.png"/>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team Section -->
+    <section id="team" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">The Open Whisper Systems Team</h2>
+                    <h3 class="section-subheading text-muted">Making private communciation simple.</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="/assets/headshots/moxie-c11d39149a7bdd7bf24701cfd9772a0f.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Moxie Marlinspike</h4>
+                        <p class="text-muted">Moxie works on the protocols, the Android clients, and the server software. He has been contributing to Open Whisper Systems since it was Whisper Systems, formerly ran the product security team at Twitter, started the first cloud-based password cracking service, and has published a number of attacks on secure protocols like SSL and MS-CHAPv2.</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="/assets/headshots/tyler-b3218335f1d353cb8af89fdd254168c0.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Tyler Reinhard</h4>
+                        <p class="text-muted">Tyler oversees brand development and design, and works directly on Signal for iOS and the browser. If he's not complaining about the weather, he's usually advocating on behalf of our users. He is also the founder of Mask Magazine, a youth culture + style magazine.</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="/assets/headshots/lilia-df91e4ca60e82905c19edcf64d43318e.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Lilia Kai</h4>
+                        <p class="text-muted">Lilia develops the browser extension and maintains the website. She comes to Open Whisper Systems from the EFF, where she built online advocacy tools for activists fighting for a better internet. In her spare time she practices yoyo tricks and DIY home automation. She also serves as chief of sticker operations.</p>
+                    </div>
+                </div>
+            </div>
+	    <div class="row">
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="/assets/headshots/fred-986c4a2a1b39b3a5a2285f320c13f482.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Frederic Jacobs</h4>
+                        <p class="text-muted">Frederic leads the iOS development. He daylights at the Swiss Institute of Technology (EPFL) and plays around with cryptography, censorship resistance and blockchains.</p>
+                    </div>
+                </div>
+
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="/assets/headshots/jake-34a4fc07dc3de2519dce758297c346c0.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Jake McGinty</h4>
+                        <p class="text-muted">Jake works hard to keep the Android client bug-free and lookin good. His many titles include MMS expert, usability enthusiast, circuit lecturer, and mohawk afficionado. In his freetime he hacks hardware, spins diabolos, and rides motorcycles.</p>
+                    </div>
+                </div>
+
+		<div class="col-sm-4">
+		  <div class="team-member">
+                    <img src="/assets/headshots/riya-b6c77463961e7e6c447a80adaba4f936.jpg" class="img-responsive img-circle" alt="">
+		    <h4>Riya Abraham</h4>
+		    <p class="text-muted">Riya supports you, the user, and is also a cheerleader for your feature requests.  She used to run automated strategies in the derivatives trading world, and currently moonlights as a Hatha & Vinyasa yoga teacher.</p>
+		  </div>
+		</div>
+	    </div>
+
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <p class="large text-muted">
+		      Open Whisper Systems is both a large community of volunteer Open Source contributors, as well as a small
+		      team of dedicated grant-funded developers. Together, we're working to advance the state of the art for
+		      secure communication, while simultaneously making it easy for everyone to use.
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+   <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright &copy; Open Whisper Systems 2015</span>
+                </div>
+		<div class="col-md-4">
+		  <span class="copyright"><a href="/workworkwork/">Jobs</a></span>
+		</div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li>
+			  <a href="https://twitter.com/whispersystems"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li>
+			  <a href="https://github.com/whispersystems"><i class="fa fa-github"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    
+    <script src="/assets/cbpAnimatedHeader-992b8f7ab186c0d847ea065760880403.js"></script>
+    <script src="/assets/classie-99514135e6006cfae0ebd9940de6ec86.js"></script>
+<!--    <script src="/assets/theme-de95fe6abc59d3e72d24522a58d50fee.js"></script> -->
+    
+
+    <script>
+      var clicky_site_ids = clicky_site_ids || [];
+      clicky_site_ids.push(100570585);
+      (function() {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = '//static.getclicky.com/js';
+      ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+      })();
+    </script>
+    <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100570585ns.gif" /></p></noscript>
+
+  </body>
+</html>

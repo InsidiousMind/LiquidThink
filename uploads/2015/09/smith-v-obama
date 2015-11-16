@@ -1,0 +1,787 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  itemscope itemtype="http://schema.org/Article"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.eff.org/ru/cases/smith-v-obama" rel="alternate" hreflang="ru" />
+<link href="https://www.eff.org/sh/cases/smith-v-obama" rel="alternate" hreflang="sh" />
+<link href="https://www.eff.org/ro/cases/smith-v-obama" rel="alternate" hreflang="ro" />
+<link href="https://www.eff.org/pt-br/cases/smith-v-obama" rel="alternate" hreflang="pt-br" />
+<link href="https://www.eff.org/pl/cases/smith-v-obama" rel="alternate" hreflang="pl" />
+<link href="https://www.eff.org/es/cases/smith-v-obama" rel="alternate" hreflang="es" />
+<link href="https://www.eff.org/sv/cases/smith-v-obama" rel="alternate" hreflang="sv" />
+<link rel="shortcut icon" href="https://www.eff.org/sites/all/themes/frontier/favicon.ico" type="image/vnd.microsoft.icon" />
+<link href="https://www.eff.org/ur/cases/smith-v-obama" rel="alternate" hreflang="ur" />
+<link href="https://www.eff.org/tr/cases/smith-v-obama" rel="alternate" hreflang="tr" />
+<link href="https://www.eff.org/th/cases/smith-v-obama" rel="alternate" hreflang="th" />
+<link href="https://www.eff.org/fa/cases/smith-v-obama" rel="alternate" hreflang="fa" />
+<link href="https://www.eff.org/vi/cases/smith-v-obama" rel="alternate" hreflang="vi" />
+<link href="https://www.eff.org/zh-hans/cases/smith-v-obama" rel="alternate" hreflang="zh-hans" />
+<link href="https://www.eff.org/nl/cases/smith-v-obama" rel="alternate" hreflang="nl" />
+<link href="https://www.eff.org/my/cases/smith-v-obama" rel="alternate" hreflang="my" />
+<link href="https://www.eff.org/ja/cases/smith-v-obama" rel="alternate" hreflang="ja" />
+<link href="https://www.eff.org/am/cases/smith-v-obama" rel="alternate" hreflang="am" />
+<link href="https://www.eff.org/cases/smith-v-obama" rel="alternate" hreflang="en" />
+<link href="https://www.eff.org/en-gb/cases/smith-v-obama" rel="alternate" hreflang="en-gb" />
+<link href="https://www.eff.org/it/cases/smith-v-obama" rel="alternate" hreflang="it" />
+<link href="https://www.eff.org/id/cases/smith-v-obama" rel="alternate" hreflang="id" />
+<link href="https://www.eff.org/de/cases/smith-v-obama" rel="alternate" hreflang="de" />
+<link href="https://www.eff.org/fr/cases/smith-v-obama" rel="alternate" hreflang="fr" />
+<link href="https://www.eff.org/ar/cases/smith-v-obama" rel="alternate" hreflang="ar" />
+<meta name="description" content="In Smith, EFF, along with the American Civil Liberties Union (ACLU) and the American Civil Liberties Union of Idaho, have joined the legal team for Anna Smith, an Idaho emergency neonatal nurse, in her challenge of the government&#039;s bulk collection of the telephone records of millions of innocent Americans." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.eff.org/cases/smith-v-obama" />
+<link rel="shortlink" href="https://www.eff.org/node/82069" />
+<link rel="publisher" href="https://www.eff.org/" />
+<meta property="og:site_name" content="Electronic Frontier Foundation" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Smith v. Obama" />
+<meta property="og:url" content="https://www.eff.org/cases/smith-v-obama" />
+<meta property="og:description" content="In Smith, EFF, along with the American Civil Liberties Union (ACLU) and the American Civil Liberties Union of Idaho, have joined the legal team for Anna Smith, an Idaho emergency neonatal nurse, in her challenge of the government&#039;s bulk collection of the telephone records of millions of innocent Americans." />
+<meta property="og:updated_time" content="2015-01-15T14:29:23-08:00" />
+<meta property="og:image" content="https://www.eff.org/files/2015/03/02/eff-og-3.png" />
+<meta property="og:image:url" content="https://www.eff.org/files/2015/03/02/eff-og-3.png" />
+<meta property="og:image:secure_url" content="https://www.eff.org/files/2015/03/02/eff-og-3.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="681" />
+<meta property="og:image:height" content="358" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@eff" />
+<meta name="twitter:title" content="Smith v. Obama" />
+<meta name="twitter:description" content="In Smith, EFF, along with the American Civil Liberties Union (ACLU) and the American Civil Liberties Union of Idaho, have joined the legal team for Anna Smith, an Idaho emergency neonatal nurse, in her challenge of the government&#039;s bulk collection of the telephone records of millions of innocent Americans." />
+<meta property="article:publisher" content="https://www.facebook.com/eff" />
+<meta property="article:published_time" content="2014-09-03T11:48:19-07:00" />
+<meta property="article:modified_time" content="2015-01-15T14:29:23-08:00" />
+<meta itemprop="name" content="Smith v. Obama" />
+<meta itemprop="description" content="In Smith, EFF, along with the American Civil Liberties Union (ACLU) and the American Civil Liberties Union of Idaho, have joined the legal team for Anna Smith, an Idaho emergency neonatal nurse, in her challenge of the government&#039;s bulk collection of the telephone records of millions of innocent Americans." />
+<meta itemprop="image" content="https://www.eff.org/files/2015/03/02/eff-og-3.png" />
+  <title>Smith v. Obama | Electronic Frontier Foundation</title>
+  <link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_r7mP1rcWJQ63n8Fdr5p_bAp2cVsr4IDoQbtzGzliANo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_tSI3reea_JpmTDg_GWOsPsfFp1aUt4eRLF9Y177UfIo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_2WDS6rAKK7kwjEKZtVIbWvbcKp7kyhaaJDneFaYyT34.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_9NRa37efpuJSV4GuWIYzp7qngB6DcDrhK10Z6bngn30.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_ZHfDJzxADxdmH_QwYMCWBEiv7uaILLa-WfESlbHWHqw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eff.org/files/css/css_Dm-SJfMUMI3Lq1IRh7yJYS8gMbJAhKw4i7TNs8uKI4I.css" media="print" />
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+/**
+ * @licstart The following is the entire license notice for the JavaScript
+ * code in this page.
+ *
+ * Copyright (C) 2015  Electronic Frontier Foundation.
+ *
+ * The JavaScript code in this page is free software: you can redistribute
+ * it and/or modify it under the terms of the GNU General Public License
+ * (GNU GPL) as published by the Free Software Foundation, either version 3
+ * of the License, or (at your option) any later version.  The code is
+ * distributed WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU GPL
+ * for more details.
+ *
+ * As additional permission under GNU GPL version 3 section 7, you may
+ * distribute non-source (e.g., minimized or compacted) forms of that code
+ * without the copy of the GNU GPL normally required by section 4, provided
+ * you include this license notice and a URL through which recipients can
+ * access the Corresponding Source.
+ *
+ * @licend The above is the entire license notice for the JavaScript code
+ * in this page.
+ */
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_8aTa-Jip7WrXIapyyJMi85UKSdnRZ30YbI4eJumTQvg.js"></script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_6J_fxLrsplKcEmRgJC-6QRLa7T_nJvQ7W6oH96gDKng.js"></script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_tJZVH1v1GFQcFQ_9deBX0TaNrLsWQlE5ZC1Zy9o6aC0.js"></script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_rvXZ5EsLq51Zzd9RjkSbWjyq9nUlF93fsVp15Wn5zqE.js"></script>
+<script type="text/javascript" src="https://www.eff.org/files/js/js_aRe4mjwNkRq0UugCuQDnvErzl6bmOFX_DLCke_FfyYc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"frontier","theme_token":"F-LbRvW6WJeIBhmyZrydbOtNHZaKX60S_1cSKq7U6SE","jquery_version":"1.7","js":{"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/custom\/eff_whyb\/js\/whyb.js":1,"sites\/all\/modules\/caption_filter\/js\/caption-filter.js":1,"sites\/all\/modules\/mytube\/mytube.js":1,"sites\/all\/modules\/piwik_noscript\/piwik_noscript.js":1,"sites\/all\/modules\/patched\/lightbox2\/js\/lightbox.js":1,"sites\/all\/libraries\/chosen\/chosen.jquery.min.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/panels_tabs\/js\/panels_tabs.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/jquery.meanmenu.min.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/responsive_menus_mean_menu.js":1,"sites\/all\/modules\/chosen\/chosen.js":1,"sites\/all\/themes\/frontier\/js\/no_has_js.js":1,"sites\/all\/themes\/frontier\/js\/jquery.mailcheck.min.js":1,"sites\/all\/themes\/frontier\/js\/do_mailcheck.js":1,"sites\/all\/themes\/frontier\/js\/placeholder.js":1},"css":{"sites\/all\/themes\/frontier\/css\/reset.css":1,"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/chosen\/chosen.css":1,"sites\/all\/modules\/chosen\/css\/chosen-drupal.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"sites\/all\/modules\/footnotes\/footnotes.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mytube\/mytube.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/caption_filter\/caption-filter.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lexicon\/css\/lexicon.css":1,"sites\/all\/modules\/patched\/lightbox2\/css\/lightbox_alt.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/modules\/custom\/eff_library\/plugins\/layouts\/eff_related\/eff-related.css":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/meanmenu.min.css":1,"sites\/all\/modules\/custom\/eff_library\/plugins\/layouts\/eff_site_layout\/eff-site-layout.css":1,"sites\/all\/themes\/frontier\/css\/layout.css":1,"sites\/all\/themes\/frontier\/css\/html-elements.css":1,"sites\/all\/themes\/frontier\/css\/frontier.css":1,"sites\/all\/themes\/frontier\/css\/wysiwyg.css":1,"sites\/all\/themes\/frontier\/timeline\/css\/style.css":1,"sites\/all\/themes\/frontier\/css\/galleryformatter.css":1,"sites\/all\/themes\/frontier\/css\/print.css":1}},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/patched\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":10,"fade_in_speed":300,"slide_down_speed":10,"use_alt_layout":1,"disable_resize":0,"disable_zoom":1,"force_show_nav":0,"show_caption":1,"loop_items":1,"node_link_text":"","node_link_target":0,"image_count":"","video_count":"","page_count":"","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0,"useragent":"Mozilla\/5.0 (Windows NT 6.1; WOW64; Trident\/7.0; rv:11.0) like Gecko"},"chosen":{"selector":".node-form select:visible","minimum_single":5,"minimum_multiple":5,"minimum_width":200,"options":{"disable_search":false,"disable_search_threshold":0,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","inherit_select_classes":true}},"urlIsAjaxTrusted":{"\/cases\/smith-v-obama":true,"\/search\/site":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:113e8246d85f4ae6fea02ac300b40b93":{"view_name":"legal_case_related_docs_no_filev","view_display_id":"panel_pane_1","view_args":"82069","view_path":"node\/82069","view_base_path":"node\/82069","view_dom_id":"113e8246d85f4ae6fea02ac300b40b93","pager_element":0},"views_dom_id:35c07f7a1c91c0f0592006acf546c412":{"view_name":"legal_case_related_blog_posts","view_display_id":"panel_pane_1","view_args":"82069","view_path":"node\/82069","view_base_path":null,"view_dom_id":"35c07f7a1c91c0f0592006acf546c412","pager_element":0},"views_dom_id:8070f9e77f77b05fdcb3616404435e59":{"view_name":"legal_case_related_press_release","view_display_id":"panel_pane_1","view_args":"82069","view_path":"node\/82069","view_base_path":"node\/82069","view_dom_id":"8070f9e77f77b05fdcb3616404435e59","pager_element":0},"views_dom_id:84c566e54105d4e45ca52d112436de57":{"view_name":"legal_case_eff_in_the_news","view_display_id":"panel_pane_1","view_args":"82069","view_path":"node\/82069","view_base_path":"node\/82069","view_dom_id":"84c566e54105d4e45ca52d112436de57","pager_element":0},"views_dom_id:9621928f4887f2676752349ee08bab28":{"view_name":"other_resources","view_display_id":"panel_pane_1","view_args":"82069","view_path":"node\/82069","view_base_path":"node\/82069","view_dom_id":"9621928f4887f2676752349ee08bab28","pager_element":0}}},"panelsTabs":{"tabsID":["tabs-0-related"]},"responsive_menus":[{"selectors":"#header-sls-menu","trigger_txt":"\u003Cspan class=\u0022mean-burger\u0022\/\u003E\u003Cspan class=\u0022mean-burger\u0022\/\u003E\u003Cspan class=\u0022mean-burger\u0022\/\u003E","close_txt":"X","close_size":"18px","position":"right","media_size":"480","show_children":"1","expand_children":"0","expand_txt":"+","contract_txt":"-","remove_attrs":"1","responsive_menus_style":"mean_menu"}],"piwikNoscript":{"image":"\u003Cimg style=\u0022position: absolute\u0022 src=\u0022https:\/\/anon-stats.eff.org\/piwik.php?idsite=1\u0026amp;rec=1\u0026amp;url=https%3A\/\/www.eff.org\/cases\/smith-v-obama\u0026amp;action_name=\u0026amp;urlref=\u0022 width=\u00220\u0022 height=\u00220\u0022 alt=\u0022\u0022 \/\u003E"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-82069 node-type-case i18n-en" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page">
+  <div id="container-wrapper">
+    <div id="container">
+      <div id="header-wrapper">
+        <div class="header-content">
+          <div class="panel-pane pane-pane-header"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="header">
+  <div class="section clearfix">
+    <div id="logo-title">
+
+              <a href="/" title="Home" rel="home" id="logo"><img src="https://www.eff.org/sites/all/themes/frontier/images/logo_full.png" alt="Home" /></a>
+      
+      <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/" title="Home" rel="home"><span>Electronic Frontier Foundation</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Defending your rights in the digital world</div>
+              </div> <!-- /name-and-slogan -->
+    </div> <!-- /logo-title -->
+
+  </div> <!-- /section -->
+</div> <!-- /header -->
+  </div>
+
+  
+  </div>
+        </div>
+        <div class="search-box">
+          <div class="panel-pane pane-block pane-search-form"  >
+  
+      
+  
+  <div class="pane-content">
+    <form action="/search/site" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-cQ_WzegCqZZwIsfsqgheH4d3yBJJy2ktuBO4xIsi5zE" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+
+  
+  </div>
+        </div>  
+      </div>
+      <div id="main-menu-nav" class="navigation">
+          <div class="panel-pane pane-pane-navigation"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="navigation" class="menu withprimary ">
+      <div id="primary" class="clear-block">
+      <h2>Main menu</h2><ul id="main-menu" class="links clearfix inline"><li class="menu-925 first"><a href="/" title="">Home</a></li>
+<li class="menu-1746"><a href="/about">About</a></li>
+<li class="menu-689 active-trail"><a href="/issues" class="active-trail">Our Work</a></li>
+<li class="menu-301"><a href="/deeplinks">Deeplinks Blog</a></li>
+<li class="menu-302"><a href="/press">Press Room</a></li>
+<li class="menu-303"><a href="/action" title="">Take Action</a></li>
+<li class="menu-926 last"><a href="https://supporters.eff.org/shop" title="">Shop</a></li>
+</ul>    </div>
+  
+</div> <!-- /navigation -->
+  </div>
+
+  
+  </div>
+      </div>
+      <div id="breadcrumb">
+                </div>
+      <div id="main">
+        <div class="layout-main-content">
+          <div class="panel-pane pane-page-content"  >
+  
+      
+  
+  <div class="pane-content">
+    
+  <div id="panel-case-page">
+    <div class="case-page-top">
+      <div class="case-page-top-above">
+              </div>
+      <div class="clr"></div>
+      <div class="case-page-top-left ">
+      <div class="panel-pane pane-eff-node-title"  >
+  
+      
+  
+  <div class="pane-content">
+    <h2 class="node-title">Smith v. Obama</h2>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-node-content"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="node-82069" class="node node-case clearfix">
+
+  
+      
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>In <em>Smith</em>, EFF, along with the American Civil Liberties Union (ACLU) and the American Civil Liberties Union of Idaho, have joined the legal team for Anna Smith, an Idaho emergency neonatal nurse, in her challenge of the government's bulk collection of the telephone records of millions of innocent Americans.</p>
+<p>Smith filed suit against President Obama and several U.S. intelligence agencies shortly after the government confirmed revelations that the National Security Agency (NSA) was conducting bulk collection of telephone records under Section 215 of the Patriot Act. Smith, a customer of Verizon wireless, one of the companies that was ordered to disclose records to the NSA, argued the program violated her First and Fourth Amendment rights by collecting a wealth of detail about her familial, political, professional, religious and intimate associations.</p>
+<p>When U.S. District Judge Lynn Winmill dismissed Smith's case, he expressed grave concerns about the privacy implications of the NSA's surveillance but said that he believed that a 1979 Supreme Court case about targeted surveillance tied his hands. Along with EFF and the ACLU, Smith is now appealing to the Ninth Circuit Court of Appeals. The appellate court heard oral argument in the case on December 8, 2014. You can watch the oral argument here <a title="Smith Oral Argument" href="http://www.ca9.uscourts.gov/media/view_video.php?pk_vid=0000006844">http://www.ca9.uscourts.gov/media/view_video.php?pk_vid=0000006844</a>.</p>
+
+</div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+
+  
+  </div>
+      </div>
+            </div>
+    <div class="clr"></div>
+    <div class="case-page-related-notabs">
+          </div>
+    <div class="case-page-related">
+      <div id="tabs-0-related"><div class="item-list"><ul><li class="first"><a href="#tabs-0-related-1">Documents</a></li>
+<li><a href="#tabs-0-related-2">Blog Posts</a></li>
+<li><a href="#tabs-0-related-3">Press Releases</a></li>
+<li class="last"><a href="#tabs-0-related-4">In the News</a></li>
+</ul></div><div id="tabs-0-related-1"><div class="panel-pane pane-views-panes pane-legal-case-related-docs-no-filev-panel-pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-legal-case-related-docs-no-filev view-id-legal_case_related_docs_no_filev view-display-id-panel_pane_1 view-dom-id-113e8246d85f4ae6fea02ac300b40b93">
+        
+      <div class="view-filters">
+      <form action="/cases/smith-v-obama" method="get" id="views-exposed-form-legal-case-related-docs-no-filev-panel-pane-1" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-keys-wrapper" class="views-exposed-widget views-widget-filter-keys">
+                  <label for="edit-keys">
+            Search Terms          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-keys">
+ <input title="Enter the terms you wish to search for." type="text" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-text" />
+</div>
+        </div>
+              </div>
+              <div class="views-exposed-widget views-widget-sort-by">
+        <div class="form-item form-type-select form-item-sort-by">
+  <label for="edit-sort-by">Sort by </label>
+ <select id="edit-sort-by" name="sort_by" class="form-select"><option value="field_file_date_value" selected="selected">Date</option><option value="title">Title</option></select>
+</div>
+      </div>
+      <div class="views-exposed-widget views-widget-sort-order">
+        <div class="form-item form-type-select form-item-sort-order">
+  <label for="edit-sort-order">Order </label>
+ <select id="edit-sort-order" name="sort_order" class="form-select"><option value="ASC">Asc</option><option value="DESC" selected="selected">Desc</option></select>
+</div>
+      </div>
+                <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-legal-case-related-docs-no-filev" name="" value="Apply" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-43616"> <span class="pdfpreview-image-wrapper"><a href="/document/governments-citation-supplemental-authorities-clapper"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/758f081a37480aa39685f2d27075c074.jpg?itok=Oh2rSspR" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">November 10, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/governments-citation-supplemental-authorities-clapper" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Government&#039;s Citation of Supplemental Authorities (Clapper)</a> <a href="https://www.eff.org/files/2015/11/10/smith_govts_28j_letter_re_clapper.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-43128"> <span class="pdfpreview-image-wrapper"><a href="/document/governments-response-request-judicial-notice"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/38b265860ba0fe60ebd1323abe5bbb30.jpg?itok=oljhh30C" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">September 22, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/governments-response-request-judicial-notice" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Government&#039;s Response to Request for Judicial Notice</a> <a href="https://www.eff.org/files/2015/09/22/smith_govt_response_to_our_rjn.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-43019"> <span class="pdfpreview-image-wrapper"><a href="/document/request-judicial-notice-1"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/849a2241f0fab3eb66adfb4a29ccc7b8.jpg?itok=vrB3-i1k" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">September 9, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/request-judicial-notice-1" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Request for Judicial Notice</a> <a href="https://www.eff.org/files/2015/09/09/smith_rjn_fisc_letter.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-42692"> <span class="pdfpreview-image-wrapper"><a href="/document/order-withdrawing-case-until-aclu-v-clapper-decided"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/b28ccf11ac5f90e1a4981d6116d2fdf5.jpg?itok=FmC2XjeE" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">July 27, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/order-withdrawing-case-until-aclu-v-clapper-decided" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Order Withdrawing Case Until ACLU v. Clapper is Decided</a> <a href="https://www.eff.org/files/2015/07/27/smith_order_withdrawing_case.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-42615"> <span class="pdfpreview-image-wrapper"><a href="/document/governments-notice-supplemental-authorities-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/b9a6cde0adb72157622591375e2b2458.jpg?itok=sbQgb7p9" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">July 15, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/governments-notice-supplemental-authorities-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Government&#039;s Notice of Supplemental Authorities</a> <a href="https://www.eff.org/files/2015/07/15/smith_govt_28j_letter.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-42386"> <span class="pdfpreview-image-wrapper"><a href="/document/govts-supplemental-brief-usa-freedom-act"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/9b34bbe46bab6efc1d39eca0b962f902.jpg?itok=wO52t8ma" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">June 19, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/govts-supplemental-brief-usa-freedom-act" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Govt&#039;s Supplemental Brief on USA FREEDOM Act</a> <a href="https://www.eff.org/files/2015/06/19/smith_govt_supp_brief.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-42385"> <span class="pdfpreview-image-wrapper"><a href="/document/our-supplemental-brief-usa-freedom-act"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/e19cfe68811862fdb5a7abcfd2660364.jpg?itok=9sSdOava" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">June 19, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/our-supplemental-brief-usa-freedom-act" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Our Supplemental Brief on USA FREEDOM Act</a> <a href="https://www.eff.org/files/2015/06/19/smith_our_supp_brief.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-42294"> <span class="pdfpreview-image-wrapper"><a href="/document/order-denying-motion-alter-breifing-schedule"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/1d017bce389035aacdac7a432f6efc38.jpg?itok=vYH9sYZH" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">June 11, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/order-denying-motion-alter-breifing-schedule" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Order Denying Motion to Amend Breifing Schedule</a> <a href="https://www.eff.org/files/2015/06/11/smith_order_denying_motion_alter_briefing_sched.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-42291"> <span class="pdfpreview-image-wrapper"><a href="/document/motion-amend-schedule-supplemental-briefing"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/9cf2f5e605b468efea01ed3359c4fad4.jpg?itok=eSRJnBwv" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">June 10, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/motion-amend-schedule-supplemental-briefing" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Motion to Amend Schedule for Supplemental Briefing</a> <a href="https://www.eff.org/files/2015/06/10/smith_motion_supp_brief_sched.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-10 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-42257"> <span class="pdfpreview-image-wrapper"><a href="/document/order-requesting-supplemental-briefing"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/6f1b95c02abc2e4199a24881ebf9c2fa.jpg?itok=pjwb8gZi" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">June 3, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/order-requesting-supplemental-briefing" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Order Requesting Supplemental Briefing</a> <a href="https://www.eff.org/files/2015/06/03/smith_order_supp_briefing.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-42168"> <span class="pdfpreview-image-wrapper"><a href="/document/govts-opposition-plaintiffs-citation-supp-authorities"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/71a7bcc47a1e13e8ea7c6508261be900.jpg?itok=yhC4jqrC" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">May 21, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/govts-opposition-plaintiffs-citation-supp-authorities" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Govt&#039;s Opposition to Plaintiffs&#039; Citation of Supp. Authorities</a> <a href="https://www.eff.org/files/2015/05/21/smith_govt_opp_to_our_28j_letter.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-12 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-42135"> <span class="pdfpreview-image-wrapper"><a href="/document/governments-citation-supplemental-authorities-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/4f59b17581d92ee4c5c9bf77d12be71f.jpg?itok=T2J-lZTx" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">May 15, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/governments-citation-supplemental-authorities-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Government&#039;s Citation of Supplemental Authorities re Davis</a> <a href="https://www.eff.org/files/2015/05/15/smith_govts_28j_davis.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-42120"> <span class="pdfpreview-image-wrapper"><a href="/document/appellants-citation-supplemental-authorities"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/f4420c5d8de2e14fd16e4cde0c1c7dfd.jpg?itok=sf4aPkWk" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">May 12, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/appellants-citation-supplemental-authorities" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Appellant&#039;s Citation of Supplemental Authorities re ACLU v. Clapper</a> <a href="https://www.eff.org/files/2015/05/12/smith_rule_28j_letter.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-14 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-41657"> <span class="pdfpreview-image-wrapper"><a href="/document/governments-citation-supplemental-authorities"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/09d1e99caa5d28fea8e3d3d7714cda21.jpg?itok=5PrxVAQT" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">February 13, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/governments-citation-supplemental-authorities" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Government&#039;s Response to Citation of Supplemental Authorities</a> <a href="https://www.eff.org/files/2015/02/13/smith_govt_28j_letter.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-15 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-41328"> <span class="pdfpreview-image-wrapper"><a href="/document/appellants-rule-28j-letter-re-dea-declaration"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/1799fc9b189e2e56f164d1cc7e94d0b5.jpg?itok=ppGNCNU_" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">January 23, 2015</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/appellants-rule-28j-letter-re-dea-declaration" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Appellant&#039;s Citation of Supplemental Authorities re DEA Declaration</a> <a href="https://www.eff.org/files/2015/01/23/smith_appellants_28j_letter.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-16 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40809"> <span class="pdfpreview-image-wrapper"><a href="/document/motion-amicus-center-natl-security-studies-participate-oral-argument"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/dad61e4bad400a1e14249c3871f237dc.jpg?itok=4AVdLuXh" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">October 24, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/motion-amicus-center-natl-security-studies-participate-oral-argument" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Motion of Amicus Center for Nat&#039;l Security Studies to Participate in Oral Argument</a> <a href="https://www.eff.org/files/2014/10/27/smithcnssmtnoralarg.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-17 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40768"> <span class="pdfpreview-image-wrapper"><a href="/document/smiths-reply-brief"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/2a216db6fc40eddfae52c6b95c13d94f.jpg?itok=esxUlhKo" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">October 16, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/smiths-reply-brief" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Smith&#039;s Reply Brief</a> <a href="https://www.eff.org/files/2014/10/17/smith_our_reply_brief.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-18 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40695"> <span class="pdfpreview-image-wrapper"><a href="/document/governments-smith-answering-brief"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/a05bc5a9dcca75b71301e437fc8bb6cc.jpg?itok=WzLnAUSq" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">October 2, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/governments-smith-answering-brief" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Government&#039;s Answering Brief</a> <a href="https://www.eff.org/files/2014/10/02/smith_govt_response_brief.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-19 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40531"> <span class="pdfpreview-image-wrapper"><a href="/document/nacdl-smith-amicus-brief"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/6ea593e40c1711c85f25e8f34c244a25.jpg?itok=GA8wdeQr" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">September 9, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/nacdl-smith-amicus-brief" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">National Association of Criminal Defense Lawyers Amicus Brief</a> <a href="https://www.eff.org/files/2014/09/09/nacdl_smith_amicus_brief.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-20 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40538"> <span class="pdfpreview-image-wrapper"><a href="/document/cnss-smith-amicus"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/735d0c84b49e4da40c349d1d48cf6010.jpg?itok=dfhur3nG" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">September 9, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/cnss-smith-amicus" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Center for National Security Studies Amicus Brief</a> <a href="https://www.eff.org/files/2014/09/09/cnss_smith_amicus.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-21 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40542"> <span class="pdfpreview-image-wrapper"><a href="/document/rcfp-smith-amicus-brief"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/e8901afafc953008fe3de8a9021be307.jpg?itok=3opFJRof" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">September 9, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/rcfp-smith-amicus-brief" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Reporters Committee for Freedom of the Press Amicus Brief</a> <a href="https://www.eff.org/files/2014/09/10/rcfp_corrected_amicus_brief.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-22 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40530"> <span class="pdfpreview-image-wrapper"><a href="/document/pen-american-smith-amicus-brief"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/480ec6926a0a174c81524ea8216f10d7.jpg?itok=8c_h8G-7" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">September 9, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/pen-american-smith-amicus-brief" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">PEN American Center Amicus Brief</a> <a href="https://www.eff.org/files/2014/09/09/pen_american_smith_amicus_brief.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-23 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40541"> <span class="pdfpreview-image-wrapper"><a href="/document/electronic-privacy-information-center-amicus-brief"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/0386d6668c23597feb41f278d097d979.jpg?itok=exPGb5h3" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">September 9, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/electronic-privacy-information-center-amicus-brief" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Electronic Privacy Information Center Amicus Brief</a> <a href="https://www.eff.org/files/2014/09/09/epic-amicus-14-35555.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-24 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40537"> <span class="pdfpreview-image-wrapper"><a href="/document/wyden-udall-heinrich-smith-amicus"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/56e495c4130635e87b1ccf06abf20353.jpg?itok=6ljyk33i" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">September 9, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/wyden-udall-heinrich-smith-amicus" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Senators Wyden, Udall and Heinrich Amicus Brief</a> <a href="https://www.eff.org/files/2014/09/09/wyden_udall_heinrich_smith_amicus.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-25 views-row-odd">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40501"> <span class="pdfpreview-image-wrapper"><a href="/document/excerpts-record-volume-2"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/2722d57e70267ca5b11c3a2d0baad116.jpg?itok=d-aHa0H0" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">September 2, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/excerpts-record-volume-2" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Excerpts of Record Volume 2</a> <a href="https://www.eff.org/files/2014/09/03/smith_eor2.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-26 views-row-even">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40499"> <span class="pdfpreview-image-wrapper"><a href="/document/opening-brief-0"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/235a27ce21150b7dbccf88e079f6dbb6.jpg?itok=e04nDqjI" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">September 2, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/opening-brief-0" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Opening Brief</a> <a href="https://www.eff.org/files/2014/09/03/smith_opening_brief.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+          <li class="views-row views-row-27 views-row-odd views-row-last">  
+  <div class="views-field views-field-field-file-file-1">        <div class="field-content"><div class="pdfpreview pdfpreview-field_file_file" id="pdfpreview-40500"> <span class="pdfpreview-image-wrapper"><a href="/document/excerpts-record-volume-1"><img src="https://www.eff.org/files/styles/thumbnail/public/pdfpreview/f6b47928b3af9027864df75be136b6a4.jpg?itok=YuoMTVdQ" alt="" /></a></span> </div></div>  </div>  
+  <span class="views-field views-field-field-file-date">        <span class="field-content"><span class="date-display-single">September 2, 2014</span></span>  </span>  
+  <span class="views-field views-field-edit-node">        <span class="field-content"></span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/document/excerpts-record-volume-1" rel="llightframe[|width:900px; height:900px; scrolling: auto;]&quot;">Excerpts of Record Volume 1</a> <a href="https://www.eff.org/files/2014/09/03/smith_eor1.pdf ">[PDF]</a></span>  </div>  
+  <div class="views-field views-field-field-file-description">        <div class="field-content clear-block"></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div><div id="tabs-0-related-2"><div class="panel-pane pane-views-panes pane-legal-case-related-blog-posts-panel-pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-legal-case-related-blog-posts view-id-legal_case_related_blog_posts view-display-id-panel_pane_1 view-dom-id-35c07f7a1c91c0f0592006acf546c412">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-created">        <span class="field-content">September 18, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/09/update-eff-case-arguing-nsa-spying-violated-groups-first-amendment-rights">Update on First Unitarian Church v. NSA: EFF&#039;s First Amendment Challenge to NSA Spying</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">September 11, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/09/eff-filings-show-phone-companies-participation-nsa-spying-no-state-secret">EFF Provides Evidence to Courts of Verizon Wireless, Sprint and AT&amp;T Participation in NSA Spying</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-created">        <span class="field-content">July 29, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/07/government-tries-blame-privacy-advocates-keeping-telephone-records">NSA Tries to Blame Privacy Advocates for Keeping Americans&#039; Telephone Records</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">June 23, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/06/how-usa-freedom-impacts-ongoing-nsa-litigation">How USA Freedom Impacts Ongoing NSA Litigation </a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-created">        <span class="field-content">June 5, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/06/fighting-privacy-two-years-after-snowden">Fighting for Privacy, Two Years After Snowden</a></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">May 31, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/05/dont-worry-government-still-has-plenty-surveillance-power-if-section-215-sunsets">Don’t Worry, the Government Still Has Plenty of Surveillance Power If Section 215 Sunsets</a></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-created">        <span class="field-content">May 22, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/05/why-mitch-mcconnell-cannot-be-allowed-decide-fate-patriot-act">Why Mitch McConnell Cannot Be Allowed to Decide the Fate of the Patriot Act</a></span>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field views-field-created">        <span class="field-content">May 11, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/05/aclu-v-clapper-and-congress-how-second-circuits-decision-affects-legislative">ACLU v. Clapper and the Congress: How The Second Circuit’s Decision Affects the Legislative Landscape</a></span>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field views-field-created">        <span class="field-content">May 9, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/05/eff-case-analysis-appeals-court-rules-nsa-phone-records-dragnet-illegal">EFF Case Analysis: Appeals Court Rules NSA Phone Records Dragnet is Illegal</a></span>  </div></li>
+          <li class="views-row views-row-10 views-row-even views-row-last">  
+  <div class="views-field views-field-created">        <span class="field-content">March 24, 2015</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/deeplinks/2015/03/white-house-confirms-if-section-215-expires-so-does-bulk-phone-records-collection">White House Confirms: If Section 215 Expires, So Does Bulk Phone Records Collection</a></span>  </div></li>
+      </ul></div>    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/cases/smith-v-obama?page=1">2</a></li>
+<li class="pager-next"><a title="Go to next page" href="/cases/smith-v-obama?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/cases/smith-v-obama?page=1">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div><div id="tabs-0-related-3"><div class="panel-pane pane-views-panes pane-legal-case-related-press-release-panel-pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-legal-case-related-press-release view-id-legal_case_related_press_release view-display-id-panel_pane_1 view-dom-id-8070f9e77f77b05fdcb3616404435e59">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-created">        <span class="field-content">December 4, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/press/releases/appeals-court-hear-oral-arguments-idaho-womans-case-against-nsa-spying">Appeals Court to Hear Oral Arguments in Idaho Woman&#039;s Case Against NSA Spying</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even views-row-last">  
+  <div class="views-field views-field-created">        <span class="field-content">July 16, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/press/releases/eff-aclu-join-idaho-moms-legal-challenge-nsa-surveillance">EFF, ACLU Join Idaho Mom’s Legal Challenge to NSA Surveillance </a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div><div id="tabs-0-related-4"><div class="panel-pane pane-views-panes pane-legal-case-eff-in-the-news-panel-pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-legal-case-eff-in-the-news view-id-legal_case_eff_in_the_news view-display-id-panel_pane_1 view-dom-id-84c566e54105d4e45ca52d112436de57">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">May 11, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| Newsweek</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.newsweek.com/judgment-day-us-surveillance-state-330761" target="_blank">Judgment Day for the U.S. Surveillance State</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">May 10, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| Boing Boing</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://boingboing.net/2015/05/10/what-did-the-courts-just-do-th.html" target="_blank">What did the courts just do to NSA spying?</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">May 8, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| Newsmax</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://www.newsmax.com/Newsmax-Tv/Pete-Hoekstra-David-Greene-court-traitor/2015/05/08/id/643619/" target="_blank">Pete Hoekstra: Snowden &#039;Still a Traitor&#039; Despite Court Ruling</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">May 8, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| The Economic Times</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://articles.economictimes.indiatimes.com/2015-05-08/news/61947811_1_usa-freedom-act-nsa-dragnet-collection" target="_blank">Obama administration calls for new law to reform NSA&#039;s telephone and Internet spying</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">May 7, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| Sputnik News</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://sputniknews.com/analysis/20150507/1021801252.html" target="_blank">NSA Uses Phone Call Transcription Technology, Violates Privacy</a></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">May 7, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| U.S. News &amp; World Report</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.usnews.com/news/articles/2015/05/07/nsa-phone-record-program-illegal-appeals-court-finds?int=a14709" target="_blank">NSA Phone Record Program Illegal, Appeals Court Finds</a></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">January 1, 2015</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| ARS Technica</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://arstechnica.com/tech-policy/2015/01/if-the-supreme-court-tackles-the-nsa-in-2015-itll-be-one-of-these-five-cases/" target="_blank"> If the Supreme Court tackles the NSA in 2015, it’ll be one of these five cases</a></span>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">December 8, 2014</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| ARS Technica</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://arstechnica.com/tech-policy/2014/12/idaho-moms-suit-over-nsa-database-gets-a-cool-reception-from-appeals-court/" target="_blank"> Idaho mom’s suit over NSA database gets a cool reception from appeals court</a></span>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">December 8, 2014</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| The Hill</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://thehill.com/policy/technology/226340-nsa-collection-again-goes-before-appeals-court" target="_blank">NSA data program back in federal court</a></span>  </div></li>
+          <li class="views-row views-row-10 views-row-even views-row-last">  
+  <span class="views-field views-field-field-mention-date">        <span class="field-content"><span class="date-display-single">December 8, 2014</span></span>  </span>  
+  <span class="views-field views-field-field-mention-source">        <span class="field-content">| SC Magazine</span>  </span>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.scmagazine.com/smith-v-obama-case-argued-in-appeals-court/article/387233/" target="_blank">Court hears oral arguments for appeal in Smith v. Obama</a></span>  </div></li>
+      </ul></div>    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/cases/smith-v-obama?page=1">2</a></li>
+<li class="pager-next"><a title="Go to next page" href="/cases/smith-v-obama?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/cases/smith-v-obama?page=1">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div></div>    </div>
+  </div>
+
+  </div>
+
+  
+  </div>
+        </div>
+                <div class="layout-right-sidebar">
+          <div class="panel-pane pane-sidebar-button"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="sidebar-big-button donate"><a href="https://supporters.eff.org/donate/button">Donate to EFF</a></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-sidebar-newsletter"  >
+  
+        <h2 class="pane-title">
+      Stay in Touch    </h2>
+    
+  
+  <div class="pane-content">
+    <form action="https://supporters.eff.org/subscribe" method="post" class="newsletter-form" accept-charset="UTF-8">
+<div class="form-item form-type-textfield form-item-email-address">
+  <label for="edit-email" style="display:none">Email Address</label>
+  <input placeholder="Email Address" type="text" style="margin-bottom:5px" name="email" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-postal-code">
+  <label for="edit-postal-code" style="display:none">Postal Code (optional) </label>
+  <input placeholder="Postal Code (optional)" type="text" name="postal_code" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<input type="submit" name="op" value="Sign Up Now" class="form-submit" />
+<input type="hidden" name="form_id" value="eff_supporters_library_subscribe_form" />
+</form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-nsa-spying"  >
+  
+        <h2 class="pane-title">
+      NSA Spying    </h2>
+    
+  
+  <div class="pane-content">
+    <div>
+  <div>
+    <p><a style="display:block; height:50px; background-color:#ffffff; padding:5px; border-radius:20px;" href="/nsa-spying">
+      <img style="float:left; margin-right:10px;" width="50" height="50" src="/sites/all/modules/custom/eff_library/images/NSA-small.png" title="NSA Spying" />
+      <strong style="float:left; height:50px; line-height:50px; font-family: Arial">eff.org/nsa-spying</strong>
+    </a></p>
+  </div>
+  <p style="font-size:0.8em; line-height:150%; color:#666666;">EFF is leading the fight against the NSA's illegal mass surveillance program. <a href="/nsa-spying">Learn more</a> about what the program is, how it works, and what you can do.</p>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-twitterator-follow-eff-panel-pane-1"  >
+  
+        <h2 class="pane-title">
+      Follow EFF    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-twitterator-follow-eff view-id-twitterator_follow_eff view-display-id-panel_pane_1 view-dom-id-cd4d411dcdb4044274ebf7d5ef35ae0c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-tweet">        <div class="field-content"><p>USA Today has a huge scoop on DEA’s massive number of questionable wiretaps out of Riverside, CA: <a href="http://www.usatoday.com/story/news/2015/11/11/dea-wiretap-operation-riverside-california/75484076/">http://www.usatoday.com/story...</a></p>
+</div>  </div>  
+  <div class="views-field views-field-field-twitpic">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Nov 11 @ 11:28am</span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-tweet">        <div class="field-content"><p>When it comes to police body cameras, &quot;accountability is not automatic.&quot; @civilrightsorg scores body cam policies: <a href="https://www.bwcscorecard.org/">https://www.bwcscorecard.org/</a></p>
+</div>  </div>  
+  <div class="views-field views-field-field-twitpic">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Nov 10 @ 5:08pm</span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-tweet">        <div class="field-content"><p>4 takeaways from the Congressional copyright reform committee&#039;s visit to Silicon Valley: <a href="https://www.eff.org/deeplinks/2015/11/4-key-takeaways-copyright-reform-committees-silicon-valley-listening-tour">https://www.eff.org/deeplinks...</a></p>
+</div>  </div>  
+  <div class="views-field views-field-field-twitpic">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Nov 10 @ 4:48pm</span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <ul id="social-networks">
+<li><a href="https://twitter.com/eff">Twitter</a></li>
+<li><a href="https://www.facebook.com/eff">Facebook</a></li>
+<li><a href="https://identi.ca/eff">Identi.ca</a></li>
+</ul>
+
+    </div>
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-projects"  id="projects-menu" >
+  
+        <h2 class="pane-title">
+      Projects    </h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/bloggers" title="">Bloggers&#039; Rights</a></li>
+<li class="leaf"><a href="/issues/coders" title="">Coders&#039; Rights</a></li>
+<li class="leaf"><a href="/social-networks" title="">Follow EFF</a></li>
+<li class="leaf"><a href="/free-speech-weak-link" title="">Free Speech Weak Links</a></li>
+<li class="leaf"><a href="https://globalchokepoints.org/" title="">Global Chokepoints</a></li>
+<li class="leaf"><a href="/https-everywhere" title="">HTTPS Everywhere</a></li>
+<li class="leaf"><a href="https://www.manilaprinciples.org/" title="">Manila Principles</a></li>
+<li class="leaf"><a href="https://www.eff.org/issues/medical-privacy" title="">Medical Privacy Project</a></li>
+<li class="leaf"><a href="https://openwireless.org" title="">Open Wireless Movement</a></li>
+<li class="leaf"><a href="https://w2.eff.org/patent/" title="">Patent Busting</a></li>
+<li class="leaf"><a href="/privacybadger" title="">Privacy Badger</a></li>
+<li class="leaf"><a href="https://www.eff.org/fight" title="">Student Activism </a></li>
+<li class="leaf"><a href="https://ssd.eff.org" title="">Surveillance Self-Defense</a></li>
+<li class="leaf"><a href="/takedowns" title="">Takedown Hall of Shame</a></li>
+<li class="leaf"><a href="http://www.teachingcopyright.org/" title="">Teaching Copyright</a></li>
+<li class="leaf"><a href="https://www.eff.org/issues/transparency" title="">Transparency Project</a></li>
+<li class="leaf"><a href="https://trollingeffects.org" title="">Trolling Effects</a></li>
+<li class="last leaf"><a href="/helpout" title="">Ways To Help</a></li>
+</ul>  </div>
+
+  
+  </div>
+        </div>
+              </div>
+    </div>
+  </div>
+</div>
+<div id="footer-wrapper">
+  <div id="footer">
+    <div id="footerleft">
+      <div class="panel-pane pane-footer-elements"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="cc"><a href="https://www.eff.org/copyright"><img src="https://www.eff.org/sites/all/themes/frontier/images/cc-by-logo.png" alt="Creative Commons Licensed" /></a></div>  </div>
+
+  
+  </div>
+    </div>
+    <div id="footerright">
+      <div class="panel-pane pane-block pane-menu-menu-footer-menu"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/thanks" title="">Thanks</a></li>
+<li class="leaf"><a href="/rss" title="">RSS Feeds</a></li>
+<li class="leaf"><a href="/copyright" title="">Copyright Policy</a></li>
+<li class="leaf"><a href="/policy" title="">Privacy Policy</a></li>
+<li class="last leaf"><a href="/about/contact" title="">Contact EFF</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div>  <a href="/librejs/jslicense" rel="jslicense" style="display: none">JavaScript license information</a><div id="piwik-noscript"></div><noscript><img style="position: absolute" src="https://anon-stats.eff.org/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A//www.eff.org/cases/smith-v-obama&amp;action_name=Smith%20v.%20Obama%20%7C%20Electronic%20Frontier%20Foundation" width="0" height="0" alt="" /></noscript>
+</body>
+</html>

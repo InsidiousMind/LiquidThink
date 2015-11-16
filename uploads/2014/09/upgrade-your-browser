@@ -1,0 +1,225 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en-us" >
+    <head>
+        <title>
+            
+                Best Online Courses
+            
+            
+                | Udemy
+            
+        </title>
+
+        
+            
+                
+
+
+<meta name="description" content="Udemy is the world&#39;s largest destination for online courses. Discover an online course on Udemy.com and start learning a new skill today.">
+
+<meta name="google-play-app" content="app-id=com.udemy.android"> <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"> <meta name="medium" content="mult"> <meta name="apple-itunes-app" content="app-id=562413829, affiliate-data=ct=Safari_SmartBanner&amp;amp;pt=1240482"> <meta name="twitter:card" content="summary"> <meta name="title" content="Online Courses - Anytime, Anywhere | Udemy">
+<meta property="fb:app_id" content="313137469260"> <meta http-equiv="X-UA-Compatible" content="IE=Edge"> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta http-equiv="Content-Language" content="en-us"> <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta property="og:title" content="Online Courses - Anytime, Anywhere | Udemy">
+<meta property="og:url" content="https://www.udemy.com/static/upgrade-your-browser/">
+<meta property="og:description" content="Udemy is the world&#39;s largest destination for online courses. Discover an online course on Udemy.com and start learning a new skill today.">
+<meta property="og:image" content="https://www.udemy.com/staticx/udemy/images/v4/logo.jpg">
+<meta property="og:type" content="video_lecture">
+<meta property="og:site_name" content="Udemy">
+<meta property="og:locale" content="en_US">
+
+
+<meta name="twitter:title" content="Online Courses - Anytime, Anywhere | Udemy">
+<meta name="twitter:url" content="https://www.udemy.com/static/upgrade-your-browser/">
+<meta name="twitter:description" content="Udemy is the world&#39;s largest destination for online courses. Discover an online course on Udemy.com and start learning a new skill today.">
+<meta name="twitter:image" content="https://www.udemy.com/staticx/udemy/images/v4/logo.jpg">
+<meta name="twitter:site" content="@udemy">
+
+
+<meta itemprop="name" content="Online Courses - Anytime, Anywhere | Udemy">
+<meta itemprop="url" content="https://www.udemy.com/static/upgrade-your-browser/">
+<meta itemprop="description" content="Udemy is the world&#39;s largest destination for online courses. Discover an online course on Udemy.com and start learning a new skill today.">
+<meta itemprop="image" content="https://www.udemy.com/staticx/udemy/images/v4/logo.jpg">
+
+
+
+            
+        
+
+        
+            <link rel="stylesheet" media="all" type="text/css" href="https://www.udemy.com/staticx/udemy/css/udemy.css?v=385b0df3d74445d82139b757ca0c9b1e34591644"/>
+        
+
+        
+            
+            <link rel="subresource"
+                  href="//d1azc1qln24ryf.cloudfront.net/25291/udemy/style-cf.css?pwotjf"
+                    />
+            
+
+            
+            <link rel="preconnect" href="//dujk9xa5fr1wz.cloudfront.net"/>
+            
+            <link rel="dns-prefetch" href="//d1azc1qln24ryf.cloudfront.net"/>
+            <link rel="dns-prefetch" href="//dujk9xa5fr1wz.cloudfront.net"/>
+            
+        
+
+        
+            <link rel="icon" href="/favicon-new-32x32.ico" type="image/x-icon">
+        
+
+        
+            <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+        
+
+        
+            <style>
+    .org-logo {
+        background-image: url('https://www.udemy.com/staticx/udemy/images/v4/logo-green.png');
+    }
+
+    @media (min-resolution: 2dppx),
+    (min-resolution: 192dpi),
+    (-webkit-min-device-pixel-ratio: 2) {
+        @-ms-viewport { width:device-width; zoom:1.0; }
+        .org-logo {
+            /*retina display*/
+            background-image: url('https://www.udemy.com/staticx/udemy/images/v4/logo-green.png');
+        }
+    }
+
+    
+</style>
+
+        
+
+        
+    <style>
+        body {
+            background: #fff none;
+        }
+    </style>
+
+
+        <script type="text/javascript">
+    (function () {
+        var head,
+            regExp = "",
+            version = -1,
+            userAgent = navigator.userAgent;
+
+        if (navigator.appName == 'Microsoft Internet Explorer') {
+            regExp = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+        } else if (navigator.appName == 'Netscape') {
+            regExp = new RegExp("Trident/.*rv:([0-9]{1,}[\.0-9]{0,})");
+        }
+        if (regExp && regExp.exec(userAgent) != null) {
+            version = parseFloat(RegExp.$1);
+        }
+
+        if (version > 9) {
+            head = document.getElementsByTagName("html")[0];
+            head.className = head.className + " ie";
+            if (version == 10) {
+                head.className = head.className + " ie10";
+            }
+        }
+    })();
+</script>
+
+
+        
+    <script type="text/javascript" src="https://cdn.optimizely.com/js/305025425.js"></script>
+
+
+
+        
+    </head>
+    <body id="udemy"
+          class="  udemy ">
+
+        
+
+
+
+<script src="/js-global/config.js"></script>
+<script>
+var UD = UD || {};
+
+UD.me = {};
+</script>
+<script>
+    var UD = UD || {};
+    
+    UD.request = {
+        'locale': 'en_US'
+    };
+    UD.helloBarId = '';
+
+    /*
+      It will be exposed in `UD.Config.brand.is_external_sources_enabled` but we need it
+      before `requirejs` package definitions.
+    */
+    UD.is_external_sources_enabled = true;
+</script>
+
+<script src="https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=385b0df3d74445d82139b757ca0c9b1e34591644"></script>
+
+    <script type="text/javascript" src="https://www.udemy.com/staticx/jsi18n/en-us.js"></script>
+
+
+<script src="https://www.udemy.com/staticx/udemy/js/main.conf.js?v=385b0df3d74445d82139b757ca0c9b1e34591644"></script>
+
+
+
+        
+
+        
+
+
+        
+
+
+
+        
+<div id="upgrade-browser" class="container">
+    <div id="big-logo">
+        <img src="https://www.udemy.com/staticx/udemy/images/v4/logo-green.jpg" alt="Udemy logo">
+    </div>
+    <p id="we">
+        We found out that your browser is a little bit old! Unfortunately we are not supporting this browser.
+    </p>
+
+    <p id="please">Please use one of the browsers below:</p>
+
+    <div id="browsers">
+        <a class="br1" href="https://www.google.com/intl/en/chrome/browser/">
+            <img src="https://www.udemy.com/staticx/udemy/images/v4/browser-logos/ch.jpg" alt=""/>
+            Chrome
+        </a>
+        <a class="br2" href="http://www.mozilla.org/en-US/firefox/new/">
+            <img src="https://www.udemy.com/staticx/udemy/images/v4/browser-logos/ff.jpg" alt=""/>
+            Firefox
+        </a>
+        <a class="br3" href="http://www.apple.com/safari/">
+            <img src="https://www.udemy.com/staticx/udemy/images/v4/browser-logos/sa.jpg" alt=""/>
+            Safari
+        </a>
+        <a class="br4" href="http://windows.microsoft.com/en-US/internet-explorer/download-ie">
+            <img src="https://www.udemy.com/staticx/udemy/images/v4/browser-logos/ie.jpg" alt=""/>
+            IE
+        </a>
+    </div>
+</div>
+
+
+        
+
+    </body>
+</html>

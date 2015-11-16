@@ -1,0 +1,650 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Technology... in PLAIN ENGLISH! | TechMania 411: Finding the reasons for the mania</title>
+<link rel="pingback" href="http://techmania411.net/xmlrpc.php" />
+<meta name="google-site-verification" content="YN-iJvo1GNH9ZoeHfbs0me7u4lQOnvKt_Db_WHEBDIE" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=techmania411.net&amp;id=42423281&amp;t=1447270969&amp;back=http%3A%2F%2Ftechmania411.net%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="Technology... in PLAIN ENGLISH! &raquo; Feed" href="http://techmania411.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Technology... in PLAIN ENGLISH! &raquo; Comments Feed" href="http://techmania411.net/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/_static/??-eJx9kdFuwyAMRX9ozErXTdrDtG8hxCFOASMwivL3I42WrsrEC7qGc2QwsERlOAgGAV9UdMVSyJA9OVxj4hmNPFevJucX+F9zdMMMM0rU5qbu1QnvHduHwNbiwEXUyM7xAgsNFps9KIwUSNYjtOA8cRLDQ71VpSA7qnHiRR0HLdtwwrrvo5aN8DiQRoe+Yi3Nx49fa4tTncV5DH/4JVZa9X1MmLOqq6filUy10dnbtyGWHnQYEmrIsrrmM9DzTPu6YwSBhSqZj9DyLbJybLQQh6dCjU5TaqkJt++u0d7n/yg36dt/ddfr2+XSfXbv8w/dnvWE' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-1' href='https://s1.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1444132114g' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-2' href='https://s0.wp.com/wp-content/themes/h4/global.css?m=1420737423g' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyFkNEKwjAMRX/IrmzOBx/Eb9nWrKS2TW1ai369FSYiToVAQnK43BtZgkA/2ayApal1zhCvS2sMb+QvQDjUcUjQOPRPeCKfwKcH62hECyIzxEHXXRWaaYULxMkBc4VWru+W0F8Qyl/MQArDdBIRGG8fqqMlLYLNGj3LOmtQlJOYyVoqsqDSkNbCc3jl/P61hTq6Q9v3265r9+3O3AGUCobW'></script>
+<link rel='stylesheet' id='all-css-0' href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621g' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563g&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://newtechproductsinplainenglish.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://wp.me/2S0et' />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Technology... in PLAIN ENGLISH!" />
+<meta property="og:description" content="TechMania 411: Finding the reasons for the mania" />
+<meta property="og:url" content="http://techmania411.net/216-2/" />
+<meta property="og:site_name" content="Technology... in PLAIN ENGLISH!" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<link rel="shortcut icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1445464617g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1445464617g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="http://s0.wp.com/i/webclip.png?m=1391188133g" />
+<link rel='openid.server' href='http://newtechproductsinplainenglish.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://newtechproductsinplainenglish.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://techmania411.net/osd.xml" title="Technology... in PLAIN ENGLISH!" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://wordpress.com/opensearch.xml" title="WordPress.com" />
+
+		<style>
+			@media screen and (min-width: 783px) { 
+				#wpadminbar .quicklinks li#wp-admin-bar-my-account.with-avatar > a img { 
+					margin-top: 5px; 
+				} 
+			}
+		</style>
+
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="Technology... in PLAIN ENGLISH!" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="TechMania 411: Finding the reasons for the mania" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://techmania411.net/feed/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="title" content="Technology... in PLAIN ENGLISH! on WordPress.com" />
+<meta name="description" content="TechMania 411: Finding the reasons for the mania (by Alex Yong)" />
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s1.wp.com/?custom-css=1&#038;csblog=2S0et&#038;cscache=6&#038;csrev=25" />
+		</head>
+<body class="home blog flexible-width mp6 customizer-styles-applied highlander-enabled highlander-light infinite-scroll">
+<div id="wrap" class="group">
+	<div id="header">
+				<h1><a href="http://techmania411.net//">Technology&#8230; in PLAIN ENGLISH!</a> &nbsp; TechMania 411: Finding the reasons for the mania</h1>
+	</div>
+	<div id="nav" class="group">
+		<ul id="menu-menutipe2" class="menu"><li id="menu-item-2202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2202"><a href="http://techmania411.net/disclosures/">Disclosures</a></li>
+<li id="menu-item-1693" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1693"><a href="http://techmania411.net/info">Contact</a></li>
+<li id="menu-item-1696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1696"><a href="http://techmania411.net/about/">About THIS SITE</a></li>
+<li id="menu-item-6715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6715"><a href="http://techmania411.net/about-me/">About ME</a></li>
+<li id="menu-item-4723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4723"><a href="http://techmania411.net/interviews-and-transcripts/">Interviews with influencers</a></li>
+<li id="menu-item-3817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3817"><a href="http://techmania411.net/hire-me-to-write/">Hire me to write, teach, or do!</a></li>
+<li id="menu-item-5844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5844"><a href="http://techmania411.net/tag/guest">Showcase of guest articles</a></li>
+<li id="menu-item-6565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6565"><a href="http://techmania411.net/tag/fashion">Style/fashion related articles</a></li>
+<li id="menu-item-6566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6566"><a href="http://techmania411.net/tag/tablet/">Tablet articles</a></li>
+<li id="menu-item-6567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6567"><a href="http://techmania411.net/tag/phone/">Smartphone articles</a></li>
+<li id="menu-item-6909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6909"><a href="http://techmania411.net/tag/periscope">Periscope articles</a></li>
+<li id="menu-item-7384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7384"><a href="http://wp.me/P2S0et-1Ub">Get HYPER SOCIAL via livestreaming!</a></li>
+<li id="menu-item-6911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6911"><a href="http://techmania411.net/tag/social-media">Social media articles</a></li>
+</ul>		<div id="feed"><a href="http://techmania411.net/feed/">RSS Feed</a></div>
+	</div>
+<div id="content" class="group">
+
+	
+<h2 class="entry-title"><a href="http://techmania411.net/2015/09/22/a-few-fun-pics-from-the-periscopesummit-in-new-york-last-week/" rel="bookmark">A few fun pics from the first Periscope Summit in New York&nbsp;City</a> &nbsp; <a href="http://techmania411.net/2015/09/22/a-few-fun-pics-from-the-periscopesummit-in-new-york-last-week/#comments" class="comments-link">Leave a comment</a></h2>
+
+<div id="post-7116" class="entry-content post-7116 post type-post status-publish format-standard sticky hentry category-uncategorized tag-conference tag-conferences tag-event tag-events tag-fun tag-livestreaming tag-new-york-city tag-periscope tag-social-media">
+	<p><img class="aligncenter size-full wp-image-1934" src="https://newtechproductsinplainenglish.files.wordpress.com/2013/11/short-wide-break-utility.png?w=688&#038;h=15" alt="short wide break utility" width="688" height="15" /></p>
+<h2>The contest page has been moved: Go to: <a href="http://contest.socialAlex.Live" rel="nofollow">http://contest.socialAlex.Live</a></h2>
+<p>~~~~~~~~~</p>
+<p>The next summit&#8217;s in San Francisco!!! Will you attend?<br />
+Visit: <a href="http://www.periscopesummit.com" rel="nofollow">http://www.periscopesummit.com</a><br />
+<img class="aligncenter size-full wp-image-1934" src="https://newtechproductsinplainenglish.files.wordpress.com/2013/11/short-wide-break-utility.png?w=688&#038;h=15" alt="short wide break utility" width="688" height="15" /><br />
+Oh hey ~ <em>Click this link: <a href="http://ctt.ec/o61pH" rel="nofollow">http://ctt.ec/o61pH</a></em> It&#8217;ll tweet this page. Be logged into Twitter first, though.<br />
+~~~~~~~~~</p>
+<h2><span style="color:#ffff66;">Hover over, tap, or click the below pics to see names and their links</span></h2>
+<h2><span style="color:#ffff66;">Then click or touch the round buttons</span></h2>
+<p><img src="https://cdn.thinglink.me/api/image/705131576932958209/640/10/scaletowidth?wait=true" tl-scene-id="705131576932958209" style="max-width:100%;" class="alwaysThinglink"/><script charset="utf-8" async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script><br />
+<img src="https://cdn.thinglink.me/api/image/705805693566844929/640/10/scaletowidth?wait=true" tl-scene-id="705805693566844929" style="max-width:100%;" class="alwaysThinglink"/><script charset="utf-8" async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script><br />
+<img src="https://cdn.thinglink.me/api/image/705862650629718017/640/10/scaletowidth?wait=true" tl-scene-id="705862650629718017" style="max-width:100%;" class="alwaysThinglink"/><script charset="utf-8" async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script><br />
+<img src="https://cdn.thinglink.me/api/image/707311823405187073/640/10/scaletowidth?wait=true" tl-scene-id="707311823405187073" style="max-width:100%;" class="alwaysThinglink"/><script charset="utf-8" async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script><br />
+<img src="https://cdn.thinglink.me/api/image/707316950404956161/640/10/scaletowidth?wait=true" tl-scene-id="707316950404956161" style="max-width:100%;" class="alwaysThinglink"/><script charset="utf-8" async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script><br />
+<img src="https://cdn.thinglink.me/api/image/705069501661577217/640/10/scaletowidth?wait=true" tl-scene-id="705069501661577217" style="max-width:100%;" class="alwaysThinglink"/><script charset="utf-8" async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script><br />
+<img src="https://cdn.thinglink.me/api/image/705859199724158977/640/10/scaletowidth?wait=true" tl-scene-id="705859199724158977" style="max-width:100%;" class="alwaysThinglink"/><script charset="utf-8" async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script><br />
+<a href="http://smallbiztrends.com/author/alex-yong"><img class="alignnone size-full wp-image-7246" src="https://newtechproductsinplainenglish.files.wordpress.com/2015/09/button.png?w=688" alt="button"   /></a></p>
+	</div>
+
+<div class="meta">
+	<p>Posted September 22, 2015 by <strong><span class="author vcard"><a class="url fn n" href="http://techmania411.net/author/neatandclean/" title="View all posts by Alex Yong">Alex Yong</a></span></strong> in <a href="http://techmania411.net/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+	<p>Tagged with <a href="http://techmania411.net/tag/conference/" rel="tag">conference</a>, <a href="http://techmania411.net/tag/conferences/" rel="tag">conferences</a>, <a href="http://techmania411.net/tag/event/" rel="tag">event</a>, <a href="http://techmania411.net/tag/events/" rel="tag">events</a>, <a href="http://techmania411.net/tag/fun/" rel="tag">fun</a>, <a href="http://techmania411.net/tag/livestreaming/" rel="tag">livestreaming</a>, <a href="http://techmania411.net/tag/new-york-city/" rel="tag">new york city</a>, <a href="http://techmania411.net/tag/periscope/" rel="tag">Periscope</a>, <a href="http://techmania411.net/tag/social-media/" rel="tag">social media</a></p></div>
+
+
+
+	
+<h2 class="entry-title"><a href="http://techmania411.net/2015/11/10/a-periscopeco-and-blab-livestreaming-guest-strategy-is-enhanced-with-this-special-tip/" rel="bookmark">A Periscope and Blab livestreaming guest strategy is enhanced with this special&nbsp;tip</a> &nbsp; <a href="http://techmania411.net/2015/11/10/a-periscopeco-and-blab-livestreaming-guest-strategy-is-enhanced-with-this-special-tip/#comments" class="comments-link">Leave a comment</a></h2>
+
+<div id="post-7388" class="entry-content post-7388 post type-post status-publish format-standard hentry category-uncategorized tag-livestreaming tag-social-media">
+	<p>Tip:  If you&#8217;re a guest a lot, keep everything together on one page.  </p>
+<p>Click on the below image to visit my special &#8220;as a guest&#8221; page. Why is having one central page for this a good idea? Because ultimately it&#8217;s a time-saver, neater and courteous to your visitors.<br />
+<a href="http://wp.me/P2S0et-1Ub"><img class="alignnone" src="https://cloudup.com/cBe0Pdwjk6X+" alt="" width="515" height="296" /></a></p>
+	</div>
+
+<div class="meta">
+	<p>Posted November 10, 2015 by <strong><span class="author vcard"><a class="url fn n" href="http://techmania411.net/author/neatandclean/" title="View all posts by Alex Yong">Alex Yong</a></span></strong> in <a href="http://techmania411.net/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+	<p>Tagged with <a href="http://techmania411.net/tag/livestreaming/" rel="tag">livestreaming</a>, <a href="http://techmania411.net/tag/social-media/" rel="tag">social media</a></p></div>
+
+
+
+	
+<h2 class="entry-title"><a href="http://techmania411.net/2015/11/04/paid-media-influencers-blog-outreach-relations/" rel="bookmark">Paid media needs to be “a must” not “a maybe” in today’s PR&nbsp;world</a> &nbsp; <a href="http://techmania411.net/2015/11/04/paid-media-influencers-blog-outreach-relations/#comments" class="comments-link">Leave a comment</a></h2>
+
+<div id="post-7285" class="entry-content post-7285 post type-post status-publish format-standard hentry category-uncategorized">
+	<p><a href="http://adviceforpropros.socialalex.live" target="_blank" rel="nofollow"><img class="alignnone wp-image-7296 size-full" src="https://newtechproductsinplainenglish.files.wordpress.com/2015/11/pr-horror-stories-bloggers.png?w=688" alt="pr-agency-horror-stories-bloggers"   /></a><br />
+<img class="aligncenter size-full wp-image-1934" src="https://newtechproductsinplainenglish.files.wordpress.com/2013/11/short-wide-break-utility.png?w=688&#038;h=15" alt="short wide break utility" width="688" height="15" /></p>
+<h2>❤️ Filling venues with bodies instead of going after the right bloggers? There are ways to break out of that pattern.</h2>
+<h2>❤️ Sending unsolicited gifts to bloggers? Some bloggers don&#8217;t like that.</h2>
+<h2>❤️ Reject aggregate metrics given to you by fake bloggers/mercenaries who actively try to deceive PR agencies and attend events just to get free stuff.</h2>
+<h2>FULL details and 8 more tips and</h2>
+<h2>a video (specifically for PR pro&#8217;s)</h2>
+<h2><em>Go to <a href="http://adviceforPRpros.SocialAlex.Live" target="_blank" rel="nofollow">http://adviceforPRpros.SocialAlex.Live</a> </em></h2>
+	</div>
+
+<div class="meta">
+	<p>Posted November 4, 2015 by <strong><span class="author vcard"><a class="url fn n" href="http://techmania411.net/author/neatandclean/" title="View all posts by Alex Yong">Alex Yong</a></span></strong> in <a href="http://techmania411.net/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+	</div>
+
+
+
+	
+<h2 class="entry-title"><a href="http://techmania411.net/2015/11/02/smartphone-contest-asus-zenfone-2/" rel="bookmark">Smartphone contest time &#8211; Win a dual-SIM Android ASUS&nbsp;ZenFone2</a> &nbsp; <a href="http://techmania411.net/2015/11/02/smartphone-contest-asus-zenfone-2/#comments" class="comments-link">Leave a comment</a></h2>
+
+<div id="post-7288" class="entry-content post-7288 post type-post status-publish format-standard hentry category-uncategorized tag-android tag-contest tag-smartphone">
+	<h2>ASUS ZenFone2 contest page has moved: See link below<br />
+ <a href="http://contest.socialalex.live" target="_blank" rel="nofollow">http://contest.socialalex.live</a></p>
+	</div>
+
+<div class="meta">
+	<p>Posted November 2, 2015 by <strong><span class="author vcard"><a class="url fn n" href="http://techmania411.net/author/neatandclean/" title="View all posts by Alex Yong">Alex Yong</a></span></strong> in <a href="http://techmania411.net/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+	<p>Tagged with <a href="http://techmania411.net/tag/android/" rel="tag">Android</a>, <a href="http://techmania411.net/tag/contest/" rel="tag">contest</a>, <a href="http://techmania411.net/tag/smartphone/" rel="tag">smartphone</a></p></div>
+
+
+
+	
+<h2 class="entry-title"><a href="http://techmania411.net/2015/10/27/the-motorola-motoxpureedition-is-an-anti-bloatware-smartphone-%e2%9c%94-android-smartphones/" rel="bookmark">The Motorola Moto X Pure Edition is an anti-bloatware smartphone.&nbsp;✔</a> &nbsp; <a href="http://techmania411.net/2015/10/27/the-motorola-motoxpureedition-is-an-anti-bloatware-smartphone-%e2%9c%94-android-smartphones/#comments" class="comments-link">Leave a comment</a></h2>
+
+<div id="post-7239" class="entry-content post-7239 post type-post status-publish format-standard hentry category-uncategorized tag-alex-yong-review tag-motorola tag-phone tag-phone-review tag-phone-reviews tag-samsung">
+	<p>If you like reviews, follow Alex at <a href="http://www.socialalex.com" target="_blank">SocialAlex.com</a><br />
+<img src="https://cdn.thinglink.me/api/image/715580010395598848/1024/10/scaletowidth?wait=true" tl-scene-id="715580010395598848" style="max-width:100%;" class="alwaysThinglink"/><script charset="utf-8" async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script><br />
+<img src="https://cdn.thinglink.me/api/image/715579272344895488/1024/10/scaletowidth?wait=true" tl-scene-id="715579272344895488" style="max-width:100%;" class="alwaysThinglink"/><script charset="utf-8" async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script><br />
+<img src="https://cdn.thinglink.me/api/image/715578619199488000/1024/10/scaletowidth?wait=true" tl-scene-id="715578619199488000" style="max-width:100%;" class="alwaysThinglink"/><script charset="utf-8" async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script></p>
+	</div>
+
+<div class="meta">
+	<p>Posted October 27, 2015 by <strong><span class="author vcard"><a class="url fn n" href="http://techmania411.net/author/neatandclean/" title="View all posts by Alex Yong">Alex Yong</a></span></strong> in <a href="http://techmania411.net/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+	<p>Tagged with <a href="http://techmania411.net/tag/alex-yong-review/" rel="tag">Alex Yong review</a>, <a href="http://techmania411.net/tag/motorola/" rel="tag">motorola</a>, <a href="http://techmania411.net/tag/phone/" rel="tag">phone</a>, <a href="http://techmania411.net/tag/phone-review/" rel="tag">phone review</a>, <a href="http://techmania411.net/tag/phone-reviews/" rel="tag">phone reviews</a>, <a href="http://techmania411.net/tag/samsung/" rel="tag">samsung</a></p></div>
+
+
+
+	
+<h2 class="entry-title"><a href="http://techmania411.net/2015/10/25/pr-agencies-learn-to-discern-pr20-mediarelations-bloggeroutreach-blogoutreach/" rel="bookmark">PR agencies: Learn to&nbsp;discern!</a> &nbsp; <a href="http://techmania411.net/2015/10/25/pr-agencies-learn-to-discern-pr20-mediarelations-bloggeroutreach-blogoutreach/#comments" class="comments-link">Leave a comment</a></h2>
+
+<div id="post-7200" class="entry-content post-7200 post type-post status-publish format-standard hentry category-uncategorized tag-advertising tag-blogging tag-content-marketing tag-earned-media tag-live-events tag-mommy-bloggers tag-paid-media tag-peso tag-plagiarism tag-shared-media">
+	<p><img class="aligncenter size-full wp-image-1934" src="https://newtechproductsinplainenglish.files.wordpress.com/2013/11/short-wide-break-utility.png?w=688&#038;h=15" alt="short wide break utility" width="688" height="15" /></p>
+<h2><em><span style="color:#ffe400;">Video at <a href="http://adviceforPRpros.socialalex.live" target="_blank" rel="nofollow">adviceforPRpros.SocialAlex.Live</em></a></h2>
+<h2><a href="http://adviceforPRpros.socialalex.live" target="_blank" rel="nofollow">Fast forward to point 21:29</a></h2>
+<p><img class="aligncenter size-full wp-image-1934" src="https://newtechproductsinplainenglish.files.wordpress.com/2013/11/short-wide-break-utility.png?w=688&#038;h=15" alt="short wide break utility" width="688" height="15" /></p>
+	</div>
+
+<div class="meta">
+	<p>Posted October 25, 2015 by <strong><span class="author vcard"><a class="url fn n" href="http://techmania411.net/author/neatandclean/" title="View all posts by Alex Yong">Alex Yong</a></span></strong> in <a href="http://techmania411.net/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+	<p>Tagged with <a href="http://techmania411.net/tag/advertising/" rel="tag">advertising</a>, <a href="http://techmania411.net/tag/blogging/" rel="tag">blogging</a>, <a href="http://techmania411.net/tag/content-marketing/" rel="tag">content marketing</a>, <a href="http://techmania411.net/tag/earned-media/" rel="tag">earned media</a>, <a href="http://techmania411.net/tag/live-events/" rel="tag">live events</a>, <a href="http://techmania411.net/tag/mommy-bloggers/" rel="tag">mommy bloggers</a>, <a href="http://techmania411.net/tag/paid-media/" rel="tag">paid media</a>, <a href="http://techmania411.net/tag/peso/" rel="tag">peso</a>, <a href="http://techmania411.net/tag/plagiarism/" rel="tag">plagiarism</a>, <a href="http://techmania411.net/tag/shared-media/" rel="tag">shared media</a></p></div>
+
+
+
+	
+<h2 class="entry-title"><a href="http://techmania411.net/2015/08/08/nflsundayticket-tv-availability-expanded-%f0%9f%8f%88-%f0%9f%92%a5%f0%9f%8f%88-nfl-directv/" rel="bookmark">NFLSundayTicket.TV availability expanded 🏈 💥🏈 #NFL&nbsp;#DirecTV</a> &nbsp; <a href="http://techmania411.net/2015/08/08/nflsundayticket-tv-availability-expanded-%f0%9f%8f%88-%f0%9f%92%a5%f0%9f%8f%88-nfl-directv/#comments" class="comments-link">Leave a comment</a></h2>
+
+<div id="post-7067" class="entry-content post-7067 post type-post status-publish format-standard hentry category-uncategorized tag-directv tag-entertainment tag-nfl tag-nfl-sunday-ticket tag-sports tag-tech">
+	<p>The following news is from AT&amp;T:<br />
+<img class="alignleft" src="https://cloudup.com/ckdymztPaq6+" alt="NFL Sunday Ticket info DirecTV" /><br />
+DIRECTV, now part of the AT&amp;T family, and the NFL, have significantly expanded the availability of NFLSUNDAYTICKET.TV to more fans, on more devices, so millions of customers who are unable to install a satellite dish can still watch every live out-of-market NFL game, every Sunday afternoon.</p>
+<p>The exclusive, live streaming version of the popular NFL SUNDAY TICKET subscription service is available to consumers living in an apartment, condominium or townhome who are not now receiving DIRECTV service. NFLSUNDAYTICKET.TV is also available to consumers who were not able to install a DIRECTV dish at their home due to an obstruction or other restriction. Active students at four-year universities nationwide can buy NFLSUNDAYTICKET.TV U at an exclusive student price.</p>
+<p>“Millions of people in apartments and houses in the U.S. who were unable to install DIRECTV satellite dishes can now enjoy every out-of-market game, every Sunday afternoon on their favorite mobile and connected devices,” said Alex Kaplan, senior vice president, Marketing for DIRECTV, part of the AT&amp;T family. “More NFL fans than ever before will be able to access NFLSUNDAYTICKET.TV service and follow their favorite teams and players.”</p>
+<p>NFLSUNDAYTICKET.TV packages start at $49.99 a month for four months, and offer a variety of services (features vary according to the varying packages), including live out-of-market NFL games every Sunday afternoon, accessible via computers, tablets, smartphones or popular connected devices – including Xbox One, Xbox 360, Sony PS3, Sony PS4, Roku and Chromecast. NFLSUNDAYTICKET.TV MAX also provides access to the popular RED ZONE CHANNEL and DIRECTV FANTASY ZONE, an exclusive live channel entirely devoted to fantasy football. Entering its second season, DIRECTV FANTASY ZONE gives game-to-game fantasy analysis and real-time stats, highlights, projections and key player updates powered by NFL.com Fantasy Football.</p>
+<p>A special student version of NFLSUNDAYTICKET.TV U offers all premium features and benefits available in NFLSUNDAYTICKET.TV MAX at a very “student-friendly” price of only $24.99/month for four months.</p>
+<p>To subscribe to an NFLSUNDAYTICKET.TV streaming package, consumers must visit nflsundayticket.tv online to see if they’re eligible for the standalone live streaming service and to review package details. For more information on the verification process, please watch this video: <a href="https://youtu.be/ov57X897rOw" rel="nofollow">https://youtu.be/ov57X897rOw</a>.</p>
+<p>About DIRECTV</p>
+<p>DIRECTV, part of the AT&amp;T family of products and services, is the largest satellite TV provider in the U.S. delivering a premium video experience through state-of-the-art technology, industry leading customer service and unmatched programming including access to its exclusive NFL SUNDAY TICKET, which provides customers with every live NFL game, every Sunday afternoon. DIRECTV serves more than 39 million customers in the U.S. and Latin America.</p>
+<p>About AT&amp;T</p>
+<p>AT&amp;T Inc. (NYSE:T) helps millions around the globe connect with leading entertainment, mobile, high speed Internet and voice services. We’re the world’s largest provider of pay TV. We have TV customers in the U.S. and 11 Latin American countries. In the U.S., our wireless network offers the nation’s strongest LTE signal and the most reliable 4G LTE network. We offer the best global wireless coverage*. And we help businesses worldwide serve their customers better with our mobility and secure cloud solutions.</p>
+<p>Additional information about AT&amp;T products and services is available at <a href="http://about.att.com" target="_blank" rel="nofollow">http://about.att.com</a>. Follow our news on Twitter at @ATT, on Facebook at <a href="http://www.facebook.com/att" target="_blank" rel="nofollow">http://www.facebook.com/att</a> and YouTube at <a href="http://www.youtube.com/att" rel="nofollow">http://www.youtube.com/att</a>.</p>
+<p>© 2015 AT&amp;T Intellectual Property. All rights reserved. AT&amp;T, the Globe logo and other marks are trademarks and service marks of AT&amp;T Intellectual Property and/or AT&amp;T affiliated companies. All other marks contained herein are the property of their respective owners.</p>
+<p>Reliability and signal strength claims based on nationwide carriers’ LTE. Signal strength claim based ONLY on avg. LTE signal strength. LTE not available everywhere.</p>
+<p>*Global coverage claim based on offering discounted voice and data roaming; LTE roaming; voice roaming; and world-capable smartphone and tablets in more countries than any other U.S. based carrier. Coverage not available in all areas. Coverage may vary per country and be limited/restricted in some countries.</p>
+<p>&#8211; See more at: <a href="http://about.att.com/story/dtv_nfl_sunday_ticket_live_streaming_expansion.html#sthash.te0Sy9iE.dpuf" target="_blank" rel="nofollow">http://about.att.com/story/dtv_nfl_sunday_ticket_live_streaming_expansion.html#sthash.te0Sy9iE.dpuf</a></p>
+	</div>
+
+<div class="meta">
+	<p>Posted August 8, 2015 by <strong><span class="author vcard"><a class="url fn n" href="http://techmania411.net/author/neatandclean/" title="View all posts by Alex Yong">Alex Yong</a></span></strong> in <a href="http://techmania411.net/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+	<p>Tagged with <a href="http://techmania411.net/tag/directv/" rel="tag">DirecTV</a>, <a href="http://techmania411.net/tag/entertainment/" rel="tag">entertainment</a>, <a href="http://techmania411.net/tag/nfl/" rel="tag">nfl</a>, <a href="http://techmania411.net/tag/nfl-sunday-ticket/" rel="tag">NFL Sunday Ticket</a>, <a href="http://techmania411.net/tag/sports/" rel="tag">sports</a>, <a href="http://techmania411.net/tag/tech/" rel="tag">tech</a></p></div>
+
+
+
+	<div class="navigation index group">
+		<div class="alignleft"><a href="http://techmania411.net/page/2/" >&laquo; Older Entries</a></div>
+		<div class="alignright"></div>
+	</div>
+
+</div><!-- /#content -->
+
+<div id="sidebar">
+	<ul>
+	<li id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://techmania411.net/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li><li id="twitter_timeline-2" class="widget widget_twitter_timeline"><h3 class="widget-title">Don&#8217;t you just love social media?</h3><a class="twitter-timeline" data-widget-id="615189273982185472" data-theme="dark" data-link-color="#33CCFF" data-border-color="#e8e8e8" data-chrome="transparent" data-tweet-limit="20" lang="EN">My Tweets</a></li>		<li id="recent-posts-3" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://techmania411.net/2015/11/10/a-periscopeco-and-blab-livestreaming-guest-strategy-is-enhanced-with-this-special-tip/">A Periscope and Blab livestreaming guest strategy is enhanced with this special&nbsp;tip</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/11/04/paid-media-influencers-blog-outreach-relations/">Paid media needs to be “a must” not “a maybe” in today’s PR&nbsp;world</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/11/02/smartphone-contest-asus-zenfone-2/">Smartphone contest time &#8211; Win a dual-SIM Android ASUS&nbsp;ZenFone2</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/10/27/the-motorola-motoxpureedition-is-an-anti-bloatware-smartphone-%e2%9c%94-android-smartphones/">The Motorola Moto X Pure Edition is an anti-bloatware smartphone.&nbsp;✔</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/10/25/pr-agencies-learn-to-discern-pr20-mediarelations-bloggeroutreach-blogoutreach/">PR agencies: Learn to&nbsp;discern!</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/09/22/a-few-fun-pics-from-the-periscopesummit-in-new-york-last-week/">A few fun pics from the first Periscope Summit in New York&nbsp;City</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/08/08/nflsundayticket-tv-availability-expanded-%f0%9f%8f%88-%f0%9f%92%a5%f0%9f%8f%88-nfl-directv/">NFLSundayTicket.TV availability expanded 🏈 💥🏈 #NFL&nbsp;#DirecTV</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/08/08/%e2%98%86immarkclayton-video-interview-of-the-livv-headphones-livvfree-%e2%9c%94-nfl/">Former NFL star Mark Clayton did a video interview about the LIVV&nbsp;headphones</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/06/26/celebrating-10-years-of-wordpress-com-automattic/">Celebrating 10 Years of WordPress.com &amp;&nbsp;Automattic</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/06/23/getting-familiar-with-periscope-on-android/">Getting familiar with Periscope on&nbsp;Android</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/06/23/customs-vs-pre-builts-vs-all-in-one-vs-laptop-pc-forms-battle-royale/">Customs VS Pre-builts VS All-in-one VS Laptop: PC Forms Battle&nbsp;Royale</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/06/20/fcc-votes-to-use-cell-phone-taxes-to-help-the-poor-access-broadband-internet/">FCC votes to use cell phone taxes to help the poor access broadband&nbsp;Internet</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/06/18/thecomedystore-livestreams-17-stand-up-comedians-on-periscopeco/">The Comedy Store livestreams 17 stand-up comedians on&nbsp;Periscope.tv</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/06/15/skype-for-web-now-supports-instant-messaging-on-chromebooks/">Skype for Web now supports instant messaging on&nbsp;Chromebooks</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/06/15/step-turn-pose-analyze-sell-repeat/">Step. Turn. Pose. (Analyze. Sell.)&nbsp;Repeat.</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/06/07/outfit-swipe-lets-you-clothes-shopping-phone-app/">If you can&#8217;t have a perfect life, what about perfect&nbsp;clothes?</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/05/21/fyi-on-the-asususa-zenfone2-battery-charger-swocs/">FYI on the ASUS ZenFone2 battery&nbsp;charger</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/05/20/its-about-time-google-vows-to-fix-the-worst-thing-about-its-chrome-browser-0/">It&#8217;s about time: Google vows to fix the worst thing about its Chrome&nbsp;browser</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/05/14/influencers-an-extension-of-our-creativity/">Influencers: An Extension of our&nbsp;Creativity</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/05/13/eventbrite-now-available-for-all-of-wordpress-com/">Eventbrite Now Available for All of&nbsp;WordPress.com</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/05/13/fuskers-busted-for-allegedly-stealing-photos-from-photobucket/">Fuskers busted for allegedly stealing photos from&nbsp;Photobucket</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/05/12/users-of-clammrapp-call-it-audio-instagram-a-chat-with-parviz-parviziceo-of-clammr/">Bite-sized audio for social media! Users of the Clammr app call it “audio&nbsp;Instagram”</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/05/12/nasdaq-plans-to-implement-the-blockchain-bitcoins-underlying-technology/">Nasdaq plans to implement the blockchain, Bitcoin&#8217;s underlying&nbsp;technology</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/05/06/jessytroy-on-the-frustration-from-discontinued-web-tools-and-services/">Jessy Troy talks about the frustration from discontinued web tools and&nbsp;services</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/05/04/htcs-one-mini-one-mini-2-smartphones-wont-be-getting-lollipop/">HTC&#8217;s One Mini, One Mini 2 smartphones won&#8217;t be getting&nbsp;Lollipop</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/05/04/samsung-drops-a-bombshell-the-s6-suffers-from-a-very-major-memory-problem/">Samsung drops a bombshell: The S6 suffers from a very major memory&nbsp;problem</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/04/25/facebook-recently-launched-a-new-app-to-solve-the-case-of-the-mysterious-incoming-call/">Facebook recently launched a new app to solve the case of the mysterious incoming&nbsp;call</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/04/22/google-wireless-network/">Google Wireless Network</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/04/21/surface-3-review-finally-a-cheap-surface-youd-actually-want-no-not-really/">Surface 3 review: Finally, a cheap Surface you&#8217;d actually want (No not really!&nbsp;)</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/04/19/report-funds-stored-in-google-wallet-are-now-fdic-insured/">Report: Funds stored in Google Wallet are now FDIC&nbsp;insured</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/04/16/zuckerbergs-next-selection-for-the-facebook-book-club-is-all-about-dealing-with-china/">Zuckerberg&#8217;s next selection for the Facebook book club is all about dealing with&nbsp;China</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/04/14/7th-annual-shortyawards-420-in-nyc-panic-at-the-disco-will-be-performing-live/">7th Annual Shorty Awards 4/20 in NYC: Panic! At The Disco will be performing&nbsp;live</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/04/12/adobe-needs-to-publicly-acknowledge-that-flash-is-wrong-for-the-web-and-wrong-for-mobile/">Adobe needs to publicly acknowledge that Flash is wrong for the Web and wrong for&nbsp;mobile</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/04/09/linkedin-acquiring-lynda-com-online-learning/">LinkedIn and Lynda believe the growing skills gap is one of the biggest challenges to the future of the global&nbsp;economy</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/04/07/how-isaac-dietrich-of-massroots-got-his-app-and-groove-back-and-more/">How Isaac Dietrich of MassRoots got his app (and groove) back &#8211; And&nbsp;more</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/04/03/what-do-netflix-microsoft-tumblr-linkedin-dropbox-cisco-and-hootsuite-all-have-in-common/">What do Netflix, Microsoft, Tumblr, Linkedin, Dropbox, Cisco, and Hootsuite all have in&nbsp;common??</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/03/26/store-an-infinite-amount-of-content-on-amazon-cloud-drive-for-just-60-a-year/">Store an infinite amount of content on Amazon Cloud Drive for just $60 a&nbsp;year</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/03/24/guestcontributor-blogger-pages-that-arent-social-get-with-the-times/">Guest/contributor blogger bios that aren&#8217;t social &#8211; Get with the&nbsp;times</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/03/20/adam-sandlers-pixels-trailer-gets-record-34-million-views/">Adam Sandler&#8217;s &#8216;Pixels&#8217; Trailer Gets Record 34 Million&nbsp;Views</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/03/16/leslie-moonves-showtime-streaming-service-coming-in-not-too-distant-future/">Leslie Moonves: Showtime Streaming Service Coming in &#8216;Not Too Distant&nbsp;Future&#8217;</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/03/11/callr-releases-a-mobile-app-to-make-conference-calls-less-of-a-hassle/">Callr Releases A Mobile App To Make Conference Calls Less Of A&nbsp;Hassle</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/03/02/the-four-horsemen-amazonapplefacebook-google-who-winsloses/">The Four Horsemen: Amazon, Apple, Facebook, Google&#8211;Who Wins? Who Loses&nbsp;?</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/02/27/prstack-media-relations-intersection-digital-pr-convergence/">The #PRStack Project: Really at the intersection between PR and&nbsp;digital</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/02/27/googles-latest-fascinating-bet-on-the-future-of-music-is-called-kobalt/">Google&#8217;s latest, fascinating bet on the future of music is called&nbsp;Kobalt</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/02/27/the-one-the-only-gini-dietrich-a-very-candid-q-a/">The One, The Only Gini Dietrich: A Very Candid Q &amp;&nbsp;A</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/02/23/beta-readers/">Beta readers and where you can find them&nbsp;online</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/02/20/right-customers-clients/">What brands think they know versus what&#8217;s really&nbsp;happening</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/02/17/zillow-closes-trulia-acquisition-cuts-350-positions/">Zillow Closes Trulia Acquisition, Cuts 350&nbsp;Positions</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/02/13/google-helpouts-is-shutting-down-on-april-20/">Google &#8216;Helpouts&#8217; is shutting down on April&nbsp;20</a>
+						</li>
+					<li>
+				<a href="http://techmania411.net/2015/02/12/the-linkedin-android-app-theres-room-for-improvement/">LinkedIn&#8217;s Android app: There&#8217;s room for&nbsp;improvement</a>
+						</li>
+				</ul>
+		</li><li id="recent-comments-3" class="widget widget_recent_comments"><h3 class="widget-title">Recent Comments</h3>				<table class="recentcommentsavatar" cellspacing="0" cellpadding="0" border="0">
+					<tr><td title="george U." class="recentcommentsavatartop" style="height:48px; width:48px;"><a href="http://georgeudosennigeria.wordpress.com" rel="nofollow"><img alt='' src='http://1.gravatar.com/avatar/d42d97c2e2c047912f08b6d51def58e3?s=48&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstexttop" style=""><a href="http://georgeudosennigeria.wordpress.com" rel="nofollow">george U.</a> on <a href="http://techmania411.net/2015/06/23/customs-vs-pre-builts-vs-all-in-one-vs-laptop-pc-forms-battle-royale/comment-page-1/#comment-11776">Customs VS Pre-builts VS All-i&hellip;</a></td></tr><tr><td title="sila blume" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="http://smokeandminds.com" rel="nofollow"><img alt='' src='http://1.gravatar.com/avatar/1290164810105dfee567a27eab361443?s=48&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstextend" style=""><a href="http://smokeandminds.com" rel="nofollow">sila blume</a> on <a href="http://techmania411.net/about-me/comment-page-1/#comment-11666">About ME</a></td></tr><tr><td title="4 Blogger Outreach Tips That Guarantee Success | Firepole Marketing Blog" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="http://www.firepolemarketing.com/blogger-outreach/?hvid=2DSFo6" rel="nofollow"></a></td><td class="recentcommentstextend" style=""><a href="http://www.firepolemarketing.com/blogger-outreach/?hvid=2DSFo6" rel="nofollow">4 Blogger Outreach T&hellip;</a> on <a href="http://techmania411.net/2015/01/16/ninjaoutreach-boost-productivity-with-this-new-inbound-marketing-tool/comment-page-1/#comment-11556">NinjaOutreach: Boost Productiv&hellip;</a></td></tr><tr><td title="3 lifestyle bloggers discuss good and subpar PR tactics | Milieunet" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="https://milieunet.wordpress.com/2015/07/20/3-lifestyle-bloggers-discuss-good-and-subpar-pr-tactics/" rel="nofollow"></a></td><td class="recentcommentstextend" style=""><a href="https://milieunet.wordpress.com/2015/07/20/3-lifestyle-bloggers-discuss-good-and-subpar-pr-tactics/" rel="nofollow">3 lifestyle bloggers&hellip;</a> on <a href="http://techmania411.net/3-lifestyle-bloggers-sound-off-on-subpar-pr-tactics/comment-page-1/#comment-11412">3 lifestyle bloggers discuss g&hellip;</a></td></tr><tr><td title="Ninja Outreach: The New Kid on the Inbound Marketing Block" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="http://www.deboraheanderson.com/ninja-outreach-the-new-kid-on-the-inbound-marketing-block/" rel="nofollow"></a></td><td class="recentcommentstextend" style=""><a href="http://www.deboraheanderson.com/ninja-outreach-the-new-kid-on-the-inbound-marketing-block/" rel="nofollow">Ninja Outreach: The&hellip;</a> on <a href="http://techmania411.net/2015/01/16/ninjaoutreach-boost-productivity-with-this-new-inbound-marketing-tool/comment-page-1/#comment-11314">NinjaOutreach: Boost Productiv&hellip;</a></td></tr><tr><td title="A Bassett (@ABtweetsuk)" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="http://twitter.com/ABtweetsuk" rel="nofollow"><img alt='' src='http://i0.wp.com/pbs.twimg.com/profile_images/613433760919502849/E-y1aiti_normal.jpg?resize=48%2C48' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstextend" style=""><a href="http://twitter.com/ABtweetsuk" rel="nofollow">A Bassett (@ABtweets&hellip;</a> on <a href="http://techmania411.net/ipad-air-md785b-a-uk-review-personal/comment-page-1/#comment-11300">What I think of the iPad&nbsp;&hellip;</a></td></tr><tr><td title="m3ta7" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="http://metanophilia.wordpress.com" rel="nofollow"><img alt='' src='http://2.gravatar.com/avatar/2f5107e859247c03e667f566ac062d84?s=48&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstextend" style=""><a href="http://metanophilia.wordpress.com" rel="nofollow">m3ta7</a> on <a href="http://techmania411.net/2015/06/23/customs-vs-pre-builts-vs-all-in-one-vs-laptop-pc-forms-battle-royale/comment-page-1/#comment-11243">Customs VS Pre-builts VS All-i&hellip;</a></td></tr><tr><td title="catherinehislop" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="http://globalunityharmony.socialgo.com" rel="nofollow"><img alt='' src='http://0.gravatar.com/avatar/699da95cb1eb2b25e7e231520161540d?s=48&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstextend" style=""><a href="http://globalunityharmony.socialgo.com" rel="nofollow">catherinehislop</a> on <a href="http://techmania411.net/2015/06/23/getting-familiar-with-periscope-on-android/comment-page-1/#comment-11136">Getting familiar with Periscop&hellip;</a></td></tr><tr><td title="Alex Yong" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="http://www.techmania411.net" rel="nofollow"><img alt='' src='http://0.gravatar.com/avatar/9916c89752004fe798816c0cabe73e4c?s=48&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstextend" style=""><a href="http://www.techmania411.net" rel="nofollow">Alex Yong</a> on <a href="http://techmania411.net/2015/06/23/customs-vs-pre-builts-vs-all-in-one-vs-laptop-pc-forms-battle-royale/comment-page-1/#comment-11113">Customs VS Pre-builts VS All-i&hellip;</a></td></tr>				</table>
+				</li><li id="meta-2" class="widget widget_meta"><h3 class="widget-title">Control center</h3>			<ul>
+			<li><a href="https://wordpress.com/start?ref=wplogin">Register</a></li>			<li><a href="https://newtechproductsinplainenglish.wordpress.com/wp-login.php">Log in</a></li>
+			<li><a href="http://techmania411.net/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://techmania411.net/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="http://wordpress.com/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.com</a></li>			</ul>
+</li>	</ul>
+
+</div><!-- /#sidebar -->
+</div><!-- /#wrap -->
+
+<div id="footer" class="group">
+	<div id="top"><a href="#content">Back to top</a></div>
+	<p><a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com</a>. <a href="https://wordpress.com/themes/andrea/" title="Learn more about this theme">The Andrea Theme</a>.</p>
+</div>
+
+		<script type="text/javascript">
+		//<![CDATA[
+		var infiniteScroll = {"settings":{"id":"content","ajaxurl":"http:\/\/techmania411.net\/?infinity=scrolling","type":"click","wrapper":true,"wrapper_class":"infinite-wrap","footer":"wrap","click_handle":"1","text":"Older posts","totop":"Scroll back to top","currentday":"08.08.15","order":"DESC","scripts":[],"styles":[],"google_analytics":false,"offset":0,"history":{"host":"techmania411.net","path":"\/page\/%d\/","use_trailing_slashes":true,"parameters":""},"query_args":{"error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","static":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"comments_popup":"","meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"posts_per_page":7,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":false,"update_post_term_cache":true,"update_post_meta_cache":true,"post_type":"","nopaging":false,"comments_per_page":"70","no_found_rows":false,"order":"DESC"},"last_post_date":"2015-08-08 10:20:00","stats":"blog=42423281&v=wpcom&tz=0&user_id=0&subd=newtechproductsinplainenglish&x_pagetype=infinite-click"}};
+		//]]>
+		</script>
+		<!-- wpcom_wp_footer -->
+		<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+		<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201546y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781g'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-d42d97c2e2c047912f08b6d51def58e3">
+	</div>
+	<div class="grofile-hash-map-1290164810105dfee567a27eab361443">
+	</div>
+	<div class="grofile-hash-map-5e3da58abae67a83f447bff3e4ecfa50">
+	</div>
+	<div class="grofile-hash-map-2f5107e859247c03e667f566ac062d84">
+	</div>
+	<div class="grofile-hash-map-699da95cb1eb2b25e7e231520161540d">
+	</div>
+	<div class="grofile-hash-map-9916c89752004fe798816c0cabe73e4c">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/newtechproductsinplainenglish.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/newtechproductsinplainenglish.wordpress.com\/wp-login.php?action=logout&_wpnonce=6ff37ac88e","homeURL":"http:\/\/techmania411.net\/","postID":"7116","gravDefault":"blank","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1424115551j'></script>
+
+	<div id="bit" class="loggedout-follow-normal">
+		<a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+		<div id="bitsubscribe">
+
+					<h3><label for="loggedout-follow-field">Follow &ldquo;Technology... in PLAIN ENGLISH!&rdquo;</label></h3>
+
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
+			<p>Get every new post delivered to your Inbox.</p>
+
+			<p id="loggedout-follow-error" style="display: none;"></p>
+
+						<p class="bit-follow-count">Join 149 other followers</p>
+			<p><input type="email" name="email" placeholder="Enter your email address" id="loggedout-follow-field"/></p>
+
+			<input type="hidden" name="action" value="subscribe"/>
+			<input type="hidden" name="blog_id" value="42423281"/>
+			<input type="hidden" name="source" value="http://techmania411.net/"/>
+			<input type="hidden" name="sub-type" value="loggedout-follow"/>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="458294d143" /><input type="hidden" name="_wp_http_referer" value="/" />
+			<p id='bsub-subscribe-button'><input type="submit" value="Sign me up" /></p>
+			</form>
+					<div id='bsub-credit'><a href="https://wordpress.com/?ref=lof">Build a website with WordPress.com</a></div>
+		</div><!-- #bitsubscribe -->
+	</div><!-- #bit -->
+
+	<div id="carousel-reblog-box">
+		<form action="" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" onclick="if ( this.value == 'Add your thoughts here... (optional)' ) { this.value = ''; }" onblur="if ( this.value == '' || this.value == '' ) { this.value = 'Add your thoughts here... (optional)'; }">Add your thoughts here... (optional)</textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="42423281" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="http://techmania411.net" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="Technology... in PLAIN ENGLISH!" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="db9764c85b" /><input type="hidden" name="_wp_http_referer" value="/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<link rel='stylesheet' id='all-css-0' href='https://s2.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1438295886g' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='http://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825g&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-2' href='https://s0.wp.com/wp-content/mu-plugins/tiled-gallery/tiled-gallery.css?m=1443731146g' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackSlideshowSettings = {"spinner":"http:\/\/s1.wp.com\/wp-content\/mu-plugins\/shortcodes\/img\/slideshow-loader.gif","blog_id":"42423281","blog_subdomain":"newtechproductsinplainenglish","user_id":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetpackEmojiSettings = {"base_url":"http:\/\/s0.wp.com\/wp-content\/mu-plugins\/emoji\/twemoji\/"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/techmania411.net\/wp-admin\/admin-ajax.php","nonce":"ee02403e3b","display_exif":"1","display_geo":"1","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/newtechproductsinplainenglish.wordpress.com\/wp-login.php?redirect_to=http%3A%2F%2Ftechmania411.net%2F2015%2F08%2F08%2Fnflsundayticket-tv-availability-expanded-%25f0%259f%258f%2588-%25f0%259f%2592%25a5%25f0%259f%258f%2588-nfl-directv%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=42423281&v=wpcom&tz=0&user_id=0&subd=newtechproductsinplainenglish","is_public":"1"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/techmania411.net\/wp-admin\/admin-ajax.php","nonce":"ee02403e3b","display_exif":"1","display_geo":"1","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/newtechproductsinplainenglish.wordpress.com\/wp-login.php?redirect_to=http%3A%2F%2Ftechmania411.net%2F2015%2F08%2F08%2Fnflsundayticket-tv-availability-expanded-%25f0%259f%258f%2588-%25f0%259f%2592%25a5%25f0%259f%258f%2588-nfl-directv%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=42423281&v=wpcom&tz=0&user_id=0&subd=newtechproductsinplainenglish","is_public":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyNj00SgjAMhS9kqYyoK8ezYAjSWtrapFRuLzIDIy6QVf7e95LI5AU4y2hZapIVdgrQvzJNO/k1aqPwJt6VJalsrazifk5WtNS4wOAqpI+5fkYMfQY9GNwMkVFD1rgk5v4Ki63TSnJaxL96jexLeIht6oVKWTBxOjXV7qYR+Ndi4rvhFSdLIuQRGGsfkGhlKZTBRUIzXzk1BubaXvKiKPLj6XzY6zeio60z'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyVy7EOQEAMANAfUnViYBDfgmsupepyivh7VpMY3/DwjDCuaqSGyw5R9sC6oZ1sRgkG6cd54OQhMqHSQYnUs4Z82jL8c+P3YyEPoRehdL31rG5pXVXUTVO70k03DU5D1g=='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script type="text/javascript">
+			jQuery.extend( infiniteScroll.settings.scripts, ["jquery","jquery-core","jquery-migrate","mobile-useragent-info","postmessage","jquery_inview","jetpack_resize","loggedout-subscribe","spin","jquery.spin","grofiles-cards","wpgroho","jquery.autoresize","highlander-comments","devicepx","the-neverending-homepage","jquery-cycle","jetpack-slideshow","twemoji","jetpack-emoji","jetpack-emoji-init","swfobject","videopress","jetpack-carousel","twitter-widgets","twitter-widgets-infinity","twitter-widgets-pending","tiled-gallery"] );
+			jQuery.extend( infiniteScroll.settings.styles, ["smileyproject","jetpack_likes","loggedout-subscribe","the-neverending-homepage","jetpack-slideshow","wpcom-core-compat-playlist-styles","mp6hacks","wpcom-bbpress2-staff-css","andrea","jetpack-emoji-css","noticons","geo-location-flair","reblogging","a8c-global-print","h4-global","highlander-comments","highlander-comments-ie7","jetpack-carousel","tiled-gallery","jetpack-carousel-ie8fix"] );
+		</script><script src="//stats.wp.com/w.js?48" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'42423281','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'42423281','v':'wpcom','tz':'0','user_id':'0','subd':'newtechproductsinplainenglish'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1LVmwrVi5vQS5fVFtfdHBbPyw1VXIrU3hWLHhmcmw0bWUwNiVnR3N1V2dDZTM4MGFxVndRQl1HNkJtOEQ0dVBbbk9jP2g4T29lWFFNTDRyXTZBXTNLYjB4aEs5SHBrYTdHZ2hMLkF4QUJ8ajZGM2VYRzRqRVh+bXZLN1h0Y3kyXX40L3B0ZExTfG1BMDcrTywlJnx+Y0NacnNtLS1hRSxJaFI9L18sS1lKUTktUHBfbkdFN0UxbXkrQWY0d29yMnZIfjdiUnJsYUptTDlnaTR4TFVZMU5yY1UyWDdwdltWVHRfTCt0SnQ0V2I1Jjd3T01jNi5UeW13emNoLHM/TTZiSVtldVlPJWRzbnZUfnAwK1g0cGh1MmJfWkNjMmU9MjEyMGRBMUZdVmhPcXlNeW84RDhOZXNMeA=='}]);
+_stq.push([ 'clickTrackerInit', '42423281', '0' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>

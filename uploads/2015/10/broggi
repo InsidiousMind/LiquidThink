@@ -1,0 +1,17 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+  <head>
+    <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+    <title>Alberto Broggi Home Page</title>
+  </head>
+
+  <frameset rows="250,*" border="0" framespacing="0">
+    <frame src="top.html" name="top" frameborder="NO" noresize scrolling="NO">
+    <frame src="home.html" name="home" frameborder="NO" noresize>   
+  </frameset>
+  <noframes>
+    <body bgcolor="#f1f0ec" link="#140961" vlink="#140961">
+    what a shame: you can't display frames...
+    </body>
+  </noframes>
+</html>

@@ -1,0 +1,397 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#" class="no-js" >
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.savetheinternet.com/about-sti" />
+<meta property="og:image" content="https://s3.amazonaws.com/s3.freepress.net/images/fp-logo-square.png" />
+<meta name="description" content="Internet freedom means Net Neutrality. Internet freedom means mobile rights. Internet freedom means open spectrum. Internet freedom means universal high-speed Internet. The fight for Internet freedom begins here, so get involved today. Read more and share with your friends." />
+<link name="favicon" content="/sites/all/themes/sti2/img/192px.png" sizes="192x192" rel="apple-touch-icon-precomposed" href="apple-touch-icon- 192x192-precomposed.png" />
+<meta property="og:description" content="Internet freedom means Net Neutrality. Internet freedom means mobile rights. Internet freedom means open spectrum. Internet freedom means universal high-speed Internet. The fight for Internet freedom begins here, so get involved today. Read more and share with your friends." />
+<meta property="og:description" content="Our rights to connect and communicate &amp;mdash; via universally accessible, open, affordable and fast communications networks and devices &amp;mdash; are essential to our individual, economic and political freedoms.
+Yet these rights &amp;mdash; codified in the" />
+<meta property="og:see_also" content="https://www.facebook.com/freepress" />
+<link rel="canonical" href="/about-sti" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/node/104875" />
+<link rel="shortcut icon" href="http://www.savetheinternet.com/sites/default/files/favicon.png" type="image/png" />
+<meta property="og:title" content="About the Save the Internet Campaign" />
+<meta property="og:site_name" content="Free Press" />
+<meta name="description" content="Our rights to connect and communicate &amp;mdash; via universally accessible, open, affordable and fast communications networks and devices &amp;mdash; are essential to our individual, economic and political freedoms.
+Yet these rights &amp;mdash; codified in the" />
+	<meta name="author" content="Free Press" />
+	<meta name="title" content="About the Save the Internet Campaign | Free Press" />
+  <!-- Mobile viewport optimized: j.mp/bplateviewport -->
+  <meta name="viewport" content="width=device-width">
+  <style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/modules/system/system.base.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/system/system.menus.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/system/system.messages.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/system/system.theme.css?nxnrhp");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.button.min.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.resizable.min.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.dialog.min.css?nxnrhp");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/modules/aggregator/aggregator.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/comment/comment.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/date/date_api/date.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/field/theme/field.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/logintoboggan/logintoboggan.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/node/node.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/search/search.css?nxnrhp");
+@import url("http://www.savetheinternet.com/modules/user/user.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/views/css/views.css?nxnrhp");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/modules/ctools/css/ctools.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/modules/field_group/field_group.css?nxnrhp");
+</style>
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Serif:400,700|Oswald" media="all" />
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/hailu-global.css?nxnrhp");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/flexslider.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/screen.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/themes/sti2/css/sti2-screen.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/themes/sti2/newhome/build/css/styles.min.css?nxnrhp");
+</style>
+<style type="text/css" media="print">
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/print.css?nxnrhp");
+</style>
+
+<!--[if IE 9]>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/ie_9.css?nxnrhp");
+</style>
+<![endif]-->
+
+<!--[if lt IE 9]>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/ie_8.css?nxnrhp");
+</style>
+<![endif]-->
+
+<!--[if IE 7]>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/ie_7.css?nxnrhp");
+</style>
+<![endif]-->
+
+<!--[if lt IE 7]>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/themes/fpstructure/css/ie_6.css?nxnrhp");
+</style>
+<![endif]-->
+
+<!--[if lt IE 9]>
+<style type="text/css" media="all">
+@import url("http://www.savetheinternet.com/sites/all/themes/sti2/css/ie-sti2.css?nxnrhp");
+@import url("http://www.savetheinternet.com/sites/all/themes/sti2/newhome/build/css/old-ie.css?nxnrhp");
+</style>
+<![endif]-->
+  <script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.1"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/misc/drupal.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.button.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/misc/ajax.js?v=7.35"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/misc/progress.js?v=7.35"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/modules/field_group/field_group.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/fpstructure/js/modal-once.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/fpstructure/js/jquery.cookie.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/fpstructure/js/actionkit.js?nxnrhp"></script>
+<script type="text/javascript" src="http://s3.freepress.net.s3.amazonaws.com/outreach/bftn-widget/widget.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/fpstructure/js/modernizr.custom.78087.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/fpstructure/js/jquery.fitvids.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/fpstructure/js/script.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/sti2/newhome/js/jquery.smooth-scroll.min.js?nxnrhp"></script>
+<script type="text/javascript" src="http://www.savetheinternet.com/sites/all/themes/sti2/newhome/js/script_newhome.js?nxnrhp"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sti2","theme_token":"wy5aM8YkZbnGQlMs9PRUf1B1k4jkcYDj7IpS5Rz_Jk8","jquery_version":"1.7","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"misc\/progress.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/fpstructure\/js\/modal-once.js":1,"sites\/all\/themes\/fpstructure\/js\/jquery.cookie.js":1,"sites\/all\/themes\/fpstructure\/js\/actionkit.js":1,"http:\/\/s3.freepress.net.s3.amazonaws.com\/outreach\/bftn-widget\/widget.js":1,"sites\/all\/themes\/fpstructure\/js\/modernizr.custom.78087.js":1,"sites\/all\/themes\/fpstructure\/js\/jquery.fitvids.js":1,"sites\/all\/themes\/fpstructure\/js\/script.js":1,"sites\/all\/themes\/sti2\/newhome\/js\/jquery.smooth-scroll.min.js":1,"sites\/all\/themes\/sti2\/newhome\/js\/script_newhome.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/field_group\/field_group.css":1,"http:\/\/fonts.googleapis.com\/css?family=Droid+Sans:400,700|Droid+Serif:400,700|Oswald":1,"sites\/all\/themes\/fpstructure\/css\/hailu-global.css":1,"sites\/all\/themes\/fpstructure\/css\/flexslider.css":1,"sites\/all\/themes\/fpstructure\/css\/screen.css":1,"sites\/all\/themes\/sti2\/css\/sti2-screen.css":1,"sites\/all\/themes\/sti2\/newhome\/build\/css\/styles.min.css":1,"sites\/all\/themes\/fpstructure\/css\/print.css":1,"sites\/all\/themes\/fpstructure\/css\/ie_9.css":1,"sites\/all\/themes\/fpstructure\/css\/ie_8.css":1,"sites\/all\/themes\/fpstructure\/css\/ie_7.css":1,"sites\/all\/themes\/fpstructure\/css\/ie_6.css":1,"sites\/all\/themes\/sti2\/css\/ie-sti2.css":1,"sites\/all\/themes\/sti2\/newhome\/build\/css\/old-ie.css":1}},"ajax":{"edit-submit--2":{"callback":"signup_form_ajax","keypress":true,"event":"mousedown","prevent":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Add me"}},"edit-submit--3":{"callback":"signup_form_ajax","keypress":true,"event":"mousedown","prevent":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Add me"}}}});
+//--><!]]>
+</script>
+<script src="http://s3.freepress.net.s3.amazonaws.com/outreach/bftn-widget/widget.js"
+    async></script>
+    
+  <title>About the Save the Internet Campaign | Free Press</title>
+
+
+	<script type="text/javascript">var switchTo5x=false;</script>
+	
+  			<script type="text/javascript">
+  			  var _paq = _paq || [];
+         
+  			  _paq.push(["trackPageView"]);
+  			  _paq.push(["enableLinkTracking"]);
+  			 
+  			  (function() {
+  			    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://analytics.freepress.net/";
+  			    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+  			    _paq.push(["setSiteId", "2"]);
+  			    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+  			    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  			  })();
+  			</script>
+  			<noscript>
+  			  <img src="https://analytics.freepress.net/piwik.php?idsite=1&amp;rec=1" style="border:0" alt="" />
+  			</noscript>
+  			<!-- End Piwik Code -->
+  			
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-104875 node-type-page sti" >
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  
+  <script type="text/javascript">actionkit.forms.initPage()</script>
+
+<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6. chromium.org/developers/how-tos/chrome-frame-getting-started -->
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is outdated. <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+    
+
+<header class="full_header">
+	<div class="logo_menus container-fluid">
+		<div class="row-fluid">
+			<div class="view view-domain-tabs view-id-domain_tabs view-display-id-block">
+                      <div class="view-content">
+                          <div class="item-list">    
+                            <ul>          
+                              <li class="views-row views-row-1 views-row-odd views-row-first">  
+                                <div class="views-field views-field-field-image">        
+                                  <div class="field-content sti2-logo">
+                                    <a class="sti2-logo" href="http://freepress.net">
+                                      <img class="sti2-logo" typeof="foaf:Image" src="/sites/all/themes/sti2/img/sti-logo-top.png" width="532" height="69" />
+                                    </a>
+                                    <a class="sti2-logo" href="http://savetheinternet.com">
+                                      <img class="sti2-logo" typeof="foaf:Image" src="/sites/all/themes/sti2/img/sti-logo-bottom.png" width="532" height="63" />
+                                    </a>
+                                </div>
+                              </div>
+                            </li>
+                              </ul>
+                          </div>
+                      </div>
+                    </div>
+			<div class="mobile-logo">
+				<a href="http://www.savetheinternet.com/"><img src="/sites/all/themes/sti2/img/fp-logo-mobile.png" alt="free press and free press action fund" /></a>
+			</div>
+			
+			<div class="mobile-search"><ul class="menu-search ">
+							<li class="search-bar"><form action="/about-sti" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-JYYKJAf0ZDKPwr3shRw4NuXgXGPRBl8qfiqOKaArz6w" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></li>
+							<li class="mobile-search-button"><span>Search</span></li>
+							<!--all of these spans create the mobile menu button (three lines stacked on top of eachother)-->
+							<li class="mobile-menu-button"><span class="mobile-menu-button-span"><span></span><span></span><span></span></span></li>
+							</ul></div>
+			<ul class="signup_form">
+				<li id="signup-form">
+					<form action="/about-sti" method="post" id="fp-signup-form" accept-charset="UTF-8"><div><p class='form-title'>Join the Movement</p><div class="signup-errors"></div><div class="form-item form-type-emailfield form-item-email">
+  <label for="edit-email">Sign Up: </label>
+ <input placeholder="email" type="email" id="edit-email" name="email" value="" size="60" maxlength="128" class="form-text form-email" />
+</div>
+<div class="form-hidden-wrapper"><div class="form-item form-type-textfield form-item-zip">
+  <label for="edit-zip">Zip Code: </label>
+ <input placeholder="zip" type="text" id="edit-zip" name="zip" value="" size="5" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-chilly">
+ <input type="text" id="edit-chilly" name="chilly" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<input type="submit" id="edit-submit--2" name="op" value="Add me" class="form-submit" /><p>We respect your <a href="/privacy_copyright">privacy</a>.</p></div><input type="hidden" name="form_build_id" value="form-1VO_o1ATAWpBN8aIi_008AAk6lXcVkqqp8S4_Au5k9U" />
+<input type="hidden" name="form_id" value="fp_signup_form" />
+</div></form>				</li>				
+			</ul>
+			<ul class="social_nav">
+				<li id="twitter-btn-top"><a href="http://twitter.com/freepress" class="" target="_blank" ><img src="/sites/all/themes/fpstructure/img/twitter_image_top.png" /></a></li>
+				<li id="facebook-btn-top"><a href="https://www.facebook.com/savetheinternet" class="" target="_blank" ><img src="/sites/all/themes/fpstructure/img/facebook_image_top.png" /></li>
+				<li id=""><a href="http://themediafix.tumblr.com/" class="" target="_blank" ><img src="/sites/all/themes/fpstructure/img/tumblr_image_top.png" /></a></li>
+			</ul>
+					
+		</div><!--row-fluid-->
+	</div><!--logo and menus-->					
+</header><!--container-->
+
+<!-- <div class="search-bar">
+	<div id="search-block" class="search-block"></div>
+	<form action="/about-sti" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-JYYKJAf0ZDKPwr3shRw4NuXgXGPRBl8qfiqOKaArz6w" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div> -->
+
+<div id="small_nav">
+	<ol class="nav nav-pills">
+		<li class="signup-button-wrapper small-nav-item"><span class="signup-button" href="#">Sign Up</span>
+			<div class="mobile-sign-up hidden">
+				<form action="/about-sti" method="post" id="fp-mobile-signup-form" accept-charset="UTF-8"><div><p class='form-title'>Join the Movement</p><div class="signup-errors"></div><div class="form-item form-type-emailfield form-item-email">
+  <label for="edit-email--2">Sign Up: </label>
+ <input placeholder="email" type="email" id="edit-email--2" name="email" value="" size="60" maxlength="128" class="form-text form-email" />
+</div>
+<div class="form-hidden-wrapper"><div class="form-item form-type-textfield form-item-zip">
+  <label for="edit-zip--2">Zip Code: </label>
+ <input placeholder="zip" type="text" id="edit-zip--2" name="zip" value="" size="5" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-chilly">
+ <input type="text" id="edit-chilly--2" name="chilly" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<input type="submit" id="edit-submit--3" name="op" value="Add me" class="form-submit" /><p>We respect your <a href="/privacy_copyright">privacy</a>.</p></div><input type="hidden" name="form_build_id" value="form-2qjz3V7T5eZHIBSwJ6dWvp7tgHniTRPlAvsIvrdhpck" />
+<input type="hidden" name="form_id" value="fp_mobile_signup_form" />
+</div></form>				
+		    </div>
+		</li>
+		<li class="take-action small-nav-item"><a class="takeaction-button" href="/action">Take Action</a></li>
+		<li class="donate small-nav-item"><a class="donate-button" href="https://freepress.actionkit.com/donate/single/?source=freepress-mobile">Donate</a></li>
+	</ol>
+</div>		
+
+<div id="main">
+		  <div class="region region-topnav">
+    <div id="block-menu-block-2" class="block block-menu-block">
+	<div class="block-inner">
+	  		  
+	  <div class="content">
+	    <div class="menu-block-wrapper menu-block-2 menu-name-menu-sti-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1194"><a href="/sti-home/#why" title="">WHY</a></li>
+<li class="leaf menu-mlid-1195"><a href="/sti-home/#what" title="">WHAT</a></li>
+<li class="leaf menu-mlid-1196"><a href="/sti-home/#when" title="">WHEN</a></li>
+<li class="leaf menu-mlid-1197"><a href="/sti-home/#how" title="">HOW</a></li>
+<li class="leaf menu-mlid-701"><a href="/sti-blog" title="">Blog</a></li>
+<li class="leaf menu-mlid-712 menu-action"><a href="http://act.freepress.net/sign/internet_nn_congress_defend/" title="">Take Action</a></li>
+<li class="leaf menu-mlid-711 menu-donate"><a href="https://act.freepress.net/donate/internet_neutrality_victory/?source=modal" title="">Donate</a></li>
+<li class="last leaf menu-mlid-1038 search"><ul class="menu-search">
+					<li class="search-bar"><form action="/about-sti" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--4">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--4" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-98Ptg4iJl-F3VRB2lvg4Bo5BDCteXVDnsPQT3_pqj1I" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></li>
+					<li class="mobile-search-button"><span>Search</span></li>
+					<!--all of these spans create the mobile menu button (three lines stacked on top of eachother)-->
+					<li class="mobile-menu-button"><span class="mobile-menu-button-span"><span></span><span></span><span></span></span></li>
+					</ul></li>
+</ul></div>
+	  </div>
+	</div>
+</div>
+  </div>
+	
+	<div class="container-fluid">
+		<div class="row-fluid">
+						<div class="span12 main_span">
+												
+						        		        		        <div class="tabs"></div>		        		          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+	<div class="block-inner">
+	  		  
+	  <div class="content">
+	    <div id="node-104875" class="node node-page view_mode_full clearfix" about="/about-sti" typeof="foaf:Document">
+
+  
+
+  
+  <div class="content">
+    <div class="item-list"><ul id="social-links"><li class="first"><a class='social-button twitter button-submit' onclick=' _paq.push(['setCustomVariable', 1,'Twitter', 'page', 'visit']);' href='https://twitter.com/intent/tweet?text=About%20the%20Save%20the%20Internet%20Campaign%3A%20http%3A%2F%2Fwww.savetheinternet.com%2Fabout-sti%20via%20%40freepress' target='_blank'> <span class='icon'><img src='https://s3.amazonaws.com/s3.freepress.net/template-set-assets/fp_3/img/icon-twitter.png' alt='twitter' /></span> <span class='textNode'>Tweet It</span> </a></li>
+<li class="last"><a class='social-button facebook button-submit' href='http://www.facebook.com/sharer.php?u=http://www.savetheinternet.com/about-sti' target='_blank' onClick='_paq.push(['setCustomVariable',  
+1,'Facebook', 'page', 'visit']);'> <span class='icon'><img src='https://s3.amazonaws.com/s3.freepress.net/template-set-assets/fp_3/img/icon-facebook.png' alt='facebook' /></span> <span class='textNode'>Share it</span> </a></li>
+</ul></div><h3 class="node-title">About the Save the Internet Campaign</h3><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Our rights to connect and communicate — via universally accessible, open, affordable and fast communications networks and devices — are essential to our individual, economic and political freedoms.</p>
+<p>Yet these rights — codified in the First Amendment and the Universal Declaration of Human Rights — are at the mercy of powerful phone, cable and Internet companies and the government agencies they collude with.</p>
+<p>The Internet is the foremost battleground for free speech in the 21st century, and protecting our Internet freedom is essential to safeguarding our rights to speak and assemble in private. But the principles embodied in the Declaration of Internet Freedom — freedom of expression, access, openness, innovation and privacy — are under constant attack.   </p>
+<p>The attacks are both large and small, but all of them are chipping away at our basic rights.</p>
+<p>Phone and cable companies like AT&amp;T, Comcast and Verizon are raising prices, cutting service, blocking applications, censoring speech and violating our privacy. Internet companies — both familiar names and others you’ve never heard of — are compiling profiles of millions of people, selling the data and raking in billions. And federal agencies like the NSA are plying these same companies with requests for the data of millions of users — issuing these demands in secret and in the absence of any real accountability.</p>
+<p>Meanwhile, thanks to a lawsuit from Verizon, a court overturned the Federal Communications Commission’s Net Neutrality rules on Jan. 14, 2014 — meaning that our Internet service providers are now free to block or otherwise interfere with online traffic. Policymakers on both sides of the aisle are trying to cut programs that guarantee universal access to communications networks. People around the country are at risk of losing basic connections — connections that, until now, we could take for granted.</p>
+<p><strong>We must build a movement to fight for our rights to connect and communicate.</strong></p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+	  </div>
+	</div>
+</div>
+  </div>
+			</div><!--main_span-->
+			   
+			     
+		</div><!--row-->
+	</div><!--container fluid-->
+</div><!--#main-->
+
+<div class="icon-pop-up"><div class="text"><p><span>People + Policy</span></p><p>= Positive Change for the Public Good</p></div><span class="triangle"></span></div>
+<div class="icons"><img src="/sites/all/themes/sti2/img/fp-icons.png" alt="people + policy = Positive Change for the Public Good" /></div>
+<footer id="main_footer">
+	<div class="container-fluid">
+		<div class="footer-content">
+			<nav class="footer-nav">
+				<ul class="no-list">
+					<li><h4><a href="/contact">Contact</a></h4></li>
+					<li><h4><a href="/privacy_copyright">Privacy and Copyright</a></h4></li>
+				</ul>
+				<p>TM &#043; &#169; 2009&#8211;2015 Free Press, <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/">Creative Commons Attribution Noncommercial ShareAlike license</a></p>
+				<p>Freepress.net is a project of Free Press and the Free Press Action Fund. Free Press and the Free Press Action Fund do not support or oppose any candidate for public office. We are nonpartisan organizations fighting to save the free and open Internet, curb runaway media consolidation, protect press freedom, and ensure diverse voices are represented in our media.</p>
+			</nav>
+			<div class="connect">
+				<h4>Connect With Free Press</h4>
+				<ul class="social_nav">
+				<li id="twitter-btn-top"><a href="http://twitter.com/freepress" class="" target="_blank" ><img src="/sites/all/themes/fpstructure/img/twitter_image_top.png" /></a></li>
+				<li id="facebook-btn-top"><a href="https://www.facebook.com/savetheinternet" class="" target="_blank" ><img src="/sites/all/themes/fpstructure/img/facebook_image_top.png" /></li>
+				<li id=""><a href="http://themediafix.tumblr.com/" class="" target="_blank" ><img src="/sites/all/themes/fpstructure/img/tumblr_image_top.png" /></a></li>
+			</ul>		
+			</div>
+			<div class="charity-reviews">
+				<h4>Charity Reviews</h4>
+				<ul class="no-list">
+					<li class="great-nonprofits"><a href="http://greatnonprofits.org/reviews/free-press" target="_blank"><img src="http://s3.amazonaws.com/s3.freepress.net/outreach/2014-top-rated-awards-badge-embed.png" alt="top nonprofit"/></a></li>
+					<li class="guidestar"><a href="http://www.guidestar.org/organizations/41-2106721/free-press.aspx"><img src="/sites/all/themes/sti2/img/guidestar-seal.png" alt="guidestar"/></a></li>
+				</ul>
+			</div>
+		</div><!--footer-content-->
+	</div><!--container-fluid-->
+</footer>
+<div id="modal"></div>
+  </body>
+</html>

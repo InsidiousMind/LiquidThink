@@ -1,0 +1,90 @@
+@import "style.css";
+
+
+
+#bl_newsletter-2 > div > div > button article .box,
+.entry-container,
+.page #content article.type-page {
+    background-color: #141A1E;
+}
+/*#side-bar .bl_newsletter p {
+    color: #FFF;
+}*/
+footer.entry-meta ul a {
+    color: #FFFFFF;
+}
+
+.entry-content ul li {
+    color: #FFFFFF;
+}
+.entry-content h3 {
+    color: #FFFFFF;
+}
+#bl_side_posts > ul li:hover,
+#bl_side_comments > ul li:hover {
+    background-color: #74767A
+}
+#bl_side_posts > ul li,
+#bl_side_comments > ul li {
+    background-color: #141A1E
+}
+#bl_side_posts> #bl_tabs-3 {
+    background-color: #848484
+}
+article .box,
+.entry-container,
+.page #content article.type-page {
+    color: #FFFFFF;
+}
+.tab-content {
+    padding-bottom: 0 
+}
+.bl_tabs h3+#bl_side_tabs,
+.bl_tabs h3+#bl_side_tabs * {
+    top: 0;
+    background: #141A1E;
+}
+.bl_tabs h3+#bl_side_tabs,
+.bl_tabs h3+#bl_side_tabs span {
+    color: #0C0;
+}
+/*.tab-content {
+    padding-bottom: 0;
+    padding-top: 0;
+}*/
+.tab-content,
+.tab-content * {
+    color: #FFFFFF;
+}
+.bl_tabs h3+#bl_side_tabs,
+.bl_tabs h3+#bl_side_tabs * {
+    top: 0;
+    background: #141A1E ;
+    color: #FFF;
+}
+#masthead .top-banner {
+    background-color: #141A1E ;
+}
+.site-footer #footer-body .bl_tabs ul li .tab_text h5 a,
+.bl_tabs ul li .tab_text h5 a {
+    color: #FFF;
+}
+.bl_tabs ul li .tab_text a span,
+a {
+    color: #fff;
+}
+.bl_author .bl_author_bio > h3 {
+    color: #fff;
+}
+.pagination > a {
+    background: #141a1e none repeat scroll 0 0;
+    color:#fff;
+}
+.pagination > * {
+color: #2C672D;
+}
+#bl_side_posts > ul li:hover,
+#bl_side_comments > ul li:hover {
+    background: #333030 none repeat scroll 0 0;
+}
+

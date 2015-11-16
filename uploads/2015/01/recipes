@@ -1,0 +1,1203 @@
+<!DOCTYPE html>
+<html class=' not-mobile non-forced-fullwidth     no-js' debug='true' lang='en'>
+<head>
+<title>
+Discover new Recipes - IFTTT
+</title>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+<meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta name="author" content="IFTTT" />
+
+
+  <meta content="Recipes are simple connections between the products and apps you use every day. Discover Recipes published by the community and put the internet to work for you." name="description"/>
+  <meta content="IFTTT  recipes triggers actions channels if this then that ifthisthenthat tasks task create creative connect connections do button camera note notepad" name="keywords"/>
+  <meta content="Copyright 2015 IFTTT Inc." name="copyright"/>
+  <meta content="#33ccff" name="theme-color"/>
+
+
+  <meta content="app-id=660944635, app-argument=ifttt://" name="apple-itunes-app"/>
+
+
+  <meta content="IFTTT / Put the internet to work for you." property="og:site_name"/>
+  <meta content="122259781154546" property="fb:app_id"/>
+  <meta content="7302486" property="fb:admins"/>
+
+
+  <meta content="IFTTT" property="og:title"/>
+  <meta content="Recipes are simple connections between the products and apps you use every day. Discover Recipes published by the community and put the internet to work for you." property="og:description"/>
+  <meta content="website" property="og:type"/>
+  <meta content="https://ifttt.com/images/og_ifttt_logo.png" property="og:image"/>
+
+
+  <meta content="summary" name="twitter:card"/>
+  <meta content="@IFTTT" name="twitter:site"/>
+  <meta content="https://ifttt.com/images/twitter_card_logo.png" name="twitter:image"/>
+  <meta content="IF" name="twitter:app:name:iphone"/>
+  <meta content="IF" name="twitter:app:name:ipad"/>
+  <meta content="660944635" name="twitter:app:id:iphone"/>
+  <meta content="660944635" name="twitter:app:id:ipad"/>
+  <meta content="ifttt://" name="twitter:app:url:iphone"/>
+  <meta content="ifttt://" name="twitter:app:url:ipad"/>
+  <meta content="IF" name="twitter:app:name:googleplay"/>
+  <meta content="com.ifttt.ifttt" name="twitter:app:id:googleplay"/>
+  <meta content="ifttt://" name="twitter:app:url:googleplay"/>
+
+  <meta content="all" name="robots"/>
+
+<script>
+  //<![CDATA[
+    window.IFTTT || (window.IFTTT = {});
+    window.IFTTT.runOnLoad = {
+      queue: [],
+      append: function(method, _this){
+        this.queue.push({method: method, this: _this});
+        // immediatly run after the initial setup
+        if(this.__hasRun == true)
+          this.run();
+        
+        return this;
+      },
+      run: function(){
+        var queue = this.queue;
+        while(queue.length){
+          var step = queue.shift();
+          if(typeof step.method == 'function')
+            step.method.call(step.this);
+        }
+        this.__hasRun = true
+      },
+      __hasRun: false
+    }
+  //]]>
+</script>
+
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="nrL2XfQjU28JnrpRjA2ACXbtoeQ31GLbA4YuZ5IWPYA=" name="csrf-token" />
+<link href="https://d3rnbxvnd0hlox.cloudfront.net/assets/favicon-bd4ed939db103c7da5972b123ca4e193.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="https://d3rnbxvnd0hlox.cloudfront.net/assets/favicon-8b5d0575d1fc0db888e0d7d59adbf39a.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href='https://d3rnbxvnd0hlox.cloudfront.net/assets/apple-touch-icon-57x57-8266cdab31295f5dc31704bbe320b77a.png' rel='apple-touch-icon-precomposed' sizes='57x57'>
+<link href='https://d3rnbxvnd0hlox.cloudfront.net/assets/apple-touch-icon-114x114-8f1aaa1bf93ef755d77ab6e8e1219fef.png' rel='apple-touch-icon-precomposed' sizes='114x114'>
+<link href='https://d3rnbxvnd0hlox.cloudfront.net/assets/apple-touch-icon-72x72-7a04561b703db07aa136e833f8568793.png' rel='apple-touch-icon-precomposed' sizes='72x72'>
+<link href='https://d3rnbxvnd0hlox.cloudfront.net/assets/apple-touch-icon-144x144-fc1651891796f73a9f43e3415c02b7bb.png' rel='apple-touch-icon-precomposed' sizes='144x144'>
+<meta content='IFTTT.com' name='apple-mobile-web-app-title'>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=10">
+<link href="https://fast.fonts.net/t/1.css?apiType=css&amp;projectid=0dc2272c-02af-4455-a8b4-365fc9017a5c" media="screen" rel="stylesheet" type="text/css" />
+<link href="https://d3rnbxvnd0hlox.cloudfront.net/assets/main-a87c5704bf378ef49012e1de2a97631a.css" media="screen" rel="stylesheet" type="text/css" />
+
+<link href="https://d3rnbxvnd0hlox.cloudfront.net/assets/public-98c7720a40526fd6aec370b107f616c8.css" media="screen" rel="stylesheet" type="text/css" />
+
+<link href="https://d3rnbxvnd0hlox.cloudfront.net/assets/v2/application-8f694d3092e47f1f256e07e13d4ec46f.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="https://d3rnbxvnd0hlox.cloudfront.net/assets/hi-dpi-fb98e6e7749e7eeab7ae1865bac86cd2.css" media="(-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 2), (-o-min-device-pixel-ratio: 3/2), (min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+
+<div class='l-all-but-footer'>
+<div itemscope>
+<header class='l-header'>
+<div class="l-site-browse-header l-site-header-with-search l-site-browse-and-search-combined">
+  <div class="l-site-header-logo">
+  <a class="ifttt-logo" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;}" data-track-event="header_logo" href="/" title="Home">
+    <img alt="Ifttt-logo" class="logo" src="https://d3rnbxvnd0hlox.cloudfront.net/assets/v2/ifttt-logo-bb65236e5bfb8aa3608ea3d53cdba2fa.svg" />
+  </a>
+</div>
+
+
+  
+    <form class="top-bar-search" action="/recipes/search" method="GET">
+      <input type="text" placeholder="Search" name="q" class="top-bar-input typeahead" />
+      <input type="submit" value="" />
+    </form>
+
+
+      <nav class="l-site-header-nav">
+        <ul class="nav-inline nav-site is-unauthenticated">
+            <li class="nav-inline_item">
+              <a href="/recipes" class="nav-inline_link nav-site_learn-more" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;}" data-track-event="header_link_browse_logged_out">Browse Recipes</a>
+            </li>
+            <li class="nav-inline_item">
+              <a href="/login" class="nav-inline_link nav-site_login" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;}" data-track-event="header_link_sign_in_logged_out">Sign in</a>
+            </li>
+            <li class="nav-inline_item">
+              <a href="/join" class="nav-inline_link nav-site_join" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;}" data-track-event="header_link_sign_up_logged_out">Sign up</a>
+            </li>
+        </ul>
+      </nav>
+</div>
+
+<div class='l-notifications'>
+<div class='notification-collector'>
+<script>
+  //<![CDATA[
+    IFTTT.runOnLoad.append(function(){
+      window.IFTTT.notifications.resizeNotification()
+    });
+  //]]>
+</script>
+</div>
+
+</div>
+</header>
+
+
+<article class='-ns-no_top_margin l-page-content'>
+
+<!--/ the hidden title is kept for SEO and screen readers purpose -->
+<h1 class="l-page-title -hidden">
+  
+</h1>
+
+
+  <aside>
+<div class='recipe_collections_scroller' data-should_auto_scroll='true'>
+<h1 style='display: none'>
+Collections
+</h1>
+<div class='recipe_collections_scroller--list_holder'>
+<ul class='recipe_collections_scroller--list'>
+<li class='recipe_collections_scroller--entry'>
+<a class='recipe_collections_scroller--entry--internal' href='/recipes/collections/41-recipes-for-android' title='Recipes for: Android'>
+<picture>
+<source media='(max-width: 320px)' sizes='100vw' srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/Android_iPhone+(1).jpg  640w, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/Android_iPhone-(1)_320.jpg 320w'></source>
+<source srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/Android_iPad-(1)_1024.jpg 1x, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/Android_iPad+(1).jpg 2x'></source>
+<img alt='Recipes for: Android' class='recipe_collections_scroller--entry--image' src='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/Android_iPad-(1)_1024.jpg'>
+</picture>
+
+</a>
+</li>
+<li class='recipe_collections_scroller--entry'>
+<a class='recipe_collections_scroller--entry--internal' href='/recipes/collections/42-recipes-for-ios' title='Recipes for: iOS'>
+<picture>
+<source media='(max-width: 320px)' sizes='100vw' srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/iOS_iPhone.jpg  640w, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/iOS_iPhone_320.jpg 320w'></source>
+<source srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/iOS_iPad_1024.jpg 1x, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/iOS_iPad.jpg 2x'></source>
+<img alt='Recipes for: iOS' class='recipe_collections_scroller--entry--image' src='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/iOS_iPad_1024.jpg'>
+</picture>
+
+</a>
+</li>
+<li class='-js-lazy_load recipe_collections_scroller--entry'>
+<a class='recipe_collections_scroller--entry--internal' href='/recipes/collections/36-getting-started-with-if' title='Recipes for: Get Started'>
+&lt;!-- &lt;picture&gt;
+&lt;source media='(max-width: 320px)' sizes='100vw' srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/getting_started_if_badge_retina.jpg  640w, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/getting_started_if_badge.jpg 320w'&gt;&lt;/source&gt;
+&lt;source srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/getting_started_if_hero.jpg 1x, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/getting_started_if_hero_retina.jpg 2x'&gt;&lt;/source&gt;
+&lt;img alt='Recipes for: Get Started' class='recipe_collections_scroller--entry--image' src='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/getting_started_if_hero.jpg'&gt;
+&lt;/picture&gt;
+ --&gt;
+</a>
+</li>
+<li class='-js-lazy_load recipe_collections_scroller--entry'>
+<a class='recipe_collections_scroller--entry--internal' href='/recipes/collections/40-recipes-to-streamline-your-social-media' title='Recipes for: Social'>
+&lt;!-- &lt;picture&gt;
+&lt;source media='(max-width: 320px)' sizes='100vw' srcset='https://s3.amazonaws.com/features.ifttt.com/feature_images/optomized/Streamlining_iPhone.jpg  640w, https://s3.amazonaws.com/features.ifttt.com/feature_images/optomized/Streamlining_iPhone_320.jpg 320w'&gt;&lt;/source&gt;
+&lt;source srcset='https://s3.amazonaws.com/features.ifttt.com/feature_images/optomized/Streamlining_iPad_1024.jpg 1x, https://s3.amazonaws.com/features.ifttt.com/feature_images/optomized/Streamlining_iPad.jpg 2x'&gt;&lt;/source&gt;
+&lt;img alt='Recipes for: Social' class='recipe_collections_scroller--entry--image' src='https://s3.amazonaws.com/features.ifttt.com/feature_images/optomized/Streamlining_iPad_1024.jpg'&gt;
+&lt;/picture&gt;
+ --&gt;
+</a>
+</li>
+<li class='-js-lazy_load recipe_collections_scroller--entry'>
+<a class='recipe_collections_scroller--entry--internal' href='/recipes/collections/161-recipes-for-your-car' title='Recipes for: Connected Car'>
+&lt;!-- &lt;picture&gt;
+&lt;source media='(max-width: 320px)' sizes='100vw' srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/recipes_for_your_car_badge_retina.png  640w, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/recipes_for_your_car_badge.png 320w'&gt;&lt;/source&gt;
+&lt;source srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/recipes_for_your_car_hero.png 1x, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/recipes_for_your_car_hero_retina.png 2x'&gt;&lt;/source&gt;
+&lt;img alt='Recipes for: Connected Car' class='recipe_collections_scroller--entry--image' src='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/recipes_for_your_car_hero.png'&gt;
+&lt;/picture&gt;
+ --&gt;
+</a>
+</li>
+<li class='-js-lazy_load recipe_collections_scroller--entry'>
+<a class='recipe_collections_scroller--entry--internal' href='/recipes/collections/28-recipes-for-music-lovers' title='Recipes for: Music'>
+&lt;!-- &lt;picture&gt;
+&lt;source media='(max-width: 320px)' sizes='100vw' srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/MusicLovers_iPhone.jpg  640w, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/MusicLovers_iPhone_320.jpg 320w'&gt;&lt;/source&gt;
+&lt;source srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/MusicLovers_iPad_1024.jpg 1x, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/MusicLovers_iPad.jpg 2x'&gt;&lt;/source&gt;
+&lt;img alt='Recipes for: Music' class='recipe_collections_scroller--entry--image' src='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/MusicLovers_iPad_1024.jpg'&gt;
+&lt;/picture&gt;
+ --&gt;
+</a>
+</li>
+<li class='-js-lazy_load recipe_collections_scroller--entry'>
+<a class='recipe_collections_scroller--entry--internal' href='/recipes/collections/157-do-recipes-for-the-workplace' title='Recipes for: DO Work'>
+&lt;!-- &lt;picture&gt;
+&lt;source media='(max-width: 320px)' sizes='100vw' srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_work_badge_retina.png  640w, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_work_badge.png 320w'&gt;&lt;/source&gt;
+&lt;source srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_work_hero.png 1x, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_work_hero_retina.png 2x'&gt;&lt;/source&gt;
+&lt;img alt='Recipes for: DO Work' class='recipe_collections_scroller--entry--image' src='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_work_hero.png'&gt;
+&lt;/picture&gt;
+ --&gt;
+</a>
+</li>
+<li class='-js-lazy_load recipe_collections_scroller--entry'>
+<a class='recipe_collections_scroller--entry--internal' href='/recipes/collections/156-do-recipes-for-your-home' title='Recipes for: DO Home'>
+&lt;!-- &lt;picture&gt;
+&lt;source media='(max-width: 320px)' sizes='100vw' srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_home_badge_retina.png  640w, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_home_badge.png 320w'&gt;&lt;/source&gt;
+&lt;source srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_home_hero.png 1x, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_home_hero_retina.png 2x'&gt;&lt;/source&gt;
+&lt;img alt='Recipes for: DO Home' class='recipe_collections_scroller--entry--image' src='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_home_hero.png'&gt;
+&lt;/picture&gt;
+ --&gt;
+</a>
+</li>
+<li class='-js-lazy_load recipe_collections_scroller--entry'>
+<a class='recipe_collections_scroller--entry--internal' href='/recipes/collections/155-do-recipe-essentials' title='Recipes for: DO Essentials'>
+&lt;!-- &lt;picture&gt;
+&lt;source media='(max-width: 320px)' sizes='100vw' srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_essentials_badge_retina.png  640w, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_essentials_badge.png 320w'&gt;&lt;/source&gt;
+&lt;source srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_essentials_hero.png 1x, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_essentials_hero_retina.png 2x'&gt;&lt;/source&gt;
+&lt;img alt='Recipes for: DO Essentials' class='recipe_collections_scroller--entry--image' src='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/do_essentials_hero.png'&gt;
+&lt;/picture&gt;
+ --&gt;
+</a>
+</li>
+<li class='-js-lazy_load recipe_collections_scroller--entry'>
+<a class='recipe_collections_scroller--entry--internal' href='/recipes/collections/37-recipes-for-outer-space' title='Recipes for: Space'>
+&lt;!-- &lt;picture&gt;
+&lt;source media='(max-width: 320px)' sizes='100vw' srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/OuterSpace_iPhone.jpg  640w, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/OuterSpace_iPhone_320.png 320w'&gt;&lt;/source&gt;
+&lt;source srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/OuterSpace_iPad_1024.jpg 1x, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/Outer_space_ipad.jpg 2x'&gt;&lt;/source&gt;
+&lt;img alt='Recipes for: Space' class='recipe_collections_scroller--entry--image' src='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/OuterSpace_iPad_1024.jpg'&gt;
+&lt;/picture&gt;
+ --&gt;
+</a>
+</li>
+<li class='-js-lazy_load recipe_collections_scroller--entry'>
+<a class='recipe_collections_scroller--entry--internal' href='/recipes/collections/60-recipes-for-a-healthy-lifestyle' title='Recipes for: Healthy'>
+&lt;!-- &lt;picture&gt;
+&lt;source media='(max-width: 320px)' sizes='100vw' srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/healthy_lifestyle_640.png  640w, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/healthy_lifestyle_320.png 320w'&gt;&lt;/source&gt;
+&lt;source srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/healthy_lifestyle_1024.png 1x, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/healthy_lifestyle_2048.png 2x'&gt;&lt;/source&gt;
+&lt;img alt='Recipes for: Healthy' class='recipe_collections_scroller--entry--image' src='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/healthy_lifestyle_1024.png'&gt;
+&lt;/picture&gt;
+ --&gt;
+</a>
+</li>
+<li class='recipe_collections_scroller--entry'>
+<a class='recipe_collections_scroller--entry--internal' href='/recipes/collections/32-recipes-for-the-internet-of-things' title='Recipes for: IoT'>
+<picture>
+<source media='(max-width: 320px)' sizes='100vw' srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/InternetofThings_iPhone%402x.jpg  640w, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/InternetofThings_iPhone.jpg 320w'></source>
+<source srcset='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/InternetofThings_iPad.jpg 1x, https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/InternetofThings_iPad%402x.jpg 2x'></source>
+<img alt='Recipes for: IoT' class='recipe_collections_scroller--entry--image' src='https://d2huu43w4jjmdn.cloudfront.net/feature_images/optomized/InternetofThings_iPad.jpg'>
+</picture>
+
+</a>
+</li>
+</ul>
+</div>
+<div class='recipe_collections_scroller--arrows_nav'>
+<button class='recipe_collections_scroller--arrows_nav--prev' title='previous Collection'></button>
+<button class='recipe_collections_scroller--arrows_nav--next' title='next Collection'></button>
+</div>
+</div>
+</aside>
+
+
+<div class="recipe-browse-container">
+  <div>
+    
+<header class="recipe-list__header" id="tabs">
+  <a href="/recipes/hot" class="recipe-list__nav-tab is-current">
+    Recommended
+</a>
+  <a href="/recipes/do" class="recipe-list__nav-tab ">
+    DO
+    <span class="desktop-only">Recipes</span>
+</a>
+  <a href="/recipes/if" class="recipe-list__nav-tab ">
+    IF
+    <span class="desktop-only">Recipes</span>
+</a></header>
+
+<div class="recipe-list">
+  <div class='l-compact-shared-recipes' data-recipe-collection=''>
+<div class='shared-recipe-in-list shared-recipe-in-list-small'>
+<div class='shared-recipe-in-list-small_internal'>
+<div class='shared-recipe-in-list_recipe'>
+<a href="/recipes/165593-find-your-phone" class="recipe recipe-shared recipe-small    "><span class='recipe_trigger' style='background-color: #A4C739;' title='Android SMS'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1322033008/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1322033008/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1322033008/icons/on_color_large.png' alt=Android SMS class='channel-icon -js_use_variant'></picture></span>
+
+</span><span class='recipe_action' style='background-color: #A4C739;' title='Android Device'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1089090894/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1089090894/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1089090894/icons/on_color_large.png' alt=Android Device class='channel-icon -js_use_variant'></picture></span>
+
+</span></a>
+
+</div>
+<div class='shared-recipe-in-list_details'>
+<div class='recipe-desc recipe-desc-compact'>
+<a href="/recipes/165593-find-your-phone" class="recipe-desc_title js-text_sizer -big_font" data-steps="-small_font,-mid_font,-big_font" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;,&quot;recipe_id&quot;:165593}" data-track-event="shared_recipe_desc">Find your phone</a>
+<div class='recipe-desc_creation'>
+by
+<a href="/people/alexpmil" class="recipe-desc_author js-no-parent-press">alexpmil</a>
+</div>
+<div class='recipe-desc_uses-and-favorites'>
+<span class='recipe-desc__stats_item__use-count'>
+<span class='recipe-desc__stats_item_icon--user' title='added'>
+<svg height='20px' version='1.1' width='13px' xmlns='http://www.w3.org/2000/svg'>
+<path d='M6.6,7.7C2.9,7.7,0,10.7,0,14.3V20h1.8h9.6h1.8v-5.7C13.2,10.7,10.2,7.7,6.6,7.7z' fill='#999999'></path>
+<circle cx='6.6' cy='3.9' fill='#999999' r='3.9'></circle>
+</svg>
+
+</span>
+<span class='recipe-desc__stats_item__use-count__number'>
+<span class='compact_value'>
+54k
+</span>
+<span class='full_value'>
+54431
+</span>
+</span>
+<span class='recipe-desc__stats_item__use-count__label'>
+adds
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count' data-favoritable='false' data-favorite='' data-recipe-id='165593'>
+<span class='recipe-desc__stats_item__icon--favorites' title='favorites'>
+<svg height='38px' version='1.1' width='48px' xmlns='http://www.w3.org/2000/svg'>
+<g fill='#333333' id='icon_heart'>
+<path d='M46,12.1 C46,5.9 40.7,-0.2 34.3,6.21724894e-15 C29.6,-0.2 25.1,2.6 23,6.8 C20.9,2.5 16.5,-0.2 11.7,7.10716208e-15 C6.5,-0.2 1.8,4 0.4,8.9 C-0.7,12.9 0.5,17 2.9,20.3 C4.9,23.1 7.5,25.4 10,27.6 C14.1,31.1 18.5,34.4 22.9,37.6 L22.9,37.6 L23,37.6 C28.6,33.5 34.3,29.4 39.2,24.6 C42.7,21.2 46,17.1 46,12.1 L46,12.1 Z' id='Shape'></path>
+</g>
+</svg>
+
+</span>
+<span class='stats_item__favorites-count__number'>
+<span class='compact_value'>
+1.8k
+</span>
+<span class='full_value'>
+1782
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count__label'>
+favorites
+</span>
+</span>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class='shared-recipe-in-list shared-recipe-in-list-small'>
+<div class='shared-recipe-in-list-small_internal'>
+<div class='shared-recipe-in-list_recipe'>
+<a href="/recipes/309442-read-the-day-s-npr-news-headlines" class="recipe recipe-shared recipe-small    "><span class='recipe_trigger' style='background-color: #cccccc;' title='NPR'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/186278498/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/186278498/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/186278498/icons/on_color_large.png' alt=NPR class='channel-icon -js_use_variant'></picture></span>
+
+</span><span class='recipe_action' style='background-color: #2468ff;' title='Email Digest'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/336690107/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/336690107/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/336690107/icons/on_color_large.png' alt=Email Digest class='channel-icon -js_use_variant'></picture></span>
+
+</span></a>
+
+</div>
+<div class='shared-recipe-in-list_details'>
+<div class='recipe-desc recipe-desc-compact'>
+<a href="/recipes/309442-read-the-day-s-npr-news-headlines" class="recipe-desc_title js-text_sizer -big_font" data-steps="-small_font,-mid_font,-big_font" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;,&quot;recipe_id&quot;:309442}" data-track-event="shared_recipe_desc">Read the day&#x27;s NPR news headlines </a>
+<div class='recipe-desc_creation'>
+by
+<a href="/people/npr" class="recipe-desc_author js-no-parent-press">npr</a>
+</div>
+<div class='recipe-desc_uses-and-favorites'>
+<span class='recipe-desc__stats_item__use-count'>
+<span class='recipe-desc__stats_item_icon--user' title='added'>
+<svg height='20px' version='1.1' width='13px' xmlns='http://www.w3.org/2000/svg'>
+<path d='M6.6,7.7C2.9,7.7,0,10.7,0,14.3V20h1.8h9.6h1.8v-5.7C13.2,10.7,10.2,7.7,6.6,7.7z' fill='#999999'></path>
+<circle cx='6.6' cy='3.9' fill='#999999' r='3.9'></circle>
+</svg>
+
+</span>
+<span class='recipe-desc__stats_item__use-count__number'>
+<span class='compact_value'>
+7.2k
+</span>
+<span class='full_value'>
+7243
+</span>
+</span>
+<span class='recipe-desc__stats_item__use-count__label'>
+adds
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count' data-favoritable='false' data-favorite='' data-recipe-id='309442'>
+<span class='recipe-desc__stats_item__icon--favorites' title='favorites'>
+<svg height='38px' version='1.1' width='48px' xmlns='http://www.w3.org/2000/svg'>
+<g fill='#333333' id='icon_heart'>
+<path d='M46,12.1 C46,5.9 40.7,-0.2 34.3,6.21724894e-15 C29.6,-0.2 25.1,2.6 23,6.8 C20.9,2.5 16.5,-0.2 11.7,7.10716208e-15 C6.5,-0.2 1.8,4 0.4,8.9 C-0.7,12.9 0.5,17 2.9,20.3 C4.9,23.1 7.5,25.4 10,27.6 C14.1,31.1 18.5,34.4 22.9,37.6 L22.9,37.6 L23,37.6 C28.6,33.5 34.3,29.4 39.2,24.6 C42.7,21.2 46,17.1 46,12.1 L46,12.1 Z' id='Shape'></path>
+</g>
+</svg>
+
+</span>
+<span class='stats_item__favorites-count__number'>
+<span class='compact_value'>
+141
+</span>
+<span class='full_value'>
+141
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count__label'>
+favorites
+</span>
+</span>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class='shared-recipe-in-list shared-recipe-in-list-small'>
+<div class='shared-recipe-in-list-small_internal'>
+<div class='shared-recipe-in-list_recipe'>
+<a href="/recipes/39-forward-emails-to-trigger-recipe-ifttt-com-to-save-an-attachment-in-dropbox" class="recipe recipe-shared recipe-small    "><span class='recipe_trigger' style='background-color: #2468ff;' title='Email'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/6/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/6/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/6/icons/on_color_large.png' alt=Email class='channel-icon -js_use_variant'></picture></span>
+
+</span><span class='recipe_action' style='background-color: #0C66DE;' title='Dropbox'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/26/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/26/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/26/icons/on_color_large.png' alt=Dropbox class='channel-icon -js_use_variant'></picture></span>
+
+</span></a>
+
+</div>
+<div class='shared-recipe-in-list_details'>
+<div class='recipe-desc recipe-desc-compact'>
+<a href="/recipes/39-forward-emails-to-trigger-recipe-ifttt-com-to-save-an-attachment-in-dropbox" class="recipe-desc_title js-text_sizer " data-steps="-small_font,-mid_font,-big_font" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;,&quot;recipe_id&quot;:39}" data-track-event="shared_recipe_desc">Forward emails to trigger@recipe.ifttt.com to save an #attachment in Dropbox</a>
+<div class='recipe-desc_creation'>
+by
+<a href="/people/redwanhuq" class="recipe-desc_author js-no-parent-press">redwanhuq</a>
+</div>
+<div class='recipe-desc_uses-and-favorites'>
+<span class='recipe-desc__stats_item__use-count'>
+<span class='recipe-desc__stats_item_icon--user' title='added'>
+<svg height='20px' version='1.1' width='13px' xmlns='http://www.w3.org/2000/svg'>
+<path d='M6.6,7.7C2.9,7.7,0,10.7,0,14.3V20h1.8h9.6h1.8v-5.7C13.2,10.7,10.2,7.7,6.6,7.7z' fill='#999999'></path>
+<circle cx='6.6' cy='3.9' fill='#999999' r='3.9'></circle>
+</svg>
+
+</span>
+<span class='recipe-desc__stats_item__use-count__number'>
+<span class='compact_value'>
+24k
+</span>
+<span class='full_value'>
+24943
+</span>
+</span>
+<span class='recipe-desc__stats_item__use-count__label'>
+adds
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count' data-favoritable='false' data-favorite='' data-recipe-id='39'>
+<span class='recipe-desc__stats_item__icon--favorites' title='favorites'>
+<svg height='38px' version='1.1' width='48px' xmlns='http://www.w3.org/2000/svg'>
+<g fill='#333333' id='icon_heart'>
+<path d='M46,12.1 C46,5.9 40.7,-0.2 34.3,6.21724894e-15 C29.6,-0.2 25.1,2.6 23,6.8 C20.9,2.5 16.5,-0.2 11.7,7.10716208e-15 C6.5,-0.2 1.8,4 0.4,8.9 C-0.7,12.9 0.5,17 2.9,20.3 C4.9,23.1 7.5,25.4 10,27.6 C14.1,31.1 18.5,34.4 22.9,37.6 L22.9,37.6 L23,37.6 C28.6,33.5 34.3,29.4 39.2,24.6 C42.7,21.2 46,17.1 46,12.1 L46,12.1 Z' id='Shape'></path>
+</g>
+</svg>
+
+</span>
+<span class='stats_item__favorites-count__number'>
+<span class='compact_value'>
+704
+</span>
+<span class='full_value'>
+704
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count__label'>
+favorites
+</span>
+</span>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class='shared-recipe-in-list shared-recipe-in-list-small'>
+<div class='shared-recipe-in-list-small_internal'>
+<div class='shared-recipe-in-list_recipe'>
+<a href="/recipes/126865-save-screenshots-to-a-seperate-ios-album" class="recipe recipe-shared recipe-small    "><span class='recipe_trigger' style='background-color: #e8655c;' title='iOS Photos'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/78/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/78/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/78/icons/on_color_large.png' alt=iOS Photos class='channel-icon -js_use_variant'></picture></span>
+
+</span><span class='recipe_action' style='background-color: #e8655c;' title='iOS Photos'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/78/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/78/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/78/icons/on_color_large.png' alt=iOS Photos class='channel-icon -js_use_variant'></picture></span>
+
+</span></a>
+
+</div>
+<div class='shared-recipe-in-list_details'>
+<div class='recipe-desc recipe-desc-compact'>
+<a href="/recipes/126865-save-screenshots-to-a-seperate-ios-album" class="recipe-desc_title js-text_sizer -big_font" data-steps="-small_font,-mid_font,-big_font" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;,&quot;recipe_id&quot;:126865}" data-track-event="shared_recipe_desc">Save screenshots to a seperate iOS album</a>
+<div class='recipe-desc_creation'>
+by
+<a href="/people/fisjon" class="recipe-desc_author js-no-parent-press">fisjon</a>
+</div>
+<div class='recipe-desc_uses-and-favorites'>
+<span class='recipe-desc__stats_item__use-count'>
+<span class='recipe-desc__stats_item_icon--user' title='added'>
+<svg height='20px' version='1.1' width='13px' xmlns='http://www.w3.org/2000/svg'>
+<path d='M6.6,7.7C2.9,7.7,0,10.7,0,14.3V20h1.8h9.6h1.8v-5.7C13.2,10.7,10.2,7.7,6.6,7.7z' fill='#999999'></path>
+<circle cx='6.6' cy='3.9' fill='#999999' r='3.9'></circle>
+</svg>
+
+</span>
+<span class='recipe-desc__stats_item__use-count__number'>
+<span class='compact_value'>
+69k
+</span>
+<span class='full_value'>
+69946
+</span>
+</span>
+<span class='recipe-desc__stats_item__use-count__label'>
+adds
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count' data-favoritable='false' data-favorite='' data-recipe-id='126865'>
+<span class='recipe-desc__stats_item__icon--favorites' title='favorites'>
+<svg height='38px' version='1.1' width='48px' xmlns='http://www.w3.org/2000/svg'>
+<g fill='#333333' id='icon_heart'>
+<path d='M46,12.1 C46,5.9 40.7,-0.2 34.3,6.21724894e-15 C29.6,-0.2 25.1,2.6 23,6.8 C20.9,2.5 16.5,-0.2 11.7,7.10716208e-15 C6.5,-0.2 1.8,4 0.4,8.9 C-0.7,12.9 0.5,17 2.9,20.3 C4.9,23.1 7.5,25.4 10,27.6 C14.1,31.1 18.5,34.4 22.9,37.6 L22.9,37.6 L23,37.6 C28.6,33.5 34.3,29.4 39.2,24.6 C42.7,21.2 46,17.1 46,12.1 L46,12.1 Z' id='Shape'></path>
+</g>
+</svg>
+
+</span>
+<span class='stats_item__favorites-count__number'>
+<span class='compact_value'>
+1.7k
+</span>
+<span class='full_value'>
+1730
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count__label'>
+favorites
+</span>
+</span>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class='shared-recipe-in-list shared-recipe-in-list-small'>
+<div class='shared-recipe-in-list-small_internal'>
+<div class='shared-recipe-in-list_recipe'>
+<a href="/recipes/102384-save-new-contacts-to-a-google-spreadsheet" class="recipe recipe-shared recipe-small    "><span class='recipe_trigger' style='background-color: #77e376;' title='iOS Contacts'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/79/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/79/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/79/icons/on_color_large.png' alt=iOS Contacts class='channel-icon -js_use_variant'></picture></span>
+
+</span><span class='recipe_action' style='background-color: #23448b;' title='Google Drive'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/55/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/55/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/55/icons/on_color_large.png' alt=Google Drive class='channel-icon -js_use_variant'></picture></span>
+
+</span></a>
+
+</div>
+<div class='shared-recipe-in-list_details'>
+<div class='recipe-desc recipe-desc-compact'>
+<a href="/recipes/102384-save-new-contacts-to-a-google-spreadsheet" class="recipe-desc_title js-text_sizer -big_font" data-steps="-small_font,-mid_font,-big_font" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;,&quot;recipe_id&quot;:102384}" data-track-event="shared_recipe_desc">Save new contacts to a Google Spreadsheet</a>
+<div class='recipe-desc_creation'>
+by
+<a href="/people/mcb" class="recipe-desc_author js-no-parent-press">mcb</a>
+</div>
+<div class='recipe-desc_uses-and-favorites'>
+<span class='recipe-desc__stats_item__use-count'>
+<span class='recipe-desc__stats_item_icon--user' title='added'>
+<svg height='20px' version='1.1' width='13px' xmlns='http://www.w3.org/2000/svg'>
+<path d='M6.6,7.7C2.9,7.7,0,10.7,0,14.3V20h1.8h9.6h1.8v-5.7C13.2,10.7,10.2,7.7,6.6,7.7z' fill='#999999'></path>
+<circle cx='6.6' cy='3.9' fill='#999999' r='3.9'></circle>
+</svg>
+
+</span>
+<span class='recipe-desc__stats_item__use-count__number'>
+<span class='compact_value'>
+185k
+</span>
+<span class='full_value'>
+185832
+</span>
+</span>
+<span class='recipe-desc__stats_item__use-count__label'>
+adds
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count' data-favoritable='false' data-favorite='' data-recipe-id='102384'>
+<span class='recipe-desc__stats_item__icon--favorites' title='favorites'>
+<svg height='38px' version='1.1' width='48px' xmlns='http://www.w3.org/2000/svg'>
+<g fill='#333333' id='icon_heart'>
+<path d='M46,12.1 C46,5.9 40.7,-0.2 34.3,6.21724894e-15 C29.6,-0.2 25.1,2.6 23,6.8 C20.9,2.5 16.5,-0.2 11.7,7.10716208e-15 C6.5,-0.2 1.8,4 0.4,8.9 C-0.7,12.9 0.5,17 2.9,20.3 C4.9,23.1 7.5,25.4 10,27.6 C14.1,31.1 18.5,34.4 22.9,37.6 L22.9,37.6 L23,37.6 C28.6,33.5 34.3,29.4 39.2,24.6 C42.7,21.2 46,17.1 46,12.1 L46,12.1 Z' id='Shape'></path>
+</g>
+</svg>
+
+</span>
+<span class='stats_item__favorites-count__number'>
+<span class='compact_value'>
+6.9k
+</span>
+<span class='full_value'>
+6926
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count__label'>
+favorites
+</span>
+</span>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class='shared-recipe-in-list shared-recipe-in-list-small'>
+<div class='shared-recipe-in-list-small_internal'>
+<div class='shared-recipe-in-list_recipe'>
+<a href="/recipes/25679-save-your-new-instagram-photos-to-dropbox" class="recipe recipe-shared recipe-small    "><span class='recipe_trigger' style='background-color: #3f729b;' title='Instagram'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/28/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/28/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/28/icons/on_color_large.png' alt=Instagram class='channel-icon -js_use_variant'></picture></span>
+
+</span><span class='recipe_action' style='background-color: #0C66DE;' title='Dropbox'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/26/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/26/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/26/icons/on_color_large.png' alt=Dropbox class='channel-icon -js_use_variant'></picture></span>
+
+</span></a>
+
+</div>
+<div class='shared-recipe-in-list_details'>
+<div class='recipe-desc recipe-desc-compact'>
+<a href="/recipes/25679-save-your-new-instagram-photos-to-dropbox" class="recipe-desc_title js-text_sizer -big_font" data-steps="-small_font,-mid_font,-big_font" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;,&quot;recipe_id&quot;:25679}" data-track-event="shared_recipe_desc">Save your new Instagram photos to Dropbox</a>
+<div class='recipe-desc_creation'>
+by
+<a href="/people/iphonemod" class="recipe-desc_author js-no-parent-press">iphonemod</a>
+</div>
+<div class='recipe-desc_uses-and-favorites'>
+<span class='recipe-desc__stats_item__use-count'>
+<span class='recipe-desc__stats_item_icon--user' title='added'>
+<svg height='20px' version='1.1' width='13px' xmlns='http://www.w3.org/2000/svg'>
+<path d='M6.6,7.7C2.9,7.7,0,10.7,0,14.3V20h1.8h9.6h1.8v-5.7C13.2,10.7,10.2,7.7,6.6,7.7z' fill='#999999'></path>
+<circle cx='6.6' cy='3.9' fill='#999999' r='3.9'></circle>
+</svg>
+
+</span>
+<span class='recipe-desc__stats_item__use-count__number'>
+<span class='compact_value'>
+43k
+</span>
+<span class='full_value'>
+43137
+</span>
+</span>
+<span class='recipe-desc__stats_item__use-count__label'>
+adds
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count' data-favoritable='false' data-favorite='' data-recipe-id='25679'>
+<span class='recipe-desc__stats_item__icon--favorites' title='favorites'>
+<svg height='38px' version='1.1' width='48px' xmlns='http://www.w3.org/2000/svg'>
+<g fill='#333333' id='icon_heart'>
+<path d='M46,12.1 C46,5.9 40.7,-0.2 34.3,6.21724894e-15 C29.6,-0.2 25.1,2.6 23,6.8 C20.9,2.5 16.5,-0.2 11.7,7.10716208e-15 C6.5,-0.2 1.8,4 0.4,8.9 C-0.7,12.9 0.5,17 2.9,20.3 C4.9,23.1 7.5,25.4 10,27.6 C14.1,31.1 18.5,34.4 22.9,37.6 L22.9,37.6 L23,37.6 C28.6,33.5 34.3,29.4 39.2,24.6 C42.7,21.2 46,17.1 46,12.1 L46,12.1 Z' id='Shape'></path>
+</g>
+</svg>
+
+</span>
+<span class='stats_item__favorites-count__number'>
+<span class='compact_value'>
+1.9k
+</span>
+<span class='full_value'>
+1899
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count__label'>
+favorites
+</span>
+</span>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class='shared-recipe-in-list shared-recipe-in-list-small'>
+<div class='shared-recipe-in-list-small_internal'>
+<div class='shared-recipe-in-list_recipe'>
+<a href="/recipes/165157-change-your-android-wallpaper-to-nasa-s-image-of-the-day" class="recipe recipe-shared recipe-small    "><span class='recipe_trigger' style='background-color: #333333;' title='Space'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1829340444/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1829340444/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1829340444/icons/on_color_large.png' alt=Space class='channel-icon -js_use_variant'></picture></span>
+
+</span><span class='recipe_action' style='background-color: #A4C739;' title='Android Device'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1089090894/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1089090894/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1089090894/icons/on_color_large.png' alt=Android Device class='channel-icon -js_use_variant'></picture></span>
+
+</span></a>
+
+</div>
+<div class='shared-recipe-in-list_details'>
+<div class='recipe-desc recipe-desc-compact'>
+<a href="/recipes/165157-change-your-android-wallpaper-to-nasa-s-image-of-the-day" class="recipe-desc_title js-text_sizer " data-steps="-small_font,-mid_font,-big_font" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;,&quot;recipe_id&quot;:165157}" data-track-event="shared_recipe_desc">Change your Android wallpaper to NASA&#x27;s image of the day</a>
+<div class='recipe-desc_creation'>
+by
+<a href="/people/mikesech" class="recipe-desc_author js-no-parent-press">mikesech</a>
+</div>
+<div class='recipe-desc_uses-and-favorites'>
+<span class='recipe-desc__stats_item__use-count'>
+<span class='recipe-desc__stats_item_icon--user' title='added'>
+<svg height='20px' version='1.1' width='13px' xmlns='http://www.w3.org/2000/svg'>
+<path d='M6.6,7.7C2.9,7.7,0,10.7,0,14.3V20h1.8h9.6h1.8v-5.7C13.2,10.7,10.2,7.7,6.6,7.7z' fill='#999999'></path>
+<circle cx='6.6' cy='3.9' fill='#999999' r='3.9'></circle>
+</svg>
+
+</span>
+<span class='recipe-desc__stats_item__use-count__number'>
+<span class='compact_value'>
+111k
+</span>
+<span class='full_value'>
+111973
+</span>
+</span>
+<span class='recipe-desc__stats_item__use-count__label'>
+adds
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count' data-favoritable='false' data-favorite='' data-recipe-id='165157'>
+<span class='recipe-desc__stats_item__icon--favorites' title='favorites'>
+<svg height='38px' version='1.1' width='48px' xmlns='http://www.w3.org/2000/svg'>
+<g fill='#333333' id='icon_heart'>
+<path d='M46,12.1 C46,5.9 40.7,-0.2 34.3,6.21724894e-15 C29.6,-0.2 25.1,2.6 23,6.8 C20.9,2.5 16.5,-0.2 11.7,7.10716208e-15 C6.5,-0.2 1.8,4 0.4,8.9 C-0.7,12.9 0.5,17 2.9,20.3 C4.9,23.1 7.5,25.4 10,27.6 C14.1,31.1 18.5,34.4 22.9,37.6 L22.9,37.6 L23,37.6 C28.6,33.5 34.3,29.4 39.2,24.6 C42.7,21.2 46,17.1 46,12.1 L46,12.1 Z' id='Shape'></path>
+</g>
+</svg>
+
+</span>
+<span class='stats_item__favorites-count__number'>
+<span class='compact_value'>
+2.5k
+</span>
+<span class='full_value'>
+2526
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count__label'>
+favorites
+</span>
+</span>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class='shared-recipe-in-list shared-recipe-in-list-small'>
+<div class='shared-recipe-in-list-small_internal'>
+<div class='shared-recipe-in-list_recipe'>
+<a href="/recipes/159522-remind-yourself-to-put-on-sunscreen-when-the-uv-index-is-high" class="recipe recipe-shared recipe-small    "><span class='recipe_trigger' style='background-color: #78DBFF;' title='Weather'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/7/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/7/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/7/icons/on_color_large.png' alt=Weather class='channel-icon -js_use_variant'></picture></span>
+
+</span><span class='recipe_action' style='background-color: #33CCFF;' title='IF Notifications'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/651849913/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/651849913/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/651849913/icons/on_color_large.png' alt=IF Notifications class='channel-icon -js_use_variant'></picture></span>
+
+</span></a>
+
+</div>
+<div class='shared-recipe-in-list_details'>
+<div class='recipe-desc recipe-desc-compact'>
+<a href="/recipes/159522-remind-yourself-to-put-on-sunscreen-when-the-uv-index-is-high" class="recipe-desc_title js-text_sizer " data-steps="-small_font,-mid_font,-big_font" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;,&quot;recipe_id&quot;:159522}" data-track-event="shared_recipe_desc">Remind yourself to put on sunscreen when the UV Index is high</a>
+<div class='recipe-desc_creation'>
+by
+<a href="/people/mayallama" class="recipe-desc_author js-no-parent-press">mayallama</a>
+</div>
+<div class='recipe-desc_uses-and-favorites'>
+<span class='recipe-desc__stats_item__use-count'>
+<span class='recipe-desc__stats_item_icon--user' title='added'>
+<svg height='20px' version='1.1' width='13px' xmlns='http://www.w3.org/2000/svg'>
+<path d='M6.6,7.7C2.9,7.7,0,10.7,0,14.3V20h1.8h9.6h1.8v-5.7C13.2,10.7,10.2,7.7,6.6,7.7z' fill='#999999'></path>
+<circle cx='6.6' cy='3.9' fill='#999999' r='3.9'></circle>
+</svg>
+
+</span>
+<span class='recipe-desc__stats_item__use-count__number'>
+<span class='compact_value'>
+23k
+</span>
+<span class='full_value'>
+23457
+</span>
+</span>
+<span class='recipe-desc__stats_item__use-count__label'>
+adds
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count' data-favoritable='false' data-favorite='' data-recipe-id='159522'>
+<span class='recipe-desc__stats_item__icon--favorites' title='favorites'>
+<svg height='38px' version='1.1' width='48px' xmlns='http://www.w3.org/2000/svg'>
+<g fill='#333333' id='icon_heart'>
+<path d='M46,12.1 C46,5.9 40.7,-0.2 34.3,6.21724894e-15 C29.6,-0.2 25.1,2.6 23,6.8 C20.9,2.5 16.5,-0.2 11.7,7.10716208e-15 C6.5,-0.2 1.8,4 0.4,8.9 C-0.7,12.9 0.5,17 2.9,20.3 C4.9,23.1 7.5,25.4 10,27.6 C14.1,31.1 18.5,34.4 22.9,37.6 L22.9,37.6 L23,37.6 C28.6,33.5 34.3,29.4 39.2,24.6 C42.7,21.2 46,17.1 46,12.1 L46,12.1 Z' id='Shape'></path>
+</g>
+</svg>
+
+</span>
+<span class='stats_item__favorites-count__number'>
+<span class='compact_value'>
+592
+</span>
+<span class='full_value'>
+592
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count__label'>
+favorites
+</span>
+</span>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class='shared-recipe-in-list shared-recipe-in-list-small'>
+<div class='shared-recipe-in-list-small_internal'>
+<div class='shared-recipe-in-list_recipe'>
+<a href="/recipes/108566-never-miss-breaking-technology-news" class="recipe recipe-shared recipe-small    "><span class='recipe_trigger' style='background-color: #000000;' title='The New York Times'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/89/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/89/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/89/icons/on_color_large.png' alt=The New York Times class='channel-icon -js_use_variant'></picture></span>
+
+</span><span class='recipe_action' style='background-color: #2468ff;' title='Email'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/6/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/6/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/6/icons/on_color_large.png' alt=Email class='channel-icon -js_use_variant'></picture></span>
+
+</span></a>
+
+</div>
+<div class='shared-recipe-in-list_details'>
+<div class='recipe-desc recipe-desc-compact'>
+<a href="/recipes/108566-never-miss-breaking-technology-news" class="recipe-desc_title js-text_sizer -big_font" data-steps="-small_font,-mid_font,-big_font" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;,&quot;recipe_id&quot;:108566}" data-track-event="shared_recipe_desc">Never miss breaking technology news</a>
+<div class='recipe-desc_creation'>
+by
+<a href="/people/nytimes" class="recipe-desc_author js-no-parent-press">nytimes</a>
+</div>
+<div class='recipe-desc_uses-and-favorites'>
+<span class='recipe-desc__stats_item__use-count'>
+<span class='recipe-desc__stats_item_icon--user' title='added'>
+<svg height='20px' version='1.1' width='13px' xmlns='http://www.w3.org/2000/svg'>
+<path d='M6.6,7.7C2.9,7.7,0,10.7,0,14.3V20h1.8h9.6h1.8v-5.7C13.2,10.7,10.2,7.7,6.6,7.7z' fill='#999999'></path>
+<circle cx='6.6' cy='3.9' fill='#999999' r='3.9'></circle>
+</svg>
+
+</span>
+<span class='recipe-desc__stats_item__use-count__number'>
+<span class='compact_value'>
+39k
+</span>
+<span class='full_value'>
+39248
+</span>
+</span>
+<span class='recipe-desc__stats_item__use-count__label'>
+adds
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count' data-favoritable='false' data-favorite='' data-recipe-id='108566'>
+<span class='recipe-desc__stats_item__icon--favorites' title='favorites'>
+<svg height='38px' version='1.1' width='48px' xmlns='http://www.w3.org/2000/svg'>
+<g fill='#333333' id='icon_heart'>
+<path d='M46,12.1 C46,5.9 40.7,-0.2 34.3,6.21724894e-15 C29.6,-0.2 25.1,2.6 23,6.8 C20.9,2.5 16.5,-0.2 11.7,7.10716208e-15 C6.5,-0.2 1.8,4 0.4,8.9 C-0.7,12.9 0.5,17 2.9,20.3 C4.9,23.1 7.5,25.4 10,27.6 C14.1,31.1 18.5,34.4 22.9,37.6 L22.9,37.6 L23,37.6 C28.6,33.5 34.3,29.4 39.2,24.6 C42.7,21.2 46,17.1 46,12.1 L46,12.1 Z' id='Shape'></path>
+</g>
+</svg>
+
+</span>
+<span class='stats_item__favorites-count__number'>
+<span class='compact_value'>
+897
+</span>
+<span class='full_value'>
+897
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count__label'>
+favorites
+</span>
+</span>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class='shared-recipe-in-list shared-recipe-in-list-small'>
+<div class='shared-recipe-in-list-small_internal'>
+<div class='shared-recipe-in-list_recipe'>
+<a href="/recipes/188-get-an-email-if-there-will-be-rain-in-your-area-tomorrow" class="recipe recipe-shared recipe-small    "><span class='recipe_trigger' style='background-color: #78DBFF;' title='Weather'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/7/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/7/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/7/icons/on_color_large.png' alt=Weather class='channel-icon -js_use_variant'></picture></span>
+
+</span><span class='recipe_action' style='background-color: #2468ff;' title='Email'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/6/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/6/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/6/icons/on_color_large.png' alt=Email class='channel-icon -js_use_variant'></picture></span>
+
+</span></a>
+
+</div>
+<div class='shared-recipe-in-list_details'>
+<div class='recipe-desc recipe-desc-compact'>
+<a href="/recipes/188-get-an-email-if-there-will-be-rain-in-your-area-tomorrow" class="recipe-desc_title js-text_sizer " data-steps="-small_font,-mid_font,-big_font" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;,&quot;recipe_id&quot;:188}" data-track-event="shared_recipe_desc">Get an email if there will be rain in your area tomorrow</a>
+<div class='recipe-desc_creation'>
+by
+<a href="/people/solomakhin" class="recipe-desc_author js-no-parent-press">solomakhin</a>
+</div>
+<div class='recipe-desc_uses-and-favorites'>
+<span class='recipe-desc__stats_item__use-count'>
+<span class='recipe-desc__stats_item_icon--user' title='added'>
+<svg height='20px' version='1.1' width='13px' xmlns='http://www.w3.org/2000/svg'>
+<path d='M6.6,7.7C2.9,7.7,0,10.7,0,14.3V20h1.8h9.6h1.8v-5.7C13.2,10.7,10.2,7.7,6.6,7.7z' fill='#999999'></path>
+<circle cx='6.6' cy='3.9' fill='#999999' r='3.9'></circle>
+</svg>
+
+</span>
+<span class='recipe-desc__stats_item__use-count__number'>
+<span class='compact_value'>
+77k
+</span>
+<span class='full_value'>
+77044
+</span>
+</span>
+<span class='recipe-desc__stats_item__use-count__label'>
+adds
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count' data-favoritable='false' data-favorite='' data-recipe-id='188'>
+<span class='recipe-desc__stats_item__icon--favorites' title='favorites'>
+<svg height='38px' version='1.1' width='48px' xmlns='http://www.w3.org/2000/svg'>
+<g fill='#333333' id='icon_heart'>
+<path d='M46,12.1 C46,5.9 40.7,-0.2 34.3,6.21724894e-15 C29.6,-0.2 25.1,2.6 23,6.8 C20.9,2.5 16.5,-0.2 11.7,7.10716208e-15 C6.5,-0.2 1.8,4 0.4,8.9 C-0.7,12.9 0.5,17 2.9,20.3 C4.9,23.1 7.5,25.4 10,27.6 C14.1,31.1 18.5,34.4 22.9,37.6 L22.9,37.6 L23,37.6 C28.6,33.5 34.3,29.4 39.2,24.6 C42.7,21.2 46,17.1 46,12.1 L46,12.1 Z' id='Shape'></path>
+</g>
+</svg>
+
+</span>
+<span class='stats_item__favorites-count__number'>
+<span class='compact_value'>
+2.4k
+</span>
+<span class='full_value'>
+2427
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count__label'>
+favorites
+</span>
+</span>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class='shared-recipe-in-list shared-recipe-in-list-small'>
+<div class='shared-recipe-in-list-small_internal'>
+<div class='shared-recipe-in-list_recipe'>
+<a href="/recipes/331251-tweet-medium-stories-that-you-recommend" class="recipe recipe-shared recipe-small    "><span class='recipe_trigger' style='background-color: #333333;' title='Medium'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1259075256/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1259075256/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/1259075256/icons/on_color_large.png' alt=Medium class='channel-icon -js_use_variant'></picture></span>
+
+</span><span class='recipe_action' style='background-color: #00ABEC;' title='Twitter'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/2/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/2/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/2/icons/on_color_large.png' alt=Twitter class='channel-icon -js_use_variant'></picture></span>
+
+</span></a>
+
+</div>
+<div class='shared-recipe-in-list_details'>
+<div class='recipe-desc recipe-desc-compact'>
+<a href="/recipes/331251-tweet-medium-stories-that-you-recommend" class="recipe-desc_title js-text_sizer -big_font" data-steps="-small_font,-mid_font,-big_font" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;,&quot;recipe_id&quot;:331251}" data-track-event="shared_recipe_desc">Tweet Medium stories that you recommend</a>
+<div class='recipe-desc_creation'>
+by
+<a href="/people/medium" class="recipe-desc_author js-no-parent-press">medium</a>
+</div>
+<div class='recipe-desc_uses-and-favorites'>
+<span class='recipe-desc__stats_item__use-count'>
+<span class='recipe-desc__stats_item_icon--user' title='added'>
+<svg height='20px' version='1.1' width='13px' xmlns='http://www.w3.org/2000/svg'>
+<path d='M6.6,7.7C2.9,7.7,0,10.7,0,14.3V20h1.8h9.6h1.8v-5.7C13.2,10.7,10.2,7.7,6.6,7.7z' fill='#999999'></path>
+<circle cx='6.6' cy='3.9' fill='#999999' r='3.9'></circle>
+</svg>
+
+</span>
+<span class='recipe-desc__stats_item__use-count__number'>
+<span class='compact_value'>
+394
+</span>
+<span class='full_value'>
+394
+</span>
+</span>
+<span class='recipe-desc__stats_item__use-count__label'>
+adds
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count' data-favoritable='false' data-favorite='' data-recipe-id='331251'>
+<span class='recipe-desc__stats_item__icon--favorites' title='favorites'>
+<svg height='38px' version='1.1' width='48px' xmlns='http://www.w3.org/2000/svg'>
+<g fill='#333333' id='icon_heart'>
+<path d='M46,12.1 C46,5.9 40.7,-0.2 34.3,6.21724894e-15 C29.6,-0.2 25.1,2.6 23,6.8 C20.9,2.5 16.5,-0.2 11.7,7.10716208e-15 C6.5,-0.2 1.8,4 0.4,8.9 C-0.7,12.9 0.5,17 2.9,20.3 C4.9,23.1 7.5,25.4 10,27.6 C14.1,31.1 18.5,34.4 22.9,37.6 L22.9,37.6 L23,37.6 C28.6,33.5 34.3,29.4 39.2,24.6 C42.7,21.2 46,17.1 46,12.1 L46,12.1 Z' id='Shape'></path>
+</g>
+</svg>
+
+</span>
+<span class='stats_item__favorites-count__number'>
+<span class='compact_value'>
+33
+</span>
+<span class='full_value'>
+33
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count__label'>
+favorites
+</span>
+</span>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class='shared-recipe-in-list shared-recipe-in-list-small'>
+<div class='shared-recipe-in-list-small_internal'>
+<div class='shared-recipe-in-list_recipe'>
+<a href="/recipes/165321-receive-a-weather-report-via-if-notification-at-7-30am" class="recipe recipe-shared recipe-small    "><span class='recipe_trigger' style='background-color: #78DBFF;' title='Weather'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/7/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/7/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/7/icons/on_color_large.png' alt=Weather class='channel-icon -js_use_variant'></picture></span>
+
+</span><span class='recipe_action' style='background-color: #33CCFF;' title='IF Notifications'>
+<span class='recipe_component-icon'><picture><source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/651849913/icons/on_color_large.png' media='(min-width: 980px)'> <source srcset='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/651849913/icons/on_color_large.png' media='(min-width: 720px)'> <img src='https://d3rnbxvnd0hlox.cloudfront.net/images/channels/651849913/icons/on_color_large.png' alt=IF Notifications class='channel-icon -js_use_variant'></picture></span>
+
+</span></a>
+
+</div>
+<div class='shared-recipe-in-list_details'>
+<div class='recipe-desc recipe-desc-compact'>
+<a href="/recipes/165321-receive-a-weather-report-via-if-notification-at-7-30am" class="recipe-desc_title js-text_sizer " data-steps="-small_font,-mid_font,-big_font" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;,&quot;recipe_id&quot;:165321}" data-track-event="shared_recipe_desc">Receive a weather report via IF notification at 7:30AM.</a>
+<div class='recipe-desc_creation'>
+by
+<a href="/people/htwyford" class="recipe-desc_author js-no-parent-press">htwyford</a>
+</div>
+<div class='recipe-desc_uses-and-favorites'>
+<span class='recipe-desc__stats_item__use-count'>
+<span class='recipe-desc__stats_item_icon--user' title='added'>
+<svg height='20px' version='1.1' width='13px' xmlns='http://www.w3.org/2000/svg'>
+<path d='M6.6,7.7C2.9,7.7,0,10.7,0,14.3V20h1.8h9.6h1.8v-5.7C13.2,10.7,10.2,7.7,6.6,7.7z' fill='#999999'></path>
+<circle cx='6.6' cy='3.9' fill='#999999' r='3.9'></circle>
+</svg>
+
+</span>
+<span class='recipe-desc__stats_item__use-count__number'>
+<span class='compact_value'>
+17k
+</span>
+<span class='full_value'>
+17000
+</span>
+</span>
+<span class='recipe-desc__stats_item__use-count__label'>
+adds
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count' data-favoritable='false' data-favorite='' data-recipe-id='165321'>
+<span class='recipe-desc__stats_item__icon--favorites' title='favorites'>
+<svg height='38px' version='1.1' width='48px' xmlns='http://www.w3.org/2000/svg'>
+<g fill='#333333' id='icon_heart'>
+<path d='M46,12.1 C46,5.9 40.7,-0.2 34.3,6.21724894e-15 C29.6,-0.2 25.1,2.6 23,6.8 C20.9,2.5 16.5,-0.2 11.7,7.10716208e-15 C6.5,-0.2 1.8,4 0.4,8.9 C-0.7,12.9 0.5,17 2.9,20.3 C4.9,23.1 7.5,25.4 10,27.6 C14.1,31.1 18.5,34.4 22.9,37.6 L22.9,37.6 L23,37.6 C28.6,33.5 34.3,29.4 39.2,24.6 C42.7,21.2 46,17.1 46,12.1 L46,12.1 Z' id='Shape'></path>
+</g>
+</svg>
+
+</span>
+<span class='stats_item__favorites-count__number'>
+<span class='compact_value'>
+350
+</span>
+<span class='full_value'>
+350
+</span>
+</span>
+<span class='recipe-desc__stats_item__favorites-count__label'>
+favorites
+</span>
+</span>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class='pagination'>
+<button class='load_more_btn btn-primary' data-cl-content-from-selector='.recipe-list &gt; .l-compact-shared-recipes' data-cl-target='.recipe-list &gt; .l-compact-shared-recipes' data-current-page='1' data-default-text='More Recipes' data-has-next-page='true' data-loading-text='Loading…'>More Recipes</button>
+</div>
+
+</div>
+
+
+  </div>
+</div>
+
+
+</article>
+</div>
+</div>
+
+<div class='l-page-footer'>
+<nav class='page-footer__nav'>
+<a href="/wtf" class="page-footer__link" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;}" data-track-event="footer_link_wtf">About</a>
+<a href="/products" class="page-footer__link" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;}" data-track-event="footer_link_products">Products</a>
+<a href="http://blog.ifttt.com" class="page-footer__link" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;}" data-track-event="footer_link_blog">Blog</a>
+<a href="/contact" class="page-footer__link" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;}" data-track-event="footer_link_contact">Contact</a>
+<a href="/jobs" class="page-footer__link" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;}" data-track-event="footer_link_jobs">Jobs</a>
+<a href="/terms" class="page-footer__link" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;}" data-track-event="footer_link_terms">Terms</a>
+<a href="/privacy" class="page-footer__link" data-track-data="{&quot;controller&quot;:&quot;recipes&quot;,&quot;action&quot;:&quot;index&quot;}" data-track-event="footer_link_privacy">Privacy</a>
+</nav>
+<p class='page-footer__text'>
+Created in San Francisco
+</p>
+</div>
+
+<script src="https://d3rnbxvnd0hlox.cloudfront.net/assets/application-8e9d355bdcb84d286faea6be802fee9f.js" type="text/javascript"></script>
+
+<script src="https://d3rnbxvnd0hlox.cloudfront.net/assets/timezones-304fdf0c47ba564874de8b0bb3e76491.js" type="text/javascript"></script>
+<script>
+  //<![CDATA[
+    IFTTT.runOnLoad.append(function() {
+      $.cookie("timezone", jstz.determine_timezone().name());
+    });
+  //]]>
+</script>
+
+
+<script type="text/javascript">
+  window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var n=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(n?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(a,o);for(var r=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["clearEventProperties","identify","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=r(p[c])};
+
+  heap.load('1714017845', {
+    forceSSL: true,
+    secureCookie: true,
+    disableTextCapture: true
+  });
+</script>
+
+
+
+<script type="text/javascript" charset="utf-8">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript" charset="utf-8">
+  IFTTT.runOnLoad.append(function() {
+    try {
+      var pageTracker = _gat._getTracker("UA-15987739-1");
+      pageTracker._setDomainName(".ifttt.com");
+      pageTracker._trackPageview();
+    } catch(err) {}
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-15987739-1', 'ifttt.com');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+    We.should('trackSignup');
+  });
+</script>
+
+</body>
+</html>

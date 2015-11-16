@@ -1,0 +1,23 @@
+- title: "Welcome To Jekyll!"
+  url: "welcome-to-jekyll"
+  img: "uploads/2015/11/12/internetisntprivate.jpg"
+
+- title: "The Matrix Metaphor of the Darknet" 
+  url: "matrix-theory"
+  img: "uploads/2014/11/2568645910_8d55b4541b_b.jpg"
+
+- title: "The Ultimate guide to Keeping Your Information From The NSA (and other prying eyes)" 
+  url: "the-ultimate-guide-to-keeping-your-information-from-the-nsa-and-other-prying-eyes"
+  img: "uploads/2015/04/encryption-NSA-spying.jpg"
+
+- title: "How does Technology Effect Your Mental Health" 
+  url: "technology-effect-mental-health"
+  img: "uploads/2014/10/blog-22-img-988x1024.jpg "
+    
+- title: "The Legal Quandaries to Google Glass" 
+  url: "legal-quandaries-google-glass"
+  img: "uploads/2014/10/Google_Glass_anonymous.jpg.650x0_q85_crop-smart.jpg"
+
+- title: "Hacking and the Power of Social Engineering" 
+  url: "hacking-power-social-engineering"
+  img: "uploads/2014/10/chris-hadnagy-601x250.jpg"

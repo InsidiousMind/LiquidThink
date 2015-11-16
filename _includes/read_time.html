@@ -1,0 +1,8 @@
+{% assign words = post.content | number_of_words %}
+{% capture read_time %}{{words | divided_by:180}}{%endcapture%}
+{% if read_time != '0' %}
+{{read_time}} Minute
+{%else%}
+1 Minute
+{% endif %}
+

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.1//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+        <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+    <link rel="canonical" href="https://twitter.com/codymann15">
+    <meta name="twitter-redirect-url" content="twitter://user?screen_name=CodyMann15"/>
+    <meta name="twitter-redirect-srcs" content="{&quot;pwreset-iphone&quot;:true,&quot;android&quot;:true,&quot;email&quot;:true}"/>
+    <link href="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/favicon.ico" rel="icon" type="image/x-icon" />
+    <title>Cody Mann (@CodyMann15) on Twitter</title>
+      <link href="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/assets/a.css" inline="false" media="screen" rel="stylesheet" type="text/css" />
+    <script src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/javascripts/framebust.js" type="text/javascript"></script>
+    <meta name="google-site-verification" content="V0yIS0Ec_o3Ii9KThrCoMCkwTYMMJ_JYx_RSaGhFYvw" />
+  </head>
+  <body class="images nojs users-page users-show-page">
+    <div id="container">
+      
+      
+        <div id="brand_bar">
+  <table id="top">
+    <tr>
+      <td class="left">
+        <a href="/" class="brandmark">
+              <img alt="Twitter" height="28"  src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/larry_28px.gif">
+
+          
+        </a>
+      </td>
+      <td class="right">
+            <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/brandbar_divider.gif" />
+          <a class="search" href="#search">
+                <img alt="Search" height="28"  src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/search_28px.gif">
+
+            
+          </a>
+            <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/brandbar_divider.gif" />
+          <a class="signin" href="/session/new"><span>Log in</span></a>
+            <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/brandbar_divider.gif" /> 
+          <a href="/signup"><span class="signup">Sign up</span></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+      
+      
+      
+      <div id="main_content">
+        
+      <div class="profile">
+        <table class="profile-details">
+  <tr>
+      <td class="avatar">
+        <img alt="Cody Mann" src="https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png" />
+      </td>
+      <td class="user-info">
+        <div class="fullname">Cody Mann
+        </div>
+        <div class="username">
+          <span>@</span>
+          <span class="screen-name">CodyMann15</span>
+        </div>
+        <div class="location"></div>
+      </td>
+  </tr>
+  <tr>
+    <td class="details" colspan="2">
+      <div class="bio">
+        <div class="dir-ltr" dir="ltr">
+          
+        </div>
+      </div>
+      <div class="url">
+        <div class="dir-ltr">
+          <a href="" data-url="" class="twitter-timeline-link activeLink dir-ltr tco-link"
+              dir="ltr" rel="nofollow" target="_blank"></a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+        <table class="profile-stats">
+  <tr>
+    <td class="stat">
+      <div class="statnum">0</div>
+      <div class="statlabel"> Tweets </div>
+    </td>
+    <td class="stat">
+        <a href="/CodyMann15/following">
+          <div class="statnum">1</div>
+          <div class="statlabel"> Following </div>
+        </a>
+    </td>
+    <td class="stat stat-last">
+        <a href="/CodyMann15/followers">
+          <div class="statnum">4</div>
+          <div class="statlabel"> Followers </div>
+        </a>
+    </td>
+  </tr>
+</table>
+
+        <div class="profile-actions">
+        <form action="/i/guest/follow/CodyMann15" method="post">
+            <span class="m2-auth-token">
+    <input name="authenticity_token" type="hidden" value="d49c0fc4aabc777a605f50954db0c588"/>
+  </span>
+          
+          <span class="w-button-common w-button">
+            <input name="commit" type="submit" value="Follow">
+          </span>
+        </form>
+      <form action="/CodyMann15/actions" method="get">
+        
+        <span class="w-button-common w-button">
+          <input name="commit" type="submit" value="•••">
+        </span>
+      </form>
+</div>
+
+      </div>
+
+
+
+
+      </div>
+      <div id="footer">
+    <div class="search-fields">
+    <div class="title">
+      Enter a topic, @name, or fullname
+    </div>
+    <form action="/search" class="search-input" method="get">
+    <table>
+      <tr>
+        <td class="value" id="search"><div><input id="q" name="q" type="text" value=""/></div></td>
+        <td class="button">
+          <input type="hidden" name="s" value="typd" />
+          <input type="image" src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/images/sprites/magnifying_glass.gif" alt="Search"/>
+        </td>
+      </tr>
+    </table>
+    </form>
+</div>
+
+    <table class="global-actions">
+      <tr>
+        <td><a href="/settings">Settings</a></td>
+        <td><a href="https://support.twitter.com/"> Help</a></td>
+      </tr>
+    </table>
+    <div class="view-actions"><a href="#top"> Back to top</a> &middot; <a href="/settings/profile_images">Turn images off</a></div>
+</div>
+
+    </div>
+      <script id="scribe-configuration" type="application/json">{"page":"profile"}</script>
+      <script src="https://ma.twimg.com/twitter-mobile/0a202f9a12ee76992d76ab5d82f7b123a90bda3a/assets/m2_tweets.js" type="text/javascript"></script>
+      <img src="/i/anonymize?data=%5B%7B%22integration%22%3A%22ga%22%2C%22ref%22%3A%22%22%2C%22mobileMetricsToken%22%3A%22144727114086859532%22%7D%5D" height="0" width="0">
+  <img src="https://cert.twitter.com/robots.txt" height="0" width="0">
+  <img src="https://twitter.com/robots.txt" height="0" width="0">
+
+  </body>
+</html>

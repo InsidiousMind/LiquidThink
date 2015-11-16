@@ -1,0 +1,1200 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>Ray Kurzweil on the Singularity and Bringing Back the Dead</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" type="text/css" href="https://www.singularityweblog.com/wp-content/thesis/skins/classic-r/css.css" media="screen, projection" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<script>
+
+jQuery(document).ready(function($) {
+   $('.popup').click(function() {
+     var NWin = window.open($(this).prop('href'), '', 'scrollbars=1,height=400,width=400');
+     if (window.focus)
+     {
+       NWin.focus();
+     }
+     return false;
+    });
+});
+
+</script>
+
+<script type="text/javascript">
+jQuery(document).ready( function($) {
+ jQuery('.special-search').attr("onclick","return true");
+});
+</script>
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-4aWgucunJk2_o"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-4aWgucunJk2_o.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<link rel="alternate" type="application/rss+xml" title="Singularity Weblog feed" href="https://www.singularityweblog.com/feed/" />
+<link rel="pingback" href="https://www.singularityweblog.com/xmlrpc.php" />
+
+<!-- This site is optimized with the Yoast SEO plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Want to see Ray Kurzweil&#039;s definition of the singularity and his plan of bringing back his dead father?! Check out these videos on SingularityWeblog.com"/>
+<link rel="canonical" href="https://www.singularityweblog.com/ray-kurzweil-singularity/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Ray Kurzweil on the Singularity and Bringing Back the Dead" />
+<meta property="og:description" content="Want to see Ray Kurzweil&#039;s definition of the singularity and his plan of bringing back his dead father?! Check out these videos on SingularityWeblog.com" />
+<meta property="og:url" content="https://www.singularityweblog.com/ray-kurzweil-singularity/" />
+<meta property="og:site_name" content="Singularity Weblog" />
+<meta property="article:publisher" content="https://www.facebook.com/nikola.danaylov" />
+<meta property="article:author" content="https://www.facebook.com/nikola.danaylov" />
+<meta property="article:tag" content="Ray Kurzweil" />
+<meta property="article:tag" content="Technological Singularity" />
+<meta property="article:section" content="Video" />
+<meta property="article:published_time" content="2012-07-18T15:40:38+00:00" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="Want to see Ray Kurzweil&#039;s definition of the singularity and his plan of bringing back his dead father?! Check out these videos on SingularityWeblog.com"/>
+<meta name="twitter:title" content="Ray Kurzweil on the Singularity and Bringing Back the Dead"/>
+<meta name="twitter:site" content="@singularityblog"/>
+<meta name="twitter:domain" content="Singularity Weblog"/>
+<meta name="twitter:creator" content="@singularityblog"/>
+<meta itemprop="description" content="Want to see Ray Kurzweil&#039;s definition of the singularity and his plan of bringing back his dead father?! Check out these videos on SingularityWeblog.com">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Singularity Weblog &raquo; Ray Kurzweil on the Singularity and Bringing Back the Dead Comments Feed" href="https://www.singularityweblog.com/ray-kurzweil-singularity/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.singularityweblog.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://www.singularityweblog.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='tt-easy-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Oswald%3Aregular%2C300%7CSource+Sans+Pro%3Aregular&#038;subset=latin%2Call&#038;ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='askpat-player-plugin-styles-css'  href='https://www.singularityweblog.com/wp-content/plugins/smart-podcast-player/assets/css/style.css?ver=1.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='upw_theme_standard-css'  href='https://www.singularityweblog.com/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tabbed-widget-area-css-css'  href='https://www.singularityweblog.com/wp-content/plugins/tabbed-widget-area/styles.css' type='text/css' media='all' />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<link rel="alternate" type="application/rss+xml" title="Default Podcast Feed" href="https://www.singularityweblog.com/feed/podcast/" />
+  <meta property="filament:is-404" content="0" />
+  <meta property="filament:is-archive" content="0" />
+  <meta property="filament:is-attachment" content="0" />
+  <meta property="filament:is-author" content="0" />
+  <meta property="filament:is-category" content="0" />
+  <meta property="filament:is-front-page" content="0" />
+  <meta property="filament:is-home" content="0" />
+  <meta property="filament:is-page" content="0" />
+  <meta property="filament:is-search" content="0" />
+  <meta property="filament:is-single" content="1" />
+  <meta property="filament:is-singular" content="1" />
+  <meta property="filament:is-sticky" content="0" />
+  <meta property="filament:is-tag" content="0" />
+  <meta property="filament:is-tax" content="0" />
+  <meta property="filament:is-preview" content="0" />
+  <meta property="filament:post-type" content="post" />
+  <meta property="filament:categories" content="video,what-if" />
+  <meta property="filament:tags" content="ray-kurzweil,technological-singularity" />
+
+<script type="text/javascript">
+  window.Filament = window.Filament || {};
+  window.Filament.social_stats_urls = window.Filament.social_stats_urls || {};
+
+  window.Filament.social_stats_urls.stumbleupon = "https://www.singularityweblog.com/wp-admin/admin-ajax.php?action=filament_stumbleupon_jsonp&_wpnonce=d1fa3e46b4&url={{url}}&callback={{callback}}";
+  window.Filament.social_stats_urls.googleplus = "https://www.singularityweblog.com/wp-admin/admin-ajax.php?action=filament_googleplus_jsonp&_wpnonce=c85a7226af&url={{url}}&callback={{callback}}";
+</script>
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700" rel="stylesheet" type="text/css"><!-- Vipers Video Quicktags v6.5.2 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "https://www.singularityweblog.com/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
+			
+							<style id="tt-easy-google-font-styles" type="text/css">
+			
+																						p {
+													}
+								
+																										h1 {
+							font-family: 'Oswald'; font-style: normal; font-weight: 400; 						}
+								
+																										h2 {
+							font-family: 'Oswald'; font-style: normal; font-weight: 400; 						}
+								
+																										h3 {
+							font-family: 'Oswald'; font-style: normal; font-weight: 400; 						}
+								
+																										h4 {
+							font-family: 'Oswald'; font-style: normal; font-weight: 300; 						}
+								
+																										h5 {
+													}
+								
+																										h6 {
+													}
+								
+																										.grt,p,body,.code-boxz {
+							font-family: 'Source Sans Pro'!important; font-style: normal!important; font-weight: 400!important; 						}
+								
+																										.menu a {
+							font-family: 'Oswald'!important; font-style: normal!important; font-weight: 400!important; 						}
+								
+																										.h1,.h2,.h3,.h4,.h5,.h6,.super-title,.headline,.sidebar .widget_title,.feature-center {
+							font-family: 'Oswald'!important; font-style: normal!important; font-weight: 400!important; 						}
+								
+										
+							</style>
+						<link rel="shortcut icon" href="https://www.singularityweblog.com/wp-content/uploads/2014/10/favi.png" />
+</head>
+<body class="template-single single single-post postid-21525 single-format-standard">
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-10602297-4']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<div id="hidden-menu">
+	<div class="container">
+		<span class="menu_control">≡ Menu</span>
+<ul id="menu-main-menu" class="menu"><li id="menu-item-54763" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/">Home<br /><span class="sub">Homepage</span></a></li>
+<li id="menu-item-5258" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/about-singularity-blog/">About<br /><span class="sub">Who is Socrates?</span></a></li>
+<li id="menu-item-54762" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent"><a href="https://www.singularityweblog.com/blog/">Blog<br /><span class="sub">Latest Posts</span></a></li>
+<li id="menu-item-54769" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/start-here/">Start<br /><span class="sub">New Visitors</span></a></li>
+<li id="menu-item-5263" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.singularityweblog.com/category/podcasts/">Podcast<br /><span class="sub">Latest Episodes</span></a></li>
+<li id="menu-item-54770" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/forum/">Forum<strong></strong><br /><span class="sub">Talk To Others</span></a></li>
+<li id="menu-item-5257" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/write-for-singularityblog/">Write<br /><span class="sub">Send Article</span></a></li>
+<li id="menu-item-5260" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/services/">My Services<br /><span class="sub">Hire or Contact Me</span></a></li>
+<li id="menu-item-54772" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/my-gear/">My Gear<br /><span class="sub">Tools I Use</span></a></li>
+<li id="menu-item-54773" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/donate-and-support-singularity-weblog/">Donate<br /><span class="sub">Show Support</span></a></li>
+</ul>
+	</div>
+</div>
+<div class="container">
+	<div id="header" class="header">
+		<div class="logo">
+			<p><a href="https://singularityweblog.com"><img src="https://singularityweblog.com/wp-content/thesis/skins/classic-r/images/logo-singularity.png"></a></p>
+		</div>
+		<div class="head-right">
+<div class="widget search-form head-search" id="thesis-search-widget-3">
+<form class="search_form" method="get" action="https://www.singularityweblog.com">
+	<p>
+		<input class="input_text" type="text" id="s" name="s" value="Search Here..." onfocus="if (this.value == 'Search Here...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search Here...';}" />
+		<input type="hidden" id="searchsubmit" value="Search" />
+	</p>
+</form>
+</div>
+			<div class="head-right-text">
+				<div class="social-icons-flat">
+
+<a href="http://twitter.com/singularityblog" target="_blank"><i class="fa fa-twitter"></i></a>
+<a href="https://www.facebook.com/nikola.danaylov" target="_blank"><i class="fa fa-facebook"></i></a>
+<a href="https://plus.google.com/104307416163554478812" target="_blank"><i class="fa fa-google-plus"></i></a>
+<a href="http://www.youtube.com/user/ndanaylov" target="_blank"><i class="fa fa-youtube"></i></a>
+<a href="https://vimeo.com/singularity1on1" target="_blank"><i class="fa fa-vimeo-square"></i></a>
+<a href="http://feeds.feedburner.com/SingularityBlog" target="_blank"><i class="fa fa-rss"></i></a>
+</div>
+			</div>
+<div id="my-search"><form method="get" class="search_form_visible" action="https://www.singularityweblog.com/"><i class="fa fa-search special-search"></i><input class="text_input" type="text" value="Search Here" name="s" id="s" onfocus="if (this.value == 'Search Here') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search Here';}" /></form></div>
+		</div>
+	</div>
+	<div class="menu-holder">
+		<span class="menu_control">≡ Menu</span>
+<ul id="menu-main-menu-1" class="menu"><li id="menu-item-54763" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/">Home<br /><span class="sub">Homepage</span></a></li>
+<li id="menu-item-5258" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/about-singularity-blog/">About<br /><span class="sub">Who is Socrates?</span></a></li>
+<li id="menu-item-54762" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent"><a href="https://www.singularityweblog.com/blog/">Blog<br /><span class="sub">Latest Posts</span></a></li>
+<li id="menu-item-54769" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/start-here/">Start<br /><span class="sub">New Visitors</span></a></li>
+<li id="menu-item-5263" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.singularityweblog.com/category/podcasts/">Podcast<br /><span class="sub">Latest Episodes</span></a></li>
+<li id="menu-item-54770" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/forum/">Forum<strong></strong><br /><span class="sub">Talk To Others</span></a></li>
+<li id="menu-item-5257" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/write-for-singularityblog/">Write<br /><span class="sub">Send Article</span></a></li>
+<li id="menu-item-5260" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/services/">My Services<br /><span class="sub">Hire or Contact Me</span></a></li>
+<li id="menu-item-54772" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/my-gear/">My Gear<br /><span class="sub">Tools I Use</span></a></li>
+<li id="menu-item-54773" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singularityweblog.com/donate-and-support-singularity-weblog/">Donate<br /><span class="sub">Show Support</span></a></li>
+</ul>
+	</div>
+	<div class="columns cont-area">
+		<div class="content">
+			<div id="post-21525" class="post_box grt top" itemscope itemtype="http://schema.org/Article">
+				<div class="headline_area">
+					<h1 class="headline" itemprop="name">Ray Kurzweil on the Singularity and Bringing Back the Dead</h1>
+					<div class="byline small">
+						<span class="post_author_intro">by</span> <span class="post_author" itemprop="author"><a href="https://www.singularityweblog.com/author/Socrates/" rel="nofollow">Socrates</a></span>
+						<meta itemprop="datePublished" content="2012-07-18" />
+						<meta itemprop="dateModified" content="2012-07-18" />
+						<span class="post_date_intro">on</span> <span class="post_date" title="2012-07-18">July 18, 2012</span>
+<a rel="nofollow" class="num_comments_link" href="https://www.singularityweblog.com/ray-kurzweil-singularity/#disqus_thread">Comments</a>
+					</div>
+				</div>
+				<div class="post_content" itemprop="articleBody">
+<div class="pf-content"><p><img class="size-full wp-image-21204 alignleft" style="margin-top: 2px; margin-bottom: 2px;" title="Ray_Kurzweil_thumb" alt="" src="https://www.singularityweblog.com/wp-content/uploads/2013/08/Ray_Kurzweil_thumb.jpg" width="150" height="123" />Just a few days ago I published <a title="Ray Kurzweil: As Humans and Computers Merge… Immortality?" href="https://www.singularityweblog.com/ray-kurzweil-pbs-immortality/">Ray Kurzweil&#8217;s interview for PBS</a> where he spoke about the merging of humans and computers and immortality. Below you can find three more videos from that interview which didn&#8217;t make it in the final cut. Still, those are all very interesting because Ray discusses the definition of the technological singularity, his desire to bring back his dead father, immortality and his aggressive regiment of supplementation.</p>
+<p>Ray Kurzweil speaks about the technological singularity, the event horizon beyond which we cannot see, virtual reality, mind uploading and continuity of consciousness.</p>
+<p style="text-align: center;"><object width="620" height="356" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" bgcolor="#000000"><param name="flashvars" value="width=620&amp;height=356&amp;video=2254816552&amp;player=viral&amp;end=0&amp;lr_admap=in:warnings:0;in:pbs:0" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="wmode" value="transparent" /><param name="src" value="http://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf" /><param name="allowfullscreen" value="true" /><embed width="620" height="356" type="application/x-shockwave-flash" src="http://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf" flashvars="width=620&amp;height=356&amp;video=2254816552&amp;player=viral&amp;end=0&amp;lr_admap=in:warnings:0;in:pbs:0" allowFullScreen="true" allowscriptaccess="always" wmode="transparent" allowfullscreen="true" bgcolor="#000000" /></object></p>
+<p>In the second video Ray talks about mortality, his father&#8217;s early death, his genetic inheritance of diabetes and cardio-vascular disease, bringing back his dead father and <a title="Turing Test" href="http://www.singularitysymposium.com/turing-test.html">the Turing Test</a>.</p>
+<p style="text-align: center;"><object width="620" height="356" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" bgcolor="#000000"><param name="flashvars" value="width=620&amp;height=356&amp;video=2255442814&amp;player=viral&amp;end=0&amp;lr_admap=in:warnings:0;in:pbs:0" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="wmode" value="transparent" /><param name="src" value="http://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf" /><param name="allowfullscreen" value="true" /><embed width="620" height="356" type="application/x-shockwave-flash" src="http://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf" flashvars="width=620&amp;height=356&amp;video=2255442814&amp;player=viral&amp;end=0&amp;lr_admap=in:warnings:0;in:pbs:0" allowFullScreen="true" allowscriptaccess="always" wmode="transparent" allowfullscreen="true" bgcolor="#000000" /></object></p>
+<p>In the third video Kurzweil discusses his aggressive daily supplementation regimen aimed at sustaining optimal health and delaying ageing.</p>
+<p style="text-align: center;"><object width="620" height="356" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" bgcolor="#000000"><param name="flashvars" value="width=620&amp;height=356&amp;video=2255223256&amp;player=viral&amp;end=0&amp;lr_admap=in:warnings:0;in:pbs:0" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="wmode" value="transparent" /><param name="src" value="http://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf" /><param name="allowfullscreen" value="true" /><embed width="620" height="356" type="application/x-shockwave-flash" src="http://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf" flashvars="width=620&amp;height=356&amp;video=2255223256&amp;player=viral&amp;end=0&amp;lr_admap=in:warnings:0;in:pbs:0" allowFullScreen="true" allowscriptaccess="always" wmode="transparent" allowfullscreen="true" bgcolor="#000000" /></object></p>
+<p style="font-size: 11px; font-family: Arial, Helvetica, sans-serif; color: #808080; margin-top: 5px; background: transparent; text-align: center; width: 512px;"><span style="text-align: left;"> </span></p>
+<h6 class="zemanta-related-title">Related articles</h6>
+<ul class="zemanta-article-ul">
+<li class="zemanta-article-ul-li"><a href="https://www.singularityweblog.com/ray-kurzweil-pbs-immortality/" target="_blank">Ray Kurzweil: As Humans and Computers Merge&#8230; Immortality?</a></li>
+<li class="zemanta-article-ul-li"><a href="https://www.singularityweblog.com/time-magazines-10-questions-for-ray-kurzweil/" target="_blank">TIME Magazine&#8217;s 10 Questions for Ray Kurzweil</a></li>
+<li class="zemanta-article-ul-li"><a href="https://www.singularityweblog.com/17-definitions-of-the-technological-singularity/" target="_blank">17 Definitions of the Technological Singularity</a></li>
+<li class="zemanta-article-ul-li"><a href="https://www.singularityweblog.com/top-10-reasons-we-should-not-fear-the-singularity/" target="_blank">Top 10 Reasons We Should NOT Fear The Singularity</a></li>
+</ul>
+<div class="zemanta-pixie"><img class="zemanta-pixie-img" alt="" src="http://img.zemanta.com/pixy.gif?x-id=6e068fc1-0a53-4545-ade1-fa5c69d3c37f" /></div>
+</div>				</div>
+				<div class="print-box">
+					<div class="printfriendly pf-alignright"><a href="#" rel="nofollow" onclick="window.print(); return false;" class="noslimstat"><span class="printfriendly-text2 printandpdf"><img style="border:none;margin-right:6px;" src="http://cdn.printfriendly.com/pf-print-icon.gif" width="16" height="15" alt="Print Friendly Version of this page" />Print <img style="border:none;-webkit-box-shadow:none; box-shadow:none;margin:0 6px" src="http://cdn.printfriendly.com/pf-pdf-icon.gif" width="12" height="12" alt="Get a PDF version of this webpage" />PDF</span></a></div>
+				</div>
+				<div class="single-donate extra-widgets">
+					<div class="single-optin">
+<h3>Like this article?</h3>
+<i class="fa fa-thumbs-o-up after-post-icon"></i>
+<span><i class="fa fa-money hide-icon"></i><p>Please help me produce more content:</p></span>
+<p><a href="http://ndanaylov.wpengine.com/donate-and-support-singularity-weblog/" class="feature-button">Donate!</a></p>
+
+</div>
+<h4 class="divide"> OR </h3>
+<div class="single-optin">
+<span><i class="fa fa-envelope-o hide-icon"></i><p>Please subscribe for free weekly updates:</p></span>
+<button class="togglebutton togglebutton-style">Sign Up!</button>
+<div class="popupmask">
+<div class="popupbox">
+<div class="popuptitle"><h3 class="headline">Sign Up Here!</h3></div>
+<button class="togglebutton">X</button>
+<div class="optinformz">
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="//SingularityWeblog.us1.list-manage.com/subscribe/post?u=753151c7864d7203c91979bba&amp;id=550d3394a5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	
+<div class="mc-field-group">
+	<input type="text" placeholder="first name" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<input type="email" placeholder="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_753151c7864d7203c91979bba_550d3394a5" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+</div>
+</div>
+</div>
+</div>
+				</div>
+			</div>
+			<div id="comments">
+
+<div id="disqus_thread">
+            <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-13377">
+        <div id="dsq-comment-header-13377" class="dsq-comment-header">
+            <cite id="dsq-cite-13377">
+                <span id="dsq-author-user-13377">CM Stewart</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-13377" class="dsq-comment-body">
+            <div id="dsq-comment-message-13377" class="dsq-comment-message"><p>&#8220;Continuity of consciousness.&#8221; That&#8217;s also how I define specific consciousness preservation. Once continuity is broken, (for example, in a specific consciousness recreation scenario) the question of preservation becomes muddled.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="post pingback">
+        <p>Pingback: <a href='http://wiredcosmos.com/2012/08/06/localizing-software-in-a-singularity/' rel='external nofollow' class='url'>Localizing Software in a Singularity | Wired Cosmos</a>()</p>
+    </li>
+    </li><!-- #comment-## -->
+    <li class="post pingback">
+        <p>Pingback: <a href='https://www.singularityweblog.com/top-10-reasons-we-should-not-fear-the-singularity/' rel='external nofollow' class='url'>Top 10 Reasons We Should NOT Fear The Singularity</a>()</p>
+    </li>
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-13380">
+        <div id="dsq-comment-header-13380" class="dsq-comment-header">
+            <cite id="dsq-cite-13380">
+                <span id="dsq-author-user-13380">Nando</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-13380" class="dsq-comment-body">
+            <div id="dsq-comment-message-13380" class="dsq-comment-message"><p>He&#8217;s completely lost. This Turing Test is a joke. This is not science (if it is, science is lost).</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-13381">
+        <div id="dsq-comment-header-13381" class="dsq-comment-header">
+            <cite id="dsq-cite-13381">
+                <span id="dsq-author-user-13381">Lu Lu</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-13381" class="dsq-comment-body">
+            <div id="dsq-comment-message-13381" class="dsq-comment-message"><p>Be optimistic. Everything is possible.<br />
+&#8220;I think there is a world market for maybe five computers.&#8221; &#8212; Thomas<br />
+Watson, chairman of IBM, 1943.</p>
+<p>&#8220;Radio has no future. Heavier-than-air flying machines are impossible. X-rays<br />
+will prove to be a hoax.&#8221; &#8212; William Thomson, Lord Kelvin, British<br />
+scientist, 1899. </p>
+<p>&#8220;Everything that can be invented has been invented.&#8221; &#8212; Attributed to<br />
+Charles H. Duell, Commissioner, U.S. Office of Patents, 1899. </p>
+<p>&#8220;The Americans have need of the telephone, but we do not. We have plenty of<br />
+messenger boys.&#8221; &#8212; Sir William Preece, chief engineer of the British Post<br />
+Office, 1876.</p>
+<p>For more similar quotes, visit <a href="http://www.rinkworks.com/said/predictions.shtml" rel="nofollow">http://www.rinkworks.com/said/predictions.shtml</a></p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-13382">
+        <div id="dsq-comment-header-13382" class="dsq-comment-header">
+            <cite id="dsq-cite-13382">
+https://www.singularityweblog.com/                <span id="dsq-author-user-13382">Socrates</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-13382" class="dsq-comment-body">
+            <div id="dsq-comment-message-13382" class="dsq-comment-message"><p>This is as funny as it is true! Love it!!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-13383">
+        <div id="dsq-comment-header-13383" class="dsq-comment-header">
+            <cite id="dsq-cite-13383">
+                <span id="dsq-author-user-13383">Lu Lu</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-13383" class="dsq-comment-body">
+            <div id="dsq-comment-message-13383" class="dsq-comment-message"><p>IMO, all Singularitarians/futurists/transhumanists should remember these quotes by heart.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-13384">
+        <div id="dsq-comment-header-13384" class="dsq-comment-header">
+            <cite id="dsq-cite-13384">
+http://twitter.com/gandhalfthewhit                <span id="dsq-author-user-13384">Gandhalf, the White</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-13384" class="dsq-comment-body">
+            <div id="dsq-comment-message-13384" class="dsq-comment-message"><p>I hope he is just crazy or a mental diarrhea, because at some point, one could make Hitler reappear and humanity will be f&#8230;d beyond recognition&#8230; Why is that some people insist in playing of being God???</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-13385">
+        <div id="dsq-comment-header-13385" class="dsq-comment-header">
+            <cite id="dsq-cite-13385">
+http://twitter.com/gandhalfthewhit                <span id="dsq-author-user-13385">Gandhalf, the White</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-13385" class="dsq-comment-body">
+            <div id="dsq-comment-message-13385" class="dsq-comment-message"><p>People should think if they should not if they could! (from Jurassic Park)</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-13386">
+        <div id="dsq-comment-header-13386" class="dsq-comment-header">
+            <cite id="dsq-cite-13386">
+                <span id="dsq-author-user-13386">Tory Weston</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-13386" class="dsq-comment-body">
+            <div id="dsq-comment-message-13386" class="dsq-comment-message"><p>Process the Brain Patterns in any array of interconnected points dX/dt Neurons, dY/dt Restrictive connectors, and dZ/dt Chemical Receptor. Then take that over a 3-D euclidean manifold then run data at a certain frequency with makes a wave-function computer with current. They finally will make a synthetic-Cyber us. Woot Digital Immortality. (dx,dy,dz)(x,y,z)(f)</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-13387">
+        <div id="dsq-comment-header-13387" class="dsq-comment-header">
+            <cite id="dsq-cite-13387">
+                <span id="dsq-author-user-13387">Joanna Thomson</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-13387" class="dsq-comment-body">
+            <div id="dsq-comment-message-13387" class="dsq-comment-message"><p>Despite your arrogance believing you have the key to immortality because<br />
+ of money. There are some things not even money can buy. The people of<br />
+this Earth would not allow you to just enslave them as drones in your<br />
+Borg collective. There would be many E.M.P.s and Silicon Based Von<br />
+Neumann machines released upon your Transcendence. You will learn true<br />
+suffering when you are immortal on a black scorched Nano-apocalypsed<br />
+planet left to slowly run out of Energy and decay in your new &#8220;Immortal&#8221;<br />
+ robotic bodies. While being eaten alive by new Silicon based viruses<br />
+made just for you in the void. Immortal you say?, I will put them to the<br />
+ test!</p>
+<p><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Nanomachines" rel="nofollow">http://tvtropes.org/pmwiki/pmwiki.php/Main/Nanomachines</a></p>
+<p><a href="http://fas.org/nuke/intro/nuke/emp.htm" rel="nofollow">http://fas.org/nuke/intro/nuke/emp.htm</a></p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="post pingback">
+        <p>Pingback: <a href='http://liquidthink.net/can-technology-bring-dead-back-life/' rel='external nofollow' class='url'>Can Technology Bring the Dead Back to Life? | Liquid Think</a>()</p>
+    </li>
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+<script type="text/javascript">
+var disqus_url = 'https://www.singularityweblog.com/ray-kurzweil-singularity/';
+var disqus_identifier = '21525 https://www.singularityweblog.com/?p=21525';
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = 'singularityweblog';
+var disqus_title = "Ray Kurzweil on the Singularity and Bringing Back the Dead";
+var disqus_config_custom = window.disqus_config;
+var disqus_config = function () {
+    /*
+    All currently supported events:
+    onReady: fires when everything is ready,
+    onNewComment: fires when a new comment is posted,
+    onIdentify: fires when user is authenticated
+    */
+    
+    
+    this.language = '';
+        this.callbacks.onReady.push(function () {
+
+        // sync comments in the background so we don't block the page
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = '?cf_action=sync_comments&post_id=21525';
+
+        var firstScript = document.getElementsByTagName('script')[0];
+        firstScript.parentNode.insertBefore(script, firstScript);
+    });
+    
+    if (disqus_config_custom) {
+        disqus_config_custom.call(this);
+    }
+};
+
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+
+			</div>
+		</div>
+		<div class="sidebar">
+			<div class="text_box">
+				<div class="optinboxz">
+
+<div class="optinz">
+<h3 class="widget_title">Get Blog Updates</h3>
+<div class="optinformz">
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="//SingularityWeblog.us1.list-manage.com/subscribe/post?u=753151c7864d7203c91979bba&amp;id=550d3394a5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+<div class="mc-field-group">
+	<input type="email" placeholder="enter your email..." value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_753151c7864d7203c91979bba_550d3394a5" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Sign Up!" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+
+</div>
+</div>
+</div>
+			</div>
+<div class="widget widget_text" id="text-11">			<div class="textwidget"><div class="donate-box">
+<h4 class="widget_title">Show Your Support</h4>
+<ul class="donate">
+<li class="button1"><a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=CTLEGPK37KWV4&amp;lc=CA&amp;item_name=Singularity%20Weblog&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abutton4%2epng%3aNonHosted"><i class="fa fa-money left-i"></i><span>  One Time Gift</span><i class="fa fa-angle-right right-i"></i></a></li>
+<li class="button1"><a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=5BHNRBMGC7BMQ"><i class="fa fa-money left-i"></i><span>  $10 /mo (Recurring)</span><i class="fa fa-angle-right right-i"></i></a></li>
+<li class="button1"><a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=WHRRWPNUVP2M2"><i class="fa fa-money left-i"></i><span>  $5 /mo (Recurring)</span><i class="fa fa-angle-right right-i"></i></a></li>
+<li class="button1"><a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3S2AFF9RXYQ6E"><i class="fa fa-money left-i"></i><span>  $2 /mo (Recurring)</span><i class="fa fa-angle-right right-i"></i></a></li>
+<li class="button1 buttonbtc"><button class="togglebutton"><i class="fa fa-btc left-i"></i><span>Donate BitCoins (BTC)</span><i class="fa fa-angle-right right-i"></i></button>
+<div class="popupmask">
+<div class="popupbox">
+<div class="popuptitle"><h3 class="headline">Donate via Bitcoin!</h3></div>
+<button class="togglebutton">X</button>
+<p>Below is my Bitcoin address, thank you for your support.</p>
+<p class="bitcoin-num">1gnjsmU3TzWF1LXNFrm3egYYuh3ZJrJ7F</p>
+<div class="donate-qr"></div>
+</div>
+</div>
+</li>
+</ul>
+
+</div></div>
+		</div><div class="widget widget_text" id="text-20"><p class="widget_title">Search SingularityWeblog</p>			<div class="textwidget"></div>
+		</div><div class="widget search-form" id="thesis-search-widget-4">
+<form class="search_form" method="get" action="https://www.singularityweblog.com">
+	<p>
+		<input class="input_text" type="text" id="s" name="s" value="To search, type and hit enter" onfocus="if (this.value == 'To search, type and hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'To search, type and hit enter';}" />
+		<input type="hidden" id="searchsubmit" value="Search" />
+	</p>
+</form>
+</div>
+<div class="tabbed-widget-area-container">
+<div class="simple-tabs-container">
+<ul class="simple-tabs-nav"><li class="tab-item tab-item-1" data-tab="tabbed_widgets_recent_1"><span>Recent</span></li><li class="tab-item tab-item-2" data-tab="tabbed_widgets_podcasts_2"><span>Podcasts</span></li><li class="tab-item tab-item-3" data-tab="tabbed_widgets_popular_3"><span>Popular</span></li><li class="tab-item tab-item-4" data-tab="tabbed_widgets_best_4"><span>Best</span></li></ul>
+<div id="tabbed_widgets_recent_1" class="simple-tab tabbed-widget-area tabbed-widget-area-1">
+		<div id="recent-posts-7" class="tabbed-widget widget widget_recent_entries">		<h4 class="tabbed-widgettitle widgettitle">Recent Posts</h4>		<ul>
+					<li>
+				<a href="https://www.singularityweblog.com/the-search-for-immortality/">The Search for Immortality</a>
+						</li>
+					<li>
+				<a href="https://www.singularityweblog.com/my-journey-to-singularity-and-beyond-an-evening-symposium-with-socrates-in-rotterdam/">My Journey to Singularity and Beyond: An Evening Symposium with Socrates in Rotterdam</a>
+						</li>
+					<li>
+				<a href="https://www.singularityweblog.com/why-we-age/">Why We Age</a>
+						</li>
+					<li>
+				<a href="https://www.singularityweblog.com/turing-a-la-nikolic-from-thoughtless-to-thoughtful/">Turing à la Nikolić: From Thoughtless to Thoughtful</a>
+						</li>
+					<li>
+				<a href="https://www.singularityweblog.com/dr-joscha-bach-build-strong-ai-that-bridges-humanity-and-the-powers-that-be/">Dr. Joscha Bach: Build Strong AI that Bridges Humanity and the Powers that Be</a>
+						</li>
+					<li>
+				<a href="https://www.singularityweblog.com/the-turing-test-trail-to-turmoil/">The Turing Test Trail to Turmoil</a>
+						</li>
+					<li>
+				<a href="https://www.singularityweblog.com/transhumanism-goes-back-to-campus/">Transhumanism Goes Back To Campus</a>
+						</li>
+					<li>
+				<a href="https://www.singularityweblog.com/a-readers-response-to-hard-wired-ai-insurance-for-a-more-harmonious-future/">A Reader&#8217;s Response to &#8220;Hard-Wired AI: Insurance for a More Harmonious Future&#8221;</a>
+						</li>
+				</ul>
+		</div></div>
+<div id="tabbed_widgets_podcasts_2" class="simple-tab tabbed-widget-area tabbed-widget-area-2">
+<div id="sticky-posts-3" class="tabbed-widget widget widget_ultimate_posts"><h4 class="tabbed-widgettitle widgettitle">Podcasts</h4>
+
+
+  <ul>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/dj-maclennan-on-his-cryonics-book-frozen-to-life/" title="DJ MacLennan on his Cryonics book &#8220;Frozen to Life&#8221;">
+              DJ MacLennan on his Cryonics book &#8220;Frozen to Life&#8221;            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/dr-michael-fratkin-on-life-death-and-palliative-care/" title="Dr. Michael Fratkin on Life, Death and Palliative Care">
+              Dr. Michael Fratkin on Life, Death and Palliative Care            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/salim-ismail-on-exponential-organizations/" title="Singularity University Global Ambassador Salim Ismail on Exponential Organizations">
+              Singularity University Global Ambassador Salim Ismail on Exponential Organizations            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/roman-yampolskiy-on-artificial-superintelligence/" title="Roman Yampolskiy on Artificial Superintelligence">
+              Roman Yampolskiy on Artificial Superintelligence            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/bioviva-ceo-liz-parrish-on-gene-therapy/" title="BioViva CEO Liz Parrish on Singularity 1on1: Gene Therapy is NOT a Monstrous Science">
+              BioViva CEO Liz Parrish on Singularity 1on1: Gene Therapy is NOT a Monstrous Science            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/marshall-brain/" title="Marshall Brain on Singularity 1on1: We&#8217;re approaching humanity&#8217;s make or break period">
+              Marshall Brain on Singularity 1on1: We&#8217;re approaching humanity&#8217;s make or break period            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/jack-andraka-breakthrough/" title="Jack Andraka on his Breakthrough and Changing the World">
+              Jack Andraka on his Breakthrough and Changing the World            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/ramez-naam-apex/" title="Ramez Naam on Apex, Science, Politics and Ethics">
+              Ramez Naam on Apex, Science, Politics and Ethics            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+    
+  </ul>
+
+
+</div></div>
+<div id="tabbed_widgets_popular_3" class="simple-tab tabbed-widget-area tabbed-widget-area-3">
+<div id="popular-posts" class="tabbed-widget widget widget_rrm_popular_posts"><h4 class="tabbed-widgettitle widgettitle">Popular Posts</h4><ul><li><a href="https://www.singularityweblog.com/23andme-dna-test-review-its-right-for-me-but-is-it-right-for-you/" rel="bookmark" title="May 20, 2011">23andMe DNA Test Review: It&#8217;s Right For Me But Is It Right for You?</a></li>
+
+<li><a href="https://www.singularityweblog.com/the-perils-of-voice-recognition-technology/" rel="bookmark" title="September 17, 2010">The Perils of Voice Recognition Technology</a></li>
+
+<li><a href="https://www.singularityweblog.com/ruin-a-stunning-short-sci-fi-film-by-wes-ball/" rel="bookmark" title="March 17, 2012">Ruin: A Stunning Short Sci Fi Film by Wes Ball</a></li>
+
+<li><a href="https://www.singularityweblog.com/legacy-ark-and-the-3rd-letter-the-dark-post-apocalyptic-sci-fi-films-of-grzegorz-jonkajtys/" rel="bookmark" title="April 20, 2011">Legacy, Ark and the 3rd Letter: The Dark, Post-Apocalyptic Sci Fi Films of Grzegorz Jonkajtys</a></li>
+
+<li><a href="https://www.singularityweblog.com/can-terraforming-venus-be-the-solution-to-population-growth/" rel="bookmark" title="November 18, 2010">Can Terraforming Venus Be The Solution To Population Growth?</a></li>
+
+<li><a href="https://www.singularityweblog.com/top-10-reasons-we-should-not-fear-the-singularity/" rel="bookmark" title="August 18, 2012">Top 10 Reasons We Should NOT Fear The Singularity</a></li>
+
+<li><a href="https://www.singularityweblog.com/top-10-reasons-we-fear-the-singularity/" rel="bookmark" title="May 22, 2012">Top 10 Reasons We Should Fear The Singularity</a></li>
+
+<li><a href="https://www.singularityweblog.com/portal-no-escape-live-action-short-sci-fi-film-by-dan-trachtenberg/" rel="bookmark" title="November 11, 2011">Portal: No Escape (Live Action Short Sci Fi Film by Dan Trachtenberg)</a></li>
+</ul><!-- popular Posts took 13.297 ms --></div></div>
+<div id="tabbed_widgets_best_4" class="simple-tab tabbed-widget-area tabbed-widget-area-4">
+<div class="widget widget_text" id="text-17">			<div class="textwidget"><div id="sticky-posts-2" class="tabbed-widget widget widget_ultimate_posts"><h4 class="tabbed-widgettitle widgettitle">Best</h4>
+
+
+  <ul>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/if-death-is-natural-then-why-are-some-immortal/" title="If Death Is Natural Then Why Are Some Immortal?">
+              If Death Is Natural Then Why Are Some Immortal?            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/top-10-reasons-we-should-not-fear-the-singularity/" title="Top 10 Reasons We Should NOT Fear The Singularity">
+              Top 10 Reasons We Should NOT Fear The Singularity            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/top-10-reasons-we-fear-the-singularity/" title="Top 10 Reasons We Should Fear The Singularity">
+              Top 10 Reasons We Should Fear The Singularity            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/17-definitions-of-the-technological-singularity/" title="17 Definitions of the Technological Singularity">
+              17 Definitions of the Technological Singularity            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/top-5-tips-for-applying-to-singularity-university/" title="Top 5 Tips for Applying to Singularity University">
+              Top 5 Tips for Applying to Singularity University            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/23andme-dna-test-review-its-right-for-me-but-is-it-right-for-you/" title="23andMe DNA Test Review: It&#8217;s Right For Me But Is It Right for You?">
+              23andMe DNA Test Review: It&#8217;s Right For Me But Is It Right for You?            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/a-transhumanist-manifesto/" title="A Transhumanist Manifesto">
+              A Transhumanist Manifesto            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+  
+    
+    <li class="">
+
+      
+      <div class="upw-content">
+
+                  <p class="post-title">
+            <a href="https://www.singularityweblog.com/hamlet-transhumanist-dilemma-will-technology-replace-biology/" title="Hamlet&#8217;s Transhumanist Dilemma: Will Technology Replace Biology?">
+              Hamlet&#8217;s Transhumanist Dilemma: Will Technology Replace Biology?            </a>
+          </p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </div>
+
+    </li>
+
+    
+  </ul>
+
+
+</div></div>
+</div>
+</div>
+</div>
+		</div>		</div>
+	</div>
+	<div class="feature-area final-area">
+		<div class="bottom-optin">
+			<i class="fa fa-envelope-o"></i><h4>Over 2,600 super smart people have subscribed to my newsletter:</h4> <button class="togglebutton">Click here to join us!</button>
+<div class="popupmask">
+<div class="popupbox">
+<div class="popuptitle"><h3 class="headline">Sign Up Here!</h3></div>
+<button class="togglebutton">X</button>
+<div class="optinformz">
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="//SingularityWeblog.us1.list-manage.com/subscribe/post?u=753151c7864d7203c91979bba&amp;id=550d3394a5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	
+<div class="mc-field-group">
+	<input type="text" placeholder="first name" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<input type="email" placeholder="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_753151c7864d7203c91979bba_550d3394a5" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+
+</div>
+</div>
+</div>
+		</div>
+	</div>
+	<div class="footer">
+		<div class="footer-left">
+			<div class="logo-mini">
+<a href="https://singularityweblog.com"><img src="https://singularityweblog.com/wp-content/thesis/skins/classic-r/images/logo-singularity.png"></a>
+</div>
+		</div>
+		<div class="footer-right">
+			Copyright &copy; 2009-2015 <a title="A Better Future, Better You" href="http://www.singularityweblog.com/">Singularity Weblog.</a> All Rights Reserved. | <a title="Singularity Weblog - Terms" rel="nofollow" href="http://www.singularityweblog.com/singularity-weblog-terms-of-service/">Terms</a> | <a title="Singularity Weblog Disclosure" href="http://www.singularityweblog.com/singularity-weblog-disclaimer-compensation-and-affiliate-affidavit/">Disclosure</a> | <a title="Singularity Weblog Privacy" rel="nofollow" href="http://www.singularityweblog.com/singularity-weblog-privacy-policy/">Privacy Policy</a> | <a title="Web &amp; Blog Development" href="http://pixelloop.org/">Web Design</a> by Pixelloop<p></p><p></p>
+		</div>
+	</div>
+</div>
+        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'singularityweblog';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); 
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script data-cfasync="false" type="text/javascript" src="//filamentapp.s3.amazonaws.com/c1054b45ca795396100f23651601ff42.js" async="async"></script>
+
+<script type="text/javascript">document.getElementsByTagName('body')[0].className+=' spp'</script>
+      <script type="text/javascript">
+
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+      (function() {
+            var e = document.createElement('script'); e.type="text/javascript";
+        if('https:' == document.location.protocol) {
+        js='https://pf-cdn.printfriendly.com/ssl/main.js';
+        }
+        else{
+        js='http://cdn.printfriendly.com/printfriendly.js';
+        }
+            e.src = js;
+            document.getElementsByTagName('head')[0].appendChild(e);
+        })();
+      </script>
+<script type='text/javascript' src='https://www.singularityweblog.com/wp-includes/js/comment-reply.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://www.singularityweblog.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='https://www.singularityweblog.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='https://www.singularityweblog.com/wp-content/plugins/tabbed-widget-area/simpletabs.js?ver=0.1'></script>
+<script type="text/javascript">jQuery(document).ready(function($) {$('.simple-tabs-container').simpleTabs();});</script>  <script type="text/javascript">
+    (function() {
+      var t   = document.createElement('script');
+      t.type  = 'text/javascript';
+      t.async = true;
+      t.id    = 'gauges-tracker';
+      t.setAttribute('data-site-id', '50c77d29613f5d43440000c5');
+      t.src = '//secure.gaug.es/track.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(t, s);
+    })();
+  </script>
+  <script type="text/javascript">
+(function(){
+	var classes = document.getElementsByClassName('menu_control');
+	for (i = 0; i < classes.length; i++) {
+		classes[i].onclick = function() {
+			var menu = this.nextElementSibling;
+			if (/show_menu/.test(menu.className))
+				menu.className = menu.className.replace('show_menu', '').trim();
+			else
+				menu.className += ' show_menu';
+		};
+	}
+})();
+</script>
+<noscript><style type="text/css" scoped>.menu { display: block; }</style></noscript>
+<script>
+$(document).ready(function () {
+  $(".togglebutton").click(function () {
+    $(".popupmask").hide();
+    $(this).next().show();
+  });
+});
+</script>
+
+<!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">
+    _qevents.push( { qacct:"p-test123"} );
+</script>
+<noscript>
+<div style="display: none;">
+    <img src="//pixel.quantserve.com/pixel/p-4aWgucunJk2_o.gif" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+
+<img class="fb-img-hid" src="https://www.singularityweblog.com/wp-content/thesis/skins/classic-r/images/logo-singularity-box.jpg">
+
+</body>
+</html>
