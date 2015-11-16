@@ -2,8 +2,10 @@
 permalink: .htaccess
 ---
 RewriteEngine On
-RewriteCond %{http_host} &www.liquidthink.net [nc]
+RewriteCond %{http_host} ^www.liquidthink.net [nc]
 RewriteRule ^(.*)$ http://liquidthink.net/$1 [r=301,nc]
+RewriteCond %{HTTPS} on
+RewriteRule (.*) http://%{HTTP_HOST}%{REQUEST_URI}
 
 # ----------------------------------------------------------------------
 # CORS-enabled images (@crossorigin)
