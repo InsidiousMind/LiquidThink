@@ -28,7 +28,7 @@ layout: post_layout
     </div>
     {% if post.featured_image %}
         <div class="entry-image" style="max-height:none;">
-            <a class="lightbox" rel="bookmark" title="{{post.title}}" href="{{site.url}}{{post.featured_image}}">
+            <a class="lightbox" rel="bookmark" title="{{post.title}}" href="{{site.cdnurl}}{{post.featured_image}}">
                 <img class="attachment-large wp-post-image" width="500" height="360" data-src="{{site.url}}{{post.featured_image}}" alt="{{post.imgalt}}" src="{{site.url}}{{post.featured_image}}">
             </a>
         </div>
