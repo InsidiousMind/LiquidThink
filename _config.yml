@@ -12,6 +12,7 @@ email: insidious@liquidthink.net
 description: Weekly Rantings of a Nerdy Lunatic 
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://localhost:4000/" # the base hostname & protocol for your site
+#cdnurl: "http://localhost:4000/"
 url: "http://liquidthink.net/"
 cdnurl: "http://liquid-think.netlify.com/"
 permalink: /:title
