@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div id="main_columns" class="columns">
 
     {%for post in page.posts %}
@@ -17,11 +18,15 @@ layout: default
                     </li>
                     <li class="divider">/</li>
                     <li>
-                        <a title= {{post.category}} href="">{%for category in post.categories %} {{category}} {%endfor%}</a>
+                        <a title= {{post.category}} href="{{post.url}}">{%for category in post.categories%} {{category}} {%endfor%}</a>
                     </li>
                     <li class="divider">/</li>
                     <li>
                         <a href="{{post.url}}#disqus_thread"></a>
+                    </li>
+                    <li class="divider">/</li>
+                    <li>   
+                        <a title="Read Time" href="{{post.url}}">{% include read_time.html %} Read </a>
                     </li>
                 </ul>
             </div>
@@ -31,15 +36,17 @@ layout: default
         </div>
         {% if post.featured %}
         <div class="entry-image" style="max-height:none;">
-            <a rel="bookmark" title="{{post.title}}"href="{{site.url}}{{post.featured}}">
+            <a rel="bookmark" title="{{post.title}}"href="{{post.url}}">
                 <img class="attachment-large wp-post-image" width="500" height="400"  alt="{{post.title}}" src="{{site.url}}{{post.featured}}">
             </a>
         </div>
         {%endif%}
         <div class="entry-container">
             <div class="entry-content">
-                    {{post.excerpt | truncatewords:100}}
-                <br>
+                    {{post.excerpt | truncatewords: 100 }}
+               
+                <br /> 
+                
                 <a class="moretag" href="{{post.url}}">Continue reading...</a>
                 <footer class="entry-meta clearfix">
                     <ul>
@@ -57,6 +64,8 @@ layout: default
             </div>
         </div>    
     </article>
+
     {%endfor%}
+
 </div>
 
