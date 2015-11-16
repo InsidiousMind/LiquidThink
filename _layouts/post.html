@@ -1,6 +1,5 @@
 ---
 layout: post_layout
-comments: true
 ---
 <article class="post type-post format-standard hentry" itemscope itemtype="http://schema.org/BlogPosting">
     <div class="post-title box">
@@ -18,43 +17,44 @@ comments: true
                 </li>
                 <li class="divider">/</li>
                 <li>
-                    <a href="{{post.url}}#disqus_thread"></a>
+                    <a href="{{page.url}}#disqus_thread"></a>
                 </li>
                 <li class="divider">/</li>
                 <li>
-                    <a title="Read Time">{%include read_time_post.html%}</a>
+                    <a title="Read Time" href="{{page.url}}">{% include read_time_post.html %}</a>
                 </li>
             </ul>
         </div>
     </div>
     {% if post.featured_image %}
         <div class="entry-image" style="max-height:none;">
-            <a class="lightbox" rel="bookmark" title="{{page.title}}" href="{{site.url}}{{page.featured_image}}">
+            <a class="lightbox" rel="bookmark" title="{{post.title}}" href="{{site.url}}{{post.featured_image}}">
                 <img class="attachment-large wp-post-image" width="500" height="360" data-src="{{site.url}}{{post.featured_image}}" alt="{{post.imgalt}}" src="{{site.url}}{{post.featured_image}}">
             </a>
         </div>
     {% endif %}
-    <div class="entry-container {%if page.featured_image}{%else%}noimg{%endif%}">
+    <div class="entry-container {%if post.featured_image}{%else%}noimg{%endif%}">
         <div class="entry-content">
             {{content}}
             <p style="text-align:left">
-            &copy; {{page.date|date:'%Y'}}, {% if page.author%}<a href="{{site.url}}">{{page.author}}</a>, {%endif%}All Rights Reserved.
+            &copy; {{page.date|date:'%Y'}},
+            <a href="{{site.url}}">{{page.author}}</a>
+            All Rights Reserved.
             </p>
-            <footer clas="entry-meta cleafix">
-                {% if page.tags %}
+            <footer class="entry-meta cleafix">
                 <ul>
                         <li>
-                            {% for tag in page.tags %}
+                            {% for tag in post.tags %}
                             <a rel="tag">{{tag}}</a>,
                             {% endfor %}
                         </li>
                 </ul>
-                {%endif%}
-                <div class="share-story-container">
-                    <div class='shareaholic-canvas' data-app='share_buttons' data-app-id='21576375'></div>
-                </div>
+                    <div class="share-story-container">    
+                        <h4 class="muted pull-left">Share story</h4>
+                        <div class='shareaholic-canvas' data-app='share_buttons' data-app-id='21576388'></div> 
+                    </div>
             </footer>
-        </div>
+        </div>   
     </div>
 </article>
 

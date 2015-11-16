@@ -12,7 +12,7 @@ email: insidious@liquidthink.net
 description: Weekly Rantings of a Nerdy Lunatic 
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://localhost:4000/" # the base hostname & protocol for your site
-url: "http://liquid-think.netlify.com/"
+url: "http://liquidthink.net/"
 cdnurl: "http://liquid-think.netlify.com/"
 permalink: /:title
 author_bio: > # this means to ignore newlines until "owner_name:"
@@ -20,7 +20,7 @@ author_bio: > # this means to ignore newlines until "owner_name:"
 owner_name: Andrew Plaza
 twitter_username: liquid_think
 github_username:  InsidiousMind
-disqus_shortname: liquid_think
+disqus_shortname: liquidthink
 social:
     - twitter_url: twitter.com/liquid_think/
     - facebook_url: facebook.com/liquidthinknet/
