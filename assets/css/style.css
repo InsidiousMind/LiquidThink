@@ -3925,7 +3925,7 @@ img#wpstats{display:none}
 }
 /*  disquss css fix  */
 #disqus_thread {
-  background: #fff;
+/*  background: #fff;*/
   border-radius: 2px;
   margin-top: 30px;
   padding: 25px;
