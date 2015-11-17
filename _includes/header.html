@@ -44,16 +44,16 @@
             <div class="navbar navbar-inverse">
                 <div class="navbar-inner">
                     <div class="visible-tablet visible-phone bl_search">
-                        <form class="searchform" role="search" method="get" action="{[site.url}}">
+                            <form id="site_search" class="searchform" role="search" method="get" action="">
                             <fieldset>
                                 <a href="#">
                                     <i class="icon-search-1"></i>
                                 </a>
-                                <input type="text" placeholder="Search.." value="" name="s">
+                                <input type="text" placeholder="Search.." name="query" id="search_box">
                             </fieldset>
                         </form>
+                        <ul id="search_results"></ul>
                     </div>
-
                     <div class="nav-collapse collapse" style="display: block;">
                         <ul id="menu-main-menu" class="nav visible-desktop">
                             <li class="menu-item menu-item-type-taxononmy menu-item-object-category menu-item-has-children dropdown">
@@ -105,7 +105,16 @@
                 </div>
                 <div class="nav-line" style="left: 0px; width: 169px;"></div>
             </div>
-            <div class="bl_search visible-desktop nav-collapse collapse"><!-- THIS IS WHERE SEARCH GOES WHEN I FIGURE IT OUT--></div>
+            <div id="search" class="bl_search visible-desktop nav-collapse collapse">
+                <form class="searchform" role="search" action="search.html" method="get">
+                    <fieldset>
+                        <a href="#">
+                            <i class="icon-search-1"></i>
+                        </a>
+                        <input type="text" id="search-query" placeholder="Search.." value="" name="q" autocomplete="off"></input>
+                    </fieldset>
+                </form>
+            </div>
         </div>
     </div>
 </header>

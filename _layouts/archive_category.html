@@ -4,7 +4,7 @@ layout: default
 
 <div id="main_columns" class="columns">
 
-    {%for post in page.posts %}
+    {%for post in page.posts limit:4 %}
 
     <article class="post type-post status-publish format-image has-post-thumbnail sticky hentry category-demo-2 tag-featured post_format-post-format-image">
         <div class="post-title box">
@@ -43,10 +43,8 @@ layout: default
         {%endif%}
         <div class="entry-container">
             <div class="entry-content">
-                    {{post.excerpt | truncatewords: 100 }}
-               
+                    {{post.content | truncatewords: 80 }}
                 <br /> 
-                
                 <a class="moretag" href="{{post.url}}">Continue reading...</a>
                 <footer class="entry-meta clearfix">
                     <ul>
