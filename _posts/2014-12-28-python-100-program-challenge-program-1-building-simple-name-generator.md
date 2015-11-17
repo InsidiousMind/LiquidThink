@@ -17,11 +17,16 @@ tags:
 - python challenge
 author: insidious
 ---
-###Hello Programmers!
+
+Hello Programmers!
+---
+
+
 First off, this post is a bit later than I expected. I got sick after publishing the introduction to this series, and then with the Holiday's and all, this post got a bit delayed. So sorry about that :(
 
 But, onto the challenge!
 This is the first post and programming challenge in the 100 Program Challenge in Python. We will be building a simple name generator. Nothing crazy here, just a simple program. If you complete the program but want more of a challenge, I will be making a Bonus Challenge for this program.
+
 ####Here We Go!
 (NOTE: Remember to put in appropriate spaces in your Python Code. The article below auto-formats to erase the spaces)
 

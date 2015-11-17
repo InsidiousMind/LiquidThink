@@ -43,9 +43,9 @@ layout: default
         {%endif%}
         <div class="entry-container">
             <div class="entry-content">
-                    {{post.content | truncatewords: 100}}
+                <p> {{post.content | strip_html | truncatewords: 100}}</p>
                 <br>
-                <a class="moretag" href="{{post.url}}">Continue reading...</a>
+                <p> <a class="moretag" href="{{post.url}}">Continue reading...</a></p>
                 <footer class="entry-meta clearfix">
                     <ul>
                         <li>

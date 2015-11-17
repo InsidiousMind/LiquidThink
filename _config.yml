@@ -29,6 +29,7 @@ social:
  
 # Build settings
 markdown: redcarpet
+excerpt_separator: <!--more-->
 highlighter: pygments
 paginate: 5
 paginate_path: "/page:num/"
