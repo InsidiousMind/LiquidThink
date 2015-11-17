@@ -26,10 +26,8 @@ social:
     - twitter_url: twitter.com/liquid_think/
     - facebook_url: facebook.com/liquidthinknet/
     - gplus_url:
- 
 # Build settings
 markdown: redcarpet
-excerpt_separator: <!--more-->
 highlighter: pygments
 paginate: 5
 paginate_path: "/page:num/"
