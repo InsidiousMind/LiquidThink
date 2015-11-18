@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<div id="main_columns" class="columns">
 
     {%for post in page.posts limit:4 %}
 
@@ -43,7 +42,7 @@ layout: default
         {%endif%}
         <div class="entry-container">
             <div class="entry-content">
-                <p> {{post.excerpt | strip_html | truncatewords: 100}} </p>
+                <p> {{post.content | strip_html | truncatewords: 100}} </p>
                 <br /> 
                 <p><a class="moretag" href="{{post.url}}">Continue reading...</a></p>
                 <footer class="entry-meta clearfix">
@@ -64,6 +63,3 @@ layout: default
     </article>
 
     {%endfor%}
-
-</div>
-

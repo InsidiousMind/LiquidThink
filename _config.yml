@@ -46,6 +46,9 @@ jekyll-archives:
         tag: '/tag/:name/'
         category: '/category/:name/'
 #Simple Text Search
+lunr_search:
+  excludes: [rss.xml, atom.xml, feed.xml]
+  js_dir: "assets/js/"
 gems:
     - jekyll-sitemap
     - jekyll-feed
@@ -54,3 +57,4 @@ gems:
     - jekyll-archives      
     - jekyll-paginate
     - jekyll-gist
+    - jekyll-lunr-js-search

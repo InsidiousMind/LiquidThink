@@ -43,16 +43,15 @@
             </div>
             <div class="navbar navbar-inverse">
                 <div class="navbar-inner">
-                    <div class="visible-tablet visible-phone bl_search">
-                            <form id="site_search" class="searchform" role="search" method="get" action="">
+                    <div id="search" class="visible-tablet visible-phone bl_search">
+                        <form class="searchform" method="get" action="{{page.url}}">
                             <fieldset>
                                 <a href="#">
                                     <i class="icon-search-1"></i>
                                 </a>
-                                <input type="text" placeholder="Search.." name="query" id="search_box">
+                                <input type="text" id="search-query" name="q" placeholder="Search.." autocomplete="off" >
                             </fieldset>
                         </form>
-                        <ul id="search_results"></ul>
                     </div>
                     <div class="nav-collapse collapse" style="display: block;">
                         <ul id="menu-main-menu" class="nav visible-desktop">
@@ -106,12 +105,12 @@
                 <div class="nav-line" style="left: 0px; width: 169px;"></div>
             </div>
             <div id="search" class="bl_search visible-desktop nav-collapse collapse">
-                <form class="searchform" role="search" action="search.html" method="get">
+                <form action="{{page.url}}"method="get" class="searchform">
                     <fieldset>
                         <a href="#">
                             <i class="icon-search-1"></i>
                         </a>
-                        <input type="text" id="search-query" placeholder="Search.." value="" name="q" autocomplete="off"></input>
+                        <input type="text" id="search-query" name="q" placeholder="Search.." autocomplete="off" >
                     </fieldset>
                 </form>
             </div>

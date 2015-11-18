@@ -9,3 +9,4 @@ gem 'redcarpet'
 gem 'jekyll-paginate'
 gem 'jekyll-gist'
 gem 'pygments.rb'
+gem 'jekyll-lunr-js-search', :git => "https://github.com/InsidiousMind/jekyll-lunr-js-search.git"

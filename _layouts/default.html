@@ -112,7 +112,7 @@
                                     }
         }
 </script>
-
+    
     <div id="page" class="site">
         {% include header.html %}  
         <div id="main" class="container">
@@ -121,7 +121,16 @@
                     <div class="row-fluid">
                         <div id="above-blog" class="widget-area"></div>
                     </div>
-                        {{content}}
+                        <div id="main_columns" class="columns">
+                            <section id="search-results" style="display: none;">
+                                <h3>Search Results</h3>
+                                    <div class="entries post-title box">
+                                    </div>
+                                <h3>--- End Search Results ---</h3>
+                            </section>   
+                            {% include search.html %}
+                            {{content}}
+                        </div>
                     </div>
                 {%include sidebar.html %}
             </div>
