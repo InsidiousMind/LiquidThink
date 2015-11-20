@@ -28,6 +28,9 @@ social:
     - gplus_url:
 # Build settings
 markdown: redcarpet
+redcarpet:
+    extensions: [tables, autolink, no_intra_emphasis]
+
 highlighter: pygments
 paginate: 5
 paginate_path: "/page:num/"

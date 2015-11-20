@@ -43,7 +43,7 @@ body.nomargin .widget-area{
 h1,h2,h3,h4{
   font-family: 'Merriweather',serif;
   font-weight: 400;
-  color:#ffffff;
+  color:#CCC;
 }
 a:focus{
   outline: none;
@@ -471,7 +471,7 @@ aside.widget-area {
   margin: 0!important;
 }
 .box{
-  background: none repeat scroll 0 0 #141a1e;
+  background: none repeat scroll 0 0 #002b36; //141A1E
   -moz-border-radius: 2px 2px 2px 2px;
   -webkit-border-radius: 2px 2px 2px 2px;
   border-radius: 2px 2px 2px 2px;
@@ -618,6 +618,7 @@ aside.widget-area {
 /* page */
 article.type-page .the-content, article.type-page .title{
   padding: 45px;
+  background-color: #141a1e;
 }
 article.type-page .title + .the-content{
   padding-top: 10px;
@@ -673,12 +674,15 @@ article.type-page .entry-image .title small{
 }
 .the-content {
   font-size: 16px;
+  color: #ffffff;
 }
 .the-content p{
   font-size: 16px;
+  color: #ffffff;
 }
 .the-content p.lead{
   font-size: 21px;
+  color: #ffffff;
 }
 .site-footer{
   box-shadow: 0 1px 0 rgba(0,0,0,0.1) inset;
@@ -1490,7 +1494,7 @@ footer.entry-meta h4 a{
 }
 .entry-content {
   padding: 10px 50px;
-  background: #141a1e none repeat scroll 0 0;
+  background: #002B36 none repeat scroll 0 0; //141a1e
 }
 .entry-content iframe {
     max-width: 100%;
@@ -3925,7 +3929,7 @@ img#wpstats{display:none}
 }
 /*  disquss css fix  */
 #disqus_thread {
-  background: #141a1e;
+  background: #002B36;
   border-radius: 2px;
   margin-top: 30px;
   padding: 25px;
