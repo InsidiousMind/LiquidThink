@@ -302,7 +302,8 @@ aside.widget-area {
   -o-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  /*padding: 13px 20px;*/
+  color:#ffffff;
+/*  padding: 13px 20px;*/
 
 }
 #masthead .bluth-navigation.shrunk .navbar .nav > li > a {
@@ -371,7 +372,7 @@ aside.widget-area {
 }
 #masthead .bluth-navigation.shrunk .mini-logo h1, #masthead .bluth-navigation.shrunk .mini-logo img{
   left:0;
-
+  color:#ffffff;
   -webkit-transition: all 0.3s ease-in-out 0.2s;
   -moz-transition: all 0.3s ease-in-out 0.2s;
   -o-transition: all 0.3s ease-in-out 0.2s;
@@ -618,7 +619,7 @@ aside.widget-area {
 /* page */
 article.type-page .the-content, article.type-page .title{
   padding: 45px;
-  background-color: #141a1e;
+  background-color: #001E26;
 }
 article.type-page .title + .the-content{
   padding-top: 10px;
@@ -669,20 +670,21 @@ article.type-page .entry-image .title small{
   width: 100%;
   text-align: center;
   line-height: 40px;
-  color: #FFFFFF;
+  color: #CCCCCC;
   opacity: 0.8;
 }
 .the-content {
-  font-size: 16px;
-  color: #ffffff;
+  font-size: 18px;
+  color: #B0B0B0;
 }
 .the-content p{
-  font-size: 16px;
-  color: #ffffff;
+  font-size: 18px;
+  color: #B0B0B0;
+  line-height: 40px;
 }
 .the-content p.lead{
   font-size: 21px;
-  color: #ffffff;
+  color: #B0B0B0;
 }
 .site-footer{
   box-shadow: 0 1px 0 rgba(0,0,0,0.1) inset;
@@ -1522,7 +1524,7 @@ footer.entry-meta h4 a{
   line-height:120%;
 }
 .entry-title a{
-  color: #333;
+  color: #fff;
 }
 .entry-container a:hover{
   text-decoration: none;

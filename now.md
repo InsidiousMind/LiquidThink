@@ -4,7 +4,6 @@ title: Now
 description: what's happening with me, now
 permalink: /now/
 ---
-## What i'm doing now
 
 I'm at University, I spend all my time on these things, in the order of the time I spend on them:
 
