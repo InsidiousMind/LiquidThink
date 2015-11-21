@@ -626,8 +626,8 @@ article.type-page .the-content, article.type-page .title{
 article.type-page-about .the-content, article.type-page .title{
   padding: 45px;
   background-color: #001E26;
-  position: relative;
-  top: -130px;
+  /*position: relative;
+  top: -130px;*/
 }
 
 article.type-page .title + .the-content{
