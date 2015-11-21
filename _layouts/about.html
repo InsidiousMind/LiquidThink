@@ -1,0 +1,11 @@
+---
+layout: aboutL
+---
+<article class="type-page-about">
+    <h1 class="title">{{page.title}}
+        {%if page.description %} <small> {{page.description}} </small> {%endif%}
+    </h1>
+    <div class="the-content" style="opacity: 1;">
+        {{content}}
+    </div>
+</article>

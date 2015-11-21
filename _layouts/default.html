@@ -117,6 +117,7 @@
         {% include header.html %}  
         <div id="main" class="container">
             <div id="primary" class="row right_side">
+                {%if page.featured %}<div class="featured-img" style="background-image:url('{{site.url}}uploads/branding/sailing.jpg');">{%endif%}
                 <div id="content" class="margin span8" role="main">
                     <div class="row-fluid">
                         <div id="above-blog" class="widget-area"></div>
@@ -132,11 +133,12 @@
                             {{content}}
                         </div>
                     </div>
-                {%include sidebar.html %}
-            </div>
+                    {%if page.featured %} {%include about-sidebar.html %}{%else%}{%include sidebar.html%}{%endif%}
+                </div>
+            {% if page.featured %}</div>{%endif%}
         </div>
-        {% include footer.html %}
     </div>
+    {% include footer.html %}
     {% include scripts.html %} 
   </body>
 </html>

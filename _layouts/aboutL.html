@@ -3,9 +3,8 @@
 
   {% include head.html %}
 
-  <body class="single single-post single-format-standard">
-
-
+  <body class="blog page-template-default">
+     
       <script type="text/javascript">
         var y;
                 y = jQuery(window).scrollTop();
@@ -113,21 +112,32 @@
                                     }
         }
 </script>
+    
     <div id="page" class="site">
-        {% include header.html %} 
-        <div id="main" class="container">
-            <div id="primary" class="row single_column">
-                <div id="content" class="margin span10 offset1" role="main">
-                    {{content}}   
-                    <div id="comments" class="comments-area">
-                        <h3 class="comments-title"><a href="{{page.url}}#disqus_thread"></a></h3>
-                        {% include disqus_post.html %}
+        {% include header.html %}  
+        <div class="featured-img" style="background-image:url('{{site.url}}uploads/branding/sailing.jpg');"></div>
+        <div id="main" class="container clearfix" style="background-color:#3C6372; border-radius:0px 0px 10px 10px;">
+                <div id="primary" class="row right_side clearfix" style="position:relative; left:50px;">
+                    <div id="content" class="margin span8 clearfix" role="main">
+                        <div class="row-fluid">
+                            <div id="above-blog" class="widget-area"></div>
+                        </div>
+                            <div id="main_columns" class="columns clearfix">
+                                <section id="search-results" style="display: none;">
+                                    <h3>Search Results</h3>
+                                        <div class="entries post-title box">
+                                        </div>
+                                    <h3>--- End Search Results ---</h3>
+                                </section>   
+                                {% include search.html %}
+                                {{content}}
+                            </div>
+                        </div>
+                        {%include about-sidebar.html %}
                     </div>
                 </div>
-            </div>
         </div>
-        {% include scripts.html %}
-        {% include footer.html %}
+        {% include aboutfoot.html %}
+    {% include scripts.html %} 
   </body>
-
 </html>

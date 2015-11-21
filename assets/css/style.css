@@ -98,6 +98,8 @@ a, a:hover, a:focus, a:active{
 #main{
   margin-bottom: 50px;
   padding-top: 25px;
+  max-width:1250px;
+  width:100%;
 }
 header{
   display: block;
@@ -121,7 +123,7 @@ header{
   float: right;
 }
 #primary.right_side .widget-area{
-  float: right;
+  /*float: right;*/
 }
 #primary.right_side #content{
   float: left;
@@ -135,7 +137,7 @@ aside.widget-area {
 }
 #page{
   position: relative;
-  overflow-x: hidden;
+  overflow: visible;
 }
 .top-line{
   height:3px;
@@ -621,6 +623,13 @@ article.type-page .the-content, article.type-page .title{
   padding: 45px;
   background-color: #001E26;
 }
+article.type-page-about .the-content, article.type-page .title{
+  padding: 45px;
+  background-color: #001E26;
+  position: relative;
+  top: -130px;
+}
+
 article.type-page .title + .the-content{
   padding-top: 10px;
 }
@@ -637,6 +646,49 @@ article.type-page .entry-image{
 .entry-content:after, article.type-page:after {
     clear: both;
 }
+/* START ABOUT */
+article.type-page-about .the-content, article.type-page-about .title{
+  padding: 45px;
+  background-color: #001E26;
+}
+article.type-page-about .the-content, article.type-page-about .title{
+  padding: 45px;
+  background-color: #001E26;
+  position: relative;
+  top: -130px;
+  overflow-x:hidden;
+  overflow-y:hidden;
+}
+
+article.type-page-about .title + .the-content{
+  padding-top: 10px;
+}
+article.type-page-about .entry-image{
+  overflow: hidden;
+  max-height: 400px;
+  position: relative;
+  overflow-x:hidden;
+  overflow-y:hidden;
+}
+.entry-content:after,.entry-content:before, article.type-page-about:before, article.type-page-about:after {
+    content: "";
+    display: table;
+    line-height: 0;
+}
+.entry-content:after, article.type-page-about:after {
+    clear: both;
+}
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 50px;
+    clear: both;
+    visibility: hidden;
+}
+.clearfix #container {
+    zoom: 1;     /* triggers hasLayout */
+}
+/*END ABOUT*/
 article.type-page .title {
   /*margin: 0 0 20px;*/
   border-bottom: 1px solid #eaeaea;
@@ -644,6 +696,27 @@ article.type-page .title {
   padding-top: 30px;
   padding-bottom: 30px;
 }
+article.type-page-about .title {
+  /*margin: 0 0 20px;*/
+  border-bottom: 1px solid #eaeaea;
+  margin:0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+  top: -130px;
+  overflow-x:hidden;
+  overflow-y:hidden;
+}
+article.type-page-about .title small{
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 15px;
+  position: relative;
+  top: -8px;
+  overflow-x:hidden;
+  overflow-y:hidden;
+}
+
 article.type-page .title small{
   display: inline-block;
   font-size: 16px;
@@ -811,6 +884,24 @@ select, input[type="text"], input[type="password"], input[type="datetime"], inpu
   word-wrap: break-word;
   z-index: 1;
 }*/
+.featured-img{
+    display:block;
+    position: relative;
+    margin: 0px auto;
+      margin-top: 0px;
+      margin-right: auto;
+      margin-bottom: 0px;
+      margin-left: auto;
+    height: 350px;
+    max-width: 110%;
+    width: 1250px;
+    background-size: cover;
+    background-position: 100% 70%;
+    background-repeat: no-repeat;
+    border-radius:5px 5px 0px 0px;
+    top: 25px;
+
+}
 .entry-image img {
   width: 100%;
 }
@@ -1126,6 +1217,7 @@ footer.entry-meta h4 a{
 .author-meta .author-body p{
   font-size: 16px; 
   opacity: 0.6;
+  color: #CCC;
 }
 .widget-area > div{
   padding: 15px;
