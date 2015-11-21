@@ -1,15 +1,20 @@
-- title: "Hacking"
-  href: "category/hacking/"
-  subcategories:
-    - subtitle: "Decentralization"
-      subhref: "category/decentralization/"
-    - subtitle: "Darknet"
-      subhref: "category/darknet/"
+#- title: "Hacking"
+#  href: "category/hacking/"
+#  subcategories:
+#    - subtitle: "Decentralization"
+#      subhref: "category/decentralization/"
+#    - subtitle: "Darknet"
+#      subhref: "category/darknet/"
 #    - subtitle: "Learning topic 3"
 #      subhref: "/learn3/"
 
 - title: "Computer Science"
   href: "category/computer-science/"
+  subcategories:
+    - subtitle: "Decentralization"
+      subhref: "category/decentralization/"
+    - subtitle: "Darknet"
+      subhref: "category/darknet/"
 
 - title: "Society"
   href: "category/society/"

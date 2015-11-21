@@ -11,8 +11,8 @@ Every part of this blog is dedicated to a part of life. Maybe I'm a bit biased, 
 
 If you were to break it down, this blog is really about some core parts of society and the self which play a crucial role to how people shape up to live. 
 
-* Technology: It's ever-present and evolving. We can't walk two steps without running into something that was a result of technological innovation.
-* Hacking: In my opinion, this is innovation itself. New ways to get around things, new ways to utilize already-existant innovations? It only leads to more progress.
+* Computer Science: It's ever-present and evolving. We can't walk two steps these days without running into something that was a result of technological innovation. In my opinion, this is innovation itself. New ways to get around things, problem solving, new ways to utilize already-existant innovations? Computer Science is at the forefront of much of today's innovation. Not all, but I'm more knowledgeable in Computer Science then, say, Quantum Physics. Therefore, it takes a prominant place on my blog.
+* Society: The place where we live and breathe. This one's pretty self-explanatory.
 * High Existence: It's crucial to keep your mind in it's pique mental state; this is what is meant by High Existence and Mindfulness.
 	* Literature (the category which is not yet a category): Oh how lost we would be without the experiences of others, no matter how old they are, written down for older and newer generations to read.
 	* Mindfulness: *How* exactly do we keep a pique mental state.
