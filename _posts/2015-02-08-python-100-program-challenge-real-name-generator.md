@@ -24,7 +24,7 @@ As kindly pointed out by /u/AngularBeginner on reddit, the first Python 100 Prog
 Sorry about the delay, January was a busy time with school I'm going to try and update this challenge weekly/bi-weekly from now on.
 Part 1: The Concept:
 If you saw the first <a title="Python 100 Program Challenge (Program 1): Building a Simple Name Generator" href="http://liquidthink.net/python-100-program-challenge-program-1-building-simple-name-generator/">Name Generator </a>then you probably already know the basic concept behind this project. This time, however, we won't simply be choosing a name from a lits of already known names. Rather, we will be creating a new name based on other names, therfore 'generating' a totally unique name. AngularBeginners problem was that the first program didn't actually generate a name, which was absolutely true.
-This program will simply ask the user how many names they would like to generate, and then generate that many names based from U.S Census Data (130,000 names). These names from the census data is syllabalized, and these syllables put together, at random, in order to generate a totally new name.
+This program will simply ask the user how many names they would like to generate, and then generate that many names based from U.S Census Data (130,000 names). These names from the census data are syllabalized, and then put together, at random, in order to generate a totally new name.
 So, for example, take 4 names.
 >Andrew
 Bogdan
@@ -100,7 +100,7 @@ Part 3: The Code
 ---
 
 
-First we have to install pyHyphen so we can split names up into syllables. The instructions are in teh comments of the code, but i'll add on to it here.
+First we have to install pyHyphen so we can split names up into syllables. The instructions are in the comments of the code, but i'll add on to it here.
 Numerous guides already exist on installing pip on the internets, so I recommend just googling it.
  
 

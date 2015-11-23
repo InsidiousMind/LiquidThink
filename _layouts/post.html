@@ -26,19 +26,19 @@ layout: post_layout
             </ul>
         </div>
     </div>
-    {% if post.featured_image %}
+    {% if page.featured %}
         <div class="entry-image" style="max-height:none;">
-            <a class="lightbox" rel="bookmark" title="{{post.title}}" href="{{site.cdnurl}}{{post.featured_image}}">
-                <img class="attachment-large wp-post-image" width="500" height="360" data-src="{{site.url}}{{post.featured_image}}" alt="{{post.imgalt}}" src="{{site.url}}{{post.featured_image}}">
+            <a class="lightbox" rel="bookmark" title="{{page.title}}" href="{{site.cdnurl}}{{page.featured}}">
+                <img class="attachment-large wp-post-image" width="500" height="360" data-src="{{site.url}}{{post.featured}}" src="{{site.url}}{{page.featured}}">
             </a>
         </div>
     {% endif %}
-    <div class="entry-container {%if post.featured_image}{%else%}noimg{%endif%}">
+    <div class="entry-container {%if post.featured}{%else%}noimg{%endif%}">
         <div class="entry-content">
             {{content}}
             <p style="text-align:left">
             &copy; {{page.date|date:'%Y'}},
-            <a href="{{site.url}}">{{page.author}}</a>
+            <a href="{{site.url}}/about">{{page.author}}</a>
             All Rights Reserved.
             </p>
             <footer class="entry-meta cleafix">

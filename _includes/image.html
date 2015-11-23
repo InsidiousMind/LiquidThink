@@ -1,0 +1,12 @@
+<div class="image-wrapper">
+{% if include.url %}
+<a class="lightbox" href="{{site.url}}{{ include.url }}" title="{{ include.title }}">
+{% endif %}
+<img src="{{ site.url }}{{ include.img }}" class="{{include.class}}" alt="{{ include.title }}" {%if include.align %} align="{{include.align}}" {% endif %}/>
+{% if include.url %}
+</a>
+{% endif %}
+{% if include.caption %}
+<p class="image-caption" class="{{include.class}}">{{ include.caption }}</p>
+{% endif %}
+</div>

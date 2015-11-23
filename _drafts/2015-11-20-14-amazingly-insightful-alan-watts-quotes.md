@@ -1,9 +1,21 @@
 9 Marvelously Profound Alan Watts Quotes, in Pictures
 ---
+It was cold, but it did not bite. It was also Alan Watt's ideal day. The river ran wild in reprise whilst the sound of the sky churning made for a fusion of sound which engrossed the mind. Watts, an eclectic philosopher from the mid 60's would have enjoyed such a day. As someone who is best known for interpreting and popularizing eastern ideals for a western audience, he would have loved the atmosphere. If he were out, where I sit, right this instant, he may have said in reference to nature that "it all wiggles'. "Everything in nature is wiggly".
+As a speaker he greatly advocated for nature and the universe, whilst protesting contradictory social constructs.
+
+Alan Watts once said:
+>For some reason or other we find wiggly things very difficult to keep track of. And we say to people, 'keep still' 'stay still for the camera'. And we say 'well lets get things straightened out'. 'Lets get this squared away'. And somehow we think we understand things when we have translated them in terms of straight lines and squares. Maybe that's why they call rather rigid people squares. But it doesn't fit nature. You know wherever human beings have been around and done their thing, we find rectangles. We live in boxes. Streets are laid out in a grid pattern. They've even dropped a grid pattern on San-Francisco, so that cars can run away. Because it seems human beings have a rather simple mind, and all this wiggliness is too complicated.
+
+Other than his interesting sense of humor, Watts always made a large emphasis of the difference between human thinking and things of nature, which just *are*.
+
+>Things become complicated when we have to think about it. That's because we are trying to translate them into a form of life that is very much simpler and cruder than the forms of life we are talking about. a triangle is much cruder than a mountain, even though you may represent a mountain with a triangle. Human beings are just as wiggly as nature, and our brains are an incredible mess of wiggles. and we understand that the least.
+
+Maybe you can see, now, that Alan Watts definitely had an interesting perspective of life. As Alan Watts would say, I invite you to look at things through a different perspective.
 
 
-
-- You are something the whole universe is doing, in the same way that a wave is something that the whole ocean is doing. The *real* you **is** the whole universe
+>You are something the whole universe is doing, in the same way that a wave is something that the whole ocean is doing. The *real* you **is** the whole universe
+<a class = "lightbox" src="{{site.url}}uploads/2015/11/21/therealyou.png"><img src="{{site.url}}uploads/2015/11/21/therealyou.png" class="alignright"></a>
+Watts was 
 
 Try to imagine what it will be like to go to sleep and never wake up... now try to imagine what it was like to wake up having never gone to sleep.
 
