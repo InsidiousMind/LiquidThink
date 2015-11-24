@@ -1222,7 +1222,7 @@ footer.entry-meta h4 a{
 .widget-area > div{
   padding: 15px;
   margin-bottom: 30px;
-  position:relative;
+/*  position:relative;*/
 }
 .widget-area > div > form{
   margin: 0;
