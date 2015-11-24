@@ -97,7 +97,7 @@ This is Alan Watts on death. I totally agree with this guy on this. Living forev
 
 - - -
 
-On November 16th, 1976, 7 days before today, Alan Watts died. I hope he continues to serve as an inspiration for anyone who happens upon this article.
+On November 16th, 1973, 7 days before today, Alan Watts died. I hope he continues to serve as an inspiration for anyone who happens upon this article.
 
 On that note, I leave you with one last quote from Alan Watts:
 >"If you awaken from this illusion, and you understand that black implies white, self implies other, life implies death, or shall i say, death implies life, you can *feel* yourself, not as a stranger in the world, not as something on probation, not as something that has arrived hereby fluke, but you can begin to feel your own existence as absolutely fundamental."
