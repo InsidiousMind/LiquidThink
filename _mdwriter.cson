@@ -12,9 +12,9 @@ siteImagesDir: "images/{year}/{month}/{day}/"
 siteUrl: "http://liquidthink.net/"
 # URLs to tags/posts/categories JSON file
 # Wiki: https://github.com/zhuochun/md-writer/wiki/Settings-for-Front-Matters
-urlForTags: "/home/insidious/LiquidThink/_site/tags.json"
-urlForPosts: "/home/insidious/LiquidThink/_site/posts.json"
-urlForCategories: "/home/insidious/LiquidThink/_site/categories.json"
+urlForTags: "http://liquidthink.net/tags.json"
+urlForPosts: "http://liquidthink.net/posts.json"
+urlForCategories: "http://liquidthink.net/categories.json"
 # file extension of posts/drafts
 fileExtension: ".md"
 # whether rename filename based on title in front matter when publishing
