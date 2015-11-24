@@ -63,12 +63,12 @@ We've probably all heard this one before, do what makes you happy. Watts, howeve
 <a class="lightbox" href="{{site.url}}uploads/2015/11/21/lifesagame.png"><img src="{{site.url}}uploads/2015/11/21/lifesagame.png" alt="Life's a Game" class="aligncenter"></img></a>
 
 
-This is my personal favorite quote of Alan Watts. Though, I feel it loses some meaning without further explanation (although it is still quite powerful by itself). During the lecture in which Watts said this, he applied it to the life of a bus driver. As he stated: 
+This is my personal favorite quote of Alan Watts. Though, I feel it loses some meaning without further explanation (although it is still quite powerful by itself). During the lecture in which Watts said this, he applied it to the life of a bus driver. As he stated:
 >"Imagine if you're a bus driver. Ordinarily considered a harassed person, he has to watch out for people, cops, cars. If this is work, it will be hell. Suppose he has this idea where moving the truck through traffic is this very subtle game. He has this feeling about it like playing guitar. So he makes a music of the thing. Well he won't be tired out at the end of the day. He will be full of energy when he's done with his job. Don't make a distinction between work and play. Regard everything that you're doing as play, and don't regard for one minute that you have to be serious about it."
 >
 >-Alan Watts
 
-In our society, we seem to make this divide between working and playing. What's the fun in that? Wouldn't it be better, healthier even, to live life with the same gusto that one would doing something they are intensely passionate and interested in, as a hobby? As Watts said, 
+In our society, we seem to make this divide between working and playing. What's the fun in that? Wouldn't it be better, healthier even, to live life with the same gusto that one would doing something they are intensely passionate and interested in, as a hobby? As Watts said,
 >"You're supposed to work in order to earn enough money to give you sufficient leisure time, for something entirely different called having fun, or play."
 >
 >-Alan Watts
@@ -103,7 +103,3 @@ On that note, I leave you with one last quote from Alan Watts:
 >"If you awaken from this illusion, and you understand that black implies white, self implies other, life implies death, or shall i say, death implies life, you can *feel* yourself, not as a stranger in the world, not as something on probation, not as something that has arrived hereby fluke, but you can begin to feel your own existence as absolutely fundamental."
 >
 >-Alan Watts
-
-
-
-
