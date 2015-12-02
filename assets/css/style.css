@@ -1660,6 +1660,22 @@ footer.entry-meta h4 a{
   font-size: 12px;
   text-align: center;
 }
+.image-wrapper{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+.image-caption{
+    text-align: center;
+    padding-top: 4px;
+    margin: 10px;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    font-size:14px !important;
+    display:block;
+}
 .gallery-item img{
   border: none!important;
   -moz-border-radius: 2px;

@@ -1,8 +1,8 @@
-<div class="image-wrapper">
+<div class="image-wrapper {{include.class}}">
 {% if include.url %}
 <a class="lightbox" href="{{site.url}}{{ include.url }}" title="{{ include.title }}">
 {% endif %}
-<img src="{{ site.url }}{{ include.img }}" class="{{include.class}}" alt="{{ include.title }}" {%if include.align %} align="{{include.align}}" {% endif %}/>
+<img src="{{ site.url }}{{ include.img }}" class="{{include.class}}" alt="{{ include.title }}" {%if include.height %} height="{{include.height}}"{%endif%} {%if include.width %} width="{{include.width}}"{%endif%} {%if include.align %} align="{{include.align}}" {% endif %}/>
 {% if include.url %}
 </a>
 {% endif %}

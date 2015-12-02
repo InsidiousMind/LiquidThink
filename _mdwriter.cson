@@ -18,7 +18,7 @@ urlForCategories: "http://liquidthink.net/categories.json"
 # file extension of posts/drafts
 fileExtension: ".md"
 # whether rename filename based on title in front matter when publishing
-publishRenameBasedOnTitle: false
+publishRenameBasedOnTitle: true
 # filename format of new posts/drafts created
 newPostFileName: "{year}-{month}-{day}-{title}{extension}"
 # front matter template
@@ -27,11 +27,11 @@ frontMatter: """
 layout: <layout>
 title: "<title>"
 date: "<date>"
-author: insidious
+author: "Andrew Plaza"
 ---
 """
 # absolute path to a .cson file that stores links added for automatic linking
-siteLinkPath: "path/to/links.cson"
+# siteLinkPath: "path/to/links.cson"
 # reference tag insert position ("paragraph" or "article")
 referenceInsertPosition: "paragraph"
 # reference tag indent space (0 or 2)
@@ -53,11 +53,11 @@ textStyles:
     regexBefore: "```(?:[\\w- ]+)?\\n"
     regexAfter: "\\n```"
 lineStyles:
-  h1: before: "# "
-  h2: before: "## "
-  h3: before: "### "
-  h4: before: "#### "
-  h5: before: "##### "
+  h1: before: "#"
+  h2: before: "##"
+  h3: before: "###"
+  h4: before: "####"
+  h5: before: "#####"
   ul: before: "- ", regexBefore: "(?:-|\\*|\\d+\\.)\\s"
   ol: before: "0. ", regexBefore: "(?:-|\\*|\\d+\\.)\\s"
   task: before: "- [ ] ", regexBefore: "(?:- \\[ ]|- \\[x]|- \\[X]|-|\\*)\\s"
