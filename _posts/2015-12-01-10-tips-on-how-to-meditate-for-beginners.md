@@ -107,10 +107,11 @@ If you enjoyed this article, or found it helpful, make sure to share it around o
 Happy Meditating :)
 
 Sources:
+
 - [Sara Lazar Harvard Research](https://www.nmr.mgh.harvard.edu/~lazar/publications.html)
 - [The Definition of Mindfulness](http://brainimaging.waisman.wisc.edu/~perlman/0903-EmoPaper/BishopMindfulnessDefinition2004.pdf)
 - [A study of structure of phenomenology of consciousness in meditative and non-meditative states][645e0b1d]
-- [Psychology Today][645e0b1d]
+- [Psychology Today][1b8bfc8e]
 
 
   [d1c3a6f8]: https://www.headspace.com/ "Headspace"
