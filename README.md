@@ -1,7 +1,6 @@
-# LiquidThink
-## My Beautiful Website.
-
 ![Liquid Think logo](uploads/branding/LIQUIDTHINKWEBLOGO.png)
+
+## My Beautiful Website.
 
 This is a website which has been (and is currently in the process) of being moved to Wordpress. And this is the sourcecode.
 
