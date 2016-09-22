@@ -28,7 +28,9 @@ living? How can we live past such difficulty?
 
 It's about thinking liquid. Keeping innovation and our self within the current of our daily lives to live, laugh, and think *better*. 
 
+
 Just Who Am I?
 ---
 
-I'm Andrew Plaza, though I go by insidious, InsidiousMind, StealthTactics, and the old one (that I'm not so fond of anymore) Nubix/Nubix223. Everyone's gone through their stages of  online usernames, haven't they? Well those are mine, for all the internet to gander. I'm currently a student at the University of Scranton majoring in computer science, minoring in writing, with dreams to learn Japanese and study abroad in Japan. In my free time i'm usually found reading, writing, and maybe if I'm lucky, and it's warm enough outside, sailing under a stunning sun.
+I'm Andrew Plaza, though I go by insidious, InsidiousMind, StealthTactics, and the old one (that I'm not so fond of anymore) Nubix/Nubix223. Everyone's gone through their stages of  online usernames, haven't they? Well those are mine, for all the internet to gander. I'm currently a student at University majoring in Computer Science, minoring in writing, with dreams to learn Japanese and study abroad in Japan. In my free time i'm usually found reading, writing, and maybe if I'm lucky, and it's warm enough outside, sailing under a stunning sun.
+
