@@ -1,9 +1,9 @@
 # static engine of your blog ("general", "jekyll", "hexo", "html", "octopress")
 siteEngine: "jekyll"
 # absolute path to the root directory of your blog
-siteLocalDir: "/home/insidious/LiquidThink"
+siteLocalDir: "/home/insi/workspace/personal/blogs/LiquidThink"
 # directory to drafts from the root of siteLocalDir
-siteDraftsDir: "_drafts/"
+siteDraftsDir: "_drafts/_posts/"
 # directory to posts from the root of siteLocalDir
 sitePostsDir: "_posts/"
 # directory to images from the root of siteLocalDir
