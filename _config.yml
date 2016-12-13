@@ -11,10 +11,10 @@ tagline: "Weekly Rantings of a Lunatic"
 email: insidious@liquidthink.net
 description: Weekly Rantings of a Nerdy Lunatic 
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://localhost:4000/" # the base hostname & protocol for your site
-#cdnurl: "http://localhost:4000/"
-url: "http://liquidthink.net/"
-cdnurl: "http://liquid-think.netlify.com/"
+url: "http://localhost:4000/" # the base hostname & protocol for your site
+cdnurl: "http://localhost:4000/"
+#url: "http://liquidthink.net/"
+#cdnurl: "http://liquid-think.netlify.com/"
 permalink: /:title
 author_bio: > # this means to ignore newlines until "owner_name:"
     I fanaticize everything programming, hacking, or Lovecraft (probably a bit too much for my own good). This blog is about all theoretical nerdy-geeky stuff to do with technology, life, and my own experiences.
