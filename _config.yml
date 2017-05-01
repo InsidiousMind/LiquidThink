@@ -17,7 +17,7 @@ url: "http://liquidthink.net/"
 cdnurl: "http://liquid-think.netlify.com/"
 permalink: /:title
 author_bio: > # this means to ignore newlines until "owner_name:"
-    I fanaticize everything programming, hacking, or Lovecraft (probably a bit too much for my own good). This blog is about all theoretical nerdy-geeky stuff to do with technology, life, and my own experiences.
+  Programming is a passion, along with hacking, or Lovecraft (probably a bit too much for my own good). This blog is about all theoretical nerdy-geeky stuff to do with technology, life, and my experiences.
 owner_name: Andrew Plaza
 twitter_username: liquid_think
 github_username:  InsidiousMind
