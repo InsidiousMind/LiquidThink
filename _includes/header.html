@@ -66,20 +66,24 @@
                             </li>
                         {%for nav in site.data.nav %}
                             {%if nav.subcategories != null%}
-                            <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown"> 
+                              <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown"> 
                                 <a href="{{site.url}}{{nav.href}}">
                                     {{nav.title}}
                                     <i class="icon-angle-down"></i>
                                 </a>
                                  <ul class="dropdown-menu">
-                                    {% for subcategory in nav.subcategories%}
+                                  {% for subcategory in nav.subcategories%}
                                   <li class="menu-item menu-item-type-taxonomy menu-item-object-category"> <a href="{{site.url}}{{subcategory.subhref}}">{{subcategory.subtitle}}</a></li>
-                                    {%endfor%}
+                                  {%endfor%}
                                 </ul>
                             </li>
                             {%else%}
-                                <li>
-                                    <a href="{{site.url}}{{nav.href}}">{{nav.title}}</a>
+                              <li>
+                               {% if nav.title == "Code" %}
+                                 <a href="{{nav.href}}" style="color: #66E4FF">{{nav.title}}</a>
+                              {%else%}
+                                <a href="{{site.url}}{{nav.href}}">{{nav.title}}</a>
+                              {%endif%}
                                 </li>
                             {%endif%}
                         {%endfor%}
